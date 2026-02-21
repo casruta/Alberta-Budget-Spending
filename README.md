@@ -1,4 +1,4 @@
-# 📊 Alberta Budget Spending Analysis (2011-12 to 2024-25)
+# wAlberta Budget Spending Analysis (2011-12 to 2024-25)
 
 An in-depth analysis of **14 years** of Alberta provincial operating expenses, extracted from official budget PDFs and normalized into consistent spending categories across three governing parties (PC, NDP, UCP).
 
@@ -6,11 +6,16 @@ An in-depth analysis of **14 years** of Alberta provincial operating expenses, e
 
 ## 🔍 The Key Question
 
-> **Alberta's operating budget grew from $34.2B to $62.0B (+81.5%) in 14 years. But how much of that is _real_ growth, and how much is just population and inflation?**
+Alberta's operating budget grew from $34.2B to $62.0B (+81.5%) in 14 years. 
+But how much of that is real growth, and how much is just population and inflation?
 
-After adjusting for both, real per-capita spending only grew **+3.8%** over the entire period — from **$12,176** to **$12,635** per Albertan (in 2024-25 dollars). That's roughly **$0.27/person/year** of real increase.
+After adjusting for both, real per-capita spending only grew +3.8% over the entire period — from $12,176 to $12,635 per Albertan (in 2024-25 dollars).
 
-### 🧮 How We Got That Number
+After adjusting for both, real per-capita spending only grew **+3.8%** over the entire period, from **$12,176** to **$12,635** per Albertan (in 2024-25 dollars). 
+
+That's roughly **$0.27/person/year** of real increase.
+
+### 🧮 Quick Maths
 
 Starting from the raw inputs extracted from budget PDFs and Statistics Canada:
 
@@ -20,7 +25,7 @@ Starting from the raw inputs extracted from budget PDFs and Statistics Canada:
 | Population (StatsCan, July midyear) | 3,787,705 | 4,909,030 |
 | Alberta CPI (2002=100) | 119.9 | 161.8 |
 
-**Step 1 — Adjust for inflation** (convert to constant 2024-25 dollars using Alberta CPI):
+**Step 1 Inflation Adjustment** Converted to 2024-25 $:
 
 ```
 deflator_2011 = CPI_2024 / CPI_2011 = 161.8 / 119.9 = 1.3494
@@ -29,9 +34,10 @@ Real spending_2011 = $34,175M x 1.3494 = $46,118M
 Real spending_2024 = $62,026M x 1.0    = $62,026M  (already in 2024-25 $)
 ```
 
-In constant dollars, spending grew from **$46.1B to $62.0B** (+34.5%) — not the 81.5% it appears in nominal terms. Inflation alone accounts for a huge chunk of the headline number.
+In constant dollars, spending grew from **$46.1B to $62.0B** (+34.5%) — not the 81.5%. 
+Inflation is a big driver of this growth. 
 
-**Step 2 — Adjust for population** (divide by headcount):
+**Step 2 Adjust for population** :
 
 ```
 Real per-capita_2011 = $46,118M / 3,787,705 = $12,176 per person
@@ -39,6 +45,8 @@ Real per-capita_2024 = $62,026M / 4,909,030 = $12,635 per person
 ```
 
 Alberta added **1.12 million people** over this period — a 29.6% increase. When you spread the budget across all those new Albertans, the per-person figure barely moves.
+
+(In theory, per-capita costs should fall as the population grows.Serving 4.9 million people doesn't cost 29.6% more than serving 3.8 million. Fixed costs — IT systems, administrative overhead, regulatory bodies, capital infrastructure get amortized across a larger population base. A highway built for 3.8 million Albertans doesn't need to be rebuilt for 4.9 million.That's my 2 cents)
 
 **Step 3 — The result:**
 
@@ -57,7 +65,7 @@ Change = ($12,635 / $12,176) - 1 = +3.8%
 
 Nearly all of the headline **$28B spending increase** is explained by there being more Albertans and each dollar buying less. Only ~3.8 percentage points represent a genuine increase in government services per person.
 
-> ⚠️ **Note:** 2024-25 figures are budget estimates. The most recent audited actuals are from 2023-24 ($58.1B, real per-capita $12,401, **+1.8%** vs 2011-12).
+> **Note:** 2024-25 figures are budget estimates. The most recent audited actuals are from 2023-24 ($58.1B, real per-capita $12,401, **+1.8%** vs 2011-12).
 
 ---
 
