@@ -1,0 +1,341 @@
+fiscal_year,ministry_raw,ministry_normalized,operating_expense_millions,source
+2011-12,Culture and Community Services,Other,169,2012-2013 Budget.pdf (page 114)
+2011-12,Health and Wellness,Health,14706,2012-2013 Budget.pdf (page 114)
+2011-12,Human Services,Social Services,2418,2012-2013 Budget.pdf (page 114)
+2011-12,Justice,Other,519,2012-2013 Budget.pdf (page 114)
+2011-12,Municipal Affairs,Other,353,2012-2013 Budget.pdf (page 114)
+2011-12,Seniors,Social Services,2057,2012-2013 Budget.pdf (page 114)
+2011-12,Solicitor General and Public Security,Other,679,2012-2013 Budget.pdf (page 114)
+2011-12,"Tourism, Parks and Recreation",Other,160,2012-2013 Budget.pdf (page 114)
+2011-12,Advanced Education and Technology,Advanced Education,2780,2012-2013 Budget.pdf (page 114)
+2011-12,Education,Education (K-12),5977,2012-2013 Budget.pdf (page 114)
+2011-12,Finance,Other,1129,2012-2013 Budget.pdf (page 114)
+2011-12,Infrastructure,Other,499,2012-2013 Budget.pdf (page 114)
+2011-12,Service Alberta,Other,251,2012-2013 Budget.pdf (page 114)
+2011-12,Transportation,Other,472,2012-2013 Budget.pdf (page 114)
+2011-12,Treasury Board and Enterprise,Other,60,2012-2013 Budget.pdf (page 114)
+2011-12,Agriculture and Rural Development,Other,836,2012-2013 Budget.pdf (page 114)
+2011-12,Energy,Other,340,2012-2013 Budget.pdf (page 114)
+2011-12,Environment and Water,Other,178,2012-2013 Budget.pdf (page 114)
+2011-12,"Intergovernmental, International and Aboriginal Relations",Other,174,2012-2013 Budget.pdf (page 114)
+2011-12,Sustainable Resource Development,Other,265,2012-2013 Budget.pdf (page 114)
+2011-12,Executive Council,Other,30,2012-2013 Budget.pdf (page 114)
+2011-12,Legislative Assembly,Other,123,2012-2013 Budget.pdf (page 114)
+2012-13,Culture and Community Services,Other,174,2012-2013 Budget.pdf (page 114)
+2012-13,Health and Wellness,Health,15864,2012-2013 Budget.pdf (page 114)
+2012-13,Human Services,Social Services,2547,2012-2013 Budget.pdf (page 114)
+2012-13,Justice,Other,531,2012-2013 Budget.pdf (page 114)
+2012-13,Municipal Affairs,Other,369,2012-2013 Budget.pdf (page 114)
+2012-13,Seniors,Social Services,2435,2012-2013 Budget.pdf (page 114)
+2012-13,Solicitor General and Public Security,Other,755,2012-2013 Budget.pdf (page 114)
+2012-13,"Tourism, Parks and Recreation",Other,163,2012-2013 Budget.pdf (page 114)
+2012-13,Advanced Education and Technology,Advanced Education,2856,2012-2013 Budget.pdf (page 114)
+2012-13,Education,Education (K-12),6179,2012-2013 Budget.pdf (page 114)
+2012-13,Finance,Other,1188,2012-2013 Budget.pdf (page 114)
+2012-13,Infrastructure,Other,507,2012-2013 Budget.pdf (page 114)
+2012-13,Service Alberta,Other,266,2012-2013 Budget.pdf (page 114)
+2012-13,Transportation,Other,475,2012-2013 Budget.pdf (page 114)
+2012-13,Treasury Board and Enterprise,Other,65,2012-2013 Budget.pdf (page 114)
+2012-13,Agriculture and Rural Development,Other,945,2012-2013 Budget.pdf (page 114)
+2012-13,Energy,Other,380,2012-2013 Budget.pdf (page 114)
+2012-13,Environment and Water,Other,197,2012-2013 Budget.pdf (page 114)
+2012-13,"Intergovernmental, International and Aboriginal Relations",Other,191,2012-2013 Budget.pdf (page 114)
+2012-13,Sustainable Resource Development,Other,275,2012-2013 Budget.pdf (page 114)
+2012-13,Executive Council,Other,32,2012-2013 Budget.pdf (page 114)
+2012-13,Legislative Assembly,Other,132,2012-2013 Budget.pdf (page 114)
+2013-14,Culture,Other,156,2013-2014 Annual Report.pdf (page 13)
+2013-14,Health,Health,17240,2013-2014 Annual Report.pdf (page 13)
+2013-14,Human Services,Social Services,4226,2013-2014 Annual Report.pdf (page 13)
+2013-14,Justice and Solicitor General,Other,1269,2013-2014 Annual Report.pdf (page 13)
+2013-14,Municipal Affairs,Other,413,2013-2014 Annual Report.pdf (page 13)
+2013-14,"Tourism, Parks and Recreation",Other,162,2013-2014 Annual Report.pdf (page 13)
+2013-14,Education,Education (K-12),6301,2013-2014 Annual Report.pdf (page 13)
+2013-14,Infrastructure,Other,505,2013-2014 Annual Report.pdf (page 13)
+2013-14,Innovation and Advanced Education,Advanced Education,2679,2013-2014 Annual Report.pdf (page 13)
+2013-14,"Jobs, Skills, Training and Labour",Other,134,2013-2014 Annual Report.pdf (page 13)
+2013-14,Service Alberta,Other,236,2013-2014 Annual Report.pdf (page 13)
+2013-14,Transportation,Other,514,2013-2014 Annual Report.pdf (page 13)
+2013-14,Treasury Board and Finance,Other,1556,2013-2014 Annual Report.pdf (page 13)
+2013-14,Aboriginal Relations,Other,163,2013-2014 Annual Report.pdf (page 13)
+2013-14,Agriculture and Rural Development,Other,752,2013-2014 Annual Report.pdf (page 13)
+2013-14,Energy,Other,664,2013-2014 Annual Report.pdf (page 13)
+2013-14,Environment and Sustainable Resource Development,Other,494,2013-2014 Annual Report.pdf (page 13)
+2013-14,International and Intergovernmental Relations,Other,33,2013-2014 Annual Report.pdf (page 13)
+2013-14,Executive Council,Other,44,2013-2014 Annual Report.pdf (page 13)
+2013-14,Legislative Assembly,Other,113,2013-2014 Annual Report.pdf (page 13)
+2014-15,Aboriginal Relations,Other,179,2014-2015 Annual Report.pdf (page 11)
+2014-15,Agriculture and Rural Development,Other,875,2014-2015 Annual Report.pdf (page 11)
+2014-15,Culture and Tourism,Other,283,2014-2015 Annual Report.pdf (page 11)
+2014-15,Education,Education (K-12),6505,2014-2015 Annual Report.pdf (page 11)
+2014-15,Energy,Other,646,2014-2015 Annual Report.pdf (page 11)
+2014-15,Environment and Sustainable Resource Development,Other,593,2014-2015 Annual Report.pdf (page 11)
+2014-15,Executive Council,Other,56,2014-2015 Annual Report.pdf (page 11)
+2014-15,Health,Health,17874,2014-2015 Annual Report.pdf (page 11)
+2014-15,Human Services,Social Services,4112,2014-2015 Annual Report.pdf (page 11)
+2014-15,Infrastructure,Other,507,2014-2015 Annual Report.pdf (page 11)
+2014-15,Innovation and Advanced Education,Advanced Education,2695,2014-2015 Annual Report.pdf (page 11)
+2014-15,"Jobs, Skills, Training and Labour",Other,149,2014-2015 Annual Report.pdf (page 11)
+2014-15,Justice and Solicitor General,Other,1312,2014-2015 Annual Report.pdf (page 11)
+2014-15,Municipal Affairs,Other,237,2014-2015 Annual Report.pdf (page 11)
+2014-15,Seniors,Social Services,573,2014-2015 Annual Report.pdf (page 11)
+2014-15,Service Alberta,Other,225,2014-2015 Annual Report.pdf (page 11)
+2014-15,Transportation,Other,523,2014-2015 Annual Report.pdf (page 11)
+2014-15,Treasury Board and Finance,Other,1481,2014-2015 Annual Report.pdf (page 11)
+2014-15,Legislative Assembly,Other,122,2014-2015 Annual Report.pdf (page 11)
+2015-16,Advanced Education,Advanced Education,5141,2015-2016 Annual Report.pdf
+2015-16,Agriculture and Forestry,Other,989,2015-2016 Annual Report.pdf
+2015-16,Culture and Tourism,Other,289,2015-2016 Annual Report.pdf
+2015-16,Economic Development and Trade,Other,225,2015-2016 Annual Report.pdf
+2015-16,Education,Education (K-12),7553,2015-2016 Annual Report.pdf
+2015-16,Energy,Other,549,2015-2016 Annual Report.pdf
+2015-16,Environment and Parks,Other,386,2015-2016 Annual Report.pdf
+2015-16,Executive Council,Other,24,2015-2016 Annual Report.pdf
+2015-16,Health,Health,18522,2015-2016 Annual Report.pdf
+2015-16,Human Services,Social Services,4261,2015-2016 Annual Report.pdf
+2015-16,Indigenous Relations,Other,178,2015-2016 Annual Report.pdf
+2015-16,Infrastructure,Other,491,2015-2016 Annual Report.pdf
+2015-16,Justice and Solicitor General,Other,1350,2015-2016 Annual Report.pdf
+2015-16,Labour,Other,154,2015-2016 Annual Report.pdf
+2015-16,Municipal Affairs,Other,246,2015-2016 Annual Report.pdf
+2015-16,Seniors and Housing,Social Services,559,2015-2016 Annual Report.pdf
+2015-16,Service Alberta,Other,240,2015-2016 Annual Report.pdf
+2015-16,Status of Women,Other,1,2015-2016 Annual Report.pdf
+2015-16,Transportation,Other,462,2015-2016 Annual Report.pdf
+2015-16,Treasury Board and Finance,Other,1433,2015-2016 Annual Report.pdf
+2015-16,Legislative Assembly,Other,132,2015-2016 Annual Report.pdf
+2016-17,Advanced Education,Advanced Education,5380,2016-2017 Budget.pdf
+2016-17,Agriculture and Forestry,Other,1082,2016-2017 Budget.pdf
+2016-17,Children's Services,Social Services,1182,2016-2017 Budget.pdf
+2016-17,Community and Social Services,Social Services,3354,2016-2017 Budget.pdf
+2016-17,Culture and Tourism,Other,290,2016-2017 Budget.pdf
+2016-17,Economic Development and Trade,Other,266,2016-2017 Budget.pdf
+2016-17,Education,Education (K-12),7794,2016-2017 Budget.pdf
+2016-17,Energy,Other,448,2016-2017 Budget.pdf
+2016-17,Environment and Parks,Other,409,2016-2017 Budget.pdf
+2016-17,Executive Council,Other,26,2016-2017 Budget.pdf
+2016-17,Health,Health,19299,2016-2017 Budget.pdf
+2016-17,Indigenous Relations,Other,176,2016-2017 Budget.pdf
+2016-17,Infrastructure,Other,487,2016-2017 Budget.pdf
+2016-17,Justice and Solicitor General,Other,1417,2016-2017 Budget.pdf
+2016-17,Labour,Other,192,2016-2017 Budget.pdf
+2016-17,Municipal Affairs,Other,240,2016-2017 Budget.pdf
+2016-17,Seniors and Housing,Social Services,586,2016-2017 Budget.pdf
+2016-17,Service Alberta,Other,235,2016-2017 Budget.pdf
+2016-17,Status of Women,Other,7,2016-2017 Budget.pdf
+2016-17,Transportation,Other,464,2016-2017 Budget.pdf
+2016-17,Treasury Board and Finance,Other,1320,2016-2017 Budget.pdf
+2016-17,Legislative Assembly,Other,118,2016-2017 Budget.pdf
+2016-17,Climate Leadership - Energy,Other,1119,2016-2017 Budget.pdf
+2016-17,Climate Leadership - Treasury Board,Other,154,2016-2017 Budget.pdf
+2016-17,Climate Leadership - Other,Other,106,2016-2017 Budget.pdf
+2017-18,Advanced Education,Advanced Education,5548,2017 Budget.pdf
+2017-18,Agriculture and Forestry,Other,977,2017 Budget.pdf
+2017-18,Children's Services,Social Services,1433,2017 Budget.pdf
+2017-18,Community and Social Services,Social Services,3453,2017 Budget.pdf
+2017-18,Culture and Tourism,Other,300,2017 Budget.pdf
+2017-18,Economic Development and Trade,Other,290,2017 Budget.pdf
+2017-18,Education,Education (K-12),7920,2017 Budget.pdf
+2017-18,Energy,Other,456,2017 Budget.pdf
+2017-18,Environment and Parks,Other,448,2017 Budget.pdf
+2017-18,Executive Council,Other,19,2017 Budget.pdf
+2017-18,Health,Health,19769,2017 Budget.pdf
+2017-18,Indigenous Relations,Other,168,2017 Budget.pdf
+2017-18,Infrastructure,Other,500,2017 Budget.pdf
+2017-18,Justice and Solicitor General,Other,1445,2017 Budget.pdf
+2017-18,Labour,Other,193,2017 Budget.pdf
+2017-18,Municipal Affairs,Other,240,2017 Budget.pdf
+2017-18,Seniors and Housing,Social Services,599,2017 Budget.pdf
+2017-18,Service Alberta,Other,260,2017 Budget.pdf
+2017-18,Status of Women,Other,7,2017 Budget.pdf
+2017-18,Transportation,Other,474,2017 Budget.pdf
+2017-18,Treasury Board and Finance,Other,1614,2017 Budget.pdf
+2017-18,Legislative Assembly,Other,117,2017 Budget.pdf
+2017-18,Climate Leadership - Energy,Other,34,2017 Budget.pdf
+2017-18,Climate Leadership - Treasury Board,Other,306,2017 Budget.pdf
+2017-18,Climate Leadership - Other,Other,181,2017 Budget.pdf
+2018-19,Advanced Education,Advanced Education,5392,2018-19 Budget.pdf
+2018-19,Agriculture and Forestry,Other,931,2018-19 Budget.pdf
+2018-19,Children's Services,Social Services,1492,2018-19 Budget.pdf
+2018-19,Community and Social Services,Social Services,3636,2018-19 Budget.pdf
+2018-19,Culture and Tourism,Other,286,2018-19 Budget.pdf
+2018-19,Economic Development and Trade,Other,272,2018-19 Budget.pdf
+2018-19,Education,Education (K-12),8223,2018-19 Budget.pdf
+2018-19,Energy,Other,477,2018-19 Budget.pdf
+2018-19,Environment and Parks,Other,427,2018-19 Budget.pdf
+2018-19,Executive Council,Other,17,2018-19 Budget.pdf
+2018-19,Health,Health,20409,2018-19 Budget.pdf
+2018-19,Indigenous Relations,Other,196,2018-19 Budget.pdf
+2018-19,Infrastructure,Other,489,2018-19 Budget.pdf
+2018-19,Justice and Solicitor General,Other,1452,2018-19 Budget.pdf
+2018-19,Labour,Other,203,2018-19 Budget.pdf
+2018-19,Municipal Affairs,Other,263,2018-19 Budget.pdf
+2018-19,Seniors and Housing,Social Services,631,2018-19 Budget.pdf
+2018-19,Service Alberta,Other,547,2018-19 Budget.pdf
+2018-19,Status of Women,Other,7,2018-19 Budget.pdf
+2018-19,Transportation,Other,442,2018-19 Budget.pdf
+2018-19,Treasury Board and Finance,Other,1672,2018-19 Budget.pdf
+2018-19,Legislative Assembly,Other,136,2018-19 Budget.pdf
+2018-19,Climate Leadership Plan,Other,842,2018-19 Budget.pdf
+2019-20,Advanced Education,Advanced Education,5477,2019-20 Budget.pdf
+2019-20,Agriculture and Forestry,Other,868,2019-20 Budget.pdf
+2019-20,Children's Services,Social Services,1548,2019-20 Budget.pdf
+2019-20,Community and Social Services,Social Services,3965,2019-20 Budget.pdf
+2019-20,"Culture, Multiculturalism and Status of Women",Other,205,2019-20 Budget.pdf
+2019-20,"Economic Development, Trade and Tourism",Other,282,2019-20 Budget.pdf
+2019-20,Education,Education (K-12),8134,2019-20 Budget.pdf
+2019-20,Energy,Other,600,2019-20 Budget.pdf
+2019-20,Environment and Parks,Other,558,2019-20 Budget.pdf
+2019-20,Executive Council,Other,18,2019-20 Budget.pdf
+2019-20,Health,Health,20870,2019-20 Budget.pdf
+2019-20,Indigenous Relations,Other,162,2019-20 Budget.pdf
+2019-20,Infrastructure,Other,457,2019-20 Budget.pdf
+2019-20,Justice and Solicitor General,Other,1442,2019-20 Budget.pdf
+2019-20,Labour and Immigration,Other,196,2019-20 Budget.pdf
+2019-20,Municipal Affairs,Other,244,2019-20 Budget.pdf
+2019-20,Seniors and Housing,Social Services,634,2019-20 Budget.pdf
+2019-20,Service Alberta,Other,494,2019-20 Budget.pdf
+2019-20,Transportation,Other,425,2019-20 Budget.pdf
+2019-20,Treasury Board and Finance,Other,1900,2019-20 Budget.pdf
+2019-20,Legislative Assembly,Other,140,2019-20 Budget.pdf
+2019-20,Crude-by-rail,Other,866,2019-20 Budget.pdf
+2019-20,Community and Social Services,Social Services,60,2019-20 Budget.pdf
+2019-20,Labour and Immigration,Other,114,2019-20 Budget.pdf
+2019-20,COVID-19 Other,Other,44,2019-20 Budget.pdf
+2020-21,Advanced Education,Advanced Education,5132,2020-21 Budget.pdf
+2020-21,Agriculture and Forestry,Other,812,2020-21 Budget.pdf
+2020-21,Children's Services,Social Services,1443,2020-21 Budget.pdf
+2020-21,Community and Social Services,Social Services,3691,2020-21 Budget.pdf
+2020-21,"Culture, Multiculturalism and Status of Women",Other,151,2020-21 Budget.pdf
+2020-21,Education,Education (K-12),7707,2020-21 Budget.pdf
+2020-21,Energy,Other,413,2020-21 Budget.pdf
+2020-21,Environment and Parks,Other,479,2020-21 Budget.pdf
+2020-21,Executive Council,Other,15,2020-21 Budget.pdf
+2020-21,Health,Health,20285,2020-21 Budget.pdf
+2020-21,Indigenous Relations,Other,102,2020-21 Budget.pdf
+2020-21,Infrastructure,Other,446,2020-21 Budget.pdf
+2020-21,"Jobs, Economy and Innovation",Other,257,2020-21 Budget.pdf
+2020-21,Justice and Solicitor General,Other,1434,2020-21 Budget.pdf
+2020-21,Labour and Immigration,Other,183,2020-21 Budget.pdf
+2020-21,Municipal Affairs,Other,191,2020-21 Budget.pdf
+2020-21,Seniors and Housing,Social Services,611,2020-21 Budget.pdf
+2020-21,Service Alberta,Other,486,2020-21 Budget.pdf
+2020-21,Transportation,Other,424,2020-21 Budget.pdf
+2020-21,Treasury Board and Finance,Other,1837,2020-21 Budget.pdf
+2020-21,Legislative Assembly,Other,104,2020-21 Budget.pdf
+2020-21,Crude-by-rail,Other,443,2020-21 Budget.pdf
+2020-21,Health,Health,1093,2020-21 Budget.pdf
+2020-21,"Jobs, Economy and Innovation",Other,765,2020-21 Budget.pdf
+2020-21,Labour and Immigration,Other,433,2020-21 Budget.pdf
+2020-21,Municipal Affairs,Other,621,2020-21 Budget.pdf
+2020-21,COVID-19 Other,Other,1147,2020-21 Budget.pdf
+2021-22,Advanced Education,Advanced Education,5280,2021-22 Budget.pdf
+2021-22,"Agriculture, Forestry and Rural Economic Development",Other,789,2021-22 Budget.pdf
+2021-22,Children's Services,Social Services,1706,2021-22 Budget.pdf
+2021-22,Community and Social Services,Social Services,3714,2021-22 Budget.pdf
+2021-22,Culture and Status of Women,Other,161,2021-22 Budget.pdf
+2021-22,Education,Education (K-12),7846,2021-22 Budget.pdf
+2021-22,Energy,Other,901,2021-22 Budget.pdf
+2021-22,Environment and Parks,Other,519,2021-22 Budget.pdf
+2021-22,Executive Council,Other,14,2021-22 Budget.pdf
+2021-22,Health,Health,21302,2021-22 Budget.pdf
+2021-22,Indigenous Relations,Other,153,2021-22 Budget.pdf
+2021-22,Infrastructure,Other,430,2021-22 Budget.pdf
+2021-22,"Jobs, Economy and Innovation",Other,265,2021-22 Budget.pdf
+2021-22,Justice and Solicitor General,Other,1478,2021-22 Budget.pdf
+2021-22,Labour and Immigration,Other,190,2021-22 Budget.pdf
+2021-22,Municipal Affairs,Other,251,2021-22 Budget.pdf
+2021-22,Seniors and Housing,Social Services,616,2021-22 Budget.pdf
+2021-22,Service Alberta,Other,459,2021-22 Budget.pdf
+2021-22,Transportation,Other,437,2021-22 Budget.pdf
+2021-22,Treasury Board and Finance,Other,2036,2021-22 Budget.pdf
+2021-22,Legislative Assembly,Other,117,2021-22 Budget.pdf
+2021-22,Crude-by-rail,Other,866,2021-22 Budget.pdf
+2021-22,Energy,Other,318,2021-22 Budget.pdf
+2021-22,Health,Health,1528,2021-22 Budget.pdf
+2021-22,"Jobs, Economy and Innovation",Other,240,2021-22 Budget.pdf
+2021-22,Labour and Immigration,Other,224,2021-22 Budget.pdf
+2021-22,COVID-19 Other,Other,502,2021-22 Budget.pdf
+2022-23,Advanced Education,Advanced Education,5501,2022-2023 Budget.pdf
+2022-23,Affordability and Utilities,Other,712,2022-2023 Budget.pdf
+2022-23,Agriculture and Irrigation,Other,685,2022-2023 Budget.pdf
+2022-23,Children's Services,Social Services,2440,2022-2023 Budget.pdf
+2022-23,Culture,Other,162,2022-2023 Budget.pdf
+2022-23,Education,Education (K-12),8308,2022-2023 Budget.pdf
+2022-23,Energy,Other,796,2022-2023 Budget.pdf
+2022-23,Environment and Protected Areas,Other,416,2022-2023 Budget.pdf
+2022-23,Executive Council,Other,28,2022-2023 Budget.pdf
+2022-23,"Forestry, Parks and Tourism",Other,303,2022-2023 Budget.pdf
+2022-23,Health,Health,22516,2022-2023 Budget.pdf
+2022-23,Indigenous Relations,Other,185,2022-2023 Budget.pdf
+2022-23,Infrastructure,Other,431,2022-2023 Budget.pdf
+2022-23,"Jobs, Economy and Northern Development",Other,252,2022-2023 Budget.pdf
+2022-23,Justice,Other,588,2022-2023 Budget.pdf
+2022-23,Mental Health and Addiction,Health,88,2022-2023 Budget.pdf
+2022-23,Municipal Affairs,Other,180,2022-2023 Budget.pdf
+2022-23,Public Safety and Emergency Services,Other,1032,2022-2023 Budget.pdf
+2022-23,"Seniors, Community and Social Services",Social Services,4873,2022-2023 Budget.pdf
+2022-23,Service Alberta and Red Tape Reduction,Other,89,2022-2023 Budget.pdf
+2022-23,Skilled Trades and Professions,Other,155,2022-2023 Budget.pdf
+2022-23,Technology and Innovation,Other,532,2022-2023 Budget.pdf
+2022-23,"Trade, Immigration and Multiculturalism",Other,68,2022-2023 Budget.pdf
+2022-23,Transportation and Economic Corridors,Other,572,2022-2023 Budget.pdf
+2022-23,Treasury Board and Finance,Other,1952,2022-2023 Budget.pdf
+2022-23,Legislative Assembly,Other,128,2022-2023 Budget.pdf
+2022-23,Advanced Education,Advanced Education,60,2022-2023 Budget.pdf
+2022-23,Energy,Other,439,2022-2023 Budget.pdf
+2022-23,Health,Health,922,2022-2023 Budget.pdf
+2022-23,"Jobs, Economy and Northern Development",Other,88,2022-2023 Budget.pdf
+2022-23,Technology and Innovation,Other,127,2022-2023 Budget.pdf
+2022-23,COVID-19 Other,Other,98,2022-2023 Budget.pdf
+2023-24,Advanced Education,Advanced Education,6233,tbf-goa-2023-2024 Budget.pdf
+2023-24,Affordability and Utilities,Other,119,tbf-goa-2023-2024 Budget.pdf
+2023-24,Agriculture and Irrigation,Other,743,tbf-goa-2023-2024 Budget.pdf
+2023-24,"Arts, Culture and Status of Women",Other,132,tbf-goa-2023-2024 Budget.pdf
+2023-24,Children and Family Services,Social Services,1603,tbf-goa-2023-2024 Budget.pdf
+2023-24,Education,Education (K-12),8878,tbf-goa-2023-2024 Budget.pdf
+2023-24,Energy and Minerals,Other,822,tbf-goa-2023-2024 Budget.pdf
+2023-24,Environment and Protected Areas,Other,377,tbf-goa-2023-2024 Budget.pdf
+2023-24,Executive Council,Other,47,tbf-goa-2023-2024 Budget.pdf
+2023-24,Forestry and Parks,Other,285,tbf-goa-2023-2024 Budget.pdf
+2023-24,Health,Health,25165,tbf-goa-2023-2024 Budget.pdf
+2023-24,Immigration and Multiculturalism,Other,39,tbf-goa-2023-2024 Budget.pdf
+2023-24,Indigenous Relations,Other,214,tbf-goa-2023-2024 Budget.pdf
+2023-24,Infrastructure,Other,462,tbf-goa-2023-2024 Budget.pdf
+2023-24,"Jobs, Economy and Trade",Other,1557,tbf-goa-2023-2024 Budget.pdf
+2023-24,Justice,Other,652,tbf-goa-2023-2024 Budget.pdf
+2023-24,Mental Health and Addiction,Health,151,tbf-goa-2023-2024 Budget.pdf
+2023-24,Municipal Affairs,Other,220,tbf-goa-2023-2024 Budget.pdf
+2023-24,Public Safety and Emergency Services,Other,1205,tbf-goa-2023-2024 Budget.pdf
+2023-24,"Seniors, Community and Social Services",Social Services,5284,tbf-goa-2023-2024 Budget.pdf
+2023-24,Service Alberta and Red Tape Reduction,Other,159,tbf-goa-2023-2024 Budget.pdf
+2023-24,Technology and Innovation,Other,723,tbf-goa-2023-2024 Budget.pdf
+2023-24,Tourism and Sport,Other,112,tbf-goa-2023-2024 Budget.pdf
+2023-24,Transportation and Economic Corridors,Other,564,tbf-goa-2023-2024 Budget.pdf
+2023-24,Treasury Board and Finance,Other,2237,tbf-goa-2023-2024 Budget.pdf
+2023-24,Legislative Assembly,Other,160,tbf-goa-2023-2024 Budget.pdf
+2024-25,Advanced Education,Advanced Education,6608,2024-2025 Budget.pdf
+2024-25,Affordability and Utilities,Other,125,2024-2025 Budget.pdf
+2024-25,Agriculture and Irrigation,Other,833,2024-2025 Budget.pdf
+2024-25,"Arts, Culture and Status of Women",Other,140,2024-2025 Budget.pdf
+2024-25,Children and Family Services,Social Services,1515,2024-2025 Budget.pdf
+2024-25,Education,Education (K-12),9288,2024-2025 Budget.pdf
+2024-25,Energy and Minerals,Other,1223,2024-2025 Budget.pdf
+2024-25,Environment and Protected Areas,Other,401,2024-2025 Budget.pdf
+2024-25,Executive Council,Other,57,2024-2025 Budget.pdf
+2024-25,Forestry and Parks,Other,352,2024-2025 Budget.pdf
+2024-25,Health,Health,25669,2024-2025 Budget.pdf
+2024-25,Immigration and Multiculturalism,Other,40,2024-2025 Budget.pdf
+2024-25,Indigenous Relations,Other,222,2024-2025 Budget.pdf
+2024-25,Infrastructure,Other,467,2024-2025 Budget.pdf
+2024-25,"Jobs, Economy and Trade",Other,1856,2024-2025 Budget.pdf
+2024-25,Justice,Other,676,2024-2025 Budget.pdf
+2024-25,Mental Health and Addiction,Health,1597,2024-2025 Budget.pdf
+2024-25,Municipal Affairs,Other,228,2024-2025 Budget.pdf
+2024-25,Public Safety and Emergency Services,Other,1259,2024-2025 Budget.pdf
+2024-25,"Seniors, Community and Social Services",Social Services,5539,2024-2025 Budget.pdf
+2024-25,Service Alberta and Red Tape Reduction,Other,177,2024-2025 Budget.pdf
+2024-25,Technology and Innovation,Other,775,2024-2025 Budget.pdf
+2024-25,Tourism and Sport,Other,124,2024-2025 Budget.pdf
+2024-25,Transportation and Economic Corridors,Other,583,2024-2025 Budget.pdf
+2024-25,Treasury Board and Finance,Other,2128,2024-2025 Budget.pdf
+2024-25,Legislative Assembly,Other,144,2024-2025 Budget.pdf
