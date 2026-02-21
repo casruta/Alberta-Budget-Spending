@@ -1,11 +1,5 @@
 # Alberta Operating Expense Analysis: 2011-12 to 2024-25
 
-**Prepared by:** Kacper Ruta
-**Date:** February 2026
-**Scope:** Government of Alberta — Ministry-level operating expense trends, normalized for population growth and inflation
-
----
-
 ## Executive Summary
 
 This report examines 14 fiscal years of Alberta's operating expenditures (2011-12 through 2024-25), drawing on ministry-level data extracted from official provincial budget documents and supplemented with population and consumer price data from Statistics Canada.
