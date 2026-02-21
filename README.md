@@ -1,4 +1,4 @@
-# Alberta Operating Expense Analysis: Fiscal Years 2011-12 to 2024-25
+# Alberta Operating Expense Analysis: 2011-12 to 2024-25
 
 **Prepared by:** Kacper Ruta
 **Date:** February 2026
