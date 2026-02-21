@@ -1,4 +1,4 @@
-# wAlberta Budget Spending Analysis (2011-12 to 2024-25)
+# Alberta Budget Spending Analysis (2011-12 to 2024-25)
 
 An in-depth analysis of **14 years** of Alberta provincial operating expenses, extracted from official budget PDFs and normalized into consistent spending categories across three governing parties (PC, NDP, UCP).
 
