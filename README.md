@@ -46,7 +46,7 @@ Real per-capita_2024 = $62,026M / 4,909,030 = $12,635 per person
 
 Alberta added **1.12 million people** over this period — a 29.6% increase. When you spread the budget across all those new Albertans, the per-person figure barely moves.
 
-(In theory, per-capita costs should fall as the population grows.Serving 4.9 million people doesn't cost 29.6% more than serving 3.8 million. Fixed costs — IT systems, administrative overhead, regulatory bodies, capital infrastructure get amortized across a larger population base. A highway built for 3.8 million Albertans doesn't need to be rebuilt for 4.9 million.That's my 2 cents)
+(Sidenote: economies of scale aside, Alberta's situation is unique. Around 80% of our operating budget flows to sectors like Health, Education, Advanced Education and Social Services -- labour intensive sectors where productivity gains are much more difficult to achieve than manufacturing or technology. Despite the lack of gains wrt productivity, the wages in these sectors must rise otherwise nurses, doctors, and teachers may flee to other provinces or countries.) 
 
 **Step 3 — The result:**
 
