@@ -10,8 +10,8 @@ import matplotlib.patches as mpatches
 import numpy as np
 
 # ── Paths ────────────────────────────────────────────────────────────────────
-PROJECT = Path(r"C:\Users\Casper Ruta\Desktop\Kacper Ruta 2026\Alberta Budget Analysis")
-PLOTS = PROJECT / "plots"
+PROJECT = Path(__file__).resolve().parent.parent
+PLOTS = Path(__file__).resolve().parent / "plots"
 PLOTS.mkdir(exist_ok=True)
 
 # ── Colour palette ───────────────────────────────────────────────────────────

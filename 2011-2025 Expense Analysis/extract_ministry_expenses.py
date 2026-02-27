@@ -15,7 +15,7 @@ from pathlib import Path
 
 import pandas as pd
 
-PROJECT = Path(r"C:\Users\Casper Ruta\Desktop\Kacper Ruta 2026\Alberta Budget Analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT / "Data"
 DATA_DIR.mkdir(exist_ok=True)
 

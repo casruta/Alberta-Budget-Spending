@@ -11,7 +11,7 @@ Extracts three main tables:
 import csv
 from pathlib import Path
 
-DATA_DIR = Path("Data")
+DATA_DIR = Path(__file__).resolve().parent.parent / "Data"
 DATA_DIR.mkdir(exist_ok=True)
 
 # Column headers for all tables
