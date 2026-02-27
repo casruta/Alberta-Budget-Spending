@@ -1,0 +1,20 @@
+Section,Item,2024-25 Actual,2025-26 Budget,2025-26 Forecast,2026-27 Estimate,2027-28 Target,2028-29 Target
+Revenue,Total revenue,82469,74138,75292,74550,78914,81518
+Expense,Operating expense,62025,64311,67016,70398,72360,74053
+Expense,Operating expense % change,6.7,3.7,8.0,5.0,2.8,2.3
+Expense,Capital grants,2934,3452,3347,3672,3384,2923
+Expense,Amortization / inventory consumption / loss on disposals,4446,4993,4830,4853,4944,5005
+Expense,Taxpayer-supported debt servicing costs,2437,2348,2343,2838,3571,4147
+Expense,Self-supported debt servicing costs,777,620,579,568,651,716
+Expense,Pension provisions,-403,-375,-196,-408,-415,-423
+Expense,Disaster and emergency assistance,1932,0,1506,0,0,0
+Expense,Expense before contingency,74149,75349,79426,81922,84495,86422
+Expense,Contingency (forecast unallocated),0,4000,0,2000,2000,2000
+Expense,Total expense,74149,79349,79426,83922,86495,88422
+Balance,Surplus / (deficit),8320,-5211,-4134,-9373,-7581,-6904
+Balance,Surplus / (deficit) before contingency,8320,-1211,-4134,-7373,-5581,-4904
+Capital Plan,Capital grants,2934,3452,3347,3672,3384,2923
+Capital Plan,Capital investment,4309,5187,5340,6297,6614,5426
+Capital Plan,Total capital plan,7243,8639,8687,9969,9998,8349
+Borrowing,Direct borrowing required,0,7357,6425,16304,14713,13193
+Borrowing,Total taxpayer-supported debt (capital + fiscal plan),85225,82539,92086,108867,123950,137492

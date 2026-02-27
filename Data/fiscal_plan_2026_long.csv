@@ -1,0 +1,397 @@
+Table,Category,Item,Fiscal Year,Value ($ millions)
+Revenue,Income Taxes,Personal income tax,2024-25 Actual,16120
+Revenue,Income Taxes,Personal income tax,2025-26 Budget,15510
+Revenue,Income Taxes,Personal income tax,2025-26 Forecast,14771
+Revenue,Income Taxes,Personal income tax,2026-27 Estimate,15933
+Revenue,Income Taxes,Personal income tax,2027-28 Target,16612
+Revenue,Income Taxes,Personal income tax,2028-29 Target,17741
+Revenue,Income Taxes,Corporate income tax,2024-25 Actual,8125
+Revenue,Income Taxes,Corporate income tax,2025-26 Budget,6764
+Revenue,Income Taxes,Corporate income tax,2025-26 Forecast,7420
+Revenue,Income Taxes,Corporate income tax,2026-27 Estimate,7300
+Revenue,Income Taxes,Corporate income tax,2027-28 Target,7472
+Revenue,Income Taxes,Corporate income tax,2028-29 Target,7615
+Revenue,Income Taxes,Subtotal income taxes,2024-25 Actual,24245
+Revenue,Income Taxes,Subtotal income taxes,2025-26 Budget,22274
+Revenue,Income Taxes,Subtotal income taxes,2025-26 Forecast,22191
+Revenue,Income Taxes,Subtotal income taxes,2026-27 Estimate,23233
+Revenue,Income Taxes,Subtotal income taxes,2027-28 Target,24084
+Revenue,Income Taxes,Subtotal income taxes,2028-29 Target,25356
+Revenue,Other Taxes,Education property tax,2024-25 Actual,2797
+Revenue,Other Taxes,Education property tax,2025-26 Budget,3124
+Revenue,Other Taxes,Education property tax,2025-26 Forecast,3124
+Revenue,Other Taxes,Education property tax,2026-27 Estimate,3592
+Revenue,Other Taxes,Education property tax,2027-28 Target,3792
+Revenue,Other Taxes,Education property tax,2028-29 Target,3848
+Revenue,Other Taxes,Fuel tax / electric vehicle tax,2024-25 Actual,1431
+Revenue,Other Taxes,Fuel tax / electric vehicle tax,2025-26 Budget,1438
+Revenue,Other Taxes,Fuel tax / electric vehicle tax,2025-26 Forecast,1426
+Revenue,Other Taxes,Fuel tax / electric vehicle tax,2026-27 Estimate,1450
+Revenue,Other Taxes,Fuel tax / electric vehicle tax,2027-28 Target,1480
+Revenue,Other Taxes,Fuel tax / electric vehicle tax,2028-29 Target,1512
+Revenue,Other Taxes,Tobacco / vaping tax,2024-25 Actual,414
+Revenue,Other Taxes,Tobacco / vaping tax,2025-26 Budget,420
+Revenue,Other Taxes,Tobacco / vaping tax,2025-26 Forecast,406
+Revenue,Other Taxes,Tobacco / vaping tax,2026-27 Estimate,385
+Revenue,Other Taxes,Tobacco / vaping tax,2027-28 Target,355
+Revenue,Other Taxes,Tobacco / vaping tax,2028-29 Target,325
+Revenue,Other Taxes,Insurance tax,2024-25 Actual,914
+Revenue,Other Taxes,Insurance tax,2025-26 Budget,972
+Revenue,Other Taxes,Insurance tax,2025-26 Forecast,984
+Revenue,Other Taxes,Insurance tax,2026-27 Estimate,1060
+Revenue,Other Taxes,Insurance tax,2027-28 Target,1142
+Revenue,Other Taxes,Insurance tax,2028-29 Target,1232
+Revenue,Other Taxes,Cannabis tax,2024-25 Actual,232
+Revenue,Other Taxes,Cannabis tax,2025-26 Budget,215
+Revenue,Other Taxes,Cannabis tax,2025-26 Forecast,225
+Revenue,Other Taxes,Cannabis tax,2026-27 Estimate,229
+Revenue,Other Taxes,Cannabis tax,2027-28 Target,232
+Revenue,Other Taxes,Cannabis tax,2028-29 Target,236
+Revenue,Other Taxes,Tourism levy,2024-25 Actual,126
+Revenue,Other Taxes,Tourism levy,2025-26 Budget,122
+Revenue,Other Taxes,Tourism levy,2025-26 Forecast,138
+Revenue,Other Taxes,Tourism levy,2026-27 Estimate,200
+Revenue,Other Taxes,Tourism levy,2027-28 Target,207
+Revenue,Other Taxes,Tourism levy,2028-29 Target,214
+Revenue,Other Taxes,Other taxes,2024-25 Actual,197
+Revenue,Other Taxes,Other taxes,2025-26 Budget,272
+Revenue,Other Taxes,Other taxes,2025-26 Forecast,299
+Revenue,Other Taxes,Other taxes,2026-27 Estimate,321
+Revenue,Other Taxes,Other taxes,2027-28 Target,353
+Revenue,Other Taxes,Other taxes,2028-29 Target,453
+Revenue,Other Taxes,Subtotal other taxes,2024-25 Actual,6111
+Revenue,Other Taxes,Subtotal other taxes,2025-26 Budget,6563
+Revenue,Other Taxes,Subtotal other taxes,2025-26 Forecast,6603
+Revenue,Other Taxes,Subtotal other taxes,2026-27 Estimate,7237
+Revenue,Other Taxes,Subtotal other taxes,2027-28 Target,7562
+Revenue,Other Taxes,Subtotal other taxes,2028-29 Target,7821
+Revenue,Tax Revenue,Total tax revenue,2024-25 Actual,30356
+Revenue,Tax Revenue,Total tax revenue,2025-26 Budget,28837
+Revenue,Tax Revenue,Total tax revenue,2025-26 Forecast,28794
+Revenue,Tax Revenue,Total tax revenue,2026-27 Estimate,30470
+Revenue,Tax Revenue,Total tax revenue,2027-28 Target,31646
+Revenue,Tax Revenue,Total tax revenue,2028-29 Target,33177
+Revenue,Resource Revenue,Bitumen royalty,2024-25 Actual,17167
+Revenue,Resource Revenue,Bitumen royalty,2025-26 Budget,12830
+Revenue,Resource Revenue,Bitumen royalty,2025-26 Forecast,12669
+Revenue,Resource Revenue,Bitumen royalty,2026-27 Estimate,9688
+Revenue,Resource Revenue,Bitumen royalty,2027-28 Target,12102
+Revenue,Resource Revenue,Bitumen royalty,2028-29 Target,12765
+Revenue,Resource Revenue,Other non-renewable resource revenue,2024-25 Actual,4819
+Revenue,Resource Revenue,Other non-renewable resource revenue,2025-26 Budget,4237
+Revenue,Resource Revenue,Other non-renewable resource revenue,2025-26 Forecast,3617
+Revenue,Resource Revenue,Other non-renewable resource revenue,2026-27 Estimate,3525
+Revenue,Resource Revenue,Other non-renewable resource revenue,2027-28 Target,4132
+Revenue,Resource Revenue,Other non-renewable resource revenue,2028-29 Target,4126
+Revenue,Resource Revenue,Total non-renewable resource revenue,2024-25 Actual,21986
+Revenue,Resource Revenue,Total non-renewable resource revenue,2025-26 Budget,17067
+Revenue,Resource Revenue,Total non-renewable resource revenue,2025-26 Forecast,16285
+Revenue,Resource Revenue,Total non-renewable resource revenue,2026-27 Estimate,13213
+Revenue,Resource Revenue,Total non-renewable resource revenue,2027-28 Target,16234
+Revenue,Resource Revenue,Total non-renewable resource revenue,2028-29 Target,16892
+Revenue,Federal Transfers,Transfers from Government of Canada,2024-25 Actual,12618
+Revenue,Federal Transfers,Transfers from Government of Canada,2025-26 Budget,13305
+Revenue,Federal Transfers,Transfers from Government of Canada,2025-26 Forecast,13566
+Revenue,Federal Transfers,Transfers from Government of Canada,2026-27 Estimate,13715
+Revenue,Federal Transfers,Transfers from Government of Canada,2027-28 Target,13826
+Revenue,Federal Transfers,Transfers from Government of Canada,2028-29 Target,13839
+Revenue,Investment Income,Investment income,2024-25 Actual,4803
+Revenue,Investment Income,Investment income,2025-26 Budget,2883
+Revenue,Investment Income,Investment income,2025-26 Forecast,4568
+Revenue,Investment Income,Investment income,2026-27 Estimate,4358
+Revenue,Investment Income,Investment income,2027-28 Target,4071
+Revenue,Investment Income,Investment income,2028-29 Target,4052
+Revenue,Other Revenue,Net income from govt. business enterprises,2024-25 Actual,2053
+Revenue,Other Revenue,Net income from govt. business enterprises,2025-26 Budget,2016
+Revenue,Other Revenue,Net income from govt. business enterprises,2025-26 Forecast,2194
+Revenue,Other Revenue,Net income from govt. business enterprises,2026-27 Estimate,2621
+Revenue,Other Revenue,Net income from govt. business enterprises,2027-28 Target,2709
+Revenue,Other Revenue,Net income from govt. business enterprises,2028-29 Target,2759
+Revenue,Other Revenue,"Premiums, fees and licences",2024-25 Actual,5504
+Revenue,Other Revenue,"Premiums, fees and licences",2025-26 Budget,5756
+Revenue,Other Revenue,"Premiums, fees and licences",2025-26 Forecast,5640
+Revenue,Other Revenue,"Premiums, fees and licences",2026-27 Estimate,6000
+Revenue,Other Revenue,"Premiums, fees and licences",2027-28 Target,6170
+Revenue,Other Revenue,"Premiums, fees and licences",2028-29 Target,6424
+Revenue,Other Revenue,Other,2024-25 Actual,5149
+Revenue,Other Revenue,Other,2025-26 Budget,4273
+Revenue,Other Revenue,Other,2025-26 Forecast,4245
+Revenue,Other Revenue,Other,2026-27 Estimate,4173
+Revenue,Other Revenue,Other,2027-28 Target,4259
+Revenue,Other Revenue,Other,2028-29 Target,4376
+Revenue,Total,Total revenue,2024-25 Actual,82469
+Revenue,Total,Total revenue,2025-26 Budget,74138
+Revenue,Total,Total revenue,2025-26 Forecast,75292
+Revenue,Total,Total revenue,2026-27 Estimate,74550
+Revenue,Total,Total revenue,2027-28 Target,78914
+Revenue,Total,Total revenue,2028-29 Target,81518
+Ministry Expense,Operating,Advanced Education,2024-25 Actual,7204
+Ministry Expense,Operating,Advanced Education,2025-26 Budget,7411
+Ministry Expense,Operating,Advanced Education,2025-26 Forecast,7674
+Ministry Expense,Operating,Advanced Education,2026-27 Estimate,7738
+Ministry Expense,Operating,Advanced Education,2027-28 Target,7928
+Ministry Expense,Operating,Advanced Education,2028-29 Target,8088
+Ministry Expense,Operating,Affordability and Utilities,2024-25 Actual,133
+Ministry Expense,Operating,Affordability and Utilities,2025-26 Budget,168
+Ministry Expense,Operating,Affordability and Utilities,2025-26 Forecast,148
+Ministry Expense,Operating,Affordability and Utilities,2026-27 Estimate,153
+Ministry Expense,Operating,Affordability and Utilities,2027-28 Target,153
+Ministry Expense,Operating,Affordability and Utilities,2028-29 Target,153
+Ministry Expense,Operating,Agriculture and Irrigation,2024-25 Actual,1988
+Ministry Expense,Operating,Agriculture and Irrigation,2025-26 Budget,984
+Ministry Expense,Operating,Agriculture and Irrigation,2025-26 Forecast,1704
+Ministry Expense,Operating,Agriculture and Irrigation,2026-27 Estimate,963
+Ministry Expense,Operating,Agriculture and Irrigation,2027-28 Target,906
+Ministry Expense,Operating,Agriculture and Irrigation,2028-29 Target,916
+Ministry Expense,Operating,"Arts, Culture and Status of Women",2024-25 Actual,238
+Ministry Expense,Operating,"Arts, Culture and Status of Women",2025-26 Budget,226
+Ministry Expense,Operating,"Arts, Culture and Status of Women",2025-26 Forecast,223
+Ministry Expense,Operating,"Arts, Culture and Status of Women",2026-27 Estimate,199
+Ministry Expense,Operating,"Arts, Culture and Status of Women",2027-28 Target,218
+Ministry Expense,Operating,"Arts, Culture and Status of Women",2028-29 Target,237
+Ministry Expense,Operating,Assisted Living and Social Services,2024-25 Actual,10282
+Ministry Expense,Operating,Assisted Living and Social Services,2025-26 Budget,11298
+Ministry Expense,Operating,Assisted Living and Social Services,2025-26 Forecast,11540
+Ministry Expense,Operating,Assisted Living and Social Services,2026-27 Estimate,12233
+Ministry Expense,Operating,Assisted Living and Social Services,2027-28 Target,12685
+Ministry Expense,Operating,Assisted Living and Social Services,2028-29 Target,12787
+Ministry Expense,Operating,Children and Family Services,2024-25 Actual,1515
+Ministry Expense,Operating,Children and Family Services,2025-26 Budget,1595
+Ministry Expense,Operating,Children and Family Services,2025-26 Forecast,1621
+Ministry Expense,Operating,Children and Family Services,2026-27 Estimate,1685
+Ministry Expense,Operating,Children and Family Services,2027-28 Target,1695
+Ministry Expense,Operating,Children and Family Services,2028-29 Target,1695
+Ministry Expense,Operating,Education and Childcare,2024-25 Actual,11417
+Ministry Expense,Operating,Education and Childcare,2025-26 Budget,12357
+Ministry Expense,Operating,Education and Childcare,2025-26 Forecast,12471
+Ministry Expense,Operating,Education and Childcare,2026-27 Estimate,13436
+Ministry Expense,Operating,Education and Childcare,2027-28 Target,13369
+Ministry Expense,Operating,Education and Childcare,2028-29 Target,13543
+Ministry Expense,Operating,Energy and Minerals,2024-25 Actual,1400
+Ministry Expense,Operating,Energy and Minerals,2025-26 Budget,1122
+Ministry Expense,Operating,Energy and Minerals,2025-26 Forecast,1028
+Ministry Expense,Operating,Energy and Minerals,2026-27 Estimate,894
+Ministry Expense,Operating,Energy and Minerals,2027-28 Target,968
+Ministry Expense,Operating,Energy and Minerals,2028-29 Target,1031
+Ministry Expense,Operating,Environment and Protected Areas,2024-25 Actual,440
+Ministry Expense,Operating,Environment and Protected Areas,2025-26 Budget,565
+Ministry Expense,Operating,Environment and Protected Areas,2025-26 Forecast,545
+Ministry Expense,Operating,Environment and Protected Areas,2026-27 Estimate,484
+Ministry Expense,Operating,Environment and Protected Areas,2027-28 Target,481
+Ministry Expense,Operating,Environment and Protected Areas,2028-29 Target,493
+Ministry Expense,Operating,Executive Council,2024-25 Actual,84
+Ministry Expense,Operating,Executive Council,2025-26 Budget,96
+Ministry Expense,Operating,Executive Council,2025-26 Forecast,100
+Ministry Expense,Operating,Executive Council,2026-27 Estimate,104
+Ministry Expense,Operating,Executive Council,2027-28 Target,106
+Ministry Expense,Operating,Executive Council,2028-29 Target,106
+Ministry Expense,Operating,Forestry and Parks,2024-25 Actual,1089
+Ministry Expense,Operating,Forestry and Parks,2025-26 Budget,409
+Ministry Expense,Operating,Forestry and Parks,2025-26 Forecast,1182
+Ministry Expense,Operating,Forestry and Parks,2026-27 Estimate,421
+Ministry Expense,Operating,Forestry and Parks,2027-28 Target,416
+Ministry Expense,Operating,Forestry and Parks,2028-29 Target,411
+Ministry Expense,Operating,Hospital and Surgical Health Services,2024-25 Actual,11491
+Ministry Expense,Operating,Hospital and Surgical Health Services,2025-26 Budget,12157
+Ministry Expense,Operating,Hospital and Surgical Health Services,2025-26 Forecast,13002
+Ministry Expense,Operating,Hospital and Surgical Health Services,2026-27 Estimate,13832
+Ministry Expense,Operating,Hospital and Surgical Health Services,2027-28 Target,14601
+Ministry Expense,Operating,Hospital and Surgical Health Services,2028-29 Target,15098
+Ministry Expense,Operating,Indigenous Relations,2024-25 Actual,235
+Ministry Expense,Operating,Indigenous Relations,2025-26 Budget,238
+Ministry Expense,Operating,Indigenous Relations,2025-26 Forecast,256
+Ministry Expense,Operating,Indigenous Relations,2026-27 Estimate,268
+Ministry Expense,Operating,Indigenous Relations,2027-28 Target,268
+Ministry Expense,Operating,Indigenous Relations,2028-29 Target,273
+Ministry Expense,Operating,Infrastructure,2024-25 Actual,690
+Ministry Expense,Operating,Infrastructure,2025-26 Budget,921
+Ministry Expense,Operating,Infrastructure,2025-26 Forecast,907
+Ministry Expense,Operating,Infrastructure,2026-27 Estimate,961
+Ministry Expense,Operating,Infrastructure,2027-28 Target,932
+Ministry Expense,Operating,Infrastructure,2028-29 Target,918
+Ministry Expense,Operating,"Jobs, Economy, Trade and Immigration",2024-25 Actual,364
+Ministry Expense,Operating,"Jobs, Economy, Trade and Immigration",2025-26 Budget,416
+Ministry Expense,Operating,"Jobs, Economy, Trade and Immigration",2025-26 Forecast,460
+Ministry Expense,Operating,"Jobs, Economy, Trade and Immigration",2026-27 Estimate,422
+Ministry Expense,Operating,"Jobs, Economy, Trade and Immigration",2027-28 Target,412
+Ministry Expense,Operating,"Jobs, Economy, Trade and Immigration",2028-29 Target,399
+Ministry Expense,Operating,Justice,2024-25 Actual,690
+Ministry Expense,Operating,Justice,2025-26 Budget,707
+Ministry Expense,Operating,Justice,2025-26 Forecast,751
+Ministry Expense,Operating,Justice,2026-27 Estimate,773
+Ministry Expense,Operating,Justice,2027-28 Target,758
+Ministry Expense,Operating,Justice,2028-29 Target,758
+Ministry Expense,Operating,Mental Health and Addiction,2024-25 Actual,1706
+Ministry Expense,Operating,Mental Health and Addiction,2025-26 Budget,1794
+Ministry Expense,Operating,Mental Health and Addiction,2025-26 Forecast,1876
+Ministry Expense,Operating,Mental Health and Addiction,2026-27 Estimate,2043
+Ministry Expense,Operating,Mental Health and Addiction,2027-28 Target,2089
+Ministry Expense,Operating,Mental Health and Addiction,2028-29 Target,2096
+Ministry Expense,Operating,Municipal Affairs,2024-25 Actual,1287
+Ministry Expense,Operating,Municipal Affairs,2025-26 Budget,1388
+Ministry Expense,Operating,Municipal Affairs,2025-26 Forecast,1404
+Ministry Expense,Operating,Municipal Affairs,2026-27 Estimate,1386
+Ministry Expense,Operating,Municipal Affairs,2027-28 Target,1506
+Ministry Expense,Operating,Municipal Affairs,2028-29 Target,1497
+Ministry Expense,Operating,Primary and Preventative Health Services,2024-25 Actual,11649
+Ministry Expense,Operating,Primary and Preventative Health Services,2025-26 Budget,11182
+Ministry Expense,Operating,Primary and Preventative Health Services,2025-26 Forecast,12244
+Ministry Expense,Operating,Primary and Preventative Health Services,2026-27 Estimate,12653
+Ministry Expense,Operating,Primary and Preventative Health Services,2027-28 Target,13313
+Ministry Expense,Operating,Primary and Preventative Health Services,2028-29 Target,14067
+Ministry Expense,Operating,Public Safety and Emergency Services,2024-25 Actual,1446
+Ministry Expense,Operating,Public Safety and Emergency Services,2025-26 Budget,1350
+Ministry Expense,Operating,Public Safety and Emergency Services,2025-26 Forecast,1449
+Ministry Expense,Operating,Public Safety and Emergency Services,2026-27 Estimate,1509
+Ministry Expense,Operating,Public Safety and Emergency Services,2027-28 Target,1531
+Ministry Expense,Operating,Public Safety and Emergency Services,2028-29 Target,1517
+Ministry Expense,Operating,Service Alberta and Red Tape Reduction,2024-25 Actual,181
+Ministry Expense,Operating,Service Alberta and Red Tape Reduction,2025-26 Budget,186
+Ministry Expense,Operating,Service Alberta and Red Tape Reduction,2025-26 Forecast,196
+Ministry Expense,Operating,Service Alberta and Red Tape Reduction,2026-27 Estimate,206
+Ministry Expense,Operating,Service Alberta and Red Tape Reduction,2027-28 Target,203
+Ministry Expense,Operating,Service Alberta and Red Tape Reduction,2028-29 Target,204
+Ministry Expense,Operating,Technology and Innovation,2024-25 Actual,890
+Ministry Expense,Operating,Technology and Innovation,2025-26 Budget,1010
+Ministry Expense,Operating,Technology and Innovation,2025-26 Forecast,1005
+Ministry Expense,Operating,Technology and Innovation,2026-27 Estimate,1103
+Ministry Expense,Operating,Technology and Innovation,2027-28 Target,908
+Ministry Expense,Operating,Technology and Innovation,2028-29 Target,904
+Ministry Expense,Operating,Tourism and Sport,2024-25 Actual,134
+Ministry Expense,Operating,Tourism and Sport,2025-26 Budget,133
+Ministry Expense,Operating,Tourism and Sport,2025-26 Forecast,135
+Ministry Expense,Operating,Tourism and Sport,2026-27 Estimate,127
+Ministry Expense,Operating,Tourism and Sport,2027-28 Target,136
+Ministry Expense,Operating,Tourism and Sport,2028-29 Target,112
+Ministry Expense,Operating,Transportation and Economic Corridors,2024-25 Actual,2516
+Ministry Expense,Operating,Transportation and Economic Corridors,2025-26 Budget,2681
+Ministry Expense,Operating,Transportation and Economic Corridors,2025-26 Forecast,2532
+Ministry Expense,Operating,Transportation and Economic Corridors,2026-27 Estimate,2998
+Ministry Expense,Operating,Transportation and Economic Corridors,2027-28 Target,2801
+Ministry Expense,Operating,Transportation and Economic Corridors,2028-29 Target,2366
+Ministry Expense,Operating,Treasury Board and Finance,2024-25 Actual,2123
+Ministry Expense,Operating,Treasury Board and Finance,2025-26 Budget,2199
+Ministry Expense,Operating,Treasury Board and Finance,2025-26 Forecast,2073
+Ministry Expense,Operating,Treasury Board and Finance,2026-27 Estimate,2115
+Ministry Expense,Operating,Treasury Board and Finance,2027-28 Target,2090
+Ministry Expense,Operating,Treasury Board and Finance,2028-29 Target,2124
+Ministry Expense,Operating,Legislative Assembly,2024-25 Actual,144
+Ministry Expense,Operating,Legislative Assembly,2025-26 Budget,164
+Ministry Expense,Operating,Legislative Assembly,2025-26 Forecast,172
+Ministry Expense,Operating,Legislative Assembly,2026-27 Estimate,216
+Ministry Expense,Operating,Legislative Assembly,2027-28 Target,218
+Ministry Expense,Operating,Legislative Assembly,2028-29 Target,189
+Fiscal Summary,Revenue,Total revenue,2024-25 Actual,82469
+Fiscal Summary,Revenue,Total revenue,2025-26 Budget,74138
+Fiscal Summary,Revenue,Total revenue,2025-26 Forecast,75292
+Fiscal Summary,Revenue,Total revenue,2026-27 Estimate,74550
+Fiscal Summary,Revenue,Total revenue,2027-28 Target,78914
+Fiscal Summary,Revenue,Total revenue,2028-29 Target,81518
+Fiscal Summary,Expense,Operating expense,2024-25 Actual,62025
+Fiscal Summary,Expense,Operating expense,2025-26 Budget,64311
+Fiscal Summary,Expense,Operating expense,2025-26 Forecast,67016
+Fiscal Summary,Expense,Operating expense,2026-27 Estimate,70398
+Fiscal Summary,Expense,Operating expense,2027-28 Target,72360
+Fiscal Summary,Expense,Operating expense,2028-29 Target,74053
+Fiscal Summary,Expense,Operating expense % change,2024-25 Actual,6.7
+Fiscal Summary,Expense,Operating expense % change,2025-26 Budget,3.7
+Fiscal Summary,Expense,Operating expense % change,2025-26 Forecast,8.0
+Fiscal Summary,Expense,Operating expense % change,2026-27 Estimate,5.0
+Fiscal Summary,Expense,Operating expense % change,2027-28 Target,2.8
+Fiscal Summary,Expense,Operating expense % change,2028-29 Target,2.3
+Fiscal Summary,Expense,Capital grants,2024-25 Actual,2934
+Fiscal Summary,Expense,Capital grants,2025-26 Budget,3452
+Fiscal Summary,Expense,Capital grants,2025-26 Forecast,3347
+Fiscal Summary,Expense,Capital grants,2026-27 Estimate,3672
+Fiscal Summary,Expense,Capital grants,2027-28 Target,3384
+Fiscal Summary,Expense,Capital grants,2028-29 Target,2923
+Fiscal Summary,Expense,Amortization / inventory consumption / loss on disposals,2024-25 Actual,4446
+Fiscal Summary,Expense,Amortization / inventory consumption / loss on disposals,2025-26 Budget,4993
+Fiscal Summary,Expense,Amortization / inventory consumption / loss on disposals,2025-26 Forecast,4830
+Fiscal Summary,Expense,Amortization / inventory consumption / loss on disposals,2026-27 Estimate,4853
+Fiscal Summary,Expense,Amortization / inventory consumption / loss on disposals,2027-28 Target,4944
+Fiscal Summary,Expense,Amortization / inventory consumption / loss on disposals,2028-29 Target,5005
+Fiscal Summary,Expense,Taxpayer-supported debt servicing costs,2024-25 Actual,2437
+Fiscal Summary,Expense,Taxpayer-supported debt servicing costs,2025-26 Budget,2348
+Fiscal Summary,Expense,Taxpayer-supported debt servicing costs,2025-26 Forecast,2343
+Fiscal Summary,Expense,Taxpayer-supported debt servicing costs,2026-27 Estimate,2838
+Fiscal Summary,Expense,Taxpayer-supported debt servicing costs,2027-28 Target,3571
+Fiscal Summary,Expense,Taxpayer-supported debt servicing costs,2028-29 Target,4147
+Fiscal Summary,Expense,Self-supported debt servicing costs,2024-25 Actual,777
+Fiscal Summary,Expense,Self-supported debt servicing costs,2025-26 Budget,620
+Fiscal Summary,Expense,Self-supported debt servicing costs,2025-26 Forecast,579
+Fiscal Summary,Expense,Self-supported debt servicing costs,2026-27 Estimate,568
+Fiscal Summary,Expense,Self-supported debt servicing costs,2027-28 Target,651
+Fiscal Summary,Expense,Self-supported debt servicing costs,2028-29 Target,716
+Fiscal Summary,Expense,Pension provisions,2024-25 Actual,-403
+Fiscal Summary,Expense,Pension provisions,2025-26 Budget,-375
+Fiscal Summary,Expense,Pension provisions,2025-26 Forecast,-196
+Fiscal Summary,Expense,Pension provisions,2026-27 Estimate,-408
+Fiscal Summary,Expense,Pension provisions,2027-28 Target,-415
+Fiscal Summary,Expense,Pension provisions,2028-29 Target,-423
+Fiscal Summary,Expense,Disaster and emergency assistance,2024-25 Actual,1932
+Fiscal Summary,Expense,Disaster and emergency assistance,2025-26 Budget,0
+Fiscal Summary,Expense,Disaster and emergency assistance,2025-26 Forecast,1506
+Fiscal Summary,Expense,Disaster and emergency assistance,2026-27 Estimate,0
+Fiscal Summary,Expense,Disaster and emergency assistance,2027-28 Target,0
+Fiscal Summary,Expense,Disaster and emergency assistance,2028-29 Target,0
+Fiscal Summary,Expense,Expense before contingency,2024-25 Actual,74149
+Fiscal Summary,Expense,Expense before contingency,2025-26 Budget,75349
+Fiscal Summary,Expense,Expense before contingency,2025-26 Forecast,79426
+Fiscal Summary,Expense,Expense before contingency,2026-27 Estimate,81922
+Fiscal Summary,Expense,Expense before contingency,2027-28 Target,84495
+Fiscal Summary,Expense,Expense before contingency,2028-29 Target,86422
+Fiscal Summary,Expense,Contingency (forecast unallocated),2024-25 Actual,0
+Fiscal Summary,Expense,Contingency (forecast unallocated),2025-26 Budget,4000
+Fiscal Summary,Expense,Contingency (forecast unallocated),2025-26 Forecast,0
+Fiscal Summary,Expense,Contingency (forecast unallocated),2026-27 Estimate,2000
+Fiscal Summary,Expense,Contingency (forecast unallocated),2027-28 Target,2000
+Fiscal Summary,Expense,Contingency (forecast unallocated),2028-29 Target,2000
+Fiscal Summary,Expense,Total expense,2024-25 Actual,74149
+Fiscal Summary,Expense,Total expense,2025-26 Budget,79349
+Fiscal Summary,Expense,Total expense,2025-26 Forecast,79426
+Fiscal Summary,Expense,Total expense,2026-27 Estimate,83922
+Fiscal Summary,Expense,Total expense,2027-28 Target,86495
+Fiscal Summary,Expense,Total expense,2028-29 Target,88422
+Fiscal Summary,Balance,Surplus / (deficit),2024-25 Actual,8320
+Fiscal Summary,Balance,Surplus / (deficit),2025-26 Budget,-5211
+Fiscal Summary,Balance,Surplus / (deficit),2025-26 Forecast,-4134
+Fiscal Summary,Balance,Surplus / (deficit),2026-27 Estimate,-9373
+Fiscal Summary,Balance,Surplus / (deficit),2027-28 Target,-7581
+Fiscal Summary,Balance,Surplus / (deficit),2028-29 Target,-6904
+Fiscal Summary,Balance,Surplus / (deficit) before contingency,2024-25 Actual,8320
+Fiscal Summary,Balance,Surplus / (deficit) before contingency,2025-26 Budget,-1211
+Fiscal Summary,Balance,Surplus / (deficit) before contingency,2025-26 Forecast,-4134
+Fiscal Summary,Balance,Surplus / (deficit) before contingency,2026-27 Estimate,-7373
+Fiscal Summary,Balance,Surplus / (deficit) before contingency,2027-28 Target,-5581
+Fiscal Summary,Balance,Surplus / (deficit) before contingency,2028-29 Target,-4904
+Fiscal Summary,Capital Plan,Capital grants,2024-25 Actual,2934
+Fiscal Summary,Capital Plan,Capital grants,2025-26 Budget,3452
+Fiscal Summary,Capital Plan,Capital grants,2025-26 Forecast,3347
+Fiscal Summary,Capital Plan,Capital grants,2026-27 Estimate,3672
+Fiscal Summary,Capital Plan,Capital grants,2027-28 Target,3384
+Fiscal Summary,Capital Plan,Capital grants,2028-29 Target,2923
+Fiscal Summary,Capital Plan,Capital investment,2024-25 Actual,4309
+Fiscal Summary,Capital Plan,Capital investment,2025-26 Budget,5187
+Fiscal Summary,Capital Plan,Capital investment,2025-26 Forecast,5340
+Fiscal Summary,Capital Plan,Capital investment,2026-27 Estimate,6297
+Fiscal Summary,Capital Plan,Capital investment,2027-28 Target,6614
+Fiscal Summary,Capital Plan,Capital investment,2028-29 Target,5426
+Fiscal Summary,Capital Plan,Total capital plan,2024-25 Actual,7243
+Fiscal Summary,Capital Plan,Total capital plan,2025-26 Budget,8639
+Fiscal Summary,Capital Plan,Total capital plan,2025-26 Forecast,8687
+Fiscal Summary,Capital Plan,Total capital plan,2026-27 Estimate,9969
+Fiscal Summary,Capital Plan,Total capital plan,2027-28 Target,9998
+Fiscal Summary,Capital Plan,Total capital plan,2028-29 Target,8349
+Fiscal Summary,Borrowing,Direct borrowing required,2024-25 Actual,0
+Fiscal Summary,Borrowing,Direct borrowing required,2025-26 Budget,7357
+Fiscal Summary,Borrowing,Direct borrowing required,2025-26 Forecast,6425
+Fiscal Summary,Borrowing,Direct borrowing required,2026-27 Estimate,16304
+Fiscal Summary,Borrowing,Direct borrowing required,2027-28 Target,14713
+Fiscal Summary,Borrowing,Direct borrowing required,2028-29 Target,13193
+Fiscal Summary,Borrowing,Total taxpayer-supported debt (capital + fiscal plan),2024-25 Actual,85225
+Fiscal Summary,Borrowing,Total taxpayer-supported debt (capital + fiscal plan),2025-26 Budget,82539
+Fiscal Summary,Borrowing,Total taxpayer-supported debt (capital + fiscal plan),2025-26 Forecast,92086
+Fiscal Summary,Borrowing,Total taxpayer-supported debt (capital + fiscal plan),2026-27 Estimate,108867
+Fiscal Summary,Borrowing,Total taxpayer-supported debt (capital + fiscal plan),2027-28 Target,123950
+Fiscal Summary,Borrowing,Total taxpayer-supported debt (capital + fiscal plan),2028-29 Target,137492
