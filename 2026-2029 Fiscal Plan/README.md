@@ -8,64 +8,15 @@
 
 ## Table of Contents
 
-**Part I: Fiscal Overview**
-1. [Executive Summary](#executive-summary)
-2. [Fiscal Balance Overview](#1-fiscal-balance-overview)
-
-**Part II: Revenue Analysis**
-3. [Revenue Outlook](#2-revenue-outlook)
-   - 2.1 [Revenue Trajectory](#21-revenue-trajectory)
-   - 2.2 [Resource Revenue Risk](#22-resource-revenue-risk)
-   - 2.3 [Revenue Composition Shift](#23-revenue-composition-shift)
-
-**Part III: Expense Analysis**
-4. [Expense Analysis](#3-expense-analysis)
-   - 3.1 [Where the Money Goes](#31-where-the-money-goes)
-   - 3.2 [Biggest Spending Changes](#32-biggest-spending-changes)
-   - 3.3 [Spending by Policy Area](#33-spending-by-policy-area)
-   - 3.4 [Health Spending Deep Dive](#34-health-spending-deep-dive)
-
-**Part IV: Fiscal Gap and Debt**
-5. [Revenue vs. Expense Gap](#4-revenue-vs-expense-gap)
-6. [Debt and Fiscal Sustainability](#5-debt-and-fiscal-sustainability)
-   - 5.1 [Cumulative Deficit and Borrowing](#51-cumulative-deficit-and-borrowing)
-   - 5.2 [Debt Trajectory](#52-debt-trajectory)
-   - 5.3 [Debt Servicing Cost Escalation](#53-debt-servicing-cost-escalation)
-
-**Part V: Macroeconomic Context**
-7. [Macroeconomic Environment](#6-macroeconomic-environment)
-   - 6.1 [Oil Price Outlook and Fiscal Sensitivity](#61-oil-price-outlook-and-fiscal-sensitivity)
-   - 6.2 [Energy Transition Risks](#62-energy-transition-risks)
-   - 6.3 [Population and Demographic Pressures](#63-population-and-demographic-pressures)
-   - 6.4 [Interest Rate Environment and Debt Cost Sensitivity](#64-interest-rate-environment-and-debt-cost-sensitivity)
-
-**Part VI: Comparative Analysis**
-8. [Interprovincial Fiscal Comparison](#7-interprovincial-fiscal-comparison)
-   - 7.1 [Revenue Structure Comparison](#71-revenue-structure-comparison)
-   - 7.2 [Per-Capita Spending and Debt Metrics](#72-per-capita-spending-and-debt-metrics)
-   - 7.3 [Credit Ratings and Fiscal Position](#73-credit-ratings-and-fiscal-position)
-   - 7.4 [Historical Context: Alberta's Fiscal Crises](#74-historical-context-albertas-fiscal-crises)
-
-**Part VII: Revenue Diversification Options**
-9. [Revenue Diversification Analysis](#8-revenue-diversification-analysis)
-   - 8.1 [The Provincial Sales Tax Question](#81-the-provincial-sales-tax-question)
-   - 8.2 [Corporate and Personal Income Tax Reform](#82-corporate-and-personal-income-tax-reform)
-   - 8.3 [Other Revenue Instruments](#83-other-revenue-instruments)
-   - 8.4 [Heritage Savings Trust Fund Reform](#84-heritage-savings-trust-fund-reform)
-   - 8.5 [International Lessons: Norway, Alaska, Texas, Western Australia](#85-international-lessons-norway-alaska-texas-western-australia)
-   - 8.6 [Illustrative Revenue Packages](#86-illustrative-revenue-packages)
-
-**Part VIII: Expenditure Efficiency**
-10. [Expenditure Efficiency and Fiscal Frameworks](#9-expenditure-efficiency-and-fiscal-frameworks)
-   - 9.1 [Healthcare Spending Efficiency](#91-healthcare-spending-efficiency)
-   - 9.2 [Public Sector Compensation](#92-public-sector-compensation)
-   - 9.3 [Past Expenditure Reviews and Their Outcomes](#93-past-expenditure-reviews-and-their-outcomes)
-   - 9.4 [Fiscal Rules and Institutional Gaps](#94-fiscal-rules-and-institutional-gaps)
-
-**Part IX: Conclusions**
-11. [Key Findings and Policy Implications](#10-key-findings-and-policy-implications)
-12. [Methodology and Sources](#11-methodology-and-sources)
-13. [List of Figures](#list-of-figures)
+1. [**Part I:** Fiscal Overview](#part-i-fiscal-overview)
+2. [**Part II:** Revenue Analysis](#2-revenue-outlook)
+3. [**Part III:** Expense Analysis](#3-expense-analysis)
+4. [**Part IV:** Fiscal Gap and Debt](#4-revenue-vs-expense-gap)
+5. [**Part V:** Macroeconomic Context](#6-macroeconomic-environment)
+6. [**Part VI:** Comparative Analysis](#7-interprovincial-fiscal-comparison)
+7. [**Part VII:** Revenue Diversification Options](#8-revenue-diversification-analysis)
+8. [**Part VIII:** Expenditure Efficiency](#9-expenditure-efficiency-and-fiscal-frameworks)
+9. [**Part IX:** Conclusions](#10-key-findings-and-policy-implications)
 
 ---
 
