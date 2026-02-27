@@ -1,3 +1,7 @@
+> **New:** [Alberta Fiscal Plan 2026-2029: Revenue and Expense Analysis](2026-2029%20Fiscal%20Plan/) — A comprehensive analysis of the 2026-2029 budget, featuring 15 charts covering revenue decline, expenditure growth, structural deficits, and debt trajectory.
+
+---
+
 # Alberta Operating Expense Analysis: Fiscal Years 2011-12 to 2024-25
 
 **Prepared by:** Kacper Ruta
