@@ -57,10 +57,10 @@
 
 **Part VIII: Expenditure Efficiency**
 10. [Expenditure Efficiency and Fiscal Frameworks](#9-expenditure-efficiency-and-fiscal-frameworks)
-    - 9.1 [Healthcare Spending Efficiency](#91-healthcare-spending-efficiency)
-    - 9.2 [Public Sector Compensation](#92-public-sector-compensation)
-    - 9.3 [Past Expenditure Reviews and Their Outcomes](#93-past-expenditure-reviews-and-their-outcomes)
-    - 9.4 [Fiscal Rules and Institutional Gaps](#94-fiscal-rules-and-institutional-gaps)
+   - 9.1 [Healthcare Spending Efficiency](#91-healthcare-spending-efficiency)
+   - 9.2 [Public Sector Compensation](#92-public-sector-compensation)
+   - 9.3 [Past Expenditure Reviews and Their Outcomes](#93-past-expenditure-reviews-and-their-outcomes)
+   - 9.4 [Fiscal Rules and Institutional Gaps](#94-fiscal-rules-and-institutional-gaps)
 
 **Part IX: Conclusions**
 11. [Key Findings and Policy Implications](#10-key-findings-and-policy-implications)
