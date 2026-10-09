@@ -1,0 +1,132 @@
+"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Low income statistics by age, gender and economic family type","11100135","206-0041","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013501",1;2;3;13;18;22,"CURRENT - a cube available to the public and that is current","Annual","1976-01-01","2024-01-01","4",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Persons in low income",,""
+"3","Low income lines",,""
+"4","Statistics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",16,
+"1","Atlantic provinces","[1]","2","1","",,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","4","2","",,
+"1","Nova Scotia","[12]","5","2","",,
+"1","New Brunswick","[13]","6","2","",,
+"1","Quebec","[24]","7","1","",,
+"1","Ontario","[35]","8","1","",,
+"1","Prairie provinces","[4]","9","1","",,
+"1","Manitoba","[46]","10","9","",,
+"1","Saskatchewan","[47]","11","9","",,
+"1","Alberta","[48]","12","9","",,
+"1","British Columbia","[59]","13","1","",,
+"1","Territories","[6]","22","1","",,
+"1","Yukon","[60]","23","22","",,
+"1","Northwest Territories","[61]","24","22","",,
+"1","Nunavut","[62]","25","22","",,
+"1","Québec, Quebec","[421]","14","1","",,
+"1","Montréal, Quebec","[462]","15","1","",,
+"1","Ottawa-Gatineau, Ontario/Quebec","[505]","16","1","",,
+"1","Toronto, Ontario","[535]","17","1","",,
+"1","Winnipeg, Manitoba","[602]","18","1","",,
+"1","Calgary, Alberta","[825]","19","1","",,
+"1","Edmonton, Alberta","[835]","20","1","",,
+"1","Vancouver, British Columbia","[933]","21","1","",,
+"2","All persons","","1","","",,
+"2","Persons under 18 years","","2","1","",,
+"2","Persons 18 to 64 years","","3","1","",,
+"2","Persons 65 years and over","","4","1","",,
+"2","Men+","","5","","",19;20,
+"2","Men+, under 18 years","","6","5","",19;20,
+"2","Men+, 18 to 64 years","","7","5","",19;20,
+"2","Men+, 65 years and over","","8","5","",19;20,
+"2","Women+","","9","","",19;20,
+"2","Women+, under 18 years","","10","9","",19;20,
+"2","Women+, 18 to 64 years","","11","9","",19;20,
+"2","Women+, 65 years and over","","12","9","",19;20,
+"2","Persons in economic families","","13","","",4,
+"2","Men+ in economic families","","14","13","",19;20,
+"2","Women+ in economic families","","15","13","",19;20,
+"2","Seniors in economic families","","16","13","",5,
+"2","Senior men+ in economic families","","17","16","",5;19;20,
+"2","Senior women+ in economic families","","18","16","",5;19;20,
+"2","Persons under 18 years in economic families","","19","13","",,
+"2","Persons under 18 years in couple families with children","","20","19","",14,
+"2","Persons under 18 years in one-parent families where the parent is a woman+","","21","19","",17;19;20,
+"2","Persons under 18 years in all other economic families","","22","19","",6,
+"2","Persons 18 to 64 years in economic families","","23","13","",,
+"2","Men+ 18 to 64 years in economic families","","24","23","",19;20,
+"2","Women+ 18 to 64 years in economic families","","25","23","",19;20,
+"2","Persons not in an economic family","","26","","",,
+"2","Men+ not in an economic family","","27","26","",19;20,
+"2","Women+ not in an economic family","","28","26","",19;20,
+"2","Seniors not in an economic family","","29","26","",5,
+"2","Senior men+ not in an economic family","","30","29","",5;19;20,
+"2","Senior women+ not in an economic family","","31","29","",5;19;20,
+"2","Non-seniors not in an economic family","","32","26","",7,
+"2","Non-senior men+ not in an economic family","","33","32","",7;19;20,
+"2","Non-senior women+ not in an economic family","","34","32","",7;19;20,
+"3","Low income measure after tax","","1","","",8,
+"3","Low income cut-offs after tax, 1992 base","","2","","",9,
+"3","Low income cut-offs before tax, 1992 base","","3","","",10,
+"3","Market basket measure, 2023 base","","7","","",15;21,
+"3","Market basket measure, 2018 base","","6","","",11,
+"3","Market basket measure, 2008 base","","4","","",11,
+"3","Market basket measure, 2000 base","","5","","",11,
+"4","Number of persons in low income","","1","","",,
+"4","Percentage of persons in low income","","2","","",,
+"4","Average gap ratio","","3","","",12,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3502","Survey of Consumer Finances"
+"3889","Survey of Labour and Income Dynamics"
+"5200","Canadian Income Survey"
+
+"Subject Code","Subject Name"
+"11","Income, pensions, spending and wealth"
+
+"Note ID",Note
+1,"Source: Centre for Housing and Income Statistics, Statistics Canada."
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (CV between 16% and 33.3%)."
+3,"Estimates are based on data from the following surveys: the Survey of Consumer Finances (SCF) from 1976 to 1992, a combination of the SCF and the Survey of Labour and Income Dynamics (SLID) from 1993 to 1997, the SLID from 1998 to 2011 and the Canadian Income Survey (CIS) beginning in 2012. For more information, see Statistics Canada, 2015, "Revisions to 2006 to 2011 income data", Income Research Paper Series, Cat. no. 75F0002MIE - No. 003. Also, two previous revisions of income data are described in Cotton, Cathy, 2000, "Bridging Two Surveys: An Integrated Series of Income Data from SCF and SLID 1989-1997", Statistics Canada, Cat. No. 75F0002MIE - No. 002, and Lathe, Heather, 2005, "Survey of Labour and Income Dynamics: 2003 Historical Revision", Statistics Canada, Cat. No. 75F0002MIE - No. 009."
+4,"An economic family refers to a group of two or more persons who live in the same dwelling and are related to each other by blood, marriage, common-law, adoption or a foster relationship."
+5,"A "senior" is a person 65 years or older."
+6,"Also includes persons under 18 years of age in senior families."
+7,"A "non-senior" is a person less than 65 years old."
+8,"Low income measures (LIMs), are relative measures of low income, set at 50% of adjusted median household income. These measures are categorized according to the number of persons present in the household, reflecting the economies of scale inherent in household size."
+9,"The low income cut-offs after tax (LICO-AT) are income thresholds below which a family will likely devote a larger share of its after-tax income on the necessities of food, shelter and clothing than the average family. The approach is essentially to estimate an income threshold at which families are expected to spend 20 percentage points more than the average family on food, shelter and clothing, based on the 1992 Family Expenditures Survey. LICOs are calculated in this manner for seven family sizes and five community sizes."
+10,"The low income cut-offs before tax (LICO-BT) are income thresholds below which a family will likely devote a larger share of its before-tax income on the necessities of food, shelter and clothing than the average family. The approach is essentially to estimate an income threshold at which families are expected to spend 20 percentage points more than the average family on food, shelter and clothing, based on the 1992 Family Expenditures Survey. LICOs are calculated in this manner for seven family sizes and five community sizes."
+11,"The Market Basket Measure (MBM) is based on the cost of a specific basket of goods and services representing a modest, basic standard of living. It includes the costs of food, clothing, shelter, transportation and other items for a reference family. These costs are compared to the disposable income of families to determine whether or not they fall below the poverty line."
+12,"The gap ratio is the difference between the low income threshold and the family (or household) income, expressed as a percentage of the low income threshold. For those with negative income, the gap ratio is set to 100. As a measure of depth of low income, the statistic takes the form of the average of the gap ratio calculated over the population of individuals below the income line."
+13,"Income estimates from the Survey of Consumer Finances and the Canadian Income Survey for the 2022 reference year and onwards include income for persons aged 15 years and over. Income estimates from the Survey of Labour and Income Dynamics and the Canadian Income Survey for reference years prior to 2022 include income data for persons aged 16 years and over."
+14,"Children under 18 in families where the major income earner is less than 65 years old and part of a couple with at least one child (natural, adopted, step, or foster) under 18 years of age. Other relatives may also be in the family."
+15,"For more information on the 2023-base Market Basket Measure, please consult the document <a href="https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2025003-eng.htm" rel="external noopener noreferrer" target="_blank"> The proposed methodology for the 2023-base Market Basket Measure of poverty (opens new window)</a>."
+16,"Estimates for Canada do not include the territories prior to 2018."
+17,"Children under 18 in families where the major income earner is a woman+ less than 65 years old who is not part of a couple and has at least one child (natural, adopted, step, or foster) under 18 years of age. Other relatives may also be part of the family."
+18,"In recent years, the Canadian Income Survey (CIS) has introduced improvements to the methods and sources used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. CIS estimates for previous years were produced using T1 tax returns only. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2021 Reference Year (opens new window)</a> for more information. More improvements were introduced with the 2022 reference year. Foremost among these improvements is a significant increase in the sample size for a large subset of the CIS content. The weighting methodology was also improved and the target population for income data was changed from persons aged 16 years and over to persons aged 15 years and over. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+19,"This category is based on gender which refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Some people may not identify with a specific gender and a person's gender may change over time. Gender includes the following concepts: gender identity, which refers to the gender that a person feels internally and individually; gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (for example, clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender. A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's license. Gender is the concept used in the CIS beginning with the 2021 reference year. Prior to 2021, only information on the sex of the person (male or female) as declared by the respondent or recorded by the interviewer was collected. The sex variable prior to 2021 and the two-category gender variable since 2021 are combined in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations."
+20,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary to protect the confidentiality of responses provided. Individuals in the category "non-binary persons" are distributed into the other two gender categories and are denoted by the "+" symbol. The category "Men+" includes men, as well as some non-binary persons, while the category "Women+" includes women, as well as some non-binary persons."
+21,"The Market Basket Measure (MBM) is based on the cost of a specific basket of goods and services representing a modest, basic standard of living. It includes the costs of food, clothing, shelter, transportation, communication services and other items for a reference family. These costs are compared to the disposable income of families to determine whether or not they fall below the poverty line."
+22,"The Canadian Income Survey (CIS) periodically revises its estimates to incorporate data from the most recent Census of Population to ensure the continued accuracy and quality of income statistics. With the release of the 2024 CIS data, Statistics Canada revised estimates from 2018 to 2023 based on population counts from the 2021 Census."
+
+"Correction ID","Correction Date","Correction Note"
+"1232","2020-02-24","On February 24, 2020, estimates of Quebec and Canada after-tax income for 2017 were corrected, leading to a revison of the low income measure (LIM) after-tax thresholds for 2017.  As a result, LIM estimates were revised for all geographies, while Market Basket Measure (MBM) and after-tax low income cut-off (LICO) estimates were revised for Quebec, Canada and Quebec census metropolitan areas.",
+

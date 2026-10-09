@@ -1,0 +1,36 @@
+{
+  "source_file": "Budget PDFs/2024-2025 Budget.pdf",
+  "source_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+  "source_pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "2024-25 Final Results - Year-end Report",
+    "author": "Government of Alberta - Treasury Board and Finance",
+    "subject": "2024-25 Final Results - Year-end Report",
+    "keywords": "",
+    "creator": "Adobe InDesign 20.3 (Macintosh)",
+    "producer": "Adobe PDF Library 17.0",
+    "creationDate": "D:20250625131347-06'00'",
+    "modDate": "D:20250626173952-06'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "source_reconciliation_anomalies": [
+    {
+      "fiscal_year": "2022-23",
+      "program_component_residual_million": -6.0
+    }
+  ],
+  "source_landing_url": "https://www.alberta.ca/government-and-ministry-annual-reports",
+  "original_online_pdf_url": "Unverified; local supplied source used",
+  "fiscal_actual_cutoff": "2025-03-31",
+  "financial_historical_page": 14,
+  "economic_page": 13,
+  "accounting_snapshot_page": 3,
+  "ministry_snapshot_page": 7,
+  "functional_observations": 10,
+  "ministry_sum_rounding_residuals": {
+    "budget_2024_25_million": 0.0,
+    "actual_2024_25_million": 1.0,
+    "actual_2023_24_million": -1.0
+  }
+}

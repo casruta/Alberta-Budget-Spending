@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01_spending_intensity",
+    "png": "figures/01_spending_intensity.png",
+    "svg": "figures/01_spending_intensity.svg",
+    "alt": "Two line charts index expenses to 2018\u201319=100. By2024\u201325 nominal health,education andsocial spending rose; CPI-adjusted per-resident health is98.6,education84.7,social105.4,totalprogram95.7.",
+    "source": "Source:2024\u201325 Final Results PDF pp 13\u201314. Accounting breaks; July population and calendar CPI proxies.\nInput intensity, not service volume or quality; functions are not operating-only."
+  },
+  {
+    "id": "02_allocation_change",
+    "png": "figures/02_allocation_change.png",
+    "svg": "figures/02_allocation_change.svg",
+    "alt": "Horizontal bars show CPI-adjusted expense per resident:health\u22121.4%,basic/advancededucation\u221215.3%,socialservices+5.4%,totalprograms\u22124.3%.",
+    "source": "Source: Final Results pp 13\u201314; same-vintage actuals. Education combines basic and advanced education.\nTotal residents are not students or patients; CPI is not a sector cost index; accounting changes apply."
+  },
+  {
+    "id": "03_pay_and_unemployment",
+    "png": "figures/03_pay_and_unemployment.png",
+    "svg": "figures/03_pay_and_unemployment.svg",
+    "alt": "Averageweeklyearnings1148CAD2018\u21921328CAD2024 rose15.7%nominally butfell3.7%CPI-adjusted. Unemployment6.5%2018\u21927.0%2024;2020peak11.4%.",
+    "source": "Source: Final Results PDF p 13, calendar-year rows. Earnings depend on employment mix/hours.\nNot median after-tax household income, poverty or household-specific affordability; no causal attribution."
+  },
+  {
+    "id": "04_safety",
+    "png": "figures/04_safety.png",
+    "svg": "figures/04_safety.svg",
+    "alt": "Separate charts show2019\u20132023violentcrimeAlberta1462\u21921591incidents/100000(+8.8%);property5894\u21924752(\u221219.4%). Ruralratesexceedurban for both. Eachchart hasindependent yscale.",
+    "source": "Source: PSES 2024\u201325 annual report PDF p 28 (printed 26), method p 44. Data end 2023; revised.\nPolice-reported incidents, not all victimization or perceived safety. Independent y scales; no causal attribution."
+  },
+  {
+    "id": "05_completion",
+    "png": "figures/05_completion.png",
+    "svg": "figures/05_completion.svg",
+    "alt": "Fiveyearcompletionoverall86.2%2019\u201320\u219287.1%2023\u201324 after88.6%peak. FNMI68.1\u219269.7%. Latesttargets88.8overall/71.5FNMI bothmissed. OverallincludesFNMI.",
+    "source": "Source: Education 2024\u201325 annual PDF pp 25,43; method pp 89\u201390. One-year reporting lag.\nCOVID exam/mark changes affect cohorts; overall includes FNMI and is not a non-FNMI comparison."
+  },
+  {
+    "id": "06_grade9",
+    "png": "figures/06_grade9.png",
+    "svg": "figures/06_grade9.svg",
+    "alt": "Grade9acceptable-standard languagearts69.4\u219269.7%andmathematics53.1\u219251.7%2021\u201322to2024\u201325. Latesttargets72.0/55.3missed; participationchanged.",
+    "source": "Source: Education 2024\u201325 Annual Report Update PDF pp 5\u20137,18\u201319. Weighted/enrolment-based outcomes.\n2020\u201321 missing (COVID); security/wildfire disruptions; changing participation; Grade 6 curriculum break."
+  },
+  {
+    "id": "07_mental_health",
+    "png": "figures/07_mental_health.png",
+    "svg": "figures/07_mental_health.svg",
+    "alt": "Eligiblefirstmental-health/addictionEDvisitswithoutpriorpublicservicecontact20.7%2019\u201320\u219219.7%2023\u201324;upfrom19.5prior year and above17.9matchedtarget. Lowerpreferred;not recovery.",
+    "source": "Source: Mental Health and Addiction 2024\u201325 annual PDF pp 35\u201336 (printed 33\u201334). Up to 10-month lag.\nEligibility/PHN exclusions; first visit/person/year. Prior contact measure, not recovery or all ED demand."
+  },
+  {
+    "id": "08_emergency_and_imaging",
+    "png": "figures/08_emergency_and_imaging.png",
+    "svg": "figures/08_emergency_and_imaging.svg",
+    "alt": "ED90thpercentilewait4.5hours2021\u201322\u21927.0hours2024\u201325at16largest sites. MRIwithinprioritytargets68\u219241%;CT87\u219280%. EDlatestworse than6.7hourpriorresult/target.",
+    "source": "Source: Health 2024\u201325 annual PDF pp 23,30. ED 2021\u201322/2022\u201323 revised; excludes left without being seen.\nED is neither average nor province-wide; MRI/CT denominators and clinical priorities differ; source-method issue retained."
+  },
+  {
+    "id": "09_surgery_and_ems",
+    "png": "figures/09_surgery_and_ems.png",
+    "svg": "figures/09_surgery_and_ems.svg",
+    "alt": "Hip/knee/cataractshareswithinbenchmarks2023\u201324\u21922024\u201325improved62.4\u219272.8%,53.3\u219262.5%,59.7\u219262.8%. EMS90thpercentilemetro13.8\u219214.2minworse;rural33.3\u219229.2andremote64.9\u219252improved.",
+    "source": "Source: Health 2024\u201325 annual PDF pp 24,26. Surgery excludes emergency procedures; completed-case denominator.\nEMS urgent Delta/Echo calls; higher-acuity Echo priority; regions differ. Pandemic baseline; no causal attribution."
+  },
+  {
+    "id": "10_housing_support",
+    "png": "figures/10_housing_support.png",
+    "svg": "figures/10_housing_support.svg",
+    "alt": "Combined new affordable units and additional rent-supported households2243,2325,2302,798 FY2021\u201322to2024\u201325. Latest798below1500target;not798newhomes or netstock.",
+    "source": "Source: SCSS 2024\u201325 annual PDF p 38 (printed 36), method p 67. Combined access/output measure.\n2024\u201325 breakdown 388 units +410 additional subsidy households; includes regenerated units; not net housing stock."
+  },
+  {
+    "id": "11_poverty",
+    "png": "figures/11_poverty.png",
+    "svg": "figures/11_poverty.svg",
+    "alt": "Separate MBM bases:2018-base Alberta9.4%2018\u219210.0%2023;2024 absent.2023-base Alberta10.5%2022,10.2%2023,11.0%2024;Canada11.0%2024. No cross-base splice or significance claim.",
+    "source": "Source: Statistics Canada 11-10-0135-01, downloaded 9 Oct 2026; Canadian Income Survey, all persons.\nSurvey estimates/quality flags retained; Census revisions and 2021/2022 method changes; pandemic-era lows not a counterfactual."
+  },
+  {
+    "id": "12_life_expectancy",
+    "png": "figures/12_life_expectancy.png",
+    "svg": "figures/12_life_expectancy.svg",
+    "alt": "Alberta period life expectancy at birth81.96years2019\u219280.19years2022\u219281.53years2024. Canada82.16years2024.2023\u201324preliminary; one currentvintage, separatefromarchivedAHCIP series.",
+    "source": "Source: Statistics Canada 13-10-0837-01, single-year life table, age 0/both sexes; downloaded 9 Oct 2026.\nShading: source 95% intervals (revision uncertainty excluded).2023\u201324 preliminary; period, not cohort/healthy life expectancy."
+  }
+]

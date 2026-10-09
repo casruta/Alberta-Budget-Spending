@@ -1,0 +1,73 @@
+Total Expense
+(millions of dollars)                                                                                Change from
+                                                                                  2019-20           2018-19               2018-19
+ Operating Expense by Ministry                                             Budget     Actual     Actual    Budget     Actual
+   Advanced Education                                                              5,117      5,477      5,392        360        85
+   Agriculture and Forestry                                                       879       868       967          (11)         (99)
+   Children's Services                                                               1,586      1,548      1,492          (38)        56
+   Community and Social Services                                                    3,910      3,965      3,634         55       331
+   Culture, Multiculturalism and Status of Women                                     218       205       236          (13)         (31)
+   Economic Development, Trade and Tourism                                       286       282       349             (4)         (67)
+   Education                                                                       8,223      8,134      8,221          (89)         (87)
+   Energy                                                                    601       600       552             (1)        48
+   Environment and Parks                                                       610       558       574          (52)         (16)
+   Executive Council                                                            20        18        17             (2)         1
+   Health                                                                        20,610     20,870     20,409        260       461
+   Indigenous Relations                                                         190       162       213          (28)         (51)
+   Infrastructure                                                               460       457       488             (3)         (31)
+   Justice and Solicitor General                                                       1,449      1,442      1,452             (7)         (10)
+   Labour and Immigration                                                       219       196       208          (23)         (12)
+   Municipal Affairs                                                             240       244       263          4         (19)
+   Seniors and Housing                                                         638       634       630             (4)         4
+   Service Alberta                                                              538       494       554          (44)         (60)
+   Transportation                                                              411       425       443         14         (18)
+   Treasury Board and Finance                                                       1,791      1,900      2,147        109        (247)
+   Legislative Assembly                                                         157       140       136          (17)         4
+   Crude-by-rail                                                                     1,500       866         6         (634)       860
+ Total Operating Expense                                                         49,653     49,482     48,388         (171)      1,094
+ COVID-19 Operating Expense
+   Community and Social Services                                                                                     -        60                -         60        60
+   Labour and Immigration                                                                                               -       114                -        114       114
+   Other (Health / Adv. Ed. / Educ. / Treas. Bd and Fin.)                                                         -        44                -         44        44
+ Total COVID-19 Operating Expense                                                                                -       218                -        218       218
+ Capital Grants
+   Energy                                                                    136        60       165          (76)       (105)
+   Environment and Parks                                                        38        36       114             (2)         (78)
+   Municipal Affairs                                                                  1,127      1,124       884             (3)       240
+   Transportation                                                              627       374       510         (253)       (136)
+   Other                                                                     158       102       279          (56)       (177)
+ Total Capital Grants                                                               2,086      1,696      1,952         (390)       (256)
+ Disaster / Emergency Assistance
+   Agriculture and Forestry (agriculture support / wildfire fighting)                         485      1,209       426        724       783
+   Municipal Affairs (flood support)                                                151       147        80             (4)        67
+   Contingency                                                                680                -                -         (680)               -
+ Total Disaster / Emergency Assistance                                              1,316      1,356       507         40       849
+ Amortization / Inventory Consumption / Loss on Asset Disposals
+   Advanced Education amortization / inventory consumption                           725       729       702          4        27
+   Education amortization                                                       356       433       413         77        20
+   Health amortization / inventory consumption                                         1,467      1,443      1,465          (24)         (22)
+   Infrastructure amortization / inventory consumption                                 130       135       122          5        13
+   Transportation amortization / inventory consumption                                665       665       631                 -        34
+   Other amortization / inventory consumption / loss on disposals                        347       315       318          (32)           (3)
+ Total Amortization / Invent. Consump. / Loss on Disposals                           3,690      3,720      3,651         30        69
+ Taxpayer-supported Debt Servicing Costs - General
+   Education (Sch. Bds.) / Seniors and Housing (Ab. Soc. Hous. Corp.)                     14        13        15             (1)           (2)
+   Treasury Board and Finance                                                   804       759       615          (45)       144
+   Total Taxpayer-supported General Debt Servicing Costs                          818       772       630          (46)       142
+ Taxpayer-supported Debt Servicing Costs - Capital Plan
+   Education (school P3s) / Transportation (ring road P3s)                              118       118       120                 -            (2)
+   Treasury Board and Finance – direct borrowing                                    901       893       777             (8)       116
+   Total Taxpayer-supported Capital Plan Debt Servicing Costs                       1,019      1,011       897             (8)       114
+ Total Taxpayer-supported Debt Servicing Costs                                     1,837      1,783      1,527          (54)       256
+ Self-supported Debt Servicing Costs
+   Treasury Board and Finance – Ab. Capital Financing Authority                        358       384       373         26        11
+   Treasury Board and Finance – Ag Financial Services Corp                            70        68        71             (2)           (3)
+ Total Self-supported Debt Servicing Costs                                        428       452       444         24         8
+ Total Debt Servicing Costs                                                         2,265      2,235      1,971          (30)       264
+ Pension Provisions / (Recovery)                                                         (337)       (334)       (190)         3        (144)
+ Total Expense                                                                   58,674     58,376     56,283         (298)      2,093
+
+
+
+
+2019-20 Final Results | Year-End Report                                                                               7

@@ -1,0 +1,227 @@
+PHYSICAL PDF PAGE 53,1-indexed
+                                                                                        Results Analysis
+
+
+
+of Albertans. Budget 2023 invested $1 billion over three years (2023-24 to 2025-26) to begin
+transformation in the continuing care system to meet the growing needs of an aging population,
+including supporting initiatives that will enable a shift to more care in the community, enhance
+workforce capacity, increase choice and innovation, and improve the quality of care within the
+continuing care sector.
+
+Continuing care transformation will enable better care for seniors and those requiring continuing
+care services by implementing recommendations from the Facility-Based Continuing Care Review
+(FBCC), the Palliative and End-of-Life Care Report, and the Office of the Auditor General Reports. As
+of March 31, 2024, of the 42 recommendations resulting from the FBCC, three have been addressed,
+two are partially addressed, 29 are in progress and eight are planned for a future response.
+
+Alberta Health signed the Canada-Alberta Aging with Dignity Funding Agreement with the
+Government of Canada that provides Alberta with $139.4 million per year over four years,
+beginning in 2023-24, plus $69.4 million in 2027-28, to help Albertans age with dignity close to
+home, with improved access to home care, and with quality care in continuing care homes.
+
+The performance measure 3.a monitors the number of patients waiting in hospital approved and
+ready for placement to Designated Supportive Living or Long-Term Care in the 14 largest acute care
+sites (excluding the Alberta Children’s Hospital and the Stollery Children's Hospital). As of March
+31, 2024, 205 patients were waiting in the 14 largest hospitals for continuing care placement
+compared to 240 on March 31, 2023, which represented almost a 15 per cent improvement. During
+2023-24, AHS experienced significant hospital capacity pressures across the province due to higher
+demand for services from a growing and aging population as well as surges in demand due to
+respiratory illness. In response to a higher demand for services, AHS introduced a number of
+strategies to reduce the number of people waiting in hospital for placement (i.e., Alternative Level
+of Care reduction strategies) that were aimed at relieving hospital capacity pressures. These
+included adding net new and temporary community and continuing care capacity, facilitating
+additional discharges from hospital with admissions to continuing care homes on weekends, and
+enabling earlier discharges from hospital with additional home care supports until a designated
+living option became available.
+
+Performance Measure 3.a
+Number of patients waiting in hospital for continuing care placement
+
+                                                                              2023-24        2023-24
+                                        2020-21     2021-22     2022-23
+                                                                               Target         Actual
+  Number of patients waiting in
+                                                                               Below
+  hospital for continuing care             190         216         240                          205
+                                                                              2022-23
+  placement
+
+
+
+Between December 2023 and March 2024, 235 new continuing care spaces were added with a
+temporary call out to operators. The number of patients specifically waiting for transfer to a
+continuing or community care facility after finishing their required hospital care has been reduced
+by almost 30 per cent. In addition, from November 2023 to March 2024, an additional
+150 temporary continuing care spaces were created to help free up hospital beds to reduce
+emergency department and surgical wait times. Further, in 2023-24, the government provided
+$24.7 million to continuing care operators to partially offset inflationary increases to
+accommodation charges for continuing care residents. This support made accommodation charges
+
+
+Health | Annual Report 2023–2024                                                                      51
+
+
+PHYSICAL PDF PAGE 54,1-indexed
+Results Analysis
+
+
+
+more affordable for residents and shielded them from the full cost of living pressures associated
+with higher-than-average inflation.
+
+A key focus in 2023-24 was to enable a shift from facility to home-based care, where safe and
+appropriate. The ministry strives to provide Albertans with care where they want it most: in their
+homes and communities. By providing home care services that are responsive to changing needs,
+Albertans are supported to safely manage their own care while reducing reliance on acute and
+emergency services.
+
+The performance indicator on the number of home care hours provided (millions hours) and
+number of individual/unique clients monitors shifting reliance from facility to home-based care,
+where safe and appropriate to do so. There was overall improvement in the total number of home
+care clients served and hours provided in 2023-24. AHS served over 130,111 unique home care
+clients, representing over a 2.8 per cent increase compared to 126,539 in 2022-23. In addition, AHS
+provided more than 12.71 million home care hours in 2023-24, which was over 40,000 hours more
+than 2022-23 (12.67 million). In addition, there was an increase in Alberta’s home care service
+capacity to support Albertans to safely manage their own care and reduce reliance on acute and
+emergency services. The average hours of direct care provided to residents of continuing care
+homes increased in 2023-24 to improve resident care experience and health outcomes. The number
+of hours per resident per day increased from 2.8 to almost 3.0 hours and about 3.4 to 3.6 hours for
+Designated Supported Living Level 4 and long-term care, respectively.
+
+In addition, the percentage of medical patients with an unplanned hospital readmission within
+30 days of discharge from hospital was 12.7 per cent in 2023-24. This is 0.2 percentage points
+lower than last year (2022-23). A lower percentage means fewer patients have been readmitted to
+hospital within one month of discharge. A high rate of readmissions increases costs and may mean
+the health system is not performing as well as it could be. Although readmission may involve many
+factors, lower readmission rates may show that Albertans are supported by discharge planning and
+continuity of care. Continuity of care refers to the provision of coordinated, seamless, and person-
+centered health care services to improve the health outcomes and experiences of Albertans. Rates
+may also be impacted by the nature of the population served by a hospital facility, such as elderly
+patients or patients with complex health needs, or by the accessibility of post-discharge health care
+services or social supports in the community.
+
+
+Performance Indicator 3.b
+Number of home care hours provided (millions hours) and number of individual/unique
+clients
+
+
+                                    2019-20         2020-21          2021-22           2022-23          2023-24
+
+  Number of home care
+                                      12.52           11.46            11.95             12.67              12.71
+  hours provided
+  Number of unique
+                                    124,779          117,502         122,084           126,539          130,111
+  home care clients1
+1Results from 2019-20 to 2022-23 have been revised to reflect additional data received after publication.
+
+
+
+
+52                                                                                       Health | Annual Report 2023–2024
+
+
+PHYSICAL PDF PAGE 59,1-indexed
+                                                                                               Results Analysis
+
+
+
+Performance Indicator 2.a:
+     Alberta health care spending per capita vs comparator provinces (2022-23)
+
+    Methodology
+    Health expenditure data is extracted from Government Finance Statistics (Canadian Classification of
+    Functions of Government (CCOFOG) by consolidated provincial/territorial and local government component
+    on Health) available from Statistics Canada. The most recently released data (November 28, 2023) provides
+    revised actuals for 2021-22 and preliminary estimates for 2022-23. 2020-21 was the first year of CCOFOG
+    data to include COVID-19 expenditure estimates in the health component.
+
+    Population estimates (release date: December 19, 2023). The population estimates for Q4 2022 are used in
+    the calculation.
+
+    The data is presented for consolidated governments. Provincial-territorial and local governments’ data can be
+    compared across provinces and territories because consolidation considers differences in administrative
+    structure and government service delivery by removing the effects of internal public sector transactions within
+    each jurisdiction.
+
+    The Canadian Classification of Functions of Government (CCOFOG) is a detailed classification of the
+    functions, or socioeconomic objectives, that general government units aim to achieve through various kinds of
+    outlays. Therefore, by definition, Government Business Enterprises (GBE's) are excluded from this data.
+    Per capita provincial                         provincial government health expenditure
+    government health       =
+    expenditure                                       population estimates
+    Source
+ Government Finance Statistics (Canadian Classification of Functions of Government (CCOFOG) by
+ consolidated provincial/territorial and local government component) data on health, Statistics Canada. .
+ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010000501
+
+ Population estimates, quarterly, Statistics Canada.
+ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+
+
+
+Performance Measure 3.a:
+     Number of patients waiting in hospital for continuing care placement
+
+Methodology
+Count of the number of individual persons assessed and approved for a publicly funded continuing care home
+who are waiting in hospital acute care or sub-acute care beds in the 14 largest acute care sites at the end of a
+specified month, quarter, or fiscal year.
+
+     Inclusions: People who have been assessed and approved for admissions to a CCH, and who are
+      waiting in: acute care spaces, sub-acute spaces (including palliative end-of-life care spaces,
+      restorative care, and transition unit) that are legislated under the Hospitals Act.
+
+      14 Largest Hospitals:
+       o Chinook Regional Hospital
+       o Foothills Medical Centre
+       o Glenrose Rehabilitation Hospital
+       o Grande Prairie Regional Hospital
+
+
+
+Health | Annual Report 2023–2024                                                                            57
+
+
+PHYSICAL PDF PAGE 60,1-indexed
+Results Analysis
+
+
+
+     o    Grey Nuns Community Hospital
+     o    Medicine Hat Regional Hospital
+     o    Misericordia Community Hospital
+     o    Northern Lights Regional Health Care Centre
+     o    Peter Lougheed Centre
+     o    Red Deer Regional Hospital
+     o    Rockyview General Hospital
+     o    Royal Alexandra Hospital
+     o    South Health Campus
+     o    University of Alberta Hospital
+
+    Exclusions:
+     o    People who are waitlisted but who are categorized as a Process Delay for the following reasons:
+          medically unstable or care type under review.
+
+This measure is calculated as the arithmetic sum, at a specific point in time, of the total number of individual
+persons assessed and approved for admission to a publicly funded continuing care home who are waiting in an
+acute care, or a sub-acute care hospital bed in the 14 largest acute care sites, for any of the following types of
+continuing care:
+     o CCH type A
+     o CCH type B
+
+The specific point in time when the number of people waiting for a CCH space is to be calculated is the last day
+of the month of each quarter in a fiscal year; that is, the last day of June, September, December, and March in
+a given fiscal year. The last day of March (March 31) in a given fiscal year is the date to be used in calculation
+of the result to be reported in the annual reports of the Government of Alberta, Alberta Health, and Alberta
+Health Services.
+
+Source
+Alberta Health Services
+
+
+
+
+58                                                                             Health | Annual Report 2023–2024

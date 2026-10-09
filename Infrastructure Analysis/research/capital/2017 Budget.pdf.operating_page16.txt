@@ -1,0 +1,67 @@
+Total Expense
+(millions of dollars)
+                                                                                    Change from
+                                                                   2017-18           2016-17                2016-17
+ Operating Expense by Ministry                                Budget      Actual     Actual     Budget      Actual
+  Advanced Education                                              5,509       5,548       5,379         39       169
+   Agriculture and Forestry                                           1,039       977       1,080           (62)       (103)
+   Children's Services                                                1,369       1,433       1,288         64       145
+  Community and Social Services                                    3,311       3,453       3,246        142       207
+   Culture and Tourism                                           284       300       289         16        11
+  Economic Development and Trade                                340       290       264           (50)        26
+   Education                                                        7,852       7,920       7,792         68       128
+   Energy                                                      479       456       446           (23)        10
+   Environment and Parks                                         445       448       405          3        43
+   Executive Council                                              20        19        19             (1)               -
+   Health                                                         19,917     19,769     19,184         (148)       585
+   Indigenous Relations                                           179       168       176           (11)           (8)
+   Infrastructure                                                 495       500       486          5        14
+   Justice and Solicitor General                                       1,399       1,445       1,394         46        51
+   Labour                                                      200       193       190             (7)         3
+   Municipal Affairs                                              267       240       239           (27)         1
+   Seniors and Housing                                           593       599       586          6        13
+   Service Alberta                                               258       260       255          2         5
+   Status of Women                                                7         7         7                  -                -
+   Transportation                                                454       474       463         20        11
+   Treasury Board and Finance                                       1,563       1,614       1,356         51       258
+   Legislative Assembly                                           126       117       118             (9)           (1)
+   In-year savings                                                        (200)               -                -        200                -
+   Climate Leadership Plan: Energy (coal transition)                      35        34       1,119             (1)      (1,085)
+                    Treasury Board and Finance (mainly rebates)        418       306       154         (112)       152
+                    Other (mainly Envt. / Agric. / Indig. Rel.)            415       181       106         (234)        75
+ Total Operating Expense                                         46,774     46,755     46,040           (19)       715
+ Capital Grants
+   Energy                                                      214        50        29         (164)        21
+   Municipal Affairs                                                  1,447       2,245       1,498        798       747
+   Transportation                                                    1,220       1,108       279         (112)       829
+   Other                                                       489       614       355        125       259
+ Total Capital Grants                                                3,370       4,017       2,161        647       1,856
+ Disaster / Emergency Assistance
+   Agriculture and Forestry (agriculture support / wildfire fighting)                     -       408       457        408          (49)
+   Municipal Affairs (Wood Buffalo wildfire assistance / flood support)         2        23       710         21        (687)
+  2013 Alberta flood operating support                                33         7        23           (26)         (16)
+   Unallocated                                                  200                -                -         (200)               -
+ Total Disaster / Emergency Assistance                            235       439       1,191        204        (752)
+ Amortization / Inventory Consumption / Loss on Asset Disposals
+  Advanced Education amortization                                 523       501       507           (22)           (6)
+   Education amortization                                         372       373       339          1        34
+   Health amortization / inventory consumption                          1,417       1,417       1,418                  -            (1)
+   Infrastructure amortization / inventory consumption                   141       111       108           (30)         3
+   Transportation amortization / inventory consumption                  618       604       560           (14)        44
+   Other amortization / inventory consumption / loss on disposals          304       276       278           (28)           (2)
+ Total Amortization / Invent. Consump. / Loss on Disposals           3,375       3,282       3,210           (93)        72
+ General Debt Servicing Costs
+   Agriculture and Forestry (Ag. Financial Services Corp.)                 71        68        69             (3)           (1)
+   Seniors and Housing (Alberta Social Housing Corporation)               5         6         6          1                -
+   Treasury Board and Finance (Ab. Capital Finance Auth. / other)         478       517       293         39       224
+  SUCH sector (post-second. instit. / Ab. Health Serv. / school bds)         65        67        69          2            (2)
+ Total General Debt Servicing Costs                               619       659       438         40       221
+ Capital Plan Debt Servicing Costs
+   Education – Alberta Schools Alternative Procurement P3s               29        29        30                  -            (1)
+   Transportation – ring road P3s                                    94        94        83                  -        11
+   Treasury Board and Finance – direct borrowing                      656       638       467           (18)       171
+ Total Capital Plan Debt Servicing Costs                            779       761       580           (18)       181
+ Pension Provisions / (Recovery)                                        (237)       (593)       (543)        (356)         (50)
+ Total Expense                                                   54,915     55,318     53,077        403       2,241
+
+14                                                     GOVERNMENT OF ALBERTA 2017 –18 ANNUAL REPORT

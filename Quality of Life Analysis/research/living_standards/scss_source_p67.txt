@@ -1,0 +1,49 @@
+ 
+ Results Analysis 
+ 
+ 
+ Seniors, Community and Social Services | Annual Report 2024–2025 65 
+ 
+Performance Measure 1.c: 
+New affordable housing units and rental subsidies available for Albertans with low 
+income 
+Data for this measure is collected by the Housing Operations and Housing Capital Program 
+branches in the Housing Division. The result for this measure is calculated in three steps:  
+1. Calculate the total number of new affordable housing units by adding the total number of newly 
+built units and the total number of regenerated units completed in a fiscal year.  
+ 
+o Affordable housing is defined as rental housing for persons in “core housing need” 
+provided on a rent-geared-to-income basis (i.e., the amount of rent to be paid by tenants 
+is based on the amount of income earned, often as a percentage of the tenant’s income). 
+A household is considered in “core housing need” if it falls below at least one of the 
+adequacy, affordability, or suitability standards, and spends 30 per cent or more of its 
+total before-tax income on housing. 
+o A newly built unit is defined as one new unit of housing that has been built within a 
+larger structure such as a house, apartment, mobile home, or group of rooms where a 
+person or family eat, live, and sleep. 
+o A regenerated unit is defined as an existing unit of housing that has undergone a 
+significant refurbishment to improve the interior and/or exterior and upgrade the unit. 
+Upgrading can apply to finishes, materials and/or have the housing comply with 
+building codes or meet/exceed current standard minimums. The existing unit has been 
+built within a larger structure such as a house, apartment, mobile home, or group of 
+rooms where a person or family eat, live, and sleep. 
+o The number of new and regenerated affordable housing units are based on completed 
+capital projects. Units are recognized as completed when the occupancy permit has 
+been issued. Capital project information is tracked and retained in the internal HOME 
+system.  
+2. Calculate the total number of rental subsidies by subtracting the total number of households 
+supported through the rent supplement program at the start of the fiscal year (April 1) from 
+the total number of households supported through the rent supplement program at the end 
+of the fiscal year (March 31).  
+ 
+o The number of households assisted through rent subsidies is based on incremental 
+change in households supported through the Rental Assistance Benefit, Temporary 
+Rental Assistance Benefit and the Private to Landlord Rent Supplement programs. 
+o Information on rental subsidies is provided by housing management bodies. This 
+information is added to the internal HOME system following a validation process.  
+3. Calculate the entire inventory of affordable housing added in a fiscal year by adding the sub-
+total from step one (total number of new affordable housing units) and the sub-total from step 
+two (total number of rental subsidies). 
+ 
+Source: Seniors, Community and Social Services; HOME system  
+  

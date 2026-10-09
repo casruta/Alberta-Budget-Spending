@@ -1,0 +1,26 @@
+[
+  {
+    "source_file": "2022-2023 Budget.pdf",
+    "title": "2022-23 Final Results: Year-end Report",
+    "publication_month": "June 2023",
+    "sha256": "a2ead4cddbe160fdfa2935ab11db33f3c86e49f6e8c356480c65f9e8cb55cbfa",
+    "source_url": null,
+    "source_url_status": "not recovered; official Alberta report identity established from PDF cover/header; repository filename mislabeled Budget"
+  },
+  {
+    "source_file": "tbf-goa-2023-2024 Budget.pdf",
+    "title": "2023-24 Final Results: Year-end Report",
+    "publication_month": "June 2024",
+    "sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+    "source_url": null,
+    "source_url_status": "not recovered; official Alberta report identity established from PDF cover/header; repository filename mislabeled Budget"
+  },
+  {
+    "source_file": "2024-2025 Budget.pdf",
+    "title": "2024-25 Final Results: Year-end Report",
+    "publication_month": "June 2025",
+    "sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+    "source_url": null,
+    "source_url_status": "not recovered; official Alberta report identity established from PDF cover/header; repository filename mislabeled Budget"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "status": "passed within reviewed delivery scope",
+  "executed_code_cells": 22,
+  "notebook_errors": 0,
+  "authored_figures": 12,
+  "embedded_images_verified": 12,
+  "source_hashes_verified": 46,
+  "report_links_verified": true,
+  "limits": "Static report/notebook export; no hosted-app/browser interaction or causal validation claimed"
+}

@@ -1,0 +1,57 @@
+Results Analysis
+
+
+
+
+Performance Measure and Indicator Methodology
+Performance Measure 1.a:
+     Median time from intake to resolution of Safer Communities and Neighbourhoods
+     (SCAN) complaints
+
+Source: Public Safety and Emergency Services Administrative Data, Public Security Division.
+
+Methodology: the measure monitors the timeliness and overall efficiency of the Alberta Sheriffs’
+Safer Communities and Neighbourhoods (SCAN) unit in keeping Albertan communities safe by
+dealing with problem properties used for illegal activities such as drug trafficking, prostitution,
+child exploitation and gang-related crime.
+
+The measure is calculated by comparing the date a complaint is received to the date a resolution is
+made, which results in the ‘time to resolution’, and then the median of all the times to resolution
+indicates the performance, as shown in the equation below:
+
+                              Median time from intake to resolution =
+                       Median (Number of days from intake to resolution for
+                               each SCAN complaint in the fiscal year)
+
+The overall objective of the measure is to contribute to community safety and minimize negative
+impacts of problem properties with quicker file resolutions. The impacts to a family living near a
+drug house are significant and saving a family from enduring this type of activity for even one less
+day is a huge contribution to public safety.
+
+The expansion of SCAN by 20 investigators directly impacts the files that were previously
+unassigned, which in turn directly reduced the amount of time it takes to resolve a complaint. In
+addition, the time it takes to resolve a complaint can vary depending on how complex the case is,
+changes in its status, the timing of external hearings, and the specific steps needed to complete the
+investigation. To improve outcomes, the ministry is enhancing SCAN operations by adding staff and
+strengthening partnerships with RCMP and municipal police services.
+
+Performance Indicator 1.a:
+     Violent and property crime rates per 100,000 population
+
+Source: Uniform Crime Reporting Survey, Canadian Centre for Justice and Community Safety
+Statistics (CCJCSS). Data is available annually. CCJCSS Table data was available in July 2024.
+
+Methodology: crime rate is calculated using incident-based Uniform Crime Reporting (UCR2) data,
+which measures police-reported crime in each Canadian jurisdiction. Crime rate measures the
+volume of police-reported crime, expressed as the number of crimes per 100,000 people. Historical
+results are revised annually to reflect updated data provided by police services for incidents that
+occurred in previous years. Property crime includes theft, break and enter, fraud and possession of
+stolen goods. It does not include the use of threat of violence against an individual. Violent crime
+includes homicide, attempted murder, robbery, abduction and various forms of sexual assault. It
+does not include traffic incidents that result in death or bodily harm.
+
+
+
+
+42                                              Public Safety and Emergency Services | Annual Report 2024–2025
+

@@ -1,0 +1,20 @@
+{
+  "started_utc": "2026-10-09T02:49:55+00:00",
+  "completed_utc": "2026-10-09T03:29:59.351809+00:00",
+  "elapsed_minutes": 40.07253015,
+  "focus": "Evidence gaps and source verification, as selected by the user",
+  "tests_passed": 36,
+  "executed_notebook_code_cells": 15,
+  "rendered_figures": 9,
+  "claims_registered": 40,
+  "unique_claim_source_pages": 27,
+  "additional_physical_observations": 19,
+  "original_tracked_files_changed": false,
+  "remaining_limits": [
+    "2025-26 actuals unavailable in local corpus",
+    "net capacity and condition series absent",
+    "construction-price deflator unavailable",
+    "specific accounting revisions/flow-stock bridge unresolved",
+    "saved environment draft not published; fresh-task restoration untested"
+  ]
+}

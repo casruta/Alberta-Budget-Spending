@@ -1,0 +1,4 @@
+source_vintage,observation_fiscal_year,source_file,pdf_page,health_expense_million,basic_advanced_education_expense_million,social_services_expense_million,other_program_expense_million,total_program_expense_million,debt_servicing_expense_million,pension_provisions_recovery_million,total_expense_million,program_sum_minus_reported_total_million
+2022-23,2022-23,2022-2023 Budget.pdf,13,25486,15220,7222,13743,61671,2829,-21,64479,0
+2023-24,2022-23,tbf-goa-2023-2024 Budget.pdf,14,25486,15220,7222,13766,61694,2829,-21,64502,0
+2024-25,2022-23,2024-2025 Budget.pdf,14,25486,15220,7222,13769,61691,2828,-21,64498,6

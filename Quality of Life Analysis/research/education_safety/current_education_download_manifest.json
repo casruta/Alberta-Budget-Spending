@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://open.alberta.ca/dataset/8b226e68-1227-4aec-87a5-b573f3bfb062/resource/dcf58041-1aef-4f46-9452-b6a58f29d856/download/educ-annual-report-2024-2025.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 3537294,
+    "local_file": "educ-annual-report-2024-2025.pdf",
+    "sha256": "ac9d5ff12fd80811686f64c4350417b352a135d945fb0703f0da5c035423c546"
+  },
+  {
+    "url": "https://open.alberta.ca/dataset/8d78df56-9979-457c-9ec2-26e87bd922ed/resource/8130ef49-31fd-473b-affa-9b5fb81f1726/download/ecc-annual-report-update-2024-2025.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 365982,
+    "local_file": "ecc-annual-report-update-2024-2025.pdf",
+    "sha256": "2f587b1451351141e2c08bca56bd9a6e35cda127658e8f87687e396382bed89f"
+  }
+]

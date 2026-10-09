@@ -1,0 +1,74 @@
+Total Expense
+(millions of dollars)(                          )
+                                                                                  2021-22      2020-21  Change from
+   Operating Expense by Ministry                                           Budget   Actual   Actual  Budget 2020-21
+ 1    Advanced Education                                                          5,044    5,280    5,132     236     148
+ 2     Agriculture, Forestry and Rural Economic Development                          839     789     812       (50)      (23)
+ 3     Children's Services                                                           1,717    1,706    1,443       (11)    263
+ 4    Community and Social Services                                                3,886    3,714    3,691     (172)     23
+ 5     Culture and Status of Women                                              161     161     151            -      10
+ 6    Education                                                                   8,248    7,846    7,707     (402)    139
+ 7    Energy                                                                483     901     413     418     488
+ 8    Environment and Parks                                                   449     519     479      70      40
+ 9    Executive Council                                                         18      14      15         (4)        (1)
+10    Health                                                                    21,418   21,302   20,285     (116)   1,017
+11    Indigenous Relations                                                     180     153     102       (27)     51
+12     Infrastructure                                                           425     430     446       5       (16)
+13    Jobs, Economy and Innovation                                             308     265     257       (43)      8
+14     Justice and Solicitor General                                                   1,346    1,478    1,394     132      84
+15    Labour and Immigration                                                   200     190     182       (10)      8
+16     Municipal Affairs                                                         247     251     191       4      60
+17    Seniors and Housing                                                     673     616     611       (57)      5
+18    Service Alberta                                                          454     459     484       5       (25)
+19     Transportation                                                          408     437     424      29      13
+20    Treasury Board and Finance                                                   1,647    2,036    1,879     389     157
+21     Legislative Assembly                                                     128     117     104       (11)     13
+22     Crude-by-rail (Energy)                                                    976     866     443     (110)    423
+23 Total Operating Expense                                                      49,254   49,531   46,648     277    2,883
+   COVID-19 / Recovery Plan Operating Expense
+24    Energy                                                                480     318     130     (162)    188
+25     Health                                                                                                                -    1,528    1,093    1,528     435
+26     Jobs, Economy and Innovation                                             122     240     765     118     (525)
+27    Labour and Immigration                                                   129     224     433      95     (209)
+28     Other                                                                  188     502    1,638     314   (1,136)
+29    Contingency (Treasury Board and Finance)                                      1,750             -             -   (1,750)           -
+30 Total COVID-19 / Recovery Plan Operating Expense                               2,669    2,812    4,059     143   (1,247)
+    Capital Grants
+31     Agriculture, Forestry and Rural Economic Development                           83      95      23      12      72
+32    Energy                                                                 58      43     126       (15)      (83)
+33     Municipal Affairs                                                             1,491    1,702    1,726     211       (24)
+34     Transportation                                                          901     472     318     (429)    154
+35    Other                                                                  271     191     208       (80)      (17)
+36 Total Capital Grants                                                            2,804    2,503    2,401     (301)    102
+   Disaster / Emergency Assistance
+37     Agriculture, Forestry and Rural Ec. Dev. (agriculture support/wildfire fighting)                   -    3,030     555    3,030    2,475
+38     Municipal Affairs (flood support)                                                                               -      32     166      32     (134)
+39    Service Alberta (1GX costs)                                                                                    -      14             -      14      14
+40    Contingency (Treasury Board and Finance)                                    750             -             -     (750)           -
+41 Total Disaster / Emergency Assistance                                        750    3,076     721    2,326    2,355
+   Amortization / Inventory Consumption / Loss on Asset Disposals
+42    Advanced Education amortization / inventory consumption                        751     578     689     (173)    (111)
+43    Education amortization / inventory consumption                                458     554     435      96     119
+44    Health amortization / inventory consumption                                     1,535    1,831    1,765     296      66
+45     Infrastructure amortization / inventory consumption                              146     129     124       (17)      5
+46     Transportation amortization / inventory consumption                             760     760     695            -      65
+47    Other amortization / inventory consumption / loss on disposals                     392     332     353       (60)      (21)
+48 Total Amortization / Invent. Consump. / Loss on Disposals                        4,042    4,184    4,061     142     123
+   Taxpayer-supported Debt Servicing Costs - General
+49    Education (School Boards)                                                   9       8       9        (1)        (1)
+50    Treasury Board and Finance                                                   1,117    1,154    1,241      37       (87)
+51    Total Taxpayer-supported General Debt Servicing Costs                       1,126    1,162    1,250      36       (88)
+   Taxpayer-supported Debt Servicing Costs - Capital Plan
+52    Education (school P3s) / Transportation (ring road P3s)                          129     129     122            -       7
+53    Treasury Board and Finance – direct borrowing                                  1,068     987     961       (81)     26
+54    Total Taxpayer-supported Capital Plan Debt Servicing Costs                   1,197    1,116    1,083       (81)     33
+55 Total Taxpayer-supported Debt Servicing Costs                                  2,323    2,278    2,333       (45)      (55)
+   Self-supported Debt Servicing Costs
+56    Treasury Board and Finance – loans to local authorities                          374     298      85       (76)    213
+57    Treasury Board and Finance – Ag Financial Services Corp.                        67      65      68        (2)        (3)
+58 Total Self-supported Debt Servicing Costs                                     441     363     153       (78)    210
+59 Total Debt Servicing Costs                                                      2,764    2,641    2,486     (123)    155
+60 Pension Provisions / (Recovery)                                                      (369)     (365)     (282)      4       (83)
+61 Total Expense                                                                61,918   64,378   60,099    2,460    4,279
+
+2021-22 Final Results | Year-End Report                                                                               7

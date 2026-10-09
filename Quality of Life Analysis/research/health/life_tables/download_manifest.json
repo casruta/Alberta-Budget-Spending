@@ -1,0 +1,24 @@
+{
+  "recorded_utc": "2026-10-09T04:01:05.731782+00:00",
+  "downloads": [
+    {
+      "file": "table.html",
+      "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310083701",
+      "curl_fail_on_http_error": true,
+      "download_succeeded": true,
+      "bytes": 160919,
+      "sha256": "6f5fdddb15feefc9af318f1f6271205e8d137a47f24fbfcbab454aa906c6943a"
+    },
+    {
+      "file": "13100837-eng.zip",
+      "url": "https://www150.statcan.gc.ca/n1/tbl/csv/13100837-eng.zip",
+      "curl_fail_on_http_error": true,
+      "download_succeeded": true,
+      "bytes": 17369262,
+      "sha256": "e3703cfd342110773e51f7145e8d329465933ee86c63354522174e3966397963"
+    }
+  ],
+  "selection_rows": 180,
+  "csv_sha256": "32a2ee6e0722d131767fb6a136d7217c5e3e51f1cd1ac3b068b5d069f5c9eaf5",
+  "extraction_verified_utc": "2026-10-09T04:07:13.108920+00:00"
+}

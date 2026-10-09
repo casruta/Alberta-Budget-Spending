@@ -1,0 +1,145 @@
+[
+  {
+    "metric": "Surgeries completed",
+    "value": 318601,
+    "unit": "procedures",
+    "period": "2024-25",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 25,
+    "definition": "Annual main OR procedure count; target310000.",
+    "limitation": "Not unique patients or need-adjusted capacity.",
+    "source_quote": "agreements have been initiated for the 2024-25 financial year. CSFs remain an extension of hospital\ncapacity and are used in many other Canadian health systems. Under the Health Facilities Act, CSFs\nproviding publicly funded insured services must be accredited by the College of Physicians and\nSurgeons of Alberta (CPSA) and have a signed service contract with AHS.\n\nThrough these dedicated efforts, as of March 31, 2025, approximately 318,601 surgeries had been\ncompleted, surpassing the 2024-25 fiscal year target of 310,000. This represents an increase of\n14,006 surgeries, or 4.6 per cent, compared with the 304,595 completed in 2023-24.\n\nAs of March 31, 2025, 74,928 cases were waiting for surgery. Of these cases, 57.8 per cent were\nwaiting within clinically recommended timelines. Efforts remain underway to reduce wait times\nfurther and ensure equitable access across the province.\n\nFor the fiscal year 2024-25, 52,810 cases have been completed in rural acute care facilities. This\nrepresents an increase in rural hospitals of 5.4 per cent in volumes completed in 2024-25\ncompared with fiscal year 2023-24, when 50,090 surgeries were completed.\n\nFurther, approximately 23,015 cancer surgeries were completed in 2024-25, a 9.4 per cent increase"
+  },
+  {
+    "metric": "Surgeries completed",
+    "value": 304595,
+    "unit": "procedures",
+    "period": "2023-24 as reported2024-25",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 25,
+    "definition": "Same latest report comparator.",
+    "limitation": "Population adjustment is a throughput proxy,not adequacy.",
+    "source_quote": "providing publicly funded insured services must be accredited by the College of Physicians and\nSurgeons of Alberta (CPSA) and have a signed service contract with AHS.\n\nThrough these dedicated efforts, as of March 31, 2025, approximately 318,601 surgeries had been\ncompleted, surpassing the 2024-25 fiscal year target of 310,000. This represents an increase of\n14,006 surgeries, or 4.6 per cent, compared with the 304,595 completed in 2023-24.\n\nAs of March 31, 2025, 74,928 cases were waiting for surgery. Of these cases, 57.8 per cent were\nwaiting within clinically recommended timelines. Efforts remain underway to reduce wait times\nfurther and ensure equitable access across the province.\n\nFor the fiscal year 2024-25, 52,810 cases have been completed in rural acute care facilities. This\nrepresents an increase in rural hospitals of 5.4 per cent in volumes completed in 2024-25\ncompared with fiscal year 2023-24, when 50,090 surgeries were completed.\n\nFurther, approximately 23,015 cancer surgeries were completed in 2024-25, a 9.4 per cent increase\ncompared with the same period in 2023-24. Nearly 55 per cent of cancer surgeries were completed\nwithin clinically recommended wait times, helping to ensure patients receive timely access to"
+  },
+  {
+    "metric": "Cases awaiting surgery",
+    "value": 74928,
+    "unit": "cases",
+    "period": "2025-03-31",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 25,
+    "definition": "Surgical waiting-list snapshot.",
+    "limitation": "Cases may not be unique people; not completed-case benchmark denominator.",
+    "source_quote": "Through these dedicated efforts, as of March 31, 2025, approximately 318,601 surgeries had been\ncompleted, surpassing the 2024-25 fiscal year target of 310,000. This represents an increase of\n14,006 surgeries, or 4.6 per cent, compared with the 304,595 completed in 2023-24.\n\nAs of March 31, 2025, 74,928 cases were waiting for surgery. Of these cases, 57.8 per cent were\nwaiting within clinically recommended timelines. Efforts remain underway to reduce wait times\nfurther and ensure equitable access across the province.\n\nFor the fiscal year 2024-25, 52,810 cases have been completed in rural acute care facilities. This\nrepresents an increase in rural hospitals of 5.4 per cent in volumes completed in 2024-25\ncompared with fiscal year 2023-24, when 50,090 surgeries were completed.\n\nFurther, approximately 23,015 cancer surgeries were completed in 2024-25, a 9.4 per cent increase\ncompared with the same period in 2023-24. Nearly 55 per cent of cancer surgeries were completed\nwithin clinically recommended wait times, helping to ensure patients receive timely access to\npotentially life-saving procedures."
+  },
+  {
+    "metric": "Waiting cases within clinically recommended timelines",
+    "value": 57.8,
+    "unit": "percent",
+    "period": "2025-03-31",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 25,
+    "definition": "Share of cases currently waiting within clinical timeliness thresholds.",
+    "limitation": "Separate denominator from completed hip/knee/cataract cases; thresholds not single182day rule.",
+    "source_quote": "Through these dedicated efforts, as of March 31, 2025, approximately 318,601 surgeries had been\ncompleted, surpassing the 2024-25 fiscal year target of 310,000. This represents an increase of\n14,006 surgeries, or 4.6 per cent, compared with the 304,595 completed in 2023-24.\n\nAs of March 31, 2025, 74,928 cases were waiting for surgery. Of these cases, 57.8 per cent were\nwaiting within clinically recommended timelines. Efforts remain underway to reduce wait times\nfurther and ensure equitable access across the province.\n\nFor the fiscal year 2024-25, 52,810 cases have been completed in rural acute care facilities. This\nrepresents an increase in rural hospitals of 5.4 per cent in volumes completed in 2024-25\ncompared with fiscal year 2023-24, when 50,090 surgeries were completed.\n\nFurther, approximately 23,015 cancer surgeries were completed in 2024-25, a 9.4 per cent increase\ncompared with the same period in 2023-24. Nearly 55 per cent of cancer surgeries were completed\nwithin clinically recommended wait times, helping to ensure patients receive timely access to\npotentially life-saving procedures."
+  },
+  {
+    "metric": "Lab-experience satisfaction",
+    "value": 92,
+    "unit": "percent of surveyed respondents",
+    "period": "recent survey referenced2024-25; date unspecified",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 30,
+    "definition": "Narrow lab service experience survey.",
+    "limitation": "No sample/method/date supplied; incomparable provincewide health satisfaction.",
+    "source_quote": "\u2022       In-person waits dropped by 36 per cent (35.2 to 22.6 minutes)\n     \u2022       Next available appointment wait times decreased by 54 per cent (from 9.3 to 4.4 days)\n     \u2022       Patient visits increased by 11 per cent (from 3.94M to 4.38M)\nFollowing the transition of services from DynaLIFE to Alberta Precision Laboratories (APL) in\n2023-24, wait times have consistently met or exceeded targets. APL continues to increase staffing\nand appointment capacity, and 92 per cent of respondents to a recent patient survey reported\nsatisfaction with their lab experience.\n\nIn 2024, Alberta signed a three-year, approximately $54-million bilateral agreement with the\nfederal government under the National Strategy for Drugs for Rare Diseases. This will provide\nearlier access to emerging rare disease drugs, as well as improve diagnostics and screening. Of the\ntotal, up to $5.4 million annually is allocated to improving rare disease screening and testing.\n\n\n\n\n28                                                                                       Health | Annual Report 2024\u20132025"
+  },
+  {
+    "metric": "CT median wait comparator",
+    "value": 28,
+    "unit": "days",
+    "period": "comparison dates unspecified in2024-25 narrative",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 30,
+    "definition": "Contextual before/after levels reported in annual narrative.",
+    "limitation": "Not assigned to precise fiscal years; not equivalent percentage-within-target metric.",
+    "source_quote": "To improve access to diagnostic imaging, the Government of Alberta allocated $15 million in 2024-\n25 to community diagnostic imaging providers. With this investment, AHS expects to perform\n41,000 additional CT scans and 12,000 additional MRI scans. As a result:\n\n     \u2022       Median CT wait time dropped from 28 to 21 days\n     \u2022       Median MRI wait time dropped from 57 to 53 days\n     \u2022       AHS delivered approximately 540,000 CT and 230,000 MRI scans in 2024-25\nWait times for community lab services were improved in the following ways:\n\n     \u2022       In-person waits dropped by 36 per cent (35.2 to 22.6 minutes)\n     \u2022       Next available appointment wait times decreased by 54 per cent (from 9.3 to 4.4 days)\n     \u2022       Patient visits increased by 11 per cent (from 3.94M to 4.38M)\nFollowing the transition of services from DynaLIFE to Alberta Precision Laboratories (APL) in\n2023-24, wait times have consistently met or exceeded targets. APL continues to increase staffing\nand appointment capacity, and 92 per cent of respondents to a recent patient survey reported\nsatisfaction with their lab experience."
+  },
+  {
+    "metric": "CT median wait improved",
+    "value": 21,
+    "unit": "days",
+    "period": "comparison dates unspecified in2024-25 narrative",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 30,
+    "definition": "Contextual before/after levels reported in annual narrative.",
+    "limitation": "Not assigned to precise fiscal years; not equivalent percentage-within-target metric.",
+    "source_quote": "To improve access to diagnostic imaging, the Government of Alberta allocated $15 million in 2024-\n25 to community diagnostic imaging providers. With this investment, AHS expects to perform\n41,000 additional CT scans and 12,000 additional MRI scans. As a result:\n\n     \u2022       Median CT wait time dropped from 28 to 21 days\n     \u2022       Median MRI wait time dropped from 57 to 53 days\n     \u2022       AHS delivered approximately 540,000 CT and 230,000 MRI scans in 2024-25\nWait times for community lab services were improved in the following ways:\n\n     \u2022       In-person waits dropped by 36 per cent (35.2 to 22.6 minutes)\n     \u2022       Next available appointment wait times decreased by 54 per cent (from 9.3 to 4.4 days)\n     \u2022       Patient visits increased by 11 per cent (from 3.94M to 4.38M)\nFollowing the transition of services from DynaLIFE to Alberta Precision Laboratories (APL) in\n2023-24, wait times have consistently met or exceeded targets. APL continues to increase staffing\nand appointment capacity, and 92 per cent of respondents to a recent patient survey reported\nsatisfaction with their lab experience."
+  },
+  {
+    "metric": "MRI median wait comparator",
+    "value": 57,
+    "unit": "days",
+    "period": "comparison dates unspecified in2024-25 narrative",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 30,
+    "definition": "Contextual before/after levels reported in annual narrative.",
+    "limitation": "Not assigned to precise fiscal years; not equivalent percentage-within-target metric.",
+    "source_quote": "To improve access to diagnostic imaging, the Government of Alberta allocated $15 million in 2024-\n25 to community diagnostic imaging providers. With this investment, AHS expects to perform\n41,000 additional CT scans and 12,000 additional MRI scans. As a result:\n\n     \u2022       Median CT wait time dropped from 28 to 21 days\n     \u2022       Median MRI wait time dropped from 57 to 53 days\n     \u2022       AHS delivered approximately 540,000 CT and 230,000 MRI scans in 2024-25\nWait times for community lab services were improved in the following ways:\n\n     \u2022       In-person waits dropped by 36 per cent (35.2 to 22.6 minutes)\n     \u2022       Next available appointment wait times decreased by 54 per cent (from 9.3 to 4.4 days)\n     \u2022       Patient visits increased by 11 per cent (from 3.94M to 4.38M)\nFollowing the transition of services from DynaLIFE to Alberta Precision Laboratories (APL) in\n2023-24, wait times have consistently met or exceeded targets. APL continues to increase staffing\nand appointment capacity, and 92 per cent of respondents to a recent patient survey reported\nsatisfaction with their lab experience.\n\nIn 2024, Alberta signed a three-year, approximately $54-million bilateral agreement with the"
+  },
+  {
+    "metric": "MRI median wait improved",
+    "value": 53,
+    "unit": "days",
+    "period": "comparison dates unspecified in2024-25 narrative",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 30,
+    "definition": "Contextual before/after levels reported in annual narrative.",
+    "limitation": "Not assigned to precise fiscal years; not equivalent percentage-within-target metric.",
+    "source_quote": "To improve access to diagnostic imaging, the Government of Alberta allocated $15 million in 2024-\n25 to community diagnostic imaging providers. With this investment, AHS expects to perform\n41,000 additional CT scans and 12,000 additional MRI scans. As a result:\n\n     \u2022       Median CT wait time dropped from 28 to 21 days\n     \u2022       Median MRI wait time dropped from 57 to 53 days\n     \u2022       AHS delivered approximately 540,000 CT and 230,000 MRI scans in 2024-25\nWait times for community lab services were improved in the following ways:\n\n     \u2022       In-person waits dropped by 36 per cent (35.2 to 22.6 minutes)\n     \u2022       Next available appointment wait times decreased by 54 per cent (from 9.3 to 4.4 days)\n     \u2022       Patient visits increased by 11 per cent (from 3.94M to 4.38M)\nFollowing the transition of services from DynaLIFE to Alberta Precision Laboratories (APL) in\n2023-24, wait times have consistently met or exceeded targets. APL continues to increase staffing\nand appointment capacity, and 92 per cent of respondents to a recent patient survey reported\nsatisfaction with their lab experience.\n\nIn 2024, Alberta signed a three-year, approximately $54-million bilateral agreement with the"
+  },
+  {
+    "metric": "Arthur Child Cancer Centre fully operational",
+    "value": null,
+    "unit": "facility opening",
+    "period": "2024-10-28",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 25,
+    "definition": "Verified operational date, not construction completion.",
+    "limitation": "160 inpatientbeds/90chemospaces gross facility capacity; predecessor/net staffed capacity unquantified.",
+    "source_quote": "Further, approximately 23,015 cancer surgeries were completed in 2024-25, a 9.4 per cent increase\ncompared with the same period in 2023-24. Nearly 55 per cent of cancer surgeries were completed\nwithin clinically recommended wait times, helping to ensure patients receive timely access to\npotentially life-saving procedures.\n\nThe Arthur J.E. Child Comprehensive Cancer Centre became fully operational on October 28, 2024.\nThe centre provides additional capacity for timely access to cancer diagnostics and treatment,\nsupporting optimal health outcomes for cancer patients. This new cancer centre in Calgary engages\npatients at the centre of a multidisciplinary health system and offers a world-class environment for\n\n\nHealth | Annual Report 2024\u20132025                                                                                        23"
+  },
+  {
+    "metric": "Rocky Mountain House additional operating room",
+    "value": 1,
+    "unit": "new operating room",
+    "period": "operational2024-04",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 23,
+    "definition": "Second room became operational; project explicitly added one new room.",
+    "limitation": "Local addition; provincial total OR count and monthly actual outputs unknown.",
+    "source_quote": "As part of ASI, the second operating room at the Rocky Mountain House Health Centre became\noperational in April 2024. This project supports the government\u2019s commitment to improve access\nto timely surgical care for Albertans, particularly in rural communities.\n\nThe expansion project added 4,736 square feet of new space, including:\n\n    \u2022        A new operating room\n    \u2022        Six additional recovery beds\n    \u2022        A patient support area\n    \u2022        An upgraded medical device reprocessing department\n\nThis investment enables the facility to provide approximately 120 surgeries per month,\nsignificantly enhancing rural surgical capacity and reducing the need for patients to travel long\ndistances for care."
+  },
+  {
+    "metric": "Rocky Mountain House additional recovery beds",
+    "value": 6,
+    "unit": "recovery beds",
+    "period": "project operational2024-04",
+    "source_report": "hlth-annual-report-2024-2025",
+    "physical_pdf_page": 23,
+    "definition": "Explicit additional recovery beds with surgery expansion.",
+    "limitation": "Not acute inpatient or continuing-care beds.",
+    "source_quote": "to timely surgical care for Albertans, particularly in rural communities.\n\nThe expansion project added 4,736 square feet of new space, including:\n\n    \u2022        A new operating room\n    \u2022        Six additional recovery beds\n    \u2022        A patient support area\n    \u2022        An upgraded medical device reprocessing department\n\nThis investment enables the facility to provide approximately 120 surgeries per month,\nsignificantly enhancing rural surgical capacity and reducing the need for patients to travel long\ndistances for care.\n\nED Wait Times, EHS Performance, and Workforce Initiatives\n\nThe Government of Alberta implemented several initiatives in 2024-25 to reduce ED wait times by\nincreasing front-line staff capacity and improving patient flow. As of March 2025, there were 3,888\nAHS nurses (including registered nurses, licensed practical nurses, and health care aides) working"
+  },
+  {
+    "metric": "Misericordia ED operational opening",
+    "value": null,
+    "unit": "facility opening",
+    "period": "2023-11-21",
+    "source_report": "health-2023-2024",
+    "physical_pdf_page": 26,
+    "definition": "Actual ED opening with documented predecessor/new capacity.",
+    "limitation": "Local capacity expansion does not prove provincial waiting-time causation.",
+    "source_quote": "physician assessment in the 16                                                                              2022-23\n  largest sites (hours)\n* The methodology was revised to exclude data for patients that \u2018Left Without Being Seen\u2019 and results were updated from 4.6 to 4.5 hours\n  in 2021-22 and 6.3 to 6.2 hours in 2022-23.\n\nOn November 21, 2023, a new ED opened at the Misericordia Community Hospital in Edmonton.\nThe new ED includes 5,500 square meters of spaces (an increase from 1,700 square meters), six\nambulance bays (increased from four), 64 treatment rooms (an increase from 26 rooms), two\nradiology rooms, five isolation rooms (an increase from one), 18 acute care spaces (increased from\n12) and a decontamination suite. The new ED is three times larger than the old one and has the\n\n\n\n24                                                                                                 Health | Annual Report 2023\u20132024"
+  }
+]

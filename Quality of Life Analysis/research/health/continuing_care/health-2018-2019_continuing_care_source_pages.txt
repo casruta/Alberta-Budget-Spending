@@ -1,0 +1,105 @@
+PHYSICAL PDF PAGE 16,1-indexed
+Results Analysis
+
+
+
+Performance Measures and Indicators
+Performance Measure 1.a
+     Access to continuing care: Percentage of clients placed in continuing care within 30 days of
+     being assessed
+
+
+                              Prior Years’ Results
+                                                                                              2018-19               2018-19
+      2014-15               2015-16                2016-17              2017-18                Result               Target
+       Result                Result                Result                Result
+        60%                   60%                    56%                   52%                  58%                   58%
+Source: Alberta Health Services. Data are extracted from Meditech and Stratahealth Pathways.
+
+
+This measure is used to monitor and report on access to continuing care living options (designated
+supportive living or long-term care) in Alberta, as indicated by the proportion of individuals waiting
+30 days or less for a move into a continuing care option. Timely access to a continuing care facility as
+soon as possible after being assessed, supports the health and well-being of both the client and their
+family.
+
+Results Analysis
+
+The current result of 58 per cent shows that the increase in the number of facility-based continuing care
+spaces and the enhancements made to home care in the past few years are starting to achieve the
+planned improvement in the percentage of clients who are moved into facility-based continuing care
+within 30 days of being assessed. AHS tracks results on a monthly basis and there are indications that
+the results began to show improvement as early as late 2017 and have continued to improve across
+2018-19, however there is need for the investments made in home and community care to mature and for
+the addition of facility-based spaces in continuing care to continue, as planned.
+
+Performance Measure 1.b
+     Percentage of mental health patients with unplanned readmissions within 30 days of leaving
+     hospital
+
+
+                              Prior Years’ Results
+                                                                                             Current               2018-19
+      2014-15               2015-16                2016-17              2017-18              Result                Target
+       Result                Result                Result                Result
+        8.8%                  8.6%                   8.8%                 8.8%                 9.8%1                 8.6%
+Source: Canadian Institute for Health Information (CIHI); Alberta Health Services, Provincial Inpatient Database (DAD).
+1
+ Q3 year-to-date.
+
+
+This measure represents the proportion of occurrences of a non-elective (unplanned) readmission to an
+acute care hospital for selected mental illness within 30 days of a patient being discharged from the
+hospital stay for their mental illness. The measure applies only to inpatients of acute care hospitals in
+Alberta. Visits to facilities and programs not designated as acute inpatient care facilities (e.g., hospital
+emergency departments, urgent care centres, community clinics) are not included. The selected mental
+
+
+
+
+14                                                                                             Health | Annual Report 2018–2019
+
+
+PHYSICAL PDF PAGE 36,1-indexed
+Results Analysis
+
+
+
+
+Performance Measure and Indicator Methodology
+Performance Measure 1.a
+     Access to continuing care: Percentage of clients placed in continuing care within 30 days of
+     being assessed
+
+ Methodology
+
+
+ Percentage of clients admitted to a Continuing Care Living Option (Designated Supportive Living or
+ Long-term Care) within 30 days of the assessed and approved date.
+
+ Assessed and Approved date refers to the date the client is placed on the waitlist for a Continuing Care
+ Living Option following the completion of the assessment and approval process.
+
+ The data excludes clients who transferred from a continuing care living option to another continuing
+ care living option; clients assessed and approved but not yet admitted during the reporting period;
+ clients in the process of being approved for continuing care living options; clients admitted to another
+ zone from the reporting zone to avoid double-counting; clients referred for home care services; clients
+ admitted to a sub-acute unit or a rehabilitation unit; clients admitted to a hospice or palliative care unit;
+ clients admitted to an acute care bed/service for another acute care bed/service (e.g., surgical bed to a
+ medical bed); and clients transferred to a non-tertiary acute care hospital bed (e.g., repatriated to a
+ community hospital). The wait time also excludes days when a client was unavailable for placement due
+ to medical reasons.
+
+
+
+        # of individuals admitted to a CCLO within 30 days of their assessed and approved date
+ %=                                                                                                    x 100
+                   total # of individuals admitted to a CCLO during the response period
+
+ Source
+ Alberta Health Services. Data are extracted from Meditech and Stratahealth Pathways.
+
+
+
+
+34                                                                              Health | Annual Report 2018–2019

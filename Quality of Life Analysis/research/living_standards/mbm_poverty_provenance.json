@@ -1,0 +1,41 @@
+{
+  "download_url": "https://www150.statcan.gc.ca/n1/tbl/csv/11100135-eng.zip",
+  "http_status": 200,
+  "client": "curl -L --fail; normal proxy and verified TLS",
+  "local_zip_sha256": "6bba4871ba1e866d0e7b07ed1adb034726b8aa6fa5d2301fb49ba856f1e37939",
+  "metadata_sha256": "d71da769ba30eedba2e4177ab17fa99a2dadf5862446be72830095faaa5d1266",
+  "extraction_utc": "2026-10-09T04:07:08.248250+00:00",
+  "title": "Low income statistics by age, gender and economic family type",
+  "table": "11-10-0135-01",
+  "persons": "All persons",
+  "statistics": "Percentage of persons in low income",
+  "bases_and_year_coverage": {
+    "Market basket measure, 2018 base": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "Market basket measure, 2023 base": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ]
+  },
+  "rows": 28,
+  "forecast_rows": 0,
+  "splicing": "none;2024 2018base absent;2023base prior2020 absent",
+  "revision_note_22": "With the release of the 2024 CIS data, Statistics Canada revised estimates from 2018 to 2023 based on population counts from the 2021 Census.",
+  "sampling_caution": "Quality flags are not standard errors or a significance test; do not infer difference significance.",
+  "table_release_date": "2026-04-29",
+  "release_date_source": "Official table HTML Release date and JSON-LD datePublished, not ZIP metadata",
+  "table_page_sha256": "30963edd885dc960b55706c77a64585ee0c1fab9024aa0a9e991ae6803cb7fc5",
+  "survey_coverage_exclusions": "Not specified in ZIP table footnotes; linked survey5200 HTTPS metadata returned403; no reserve coverage assertion"
+}

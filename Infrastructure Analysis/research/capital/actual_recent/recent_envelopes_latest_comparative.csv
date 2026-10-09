@@ -1,0 +1,59 @@
+fiscal_year,source_vintage,envelope,actual_cad_millions,budget_cad_millions,status,pdf_page,source_file
+2022-23,2023-24,Agriculture and Natural Resources,139,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Agriculture and Natural Resources,166,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Capital Maintenance and Renewal,1166,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Capital Maintenance and Renewal,1150,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,"Family, Social Supports and Housing",55,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,"Family, Social Supports and Housing",85,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Municipal Infrastructure Support,1145,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Municipal Infrastructure Support,2168,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Protect Quality Health Care,500,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Protect Quality Health Care,597,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Public Safety and Emergency Infrastructure,278,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Public Safety and Emergency Infrastructure,242,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Renewing Educational Infrastructure,508,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Renewing Educational Infrastructure,521,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Roads and Bridges,653,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Roads and Bridges,687,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Skills for Jobs,98,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Skills for Jobs,85,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2022-23,Sports and Recreation,112,144,current_actual,17,2022-2023 Budget.pdf
+2021-22,2022-23,Sports and Recreation,47,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Streamlining Service Delivery,238,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Streamlining Service Delivery,246,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Total Capital Plan - Core Government,4893,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Total Capital Plan - Core Government,5995,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,SUCH self-financed investment,739,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,SUCH self-financed investment,627,,prior_actual,17,2022-2023 Budget.pdf
+2022-23,2023-24,Total Capital Plan - Fully Consolidated,5633,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2021-22,2022-23,Total Capital Plan - Fully Consolidated,6622,,prior_actual,17,2022-2023 Budget.pdf
+2023-24,2023-24,Agriculture and Natural Resources,217,371,current_actual,17,tbf-goa-2023-2024 Budget.pdf
+2023-24,2024-25,"Arts, Sports and Recreation",151,,prior_actual,17,2024-2025 Budget.pdf
+2022-23,2023-24,"Arts, Sports and Recreation",112,,prior_actual,17,tbf-goa-2023-2024 Budget.pdf
+2023-24,2024-25,Capital Maintenance and Renewal,1302,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,"Family, Social Supports and Housing",103,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Municipal Infrastructure Support,1580,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Protect Quality Health Care,376,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Public Safety and Emergency Infrastructure,334,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Renewing Educational Infrastructure,602,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Roads and Bridges,514,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Skills for Jobs,83,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Streamlining Service Delivery,305,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Total Capital Plan - Core Government,5568,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,SUCH self-financed investment,732,,prior_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,Total Capital Plan - Fully Consolidated,6300,,prior_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,"Agriculture, Natural Resources, and Business Development",318,434,current_actual,17,2024-2025 Budget.pdf
+2023-24,2024-25,"Agriculture, Natural Resources, and Business Development",217,,prior_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,"Arts, Sports and Recreation",122,146,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Capital Maintenance and Renewal,1347,1271,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,"Family, Social Supports and Housing",72,192,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Municipal Infrastructure Support,2069,2356,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Protect Quality Health Care,694,1199,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Public Safety and Emergency Infrastructure,235,220,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Renewing Educational Infrastructure,589,722,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Roads and Bridges,542,597,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Skills for Jobs,112,117,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Streamlining Service Delivery,399,478,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Total Capital Plan - Core Government,6499,7732,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,SUCH self-financed investment,744,567,current_actual,17,2024-2025 Budget.pdf
+2024-25,2024-25,Total Capital Plan - Fully Consolidated,7243,8299,current_actual,17,2024-2025 Budget.pdf

@@ -1,0 +1,4 @@
+baseline_calendar_year,endpoint_calendar_year,average_weekly_earnings_nominal_growth_pct,average_weekly_earnings_cpi_adjusted_growth_pct,unemployment_rate_change_percentage_points,status,caveat
+2015,2024,16.185476815398083,-8.045906086082955,0.9000000000000004,derived sensitivity from rounded official rows; not household living-standard index,Changing employment mix/hours and calendar CPI proxy; not median/aftertax income or causal policy effect
+2018,2024,15.679442508710807,-3.701342678032893,0.5,derived sensitivity from rounded official rows; not household living-standard index,Changing employment mix/hours and calendar CPI proxy; not median/aftertax income or causal policy effect
+2019,2024,14.089347079037795,-3.3154862051924194,0.09999999999999964,derived sensitivity from rounded official rows; not household living-standard index,Changing employment mix/hours and calendar CPI proxy; not median/aftertax income or causal policy effect

@@ -1,0 +1,43 @@
+[
+  {
+    "source_file": "Budget PDFs/2017 Budget.pdf",
+    "sha256": "c5cbb7327d8625867422eca99544a7e2d0da421eaedd185952c13abd1fec3f73",
+    "pdf_pages": [
+      116,
+      118,
+      128,
+      143,
+      144,
+      145,
+      150
+    ]
+  },
+  {
+    "source_file": "Budget PDFs/2016-2017 Budget.pdf",
+    "sha256": "e9c8c6b7098a0b4ee0bf3b6d33b96e62a83285e6ea82b32e7fcc9bdf675402fa",
+    "pdf_pages": [
+      109,
+      111,
+      123,
+      141,
+      146
+    ]
+  },
+  {
+    "source_file": "Budget PDFs/2014-2015 Annual Report.pdf",
+    "sha256": "da2bfb045ca435684861f6a8454031ac93673cf5ba5c0d9fdde0509f03934e3d",
+    "pdf_pages": [
+      120,
+      129,
+      130
+    ]
+  },
+  {
+    "source_file": "Budget PDFs/2013-2014 Annual Report.pdf",
+    "sha256": "6debfceda74ae6251359eb05940a95365475998644c62258555ed69c3fe6cb6a",
+    "pdf_pages": [
+      136,
+      144
+    ]
+  }
+]

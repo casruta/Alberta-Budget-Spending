@@ -1,0 +1,543 @@
+4	
+GOVERNMENT OF ALBERTA 2015 –16 ANNUAL REPORT
+Contingency Account (at March 31, 2016)
+(millions of dollars)
+2014-15
+2014-15
+Budget
+Actual
+Actual
+Budget
+Actual
+1 Balance at Start of Year (April 1)
+6,529
+       
+6,529
+      
+4,658
+      
+-
+             
+1,871
+      
+2 Surplus / (Deficit)
+(6,118)
+      
+(6,442)
+     
+1,115
+      
+(324)
+        
+(7,557)
+     
+Cash Adjustments – Sources / (Requirements)
+3
+SUCH / Alberta Innovates own-source revenue / expense
+491
+          
+563
+623
+         
+72
+           
+(60)
+          
+4
+Income retained by funds and agencies / Heritage Fund
+(639)
+        
+(1,000)
+(1,048)
+     
+(361)
+        
+48
+           
+5
+Pension provisions (non-cash expense)
+31
+            
+(630)
+(404)
+        
+(661)
+        
+(226)
+        
+6
+Amortization (ex. SUCH; non-cash expense) / book value of disposals 
+847
+          
+849
+855
+         
+2
+             
+(6)
+            
+7
+Inventory consumption (excluding SUCH; non-cash expense)
+129
+          
+125
+141
+         
+(4)
+           
+(16)
+          
+8
+Student loans / inventory acquisition (excluding SUCH)
+(547)
+        
+(514)
+(411)
+        
+33
+           
+(103)
+        
+9
+2013 Alberta flood assistance revenue / expense
+(429)
+        
+(86)
+(745)
+        
+343
+         
+659
+         
+10
+Energy royalties
+354
+          
+60
+           
+1,369
+      
+(294)
+        
+(1,309)
+     
+11
+Net deferred capital contribution adjustment (excluding SUCH)
+89
+            
+73
+101
+         
+(16)
+         
+(28)
+          
+12
+Other cash adjustments
+(477)
+        
+334
+278
+         
+811
+         
+56
+           
+13
+Capital investment (excluding SUCH; cash requirement not in expense)
+(4,762)
+      
+(3,888)
+(3,414)
+     
+874
+         
+(474)
+        
+14
+Withdrawal / (deposit) from / (to) Capital Plan account 
+-
+              
+(1,892)
+673
+         
+(1,892)
+     
+(2,565)
+     
+15
+Direct borrowing for Capital Plan
+5,958
+       
+7,016
+3,021
+      
+1,058
+      
+3,995
+      
+16
+Alternative financing for Capital Plan (P3s - public-private partnerships) 
+143
+          
+143
+199
+         
+-
+             
+(56)
+          
+17
+Current principal repayments (P3s)
+(42)
+          
+(41)
+(39)
+         
+1
+             
+(2)
+            
+18 Surplus / (deficit) plus net cash adjustments
+(4,972)
+      
+(5,330)
+     
+2,314
+      
+(358)
+        
+(7,644)
+     
+19
+Cash transferred from prior-year final results
+1,731
+       
+1,731
+1,287
+      
+-
+             
+444
+         
+20
+Cash from final results to be withdrawn / (deposited) next year
+-
+              
+695
+(1,731)
+     
+695
+         
+2,426
+      
+21 Balance at End of Year (March 31)
+3,289
+       
+3,625
+      
+6,529
+      
+336
+         
+(2,904)
+     
+2015-16
+Change from 
+Fiscal Summary 
+(millions of dollars)
+2014-15
+2014-15
+INCOME STATEMENT
+Budget
+Actual
+Actual
+Budget
+Actual
+Revenue
+1
+Personal income tax
+12,047
+     
+11,357
+     
+11,042
+     
+(690)
+        
+315
+          
+2
+Corporate income tax
+4,745
+       
+4,195
+       
+5,796
+       
+(550)
+        
+(1,601)
+      
+3
+Other taxes
+5,307
+       
+5,168
+       
+4,598
+       
+(139)
+        
+570
+          
+4
+Bitumen royalties
+1,547
+       
+1,223
+       
+5,049
+       
+(324)
+        
+(3,826)
+      
+5
+Other non-renewable resource revenue
+1,221
+       
+1,566
+       
+3,899
+       
+345
+          
+(2,333)
+      
+6
+Transfers from Government of Canada
+6,984
+       
+7,142
+       
+5,982
+       
+158
+          
+1,160
+       
+7
+Investment income
+2,820
+       
+2,544
+       
+3,113
+       
+(276)
+        
+(569)
+         
+8
+Net income from government business enterprises
+2,736
+       
+2,570
+       
+2,665
+       
+(166)
+        
+(95)
+           
+9
+Premiums, fees and licences
+3,687
+       
+3,574
+       
+3,564
+       
+(113)
+        
+10
+            
+10
+Other revenue
+2,694
+       
+3,161
+       
+3,773
+       
+467
+          
+(612)
+         
+11 Total Revenue
+43,788
+     
+42,500
+     
+49,481
+     
+(1,288)
+      
+(6,981)
+      
+Expense
+12
+Operating expense
+43,209
+     
+43,189
+     
+42,047
+     
+(20)
+          
+1,142
+       
+13
+Capital grants (including 2013 flood support)
+1,975
+       
+1,911
+       
+2,466
+       
+(64)
+          
+(555)
+         
+14
+Disaster assistance (including 2013 flood operating support)
+829
+          
+563
+          
+351
+          
+(266)
+        
+212
+          
+15
+Capital amortization / loss on asset disposals
+2,262
+       
+2,236
+       
+2,302
+       
+(26)
+          
+(66)
+           
+16
+Inventory consumption
+821
+          
+895
+          
+882
+          
+74
+            
+13
+            
+17
+Debt servicing costs - general 
+326
+          
+330
+          
+370
+          
+4
+              
+(40)
+           
+18
+Debt servicing costs - Capital Plan
+452
+          
+446
+          
+352
+          
+(6)
+            
+94
+            
+19
+Pension provisions
+31
+            
+(630)
+        
+(404)
+         
+(661)
+        
+(226)
+         
+20 Total Expense 
+49,906
+     
+48,942
+     
+48,366
+     
+(966)
+        
+574
+          
+21 Surplus / (Deficit)
+(6,118)
+      
+(6,442)
+      
+1,115
+       
+(324)
+        
+(7,557)
+      
+CAPITAL PLAN
+22 Capital grants
+1,975
+       
+1,911
+       
+2,466
+       
+(64)
+          
+(555)
+         
+23 Capital investment
+5,888
+       
+4,647
+       
+3,715
+       
+(1,241)
+      
+932
+          
+24 Total Capital Plan
+7,863
+       
+6,558
+       
+6,181
+       
+(1,305)
+      
+377
+          
+2015-16
+Change from 

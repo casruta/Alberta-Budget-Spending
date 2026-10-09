@@ -1,0 +1,240 @@
+
+SOURCE hlth-annual-report-2024-2025.txt, physical PDF page 56
+Results Analysis
+
+
+
+
+Performance Measure and Indicator Methodology
+Performance Measure 1.a:
+     Emergency department wait times: 90th percentile time to initial physician assessment
+     in the 16 largest sites (hours)
+
+Methodology
+
+This measure represents the length of time (in hours) between patient triage and the time of the
+initial physician assessment.
+
+The 90th percentile response interval is calculated for all EMS events triaged by the EMS
+Communications Centre as ‘delta’ or ‘echo’, the most emergent or potentially life-threatening calls.
+
+Source
+
+AHS – Emergency Department Information Systems and Emergency Department Visit Data
+Repository AHS.
+
+Performance Measure 1.b:
+EMS 90th percentile response times (minutes) for the most urgent (life threatening) calls
+
+Methodology
+
+Response time is calculated based on events triaged in the EMS Communication Centre, using an
+internationally accredited EMS call taking system, to be emergency or potentially life threatening at
+the time of triage by the EMS Communications Centre. This includes events categorized as ‘delta’ and
+‘echo.’
+
+     •       Inclusion: Event level response interval for all requests for EMS response triaged as a
+             ‘delta’ or ‘echo’ by geographical location of call (Metro/Urban, Communities > 3,000,
+             Rural or Remote).
+
+     •       Exclusions:
+
+             o     Events triaged by the EMS Communications Centre as an alpha, bravo or charlie
+                   response.
+             o     Events or requests identified as inter-facility transfers.
+             o     Events with missing timestamps (such as arrive on scene) related to metric
+                   calculation.
+The 90th percentile response interval is calculated for all EMS events triaged by the EMS
+Communications Centre as ‘delta’ or ‘echo’, the most emergent or potentially life-threatening calls.
+
+Source
+
+EMS Computer Aided Dispatch (CAD) data captured with EMS Communications Centres, Alberta
+Health
+
+
+
+
+54                                                                              Health | Annual Report 2024–2025
+
+SOURCE hlth-annual-report-2024-2025.txt, physical PDF page 58
+Results Analysis
+
+
+
+late congenital syphilis cases are excluded. STI information, with links to case definitions, are
+available online: https://www.alberta.ca/notifiable-diseaseguidelines. Non-Alberta residents are
+not included in the numerator. Whenever possible, disease diagnosis dates were used to determine
+the year of infection. If the diagnosis date was not available, then the collection date was used. The
+denominator is the number of live births in Alberta. The congenital syphilis rate is reported as the
+number of congenital syphilis cases diagnosed in Alberta per 100,000 live births.
+
+Source
+
+Communicable Disease & Outbreak Management (CDOM) - Communicable Disease Reporting
+System (CDRS), AHCIP Adjusted Mid-Year Population Registry Files, Alberta Health Postal Code
+Translator File (PCTF), and Vital Statistics Live Births
+
+
+
+Additional Performance Metrics not included in Health Business Plan 2024-27
+
+Performance Indicator (Outcome 1, Key Objective 1.1):
+     Percentage of surgical procedures that met national wait time benchmarks
+
+Methodology
+
+Ready-to-treat (RTT) wait time (in days) is calculated for each relevant record meeting specified
+inclusion/exclusion criteria.
+
+     •        Inclusion Criteria: All elective hip, knee replacement and cataract surgeries based on
+              surgery procedure catalogue descriptions. All urgency levels.
+     •        Exclusion Criteria: persons who received emergency surgical care. Cases with an invalid
+              RTT date. When cataract surgery is required for both of a patient’s eyes, only the wait
+              time for surgery on the first eye is included in the wait time calculations.
+
+RTT Date = The date that the surgeon determines the patient is ready for the surgical intervention.
+The RTT Date excludes patient delays or voluntary waits.
+
+Treatment Date = The date the treatment (surgical procedure) took place.
+
+RTT Wait time = Treatment (surgical procedure) Date minus RTT Date
+
+National RTT wait time benchmarks:
+
+     •        Hip replacement national benchmark is 182 days
+     •        Knee replacement national benchmark is 182 days
+     •        Cataract surgery national benchmark (for first eye) is 112 days.
+
+             Number of cases completed with a RTT wait time less than or equal to the
+Percentage = national RTT wait time benchmark                                                     X 100
+
+                   Number of completed cases with valid RTT dates
+
+
+56                                                                          Health | Annual Report 2024–2025
+
+SOURCE health-2023-2024.txt, physical PDF page 57
+                                                                                              Results Analysis
+
+
+
+
+Performance Measure and Indicator Methodology
+Performance Measure 1.a:
+     Emergency department wait times: 90th percentile time to initial physician assessment
+     in the 16 largest sites (hours)
+
+Methodology
+The ED wait times are calculated based on the total time from the first documented time after arrival at an
+ED to the time the patient leaves the ED for an inpatient hospital bed.
+   Inclusions: Top 16 largest sites and emergency department visits
+   Exclusions:
+            o Both registration and triage date/time are unknown, missing or invalid
+            o Visits where physician initial assessment time is missing or invalid
+            o Any visit that is not face to face visits
+            o Any visit where the most responsible provider services is not a physician
+            o Visits where patient left without triage
+            o Visits where patient left without being seen by a service provider
+            o Visits where patient was dead on arrival (DOA)
+Step 1. For each record with valid start and end times, calculate wait time in minutes as: (physician initial
+assessment time)−minimum (registration time, triage time)
+Step 2. Calculate summary measure as 90th percentile (in hours).
+
+Source
+
+Emergency Department Visit Data Repository Alberta Health Services
+
+
+
+Performance Measure 1.b:
+     EMS 90th percentile response times (minutes) for the most urgent (life threatening)
+     calls
+
+Methodology
+Response time is calculated based on events thought to be life threatening at the time of the 911 call and
+includes Delta and Echo events. These events are a subset of the total number of Emergency Events
+   Inclusion: Event level response interval for all 911 generated events with a Delta or Echo
+    determinant categorized by geographical type (Metro/Urban, Communities > 3,000, Rural or
+    Remote).
+   Exclusions:
+            o Event level response interval for all 911 generated events with an Alpha, Bravo or
+                Charlie determinant.
+            o Inter-Facility Transfers.
+            o EMS responses with missing timestamps (such as arrive on scene) related to interval
+                calculation are excluded
+The 90th percentile response interval is calculated for all 911 generated Delta and Echo
+determinant events within a specified geographical type
+Source
+
+
+
+
+Health | Annual Report 2023–2024                                                                           55
+
+SOURCE 2014-2015 Annual Report.txt, physical PDF page 128
+SOURCES AND NOTES, continued
+
+      Foundations and Training-for-Work program.             The calculation of the HARTI involves
+      Survey questions were: “What is your current           each of the six indicators listed below being
+      main activity? Are you Employed, Self-                 dichotomized as 0 or 1 (0 for not having the
+      Employed, In School/Training, Unemployed,              behaviour or 1 for having the behaviour)
+      Retired?” Responses that indicate the                  and totaling them from a risk factor
+      participant is employed or in school or                perspective, meaning a 6 would be most
+      training are used to calculate the result. The         unhealthy and 0 would be most healthy.
+      estimated margin of error for the provincial
+                                                             ■■ Life Stress
+      sample of 2,898 is +/- 1.8 percentage points
+                                                             ■■ BMI Category
+      based on the 95 per cent confidence interval.
+                                                             ■■ Fruit and Vegetable Consumption
+
+10.   Satisfaction with Health Care Services                 ■■ Physical Activity Category derived from
+      Received                                                  reported physical activities
+      Source: Health Quality Council of Alberta.             ■■ Smoking Status
+
+      Satisfaction and Experiences with Health               ■■ Binge Drinking
+      Care Services in Alberta (2014 and 2015),
+      conducted by the Population Research                   In 2013, the question related to the frequency
+      Laboratory at the University of Alberta                of binge drinking changed. The question
+                                                             now asks: How often in the past 12 months
+      Note(s): Results reflect Albertans’ overall
+                                                             have you had (4 or more – for females)/ (5
+      rating of their satisfaction with health
+                                                             or more – for males) drinks on one occasion?
+      care services personally received in Alberta
+                                                             Previously the question asked both males and
+      within the past year. In 2014-15, a total of
+                                                             females about 5 or more drinks. This change
+      1,471 people in Alberta were surveyed. The
+                                                             prospectively affects the HARTI through
+      estimated margin of error for the provincial
+                                                             the changes in binge drinking estimates.
+      sample of 1,471 is 2.6 per cent based on
+                                                             The 2013 results are therefore not directly
+      the 95 per cent confidence interval. From
+                                                             comparable to the results of previous years.
+      this sample, 1,361 respondents answered
+      the question on satisfaction with health care
+      services personally received in Alberta within   12.   Potential Years of Life Lost
+      the past year. Results are reliable within             Source: Alberta Vital Statistics Death File,
+      +/-2.5 per cent, 19 times out of 20 for this           Alberta Health Care Insurance Plan (AHCIP)
+      question.                                              Quarterly Population Registry Files, Alberta
+                                                             Health Postal Code translation file, Statistics
+11.   Healthy Alberta Risk Trend Index (HARTI)               Canada, Census 1991 population data
+      Source: Statistics Canada. Canadian                    Note(s): Potential years of life lost (PYLL)
+      Community Health Survey (CCHS) Alberta                 is the number of years of life “lost” when a
+      Share File (the CCHS Share File is not                 person dies “prematurely” from any cause,
+      publicly issued)                                       before age 75. A person dying at age 25, for
+                                                             example, has lost 50 years of life.
+      Note(s): This performance measure is
+      an indicator of progress achieved toward               PYLL are calculated by taking the mid-
+      improving healthy behaviours and reducing              point age in each age group, subtracting
+      risks for development of disease and                   from 75, and multiplying by the number of
+      disabilities among Albertans aged 20 to 64             deaths in that age group disaggregated by
+      years.                                                 sex and cause of death (Statistics Canada) to
+                                                             determine the years of life lost in each cohort.
+
+
+
+122                                                           GOVERNMENT OF ALBERTA 2014–15 ANNUAL REPORT

@@ -1,0 +1,37 @@
+{
+  "direct_source": "Budget PDFs/2024-2025 Budget.pdf p13",
+  "method": "Decimal precision35; direct official PDF row parsing; does not read Infrastructure Analysis or import mainanalysis",
+  "all10_exported_real_earnings_checked": true,
+  "all10_unemployment_rates_checked": true,
+  "comparisons": [
+    {
+      "baseline": 2015,
+      "endpoint": 2024,
+      "nominal_weekly_earnings_growth_pct": "16.185476815398075240594925634295710",
+      "cpi_growth_pct": "26.351608584816960937341747200",
+      "cpi_adjusted_weekly_earnings_growth_pct": "-8.0459060895885568973071635881212030",
+      "unemployment_change_percentage_points": "0.9"
+    },
+    {
+      "baseline": 2018,
+      "endpoint": 2024,
+      "nominal_weekly_earnings_growth_pct": "15.679442508710801393728222996515680",
+      "cpi_growth_pct": "20.125706557211532800",
+      "cpi_adjusted_weekly_earnings_growth_pct": "-3.7013426817041334311638093105061340",
+      "unemployment_change_percentage_points": "0.5"
+    },
+    {
+      "baseline": 2019,
+      "endpoint": 2024,
+      "nominal_weekly_earnings_growth_pct": "14.089347079037800687285223367697590",
+      "cpi_growth_pct": "18.001676382329600",
+      "cpi_adjusted_weekly_earnings_growth_pct": "-3.3154862059888998214756203127606060",
+      "unemployment_change_percentage_points": "0.1"
+    }
+  ],
+  "household_income_2024": {
+    "value": "7.1",
+    "unit": "annual percentage growth of aggregate primary household income",
+    "status": "estimate under a footnote; not final actual or disposable/median/percapita income"
+  }
+}

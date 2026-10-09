@@ -1,0 +1,72 @@
+[
+  {
+    "year": "2020",
+    "geography": "Canada",
+    "html_value": "81.58",
+    "csv_value": "81.58",
+    "pass": true
+  },
+  {
+    "year": "2021",
+    "geography": "Canada",
+    "html_value": "81.5",
+    "csv_value": "81.50",
+    "pass": true
+  },
+  {
+    "year": "2022",
+    "geography": "Canada",
+    "html_value": "81.13",
+    "csv_value": "81.13",
+    "pass": true
+  },
+  {
+    "year": "2023",
+    "geography": "Canada",
+    "html_value": "81.68",
+    "csv_value": "81.68",
+    "pass": true
+  },
+  {
+    "year": "2024",
+    "geography": "Canada",
+    "html_value": "82.16",
+    "csv_value": "82.16",
+    "pass": true
+  },
+  {
+    "year": "2020",
+    "geography": "Alberta",
+    "html_value": "80.84",
+    "csv_value": "80.84",
+    "pass": true
+  },
+  {
+    "year": "2021",
+    "geography": "Alberta",
+    "html_value": "80.24",
+    "csv_value": "80.24",
+    "pass": true
+  },
+  {
+    "year": "2022",
+    "geography": "Alberta",
+    "html_value": "80.19",
+    "csv_value": "80.19",
+    "pass": true
+  },
+  {
+    "year": "2023",
+    "geography": "Alberta",
+    "html_value": "80.71",
+    "csv_value": "80.71",
+    "pass": true
+  },
+  {
+    "year": "2024",
+    "geography": "Alberta",
+    "html_value": "81.53",
+    "csv_value": "81.53",
+    "pass": true
+  }
+]

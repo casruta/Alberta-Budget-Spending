@@ -1,0 +1,72 @@
+[
+  {
+    "baseline": 2015,
+    "endpoint": 2024,
+    "nominal_per_person_growth_pct": -6.249167629954677,
+    "break_even_cumulative_construction_inflation_pct": -6.249167629954677,
+    "break_even_annualized_inflation_pct": -0.7144317442208781,
+    "cpi_cumulative_growth_pct": 26.351608584816933,
+    "cpi_adjusted_per_person_growth_pct": -25.801631320655062,
+    "rounding_low_pct": -26.153385787124883,
+    "rounding_high_pct": -25.44804224649444,
+    "break_even_price_rounding_low_pct": -6.283664284491475,
+    "break_even_price_rounding_high_pct": -6.214658559533726,
+    "population_growth_factor_for_constant_CPI_adjusted_intensity": 0.8741104204176323
+  },
+  {
+    "baseline": 2018,
+    "endpoint": 2024,
+    "nominal_per_person_growth_pct": 5.003013405780687,
+    "break_even_cumulative_construction_inflation_pct": 5.003013405780687,
+    "break_even_annualized_inflation_pct": 0.8169668231976068,
+    "cpi_cumulative_growth_pct": 20.125706557211508,
+    "cpi_adjusted_per_person_growth_pct": -12.589056568194612,
+    "rounding_low_pct": -12.875267844551686,
+    "rounding_high_pct": -12.301781348323814,
+    "break_even_price_rounding_low_pct": 4.964135795635749,
+    "break_even_price_rounding_high_pct": 5.041905304774641,
+    "population_growth_factor_for_constant_CPI_adjusted_intensity": 0.9954626192361904
+  },
+  {
+    "baseline": 2019,
+    "endpoint": 2024,
+    "nominal_per_person_growth_pct": 16.355001686677785,
+    "break_even_cumulative_construction_inflation_pct": 16.355001686677785,
+    "break_even_annualized_inflation_pct": 3.0758705358432836,
+    "cpi_cumulative_growth_pct": 18.001676382329567,
+    "cpi_adjusted_per_person_growth_pct": -1.3954672053272388,
+    "rounding_low_pct": -1.6706442836115332,
+    "rounding_high_pct": -1.1194042296349904,
+    "break_even_price_rounding_low_pct": 16.311227381279924,
+    "break_even_price_rounding_high_pct": 16.39879254161931,
+    "population_growth_factor_for_constant_CPI_adjusted_intensity": 1.1069519192494952
+  },
+  {
+    "baseline": 2022,
+    "endpoint": 2024,
+    "nominal_per_person_growth_pct": 18.640105386627347,
+    "break_even_cumulative_construction_inflation_pct": 18.640105386627347,
+    "break_even_annualized_inflation_pct": 8.922038810622412,
+    "cpi_cumulative_growth_pct": 6.295699999999993,
+    "cpi_adjusted_per_person_growth_pct": 11.613268821436208,
+    "rounding_low_pct": 11.463739724624977,
+    "rounding_high_pct": 11.763051228188171,
+    "break_even_price_rounding_low_pct": 18.59610936805922,
+    "break_even_price_rounding_high_pct": 18.68411787930775,
+    "population_growth_factor_for_constant_CPI_adjusted_intensity": 1.2096592136289104
+  },
+  {
+    "baseline": 2023,
+    "endpoint": 2024,
+    "nominal_per_person_growth_pct": 10.17105130727549,
+    "break_even_cumulative_construction_inflation_pct": 10.17105130727549,
+    "break_even_annualized_inflation_pct": 10.17105130727549,
+    "cpi_cumulative_growth_pct": 2.8999999999999915,
+    "cpi_adjusted_per_person_growth_pct": 7.066133437585531,
+    "rounding_low_pct": 6.975895295939805,
+    "rounding_high_pct": 7.156473063454127,
+    "break_even_price_rounding_low_pct": 10.131684207170032,
+    "break_even_price_rounding_high_pct": 10.210432545762572,
+    "population_growth_factor_for_constant_CPI_adjusted_intensity": 1.1172813796720502
+  }
+]

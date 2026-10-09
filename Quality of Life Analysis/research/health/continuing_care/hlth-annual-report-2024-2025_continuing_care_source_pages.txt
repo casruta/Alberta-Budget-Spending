@@ -1,0 +1,60 @@
+PHYSICAL PDF PAGE 42,1-indexed
+Results Analysis
+
+
+
+Licensing and Monitoring in Continuing Care
+
+To strengthen accountability, transparency, and oversight in Alberta’s continuing care system, the
+Government of Alberta introduced a new legislative framework:
+
+      •       On April 1, 2024, the Continuing Care Act and associated regulations—Continuing Care
+              Regulation and Continuing Care (Ministerial) Regulation—came into effect. This
+              legislative update marked a major milestone in transforming Alberta’s continuing care
+              system.
+      •       The Act enables Alberta Health to enhance licensing, monitoring, and compliance
+              processes across all levels of continuing care, including home and community care,
+              supportive living, and palliative services. These enhanced oversight mechanisms are
+              intended to ensure quality, safety, and equitable access to services.
+
+Additionally, ALA, expected to become operational by fall 2025, will align medical and non-medical
+services, expand access to continuing care, and support system accountability through integrated
+service delivery and performance monitoring.
+
+The performance metric 2.b, included in the 2024-27 Business Plan, pertains to Continuing Care
+which has been transitioned to the Ministry of Seniors, Community and Social Services. Hence, this
+data will not be discussed in this report.
+
+Unplanned medical readmissions to hospital within 30 days of discharge
+
+                                              2020-21       2021-22       2022-23        2023-24       2024-25
+
+
+ Percentage of patients with an
+ unplanned medical re-
+                                              13.2%         12.9%         12.6%          12.7%          12.7%
+ admission within 30 days of
+ discharge
+
+Source: Alberta’s Morbidity and Ambulatory Care Abstract Reporting System (MACAR)
+Note: The result is for Acute Care data submissions
+
+The above performance measure estimates the percentage of medical patients with an unplanned
+readmission to hospital within 30 days of being discharged. A lower percentage means fewer
+patients have been readmitted to hospital within one month of discharge. A high rate of
+readmissions increases costs and may mean the health system is not performing as well as it could
+be. Although readmission may involve many factors, lower readmission rates may show that
+Albertans are supported by discharge planning and continuity of care. Results exclude hospital
+admissions for surgery, pregnancy, childbirth, mental health diseases and disorders, palliative care,
+and cancer therapy. The desired result is to decrease the percentage of unplanned readmissions to
+hospital within 30 days of discharge.
+
+In 2024-25, the percentage of medical patients with an unplanned hospital readmission within 30
+days of discharge from hospital was 12.7 per cent, identical to as that of previous years.
+
+2.4       Strengthen and modernize Alberta’s primary health care system in partnership with
+          Albertans and Indigenous communities by implementing innovations to ensure access
+          to safe, timely and appropriate primary health care services in the community
+
+
+40                                                                                  Health | Annual Report 2024–2025

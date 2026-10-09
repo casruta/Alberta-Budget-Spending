@@ -1,0 +1,1024 @@
+[
+  {
+    "claim_id": "F01",
+    "claim": "Ten actual capital-plan observations",
+    "evidence_type": "Financial input",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 14,
+        "anchors": [
+          "Capital Plan",
+          "7,243",
+          "Numbers are not strictly comparable"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_14.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Latest local vintage; historical accounting-policy changes remain.",
+    "supporting_artifact": "research/capital/latest_vintage_actual_series.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F02",
+    "claim": "July population and annual CPI inputs",
+    "evidence_type": "Demographic / price input",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 13,
+        "anchors": [
+          "Population (July 1, thousands)",
+          "4,889",
+          "Alberta consumer price index"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_13.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Rounded demographic estimates; calendar timing and consumer prices do not measure construction volume.",
+    "supporting_artifact": "research/demography/demography_cpi_2015_2024.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F03",
+    "claim": "Capital grants and investment have different accounting treatment",
+    "evidence_type": "Accounting definition",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 16,
+        "anchors": [
+          "Capital Investment",
+          "Capital Grants",
+          "Statement of Operations"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_16.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Grants fund assets outside provincial consolidation; do not add the full Capital Plan to expense.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F04",
+    "claim": "Latest increase separates grants from investment",
+    "evidence_type": "Financial decomposition",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 3,
+        "anchors": [
+          "Capital grants",
+          "2,934",
+          "2,103",
+          "Capital investment",
+          "4,309",
+          "4,197"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_3.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Grant growth is not automatically growth in provincially owned assets; neither component is physical capacity.",
+    "supporting_artifact": "research/capital/capital_composition_original_vintages.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F05",
+    "claim": "Municipal and health envelopes drive latest increase",
+    "evidence_type": "Financial decomposition",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 17,
+        "anchors": [
+          "Municipal Infrastructure Support",
+          "489",
+          "Protect Quality Health Care",
+          "318"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_17.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Separate maintenance / self-finance; component rounding differs from total change by $1M.",
+    "supporting_artifact": "research/capital/actual_recent/recent_envelopes_all_vintages.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F06",
+    "claim": "Latest actual spending is below its budget",
+    "evidence_type": "Budget execution",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 17,
+        "anchors": [
+          "8,299",
+          "7,243",
+          "1,056",
+          "project cash flows"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_17.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Undershoot is not proof of cancellation or permanent loss of funding.",
+    "supporting_artifact": "research/capital/budget_execution_original_vintage.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F07",
+    "claim": "Source pie has an inconsistent SUCH percentage",
+    "evidence_type": "Source discrepancy",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 16,
+        "anchors": [
+          "$744 or 12%"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_16.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 17,
+        "anchors": [
+          "744",
+          "7,243"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_17.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "744/7243 is about 10.3%; the source percentage is not repeated as a valid share.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F08",
+    "claim": "Source health-completion counts conflict internally",
+    "evidence_type": "Source discrepancy",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 15,
+        "anchors": [
+          "17 health facility projects"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_15.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 20,
+        "anchors": [
+          "2 health facility projects",
+          "17 health facility projects"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_20.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Rockyview",
+          "Lethbridge"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Use granular completed/in-progress and named-project evidence; retain the disagreement.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F09",
+    "claim": "Historical nonfinancial row differs from gross balance-sheet amount",
+    "evidence_type": "Accounting reconciliation",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 12,
+        "anchors": [
+          "62,925",
+          "4,080"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_12.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 14,
+        "anchors": [
+          "58,845"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_14.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Subtract spent deferred contributions; this is not a clean physical tangible-asset stock.",
+    "supporting_artifact": "review/stock_accounting_check.md",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F10",
+    "claim": "Capital-asset investment is offset by amortization and other changes",
+    "evidence_type": "Accounting reconciliation",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 11,
+        "anchors": [
+          "$3.9 billion in capital investment",
+          "$2.6 billion in amortization"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_11.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 3,
+        "anchors": [
+          "Capital investment",
+          "4,309"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_3.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Book value is not physical capacity. The $4.309B plan flow is not reconciled to the rounded $3.9B asset narrative in this summary; no exact gap or cause is asserted.",
+    "supporting_artifact": "research/capital/INVESTMENT_TO_ASSET_ROLLFORWARD_GAP.md",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F11",
+    "claim": "MSI grants were advanced into the pre-UCP spending peak",
+    "evidence_type": "Timing / policy context",
+    "sources": [
+      {
+        "file": "2017 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "$800 million"
+        ],
+        "source_path": "Budget PDFs/2017 Budget.pdf",
+        "source_pdf_sha256": "c5cbb7327d8625867422eca99544a7e2d0da421eaedd185952c13abd1fec3f73",
+        "extracted_page": "pages/2017 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2018-19 Budget.pdf",
+        "pdf_page": 10,
+        "anchors": [
+          "$800 million",
+          "$400 million"
+        ],
+        "source_path": "Budget PDFs/2018-19 Budget.pdf",
+        "source_pdf_sha256": "9ea540568cfc2e6aa69de763871b38189eb41f04ca1027ee39b5a65b91db8647",
+        "extracted_page": "pages/2018-19 Budget__pdf_page_10.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Advanced cash transfers are not construction all delivered in that year.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F12",
+    "claim": "2019 capital-grant total was reclassified into operating expense",
+    "evidence_type": "Accounting revision",
+    "sources": [
+      {
+        "file": "2020-21 Budget.pdf",
+        "pdf_page": 2,
+        "anchors": [
+          "$19 million",
+          "operating expense"
+        ],
+        "source_path": "Budget PDFs/2020-21 Budget.pdf",
+        "source_pdf_sha256": "4195764018ab4bed23f73384d0348827cbb16edf104931411d2d310569fb7c38",
+        "extracted_page": "pages/2020-21 Budget__pdf_page_2.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "The reclassification is not an additional $19M infrastructure cut.",
+    "supporting_artifact": "research/capital/early_ucp_comparisons.md",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F13",
+    "claim": "2018 ministry attribution changed",
+    "evidence_type": "Accounting revision",
+    "sources": [
+      {
+        "file": "2018-19 Budget.pdf",
+        "pdf_page": 2,
+        "anchors": [
+          "Infrastructure",
+          "school boards",
+          "Alberta Health Services"
+        ],
+        "source_path": "Budget PDFs/2018-19 Budget.pdf",
+        "source_pdf_sha256": "9ea540568cfc2e6aa69de763871b38189eb41f04ca1027ee39b5a65b91db8647",
+        "extracted_page": "pages/2018-19 Budget__pdf_page_2.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "A ministry row is not a stable functional-sector series.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P01",
+    "claim": "2024 school spaces mix new and modernized",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 20,
+        "anchors": [
+          "11,000+",
+          "new and modernized",
+          "87 school projects"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_20.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Completed gross/mixed spaces and the pipeline are distinct; neither is reconciled net seats.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P02",
+    "claim": "2021 school new spaces are separately reported",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2021-22 Budget.pdf",
+        "pdf_page": 20,
+        "anchors": [
+          "5,000+ new",
+          "5,900+",
+          "modernized"
+        ],
+        "source_path": "Budget PDFs/2021-22 Budget.pdf",
+        "source_pdf_sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+        "extracted_page": "pages/2021-22 Budget__pdf_page_20.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Gross new seats cannot be compared with a mixed new/modernized total.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P03",
+    "claim": "2018 supportive-living construction added reported spaces",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2018-19 Budget.pdf",
+        "pdf_page": 10,
+        "anchors": [
+          "1,177",
+          "Affordable Supportive Living"
+        ],
+        "source_path": "Budget PDFs/2018-19 Budget.pdf",
+        "source_pdf_sha256": "9ea540568cfc2e6aa69de763871b38189eb41f04ca1027ee39b5a65b91db8647",
+        "extracted_page": "pages/2018-19 Budget__pdf_page_10.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Selected gross long-term-care additions do not reconcile provincial closures or staffing.",
+    "supporting_artifact": "research/physical/round2/explicit_capacity_observations.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P04",
+    "claim": "Grande Prairie hospital has separately completed phases",
+    "evidence_type": "Project stage",
+    "sources": [
+      {
+        "file": "2020-21 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Grande Prairie",
+          "Phase 1"
+        ],
+        "source_path": "Budget PDFs/2020-21 Budget.pdf",
+        "source_pdf_sha256": "4195764018ab4bed23f73384d0348827cbb16edf104931411d2d310569fb7c38",
+        "extracted_page": "pages/2020-21 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2021-22 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Grande Prairie",
+          "Phase 2"
+        ],
+        "source_path": "Budget PDFs/2021-22 Budget.pdf",
+        "source_pdf_sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+        "extracted_page": "pages/2021-22 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Do not count combined multiyear project funding twice or infer net provincial staffed beds.",
+    "supporting_artifact": "research/physical/health/health_project_evidence.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P05",
+    "claim": "Calgary cancer construction completion differs from anticipated opening",
+    "evidence_type": "Project stage",
+    "sources": [
+      {
+        "file": "2022-2023 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Calgary Cancer",
+          "2024"
+        ],
+        "source_path": "Budget PDFs/2022-2023 Budget.pdf",
+        "source_pdf_sha256": "a2ead4cddbe160fdfa2935ab11db33f3c86e49f6e8c356480c65f9e8cb55cbfa",
+        "extracted_page": "pages/2022-2023 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "The anticipated public-opening date in this source is not a verified actual opening date.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P06",
+    "claim": "Misericordia emergency design volume is not observed throughput",
+    "evidence_type": "Design capacity",
+    "sources": [
+      {
+        "file": "tbf-goa-2023-2024 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Misericordia",
+          "60,000"
+        ],
+        "source_path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+        "source_pdf_sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+        "extracted_page": "pages/tbf-goa-2023-2024 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Designed visits per year do not establish actual visits, waits or net beds.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P07",
+    "claim": "High Prairie completed project introduced dialysis stations",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2021-22 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "High Prairie",
+          "renal dialysis",
+          "six stations"
+        ],
+        "source_path": "Budget PDFs/2021-22 Budget.pdf",
+        "source_pdf_sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+        "extracted_page": "pages/2021-22 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Local gross delivery, not net provincial station growth or treatment volume.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P08",
+    "claim": "Open recovery communities are distinct from planned beds",
+    "evidence_type": "Operational stock / pipeline",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 15,
+        "anchors": [
+          "200 treatment",
+          "500",
+          "open in Red Deer, Lethbridge and Gunn"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_15.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Do not double-count Gunn; addiction treatment beds are not acute hospital beds.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P09",
+    "claim": "Bow River westbound bridge expands by one lane",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "3 lanes to 4 lanes",
+          "new eastbound bridge"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Local corridor improvement does not supply provincial net lane kilometres.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P10",
+    "claim": "Road-network stock unit labels differ across reports",
+    "evidence_type": "Source comparability gap",
+    "sources": [
+      {
+        "file": "tbf-goa-2023-2024 Budget.pdf",
+        "pdf_page": 20,
+        "anchors": [
+          "two lanes equivalent length"
+        ],
+        "source_path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+        "source_pdf_sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+        "extracted_page": "pages/tbf-goa-2023-2024 Budget__pdf_page_20.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 20,
+        "anchors": [
+          "lane kilometres"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_20.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "No network-growth rate is derived from the inconsistent labels.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P11",
+    "claim": "Springbank reservoir is flood protection",
+    "evidence_type": "Project stage",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Completed Projects",
+          "dry reservoir",
+          "flood protection"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Construction completion does not establish operational certification or drinking-water capacity.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P12",
+    "claim": "Housing completions and pipeline are separately stated",
+    "evidence_type": "Physical output / pipeline",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 20,
+        "anchors": [
+          "388 housing units",
+          "617 housing units",
+          "60,000+"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_20.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Gross deliveries are not net housing stock after removals, ownership or eligibility changes.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P13",
+    "claim": "Rural project basket includes transport and water",
+    "evidence_type": "Financial support",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 15,
+        "anchors": [
+          "$236 million",
+          "125 projects",
+          "Strategic Transportation"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_15.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Not 125 water projects or 125 completed projects.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P14",
+    "claim": "MSI to LGFF program change is a narrow grant comparison",
+    "evidence_type": "Financial support",
+    "sources": [
+      {
+        "file": "tbf-goa-2023-2024 Budget.pdf",
+        "pdf_page": 16,
+        "anchors": [
+          "$487 million"
+        ],
+        "source_path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+        "source_pdf_sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+        "extracted_page": "pages/tbf-goa-2023-2024 Budget__pdf_page_16.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 15,
+        "anchors": [
+          "$724 million",
+          "53 per cent"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_15.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Not all municipal funding or a measure of local asset delivery.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P15",
+    "claim": "Broadband financial allocation is not connected households",
+    "evidence_type": "Financial input",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 17,
+        "anchors": [
+          "$48 million",
+          "Broadband Strategy"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_17.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Verified connections and service quality are absent from this cited financial row.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P16",
+    "claim": "Project completion definition changes over time",
+    "evidence_type": "Source comparability gap",
+    "sources": [
+      {
+        "file": "2021-22 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "completed when they are operational"
+        ],
+        "source_path": "Budget PDFs/2021-22 Budget.pdf",
+        "source_pdf_sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+        "extracted_page": "pages/2021-22 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "completed when construction has ended"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Reported completed-year series does not consistently measure operational opening.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P17",
+    "claim": "Older school overview reports separate new and modernized spaces",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2017 Budget.pdf",
+        "pdf_page": 93,
+        "anchors": [
+          "21,600",
+          "15,000"
+        ],
+        "source_path": "Budget PDFs/2017 Budget.pdf",
+        "source_pdf_sha256": "c5cbb7327d8625867422eca99544a7e2d0da421eaedd185952c13abd1fec3f73",
+        "extracted_page": "pages/2017 Budget__pdf_page_93.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Selected September 2017 context; not a reconciled net-seat series or political productivity ratio.",
+    "supporting_artifact": "research/physical/gaploop/additional_indicators.csv",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P18",
+    "claim": "2022 source reports gross continuing-care completions",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2022-2023 Budget.pdf",
+        "pdf_page": 15,
+        "anchors": [
+          "871",
+          "continuing care"
+        ],
+        "source_path": "Budget PDFs/2022-2023 Budget.pdf",
+        "source_pdf_sha256": "a2ead4cddbe160fdfa2935ab11db33f3c86e49f6e8c356480c65f9e8cb55cbfa",
+        "extracted_page": "pages/2022-2023 Budget__pdf_page_15.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Broader care scope differs from earlier long-term-care figures; closures and staffing unknown.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P19",
+    "claim": "Highway 19 source reports a specific twinned route segment",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "tbf-goa-2023-2024 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Highway 19",
+          "3.5 km"
+        ],
+        "source_path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+        "source_pdf_sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+        "extracted_page": "pages/tbf-goa-2023-2024 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Route kilometres, not lane kilometres or provincial net-network additions.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P20",
+    "claim": "Red Deer Justice Centre has reported courtroom capacity",
+    "evidence_type": "Design / facility capacity",
+    "sources": [
+      {
+        "file": "tbf-goa-2023-2024 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Red Deer Justice Centre",
+          "12 courtrooms"
+        ],
+        "source_path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+        "source_pdf_sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+        "extracted_page": "pages/tbf-goa-2023-2024 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Gross facility capacity; predecessor courtroom retirements unknown.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P21",
+    "claim": "Conklin construction describes fifteen housing units",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2024-2025 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Conklin",
+          "five four-",
+          "10 two-and-three-"
+        ],
+        "source_path": "Budget PDFs/2024-2025 Budget.pdf",
+        "source_pdf_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+        "extracted_page": "pages/2024-2025 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Units are not buildings; no provincial net-stock or household-demand conclusion.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P22",
+    "claim": "Northern Lights supply pipeline has a reported route length",
+    "evidence_type": "Physical output",
+    "sources": [
+      {
+        "file": "2021-22 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Northern Lights",
+          "100 kilometres"
+        ],
+        "source_path": "Budget PDFs/2021-22 Budget.pdf",
+        "source_pdf_sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+        "extracted_page": "pages/2021-22 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Local supply-line length, not connected-household or production-capacity count.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P23",
+    "claim": "Government data centres were consolidated",
+    "evidence_type": "Digital infrastructure change",
+    "sources": [
+      {
+        "file": "2020-21 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "37",
+          "three enterprise"
+        ],
+        "source_path": "Budget PDFs/2020-21 Budget.pdf",
+        "source_pdf_sha256": "4195764018ab4bed23f73384d0348827cbb16edf104931411d2d310569fb7c38",
+        "extracted_page": "pages/2020-21 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Fewer centres do not mean lower digital service capacity; observed service outcomes unavailable.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P24",
+    "claim": "Quest had operating evidence before its later completed-status listing",
+    "evidence_type": "Source comparability gap",
+    "sources": [
+      {
+        "file": "2016-2017 Budget.pdf",
+        "pdf_page": 17,
+        "anchors": [
+          "first full year of injections"
+        ],
+        "source_path": "Budget PDFs/2016-2017 Budget.pdf",
+        "source_pdf_sha256": "e9c8c6b7098a0b4ee0bf3b6d33b96e62a83285e6ea82b32e7fcc9bdf675402fa",
+        "extracted_page": "pages/2016-2017 Budget__pdf_page_17.txt",
+        "locator_anchors_present": true
+      },
+      {
+        "file": "2021-22 Budget.pdf",
+        "pdf_page": 23,
+        "anchors": [
+          "Quest"
+        ],
+        "source_path": "Budget PDFs/2021-22 Budget.pdf",
+        "source_pdf_sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+        "extracted_page": "pages/2021-22 Budget__pdf_page_23.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "A completed-status list is not always a list of first completions during the fiscal year.",
+    "supporting_artifact": "research/physical/gaploop/completion_year_audit.md",
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F14",
+    "claim": "ARO adoption revised asset book values",
+    "evidence_type": "Accounting policy change",
+    "sources": [
+      {
+        "file": "2022-2023 Budget.pdf",
+        "pdf_page": 2,
+        "anchors": [
+          "$692 million",
+          "tangible capital assets"
+        ],
+        "source_path": "Budget PDFs/2022-2023 Budget.pdf",
+        "source_pdf_sha256": "a2ead4cddbe160fdfa2935ab11db33f3c86e49f6e8c356480c65f9e8cb55cbfa",
+        "extracted_page": "pages/2022-2023 Budget__pdf_page_2.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Accounting value revision is not automatically a physical infrastructure addition.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "F15",
+    "claim": "P3 adoption revised opening book values without comparable restatement",
+    "evidence_type": "Accounting policy change",
+    "sources": [
+      {
+        "file": "tbf-goa-2023-2024 Budget.pdf",
+        "pdf_page": 2,
+        "anchors": [
+          "$415 million",
+          "without restating prior year"
+        ],
+        "source_path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+        "source_pdf_sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+        "extracted_page": "pages/tbf-goa-2023-2024 Budget__pdf_page_2.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Accounting value revision is not automatically demolished infrastructure.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  },
+  {
+    "claim_id": "P25",
+    "claim": "Lethbridge science replacement has an explicitly dated completion",
+    "evidence_type": "Dated physical delivery",
+    "sources": [
+      {
+        "file": "2019-20 Budget.pdf",
+        "pdf_page": 19,
+        "anchors": [
+          "Lethbridge",
+          "Completed January 2020",
+          "replacing"
+        ],
+        "source_path": "Budget PDFs/2019-20 Budget.pdf",
+        "source_pdf_sha256": "918bd585714c42741cb72dbe451af4f64a4295129d2c2f64909831627540cdc5",
+        "extracted_page": "pages/2019-20 Budget__pdf_page_19.txt",
+        "locator_anchors_present": true
+      }
+    ],
+    "interpretation_limit": "Replacement does not quantify net student seats or capacity relative to enrolment.",
+    "supporting_artifact": null,
+    "verification_scope": "Source locator plus reviewed interpretation; anchors alone do not establish the claim."
+  }
+]

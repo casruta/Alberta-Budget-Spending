@@ -1,0 +1,114 @@
+PHYSICAL PDF PAGE 122, 1-indexed
+Outcome 3                                                                   Performance Measure 7
+      pdf named: 17-18_MUP_o3-m7_atccs.pdf                                                                    2017-18 GoA Annual Report
+                                                                                                                 Outcome 3 – Measure 7
+
+                            Access to Continuing Care Spaces
+                            Access to Continuing Care Spaces
+                            Percentage of clients placed in continuing care within 30 days of being assessed
+                            Percentage of clients placed in continuing care within 30 days of being assessed
+                                 100
+
+                                     80     69
+                                                                                                                   65
+                                                         60            60
+                                                                                      56
+                           Percent
+
+
+
+                                     60                                                              52
+
+                                     40
+
+                                     20
+
+                                     0
+                                          2013-14     2014-15        2015-16       2016-17        2017-18        Target
+
+                           Source: Alberta Health Services. Data are extracted from Meditech and Stratahealth Pathways
+                           Source: Alberta Health Services. Data are extracted from Meditech and Stratahealth Pathways
+                            For additional sources and notes see page 145
+
+
+                            Results Analysis
+                            This measure is used to monitor and report on access to a Continuing Care Living
+                            Option in Alberta, as indicated by the wait times experienced by individuals who
+                            move in within the reporting period. Continuing Care Living Option refers to the
+                            level of care in a publicly funded resident accommodation that provides health and
+                            support services appropriate to meet the client’s assessed unmet needs (i.e., Designated
+                            Supportive Living Level 3, 4, 4-Dementia, or Long-term Care).
+                            The current result of 52 per cent demonstrates an ongoing need for home and
+                            community care and facility-based continuing care expansion, due to an aging
+                            population, that is necessary to enable more timely moves into continuing care when
+                            those living options best fit the individual’s assessed needs. These challenges have
+                            driven longer waits and higher waitlists. These factors may have impacted government
+                            from achieving the target of 65 per cent.
+                            Results also show a nine percentage point drop between 2013-14 and 2014-15. This
+                            drop was attributed to the provincial implementation, in May 2015, of the Designated
+                            Living Option: Access and Waitlist Management in Continuing Care policy. This
+                            established a consistent, principle-based, transparent approach for individuals to access
+                            a Continuing Care Living Option (a change from the “First Available Bed” policy
+                            rescinded in June 2013) and provides a more person-centred process where client
+                            needs and preferences are taken into consideration.
+                            Investments have been made in home and community care over the past few years but
+                            demand continues to increase. The significant investment in home and community
+                            care announced in Budget 2017 is expected to improve flow through the continuing
+                            care system and positively impact this performance measure; however, results on this
+                            measure may not be evident for a few years. In addition, there has been a gradual
+                            expansion of the number of available continuing care living spaces as the planned
+                            2,000 long-term care and dementia care spaces start to become available.
+
+120                                                                         GOVERNMENT OF ALBERTA 2017 –18 ANNUAL REPORT
+
+
+PHYSICAL PDF PAGE 147, 1-indexed
+Access to Continuing Care Spaces
+
+     Source: Alberta Health Services; data are extracted from Meditech and
+     Stratahealth Pathways
+     Note(s): This measure is defined as the percentage of clients admitted to a
+     Continuing Care Living Option (Designated Supportive Living or Long-term
+     Care) within 30 days of the assessed and approved date.
+     Continuing Care Living Option (CCLO) refers to the level of care in a
+     publicly funded resident accommodation that provides health and support
+     services appropriate to meet the client’s assessed unmet needs (i.e., Designated
+     Supportive Living Level 3 or 4, 4-Dementia or Long-term Care).
+     Assessed and Approved date refers to the date the client is placed on the
+     waitlist for a Continuing Care Living Option following the completion of the
+     assessment and approval process.
+     The percentage of clients placed in continuing care within 30 days of being
+     assessed equals the number of individuals admitted to a CCLO within 30 days
+     of their assessed and approved date, divided by the total number of individuals
+     admitted to a CCLO during the response period, multiplied by 100.
+
+
+Influenza Immunization
+
+     Source: Alberta Health; Alberta Health Services (AHS); Indigenous Services
+     Canada
+     Note(s): Numerator: Number of individuals immunized by age category: AHS
+     zones; Alberta Health’s weekly pharmacists data; First Nations and Inuit Health
+     Branch, Indigenous Services Canada – Alberta Region.
+     Denominator: For seniors and children, the denominator is the ministry’s
+     population estimates, based on mid-year (June 30) registration population
+     estimates. For residents of long-term care facilities, the denominator is the
+     number of residents as of December 15 of the current year.
+     Seniors aged 65 and over: Immunization rate equals the number of seniors aged
+     65 years and over who received one dose of the influenza vaccine, divided by the
+     mid-year population estimate of age category, multiplied by 100.
+     Children aged 6 to 23 months: Immunization rate equals the number of
+     children aged six months to 23 months who received dose 2 of 2 doses, or
+     an annual dose of the influenza vaccine, divided by the mid-year population
+     estimate of age category, multiplied by 100. (Children aged six months to 23
+     months who require two doses of the influenza vaccine will only be included
+     if they have received two doses during the current season up to and including
+     April 30 of the current year.
+     Residents of long-term care facilities: Immunization rate equals the number
+     of residents in long-term care facilities on December 15, 2017, who had
+     received the vaccine between October 1, 2017, and December 15, 2017,
+     divided by the number of residents in long-term care facilities on December
+     15, 2017, multiplied by 100. (It is necessary to define the immunization rate
+     for residents of long-term care facilities in this way due to the high turnover
+
+MEASURING UP                                                                            145

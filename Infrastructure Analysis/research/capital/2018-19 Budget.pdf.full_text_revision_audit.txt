@@ -1,0 +1,4399 @@
+
+=== PDF PAGE 1 ===
+Year-End Report
+June 2019
+2018–19 Final Results
+Year-End Report
+June 2019
+2018–19 Final Results
+
+
+=== PDF PAGE 2 ===
+2018 –19 Final Results | Year-End Report
+2
+Treasury Board and Finance, Government of Alberta
+2018–19 Final Results Year-End Report, June 2019
+Additional copies of this report may be obtained by visiting our website at: www.alberta.ca/government-and-ministry-annual-reports.aspx
+ Notes on restatements / changes to presentation of numbers:
+●
+●
+2017-18 Actuals for Service Alberta operating expense and capital grants have been restated as $5 million in operating expense 
+should have been reported as capital grants. There is no change to total expense, the deficit or borrowing amounts.
+●
+●
+Accounting policy restatements / presentation changes (no change to total expense, deficit or borrowing amounts):
+–
+– 2017-18 Actual and 2018-19 Budget numbers for Advanced Education (ADED), Agriculture and Forestry (AGRIC), Education 
+(EDUC) and Health (HLTH) have been restated to remove general debt servicing costs related to borrowing undertaken on their 
+behalf by Treasury Board and Finance (TBF), which is now reported in TBF expense (also restated): ADED: $39 million in 2017-18 
+and $42 million in 2018-19 Budget; AGRIC: $68 million in 2017-18 and $71 million in 2018-19 Budget; EDUC: $2 million in 2017-18 
+and $1 million in 2018-19 Budget; HLTH: $16 million in 2017-18 and $16 million in 2018-19 Budget; TBF: $125 million in 2017-18 
+and $130 million in 2018-19 Budget.
+–
+– 2017-18 Actual and 2018-19 Budget numbers for Advanced Education have been restated to report $178 million and $175 million 
+respectively in post-secondary institution book store sales as inventory consumption expense and inventory acquisition (financial 
+transaction cash requirement), rather than as operating expense.
+–
+– 2018-19 Actual numbers for Education, Health and Infrastructure are presented with Infrastructure reporting the capital investment 
+for assets that Infrastructure is managing construction of on behalf of school boards and Alberta Health Services (AHS). The assets 
+are granted to school boards and AHS as they are built, except for those still under construction at year end. This adds $420 million 
+to the Capital Plan for Infrastructure, and reduces Education’s capital investment in the Capital Plan by $134 million and Health’s by 
+$285 million.
+●
+●
+2017-18 Actuals for operating expense have been restated to reflect corrected transfers from ministries to Service Alberta for 
+Information Management and Technology services, implemented as part of Budget 2018 (the transfers were correctly reflected in 
+2018-19 budget numbers). A second phase of these transfers was implemented pursuant to Order in Council 297/2018 (October 
+3, 2018) under the Government Organization Act. The total impacts, none of which change total expense, the deficit or borrowing 
+amounts, are: operating expense: $244 million in 2017-18 and $163 million in 2018-19 Budget; amortization expense: $32 million in 
+2017-18 and $26 million in 2018-19 Budget; capital investment: $22 million in 2017-18 and $12 million in 2018-19 Budget.
+●
+●
+2017-18 Actual and 2018-19 Budget numbers have been restated, pursuant to Order in Council 297/2018 (October 3, 2018) under 
+the Government Organization Act, to reflect the following transfers, none of which change total expense, the deficit or borrowing 
+amounts:
+–
+– Freedom of Information and Protection of Privacy services from ministries to Service Alberta (operating expense: $11 million in 
+2017‑18 and $11 million in 2018-19 Budget); 
+–
+– Human Resource services from ministries to Treasury Board and Finance (operating expense: $49 million in 2017-18 and  
+$51 million in 2018-19 Budget).
+Table of Contents
+2018 –19 Final Results
+	
+Fiscal Plan Highlights. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+3
+	
+Fiscal Plan Summary . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+3
+	
+Revenue Highlights . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+4
+	
+Revenue . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+4
+	
+Total Expense . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+6
+	
+Expense Highlights. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	
+7
+	
+Capital Plan Highlights. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+9
+	
+Capital Plan . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+9
+	
+Contingency Account. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+11
+	
+Net Financial and Capital Assets. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+12 
+	
+Balance Sheet. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+13		
+	
+Economic and Tax Highlights . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+14
+	
+Historical Fiscal Summary. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+15
+Note: Amounts presented in tables may not add to totals due to rounding.
+
+
+=== PDF PAGE 3 ===
+
+3
+2018 –19 Final Results | Year-End Report
+Fiscal Plan Summary (millions of dollars)
+Fiscal Plan Highlights
+The deficit in 2018-19 was $6.7 billion, 
+a decrease of $1.3 billion from 2017-18, 
+and $2.1 billion lower than estimated 
+in Budget 2018. The budget deficit 
+included a $0.5 billion risk adjustment.
+Total Revenue was $49.6 billion in 
+2018-19, $2.3 billion higher than in 
+2017-18, and an increase of $1.7 billion 
+from budget. 
+■
+■
+Change from 2017-18. Increases 
+of $1.1 billion in personal income 
+tax (PIT), $1.4 billion in corporate 
+income tax (CIT), $0.5 billion in 
+resource revenue (NRR), $0.4 billion 
+in federal transfers and $0.5 billion 
+in other tax and other revenue, 
+were partly offset by decreases of 
+$0.8 billion in government business 
+enterprise (GBE) net income, and 
+$0.8 billion in investment income. 
+■
+■
+Change from Budget. Increases 
+of $1.6 billion in NRR, $0.5 billion 
+in PIT, $0.3 billion in CIT and 
+$0.4 billion in premiums, fees 
+and licences and other revenue, 
+were partly offset by a $0.5 billion 
+decrease in investment income and 
+a $0.5 billion decrease in federal 
+transfers, GBE net income and other 
+tax revenue.
+Total Expense was $56.3 billion, a 
+$1 billion increase from 2017-18 and 
+$0.2 billion from budget.
+■
+■
+Change from 2017-18. Comprises 
+increases of $1.9 billion in operating 
+expense, $0.6 billion in debt 
+servicing costs, $0.4 billion related 
+to the change in unfunded pension 
+obligations, $0.2 billion for disaster 
+assistance and other expense, less 
+a $2.1 billion decrease in capital 
+grants.
+■
+■
+Change from Budget. Increases 
+of $0.3 billion in disaster assistance 
+and a net $0.2 billion in debt 
+servicing costs, the pension 
+provision and other expense, were 
+partly offset by $0.2 billion in lower 
+operating expense and $0.2 billion 
+in lower capital grants.
+Capital Plan. Support for infrastructure 
+in 2018-19 was $6.2 billion. This was 
+$2.8 billion lower than in 2017-18 and 
+$0.3 billion lower than estimated in 
+Budget 2018. 
+Net Assets. At March 31, 2019, net 
+assets were $23.3 billion, including 
+net capital / non-financial assets of 
+$50.7 billion. More details on assets 
+and liabilities are provided on pages 
+12–13.
+2017-18
+2017-18
+INCOME STATEMENT
+Budget
+Actual
+Actual
+Budget
+Actual
+Revenue
+1
+Personal income tax
+11,387
+     
+11,874
+     
+10,775
+     
+487
+          
+1,099
+       
+2
+Corporate income tax
+4,551
+       
+4,871
+       
+3,448
+       
+320
+          
+1,423
+       
+3
+Other taxes
+6,961
+       
+6,833
+       
+6,538
+       
+(128)
+        
+295
+          
+4
+Non-renewable resource revenue
+3,829
+       
+5,429
+       
+4,980
+       
+1,600
+       
+449
+          
+5
+Transfers from Government of Canada
+8,218
+       
+8,013
+       
+7,606
+       
+(205)
+        
+407
+          
+6
+Investment income
+2,884
+       
+2,349
+       
+3,126
+       
+(535)
+        
+(777)
+         
+7
+Net income from government business enterprises
+2,777
+       
+2,585
+       
+3,387
+       
+(192)
+        
+(802)
+         
+8
+Premiums, fees and licences
+3,854
+       
+3,911
+       
+3,839
+       
+57
+            
+72
+            
+9
+Other revenue
+3,419
+       
+3,759
+       
+3,595
+       
+340
+          
+164
+          
+10 Total Revenue
+47,879
+     
+49,624
+     
+47,295
+     
+1,745
+       
+2,329
+       
+Expense
+11
+Operating expense
+48,625
+     
+48,440
+     
+46,572
+     
+(185)
+        
+1,868
+       
+13
+Capital grants
+2,129
+       
+1,952
+       
+4,021
+       
+(177)
+        
+(2,069)
+      
+14
+Disaster assistance
+206
+          
+507
+          
+439
+          
+301
+          
+68
+            
+15
+Capital amortization / inventory consumption / asset disposal losses
+3,607
+       
+3,651
+       
+3,459
+       
+44
+            
+192
+          
+16
+Debt servicing costs - general 
+1,027
+       
+1,074
+       
+659
+          
+47
+            
+415
+          
+17
+Debt servicing costs - Capital Plan
+895
+          
+897
+          
+761
+          
+2
+              
+136
+          
+18
+Pension provisions / (recovery)
+(310)
+        
+(190)
+        
+(593)
+         
+120
+          
+403
+          
+19 Total Expense 
+56,181
+     
+56,335
+     
+55,318
+     
+154
+          
+1,017
+       
+20 Risk Adjustment
+(500)
+        
+-
+              
+-
+               
+500
+          
+-
+               
+21 Surplus / (Deficit)
+(8,802)
+      
+(6,711)
+      
+(8,023)
+      
+2,091
+       
+1,312
+       
+CAPITAL PLAN
+22 Capital grants
+2,129
+       
+1,952
+       
+4,021
+       
+(177)
+        
+(2,069)
+      
+23 Capital investment
+4,315
+       
+4,228
+       
+5,000
+       
+(87)
+          
+(772)
+         
+24 Total Capital Plan
+6,444
+       
+6,180
+       
+9,021
+       
+(264)
+        
+(2,841)
+      
+2018-19
+Change from 
+2018–19 Final Results
+
+
+=== PDF PAGE 4 ===
+4
+2018 –19 Final Results | Year-End Report
+TOTAL REVENUE
+■
+■
+Total revenue was $49.6 billion in 
+2018-19, $2.3 billion higher than in 
+2017-18, $1.7 billion higher than 
+estimated in Budget 2018, and a 
+decrease of $25 million from the 
+third quarter forecast.
+■
+■
+The change from 2017-18 was 
+due to increases of: $2.8 billion 
+in income and other tax revenue, 
+$0.5 billion in resource revenue, 
+$0.4 billion in federal government 
+transfers, and $0.2 billion in other 
+revenue. These are partly offset 
+by decreases of: $0.8 billion in 
+investment income and $0.8 billion 
+in net income from government 
+business enterprises (GBEs).
+■
+■
+The increase from budget was 
+due mainly to $1.6 billion in higher 
+resource revenue, $0.7 billion in 
+higher tax revenue and $0.4 billion 
+in other revenue increases, partly 
+offset by a $0.5 billion decrease in 
+investment income and $0.4 billion 
+in lower federal transfers and net 
+income from GBEs.
+NON-RENEWABLE RESOURCE 
+REVENUE
+■
+■
+Non-renewable resource revenue 
+was $5,429 million, an increase 
+of $449 million from 2017-18 and 
+$1,600 million from the Budget 2018 
+estimate.
+■
+■
+The increase from 2017-18 was 
+primarily due to the impact of higher 
+oil prices and production and a 
+lower US-Canadian dollar exchange 
+rate. The West Texas Intermediate 
+(WTI) price averaged US$62.77 in 
+2018-19, an increase of US$9.08 
+from 2017-18, while the Western 
+Canadian Select heavy oil price 
+averaged Cdn$51.65, up $1.27. 
+The US-Canadian dollar exchange 
+rate averaged US¢76.3/Cdn$ for 
+2018-19, 1.7 cents weaker than in 
+2017-18. A weaker exchange rate 
+increases royalty revenue. While 
+the light-heavy oil price differential 
+averaged US$23.31 in 2018-19, 
+US$8.91 wider than the US$14.40 
+average in 2017-18, the higher oil 
+price and lower exchange rate more 
+than offset the negative impact.
+■
+■
+The increase from budget was 
+mainly due to the same factors. The 
+WTI oil price was $US3.77 higher 
+than the budget forecast of US$59, 
+with strong prices in the first seven 
+months of the year. The exchange 
+rate was 3.7 cents lower than the 
+budget estimate. The differential had 
+expanded in early 2018, and was 
+expected to remain wide in 2018-19, 
+with a forecast in Budget 2018 of  
+$US22.35, due to insufficent market 
+access and strong production 
+growth. However, it widened in the 
+fall. Production curtailment was 
+implemented beginning January 
+2019, which helped shrink the 
+differential, but also lowered 
+production and activity. As a result, 
+the light-heavy oil price differential 
+ended up being only $US0.96 wider 
+than the budget estimate.
+■
+■
+Bitumen royalties were $571 million 
+higher than in 2017-18 and were 
+$1,429 million higher than estimated 
+in Budget 2018, while crude oil 
+royalties were $184 million more 
+than in 2017-18 and $96 million 
+more than budget. Oil sands 
+operating costs were close to 
+estimates, but capital costs were 
+26% lower. The net lower costs 
+boost income and royalties. 
+■
+■
+Natural gas and by-product royalties 
+were $109 million lower than in 
+2017-18, and $5 million lower  than 
+budget. The Alberta Reference 
+Price (ARP) averaged Cdn$1.34 per 
+gigajoule, 48 cents below 2017-18 
+and 66 cents below budget. The 
+impact of the lower ARP relative to 
+budget and 2017-18 was more than 
+offset by lower costs to produce 
+the Crown’s share, particularly with 
+respect to 2017-18, and higher 
+royalties from by-products, whose 
+prices follow oil prices, which also 
+were higher, again particularly with 
+respect to 2017-18. 
+■
+■
+Crown land lease sales revenue 
+was $360 million, $204 million 
+lower than 2017-18 and $33 million 
+higher than budget. The decrease 
+from 2017-18 was due to lower 
+average prices per hectare and 
+fewer oil sands sales. The increase 
+from budget was mainly due to a 
+higher number of hectares sold for 
+conventional oil and natural gas 
+leases. 
+Revenue Highlights
+2017-18
+2017-18
+Budget
+Actual
+Actual
+Budget
+Actual
+1
+Personal income tax
+11,387
+     
+11,874
+     
+10,775
+     
+487
+          
+1,099
+       
+2
+Corporate income tax
+4,551
+       
+4,871
+       
+3,448
+       
+320
+          
+1,423
+       
+3
+Education property tax
+2,446
+       
+2,441
+       
+2,450
+       
+(5)
+            
+(9)
+             
+4
+Other taxes
+4,515
+       
+4,392
+       
+4,088
+       
+(123)
+        
+304
+          
+5
+Bitumen royalties
+1,785
+       
+3,214
+       
+2,643
+       
+1,429
+       
+571
+          
+6
+Other non-renewable resource revenue
+2,044
+       
+2,215
+       
+2,337
+       
+171
+          
+(122)
+         
+7
+Canada Social Transfer / Canada Health Transfer
+6,178
+       
+6,098
+       
+5,925
+       
+(80)
+          
+173
+          
+8
+Other transfers from Government of Canada
+2,040
+       
+1,915
+       
+1,681
+       
+(125)
+        
+234
+          
+9
+Heritage / endowment fund investment income
+1,989
+       
+1,305
+       
+2,353
+       
+(684)
+        
+(1,048)
+      
+10
+Other investment income
+895
+          
+1,044
+       
+772
+          
+149
+          
+272
+          
+11
+Net income from government business enterprises
+2,777
+       
+2,585
+       
+3,387
+       
+(192)
+        
+(802)
+         
+12
+Post-secondary institution tuition fees
+1,237
+       
+1,256
+       
+1,202
+       
+19
+            
+54
+            
+13
+Other premiums, fees and licences
+2,617
+       
+2,655
+       
+2,637
+       
+38
+            
+18
+            
+14
+SUCH sector sales, rentals / fundraising, donations
+1,679
+       
+1,777
+       
+1,833
+       
+98
+            
+(56)
+           
+15
+Other revenue
+1,740
+       
+1,982
+       
+1,762
+       
+242
+          
+220
+          
+16 Total Revenue
+47,879
+     
+49,624
+     
+47,295
+     
+1,745
+       
+2,329
+       
+Change from 
+2018-19
+Revenue (millions of dollars)
+
+
+=== PDF PAGE 5 ===
+
+5
+2018 –19 Final Results | Year-End Report
+Energy Prices and Exchange Rates  
+Fiscal year averages, 2005-06 to 2018-19
+TAX REVENUE
+■
+■
+Total tax revenue was $23.6 billion, 
+an increase of $2,817 million from 
+2017-18, and $679 million from the 
+Budget 2018 estimate.
+■
+■
+Personal income tax revenue was 
+$11.9 billion, $1.1 billion higher than 
+2017-18 and $487 million higher 
+than budget. About two-thirds of 
+the increase from 2017-18 was 
+due to growth in employment and 
+incomes, as economic recovery 
+continued, with the remainder from a 
+$432 million prior-years’ adjustment 
+(PYA). Since 2017 assessments 
+ended up better than expected, 
+the forecast for subsequent years 
+improves. In addition, the 2017 
+results mean revenue reported 
+in 2016-17 and 2017-18 was 
+underestimated, requiring the PYA. 
+■
+■
+Corporate income tax revenue 
+was $4.9 billion, $1.4 billion more 
+than 2017-18 and $320 million 
+greater than budget. The forecast 
+in Budget 2018 was based on 
+corporate profits continuing to 
+improve, and early in 2018-19 
+this was supported by elevated 
+oil prices. However, heightened 
+market access issues, the fall 
+2018 spike in the light-heavy oil 
+price differential, a production and 
+investment restraint response, and 
+the general impact of these on the 
+economy, weakened the corporate 
+profits outlook. The third quarter 
+fiscal update forecast corporate 
+income tax $463 million lower than 
+budget. However, a number of 
+year-end accounting adjustments 
+to revenue (e.g. for refund liabilities 
+or accounts receivable) are made, 
+and these have been subject to 
+both larger and wider swings over 
+the last four years. This year these 
+adjustments add over $600 million 
+to reported revenue, while last year 
+they deducted over $300 million, 
+meaning about $1 billion of the 
+increase from last year is from these 
+adjustments.
+■
+■
+Other tax revenue was $6.8 billion, 
+$295 million higher than it was in 
+2017-18, and $128 million lower 
+than budget. The increase from 
+2017-18 was mainly due to the 
+impact of increasing the carbon 
+price from $20 per tonne of carbon 
+dioxide equivalent to $30 per tonne 
+on January 1, 2018, while the 
+decrease from budget was primarily 
+due to lower demand for tobacco, 
+fuel and insurance products. 
+TRANSFERS FROM GOVERNMENT 
+OF CANADA	
+■
+■
+Total of $8 billion, $407 million 
+higher than 2017-18, and 
+$205 million lower than budget. 
+■
+■
+The increase from 2017-18 was 
+mainly due to: $173 million growth 
+in the Canada health and social 
+transfers, which are calculated 
+based on federal escalators of a 
+minimum of 3% and by Alberta’s 
+share of total Canadian population; 
+expected additional funding for 
+mental health and home care 
+programs; and because revenue 
+in 2017-18 included a negative 
+$212 million to reverse previously-
+reported disaster assistance 
+revenue. The decrease from budget 
+was primarily from the impact on 
+the two major transfers of revised 
+population estimates, and re-profiled 
+infrastructure support. 
+INVESTMENT INCOME
+■
+■
+Investment income was $2.3 billion, 
+$776 million lower than 2017-18 
+and $535 million lower than budget. 
+The decreases are primarily due to 
+more normal returns for Heritage 
+and endowment fund income after 
+several years of strong global equity 
+markets, partially offset by higher 
+income from SUCH sector entities 
+and from higher cash balances in 
+various accounts.  
+OTHER REVENUE
+■
+■
+Other revenue was $10.3 billion, 
+$566 million lower than 2017-18 but 
+$205 million more than budget. 
+■
+■
+The $566 million decrease from 
+2017-18 includes: $402 million lower 
+Balancing Pool net income (net 
+income of $763 million was reported 
+in 2017-18 as the $2 billion liability 
+reported in 2016-17 was reduced); 
+$255 million lower Alberta Petroleum 
+Marketing Commission (APMC) 
+net income primarily from debt 
+interest toll payments required this 
+year; $139 million decrease in ATB 
+Financial (ATB) net income mainly 
+from higher credit loss provisions; 
+$56 million decrease in SUCH 
+sector sales and donations revenue; 
+$72 million increase in premiums, 
+fees and licences, mainly from 
+post-secondary institution tuition 
+fees; $214 million net increase 
+in other revenue, mainly due to 
+large emitters in 2017-18 using 
+purchased credits instead of making 
+compliance payments to meet 
+emissions reductions, and to a new 
+calculation in the new regulation. 
+■
+■
+The $205 million increase from 
+budget includes: $192 million lower 
+government business enterprise 
+net income, mainly from ATB and 
+APMC, partly offset by higher 
+Balancing Pool net income; a net 
+increase of $57 million in premiums, 
+fees and licences mainly from higher 
+timber royalties and tuition fees; a 
+net increase of $340 million in other 
+revenue mainly from post-secondary 
+institution donations and reversals 
+of prior-year reported expense 
+accruals, particularly with respect 
+to original estimates for disaster 
+assistance programs. 
+05-06 06-07 07-08 08-09 09-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19
+Oil Price (WTI US$/bbl)
+59.94
+64.89
+82.25
+85.94
+70.71
+83.38
+97.33
+92.07
+99.05
+80.48
+45.00
+47.93
+53.69
+62.77
+WCS @ Hardisty (Cdn$/bbl)
+44.35
+52.84
+59.30
+74.36
+66.08
+66.70
+80.72
+68.48
+80.11
+70.78
+40.86
+44.67
+50.38
+51.65
+Natural Gas Price (Cdn$/GJ)
+8.29
+5.94
+5.92
+6.97
+3.58
+3.28
+2.98
+2.28
+3.28
+3.51
+2.21
+2.01
+1.82
+1.34
+Exchange rate (US¢/Cdn$)
+83.9
+87.9
+97.1
+89.6
+91.9
+98.4
+100.7
+99.9
+95.0
+88.0
+76.5
+76.2
+78.0
+76.3
+0
+1
+2
+3
+4
+5
+0
+20
+40
+60
+80
+100
+Gas Price
+Cdn$ 
+Oil Prices
+US$
+WTI
+WCS
+ARP
+Oil and Natural Gas Prices 2014-19
+
+
+=== PDF PAGE 6 ===
+6
+2018 –19 Final Results | Year-End Report
+Total Expense  (millions of dollars)
+2017-18
+2017-18
+Operating Expense by Ministry
+Budget
+Actual
+Actual
+Budget
+Actual
+Advanced Education 
+5,429
+       
+5,392
+       
+5,334
+         
+(37)
+           
+58
+           
+Agriculture and Forestry
+1,045
+       
+931
+          
+962
+            
+(114)
+         
+(31)
+          
+Children's Services
+1,470
+       
+1,492
+       
+1,401
+         
+22
+            
+91
+           
+Community and Social Services
+3,621
+       
+3,636
+       
+3,428
+         
+15
+            
+208
+          
+Culture and Tourism
+298
+          
+286
+          
+293
+            
+(12)
+           
+(7)
+            
+Economic Development and Trade
+277
+          
+272
+          
+284
+            
+(5)
+             
+(12)
+          
+Education
+7,993
+       
+8,223
+       
+7,905
+         
+230
+           
+318
+          
+Energy
+473
+          
+477
+          
+435
+            
+4
+              
+42
+           
+Environment and Parks
+411
+          
+427
+          
+417
+            
+16
+            
+10
+           
+Executive Council
+17
+           
+17
+           
+16
+             
+-
+               
+1
+             
+Health 
+20,563
+     
+20,409
+     
+19,759
+       
+(154)
+         
+650
+          
+Indigenous Relations
+180
+          
+196
+          
+167
+            
+16
+            
+29
+           
+Infrastructure
+489
+          
+489
+          
+490
+            
+-
+               
+(1)
+            
+Justice and Solicitor General
+1,430
+       
+1,452
+       
+1,405
+         
+22
+            
+47
+           
+Labour
+219
+          
+203
+          
+185
+            
+(16)
+           
+18
+           
+Municipal Affairs 
+258
+          
+263
+          
+233
+            
+5
+              
+30
+           
+Seniors and Housing
+608
+          
+631
+          
+593
+            
+23
+            
+38
+           
+Service Alberta
+564
+          
+547
+          
+509
+            
+(17)
+           
+38
+           
+Status of Women
+7
+             
+7
+             
+7
+               
+-
+               
+-
+              
+Transportation
+432
+          
+442
+          
+454
+            
+10
+            
+(12)
+          
+Treasury Board and Finance 
+1,644
+       
+1,672
+       
+1,654
+         
+28
+            
+18
+           
+Legislative Assembly
+161
+          
+136
+          
+117
+            
+(25)
+           
+19
+           
+Climate Leadership Plan
+1,035
+       
+842
+          
+521
+            
+(193)
+         
+321
+          
+Total Operating Expense 
+48,625
+     
+48,440
+     
+46,572
+       
+(185)
+         
+1,868
+       
+Capital Grants
+Energy
+177
+          
+134
+          
+50
+             
+(43)
+           
+84
+           
+Municipal Affairs 
+884
+          
+884
+          
+2,244
+         
+-
+               
+(1,360)
+     
+Transportation
+395
+          
+301
+          
+926
+            
+(94)
+           
+(625)
+        
+Climate Leadership Plan
+423
+          
+375
+          
+394
+            
+(48)
+           
+(19)
+          
+Other
+250
+          
+258
+          
+407
+            
+8
+              
+(149)
+        
+Total Capital Grants
+2,129
+       
+1,952
+       
+4,021
+         
+(177)
+         
+(2,069)
+     
+Disaster / Emergency Assistance
+Agriculture and Forestry (agriculture support / wildfire fighting)
+-
+              
+426
+          
+408
+            
+426
+           
+18
+           
+Municipal Affairs (Wood Buffalo wildfire assistance / flood support)
+1
+             
+80
+           
+23
+             
+79
+            
+57
+           
+2013 Alberta flood operating support
+5
+             
+1
+             
+7
+               
+(4)
+             
+(6)
+            
+Unallocated
+200
+          
+-
+              
+-
+                
+(200)
+         
+-
+              
+Total Disaster / Emergency Assistance
+206
+          
+507
+          
+439
+            
+301
+           
+68
+           
+Amortization / Inventory Consumption / Loss on Asset Disposals
+Advanced Education amortization / inventory consumption
+711
+          
+696
+          
+674
+            
+(15)
+           
+22
+           
+Education amortization
+354
+          
+413
+          
+372
+            
+59
+            
+41
+           
+Health amortization / inventory consumption
+1,442
+       
+1,470
+       
+1,416
+         
+28
+            
+54
+           
+Infrastructure amortization / inventory consumption
+124
+          
+122
+          
+110
+            
+(2)
+             
+12
+           
+Transportation amortization / inventory consumption
+636
+          
+631
+          
+600
+            
+(5)
+             
+31
+           
+Other amortization / inventory consumption / loss on disposals
+340
+          
+319
+          
+287
+            
+(21)
+           
+32
+           
+Total Amortization / Invent. Consump. / Loss on Disposals 
+3,607
+       
+3,651
+       
+3,459
+         
+44
+            
+192
+          
+General Debt Servicing Costs
+Education - school boards
+9
+             
+10
+           
+11
+             
+1
+              
+(1)
+            
+Seniors and Housing (Alberta Social Housing Corporation)
+5
+             
+5
+             
+6
+               
+-
+               
+(1)
+            
+Treasury Board and Finance (Ab. Capital Finance Auth. / other)
+1,013
+       
+1,059
+       
+642
+            
+46
+            
+417
+          
+Total General Debt Servicing Costs
+1,027
+       
+1,074
+       
+659
+            
+47
+            
+415
+          
+Capital Plan Debt Servicing Costs
+Education – Alberta Schools Alternative Procurement P3s
+28
+           
+28
+           
+29
+             
+-
+               
+(1)
+            
+Transportation – ring road P3s
+92
+           
+92
+           
+94
+             
+-
+               
+(2)
+            
+Treasury Board and Finance – direct borrowing 
+775
+          
+777
+          
+638
+            
+2
+              
+139
+          
+Total Capital Plan Debt Servicing Costs
+895
+          
+897
+          
+761
+            
+2
+              
+136
+          
+Pension Provisions / (Recovery)
+(310)
+        
+(190)
+        
+(593)
+          
+120
+           
+403
+          
+Total Expense
+56,181
+     
+56,335
+     
+55,318
+       
+154
+           
+1,017
+       
+Change from 
+2018-19
+
+
+=== PDF PAGE 7 ===
+
+7
+2018 –19 Final Results | Year-End Report
+Expense Highlights
+Total expense in 2018-19 was 
+$56.3 billion. This comprised 
+$48.4 billion in operating expense, 
+capital grants of $2 billion, $0.5 billion 
+in disaster assistance, $3.6 billion in 
+amortization, inventory consumption 
+and losses on asset disposals, general 
+and capital debt servicing costs of 
+$2 billion and negative $0.2 billion in 
+reduced pension liabilities.
+Year-over-year comparison. Total 
+2018-19 expense was $1 billion higher 
+than 2017-18:
+■
+■
+Operating expense. $1.9 billion 
+increase mainly for physician 
+compensation and expanded 
+continuing and home care services, 
+enrolment growth in schools, 
+increased caseloads in income 
+support, AISH, PDD, seniors’ and 
+children’s programs, implementing 
+recommendations from the child 
+intervention panel, higher household 
+rebates due to increasing the 
+carbon price from $20 to $30, and 
+commencement of the electricity 
+price cap for regulated rate option 
+customers in 2018-19.
+■
+■
+Capital grants. $2.1 billion 
+decrease due primarily to the 
+acceleration of municipal grants 
+from future years into 2017-18 
+under GreenTrip and the Municipal 
+Sustainability Initiative.
+■
+■
+Disaster assistance. $0.1 billion 
+increase due primarily to provision 
+of municipal flood support.
+■
+■
+Other expense. $1.1 billion 
+increase: $0.5 billion in debt 
+servicing costs, $0.2 billion in 
+consumption of inventory (vaccines 
+and other drugs) and amortization, 
+and a $0.4 billion smaller decline in 
+pension liabilities.
+■
+■
+Budget-to-actual changes. Total 
+expense was $0.2 billion higher than 
+estimated in Budget 2018:
+■
+■
+Operating expense. $0.2 billion 
+decrease. Increases were mainly for 
+own-source school board spending, 
+indexation of, and caseload and 
+cost growth in social programs, and 
+external investment management 
+fees. These are more than offset 
+by decreases mainly in agriculture 
+income support and hail and 
+livestock indemnities, from the 
+new drug pricing and pharmacy 
+agreements, timing of community 
+care initiatives in Health, and delays 
+or lapses in energy efficiency, 
+electricity transition and innovation 
+and technology climate programs.
+■
+■
+Capital grants. $0.2 billion 
+decrease due mainly to re-profiled 
+federal infrastructure program and 
+carbon capture and storage grants.
+■
+■
+Disaster assistance. $0.3 billion 
+increase due to wildfire fighting 
+costs, agriculture support and 
+municipal flood assistance.
+■
+■
+Other expense. $0.2 billion net 
+increase, due primarily to a smaller 
+decline in pension liabilities, and 
+increased inventory consumption 
+and debt servicing costs.
+HEALTH
+Total expense was $21.9 billion, 
+including $20.4 billion in operating 
+expense and $1.5 billion in amortization 
+and inventory consumption. This was 
+$695 million or 3.3% higher than in 
+2017-18, and $136 million below budget.
+■
+■
+Increases from 2017-18 include: 
+$221 million for physician services, 
+reflecting more service demand; 
+$201 million for continuing, home 
+and community care programs; 
+$58 million for Drugs and 
+Supplemental Health Benefits, 
+primarily from higher volumes; and 
+a net $215 million in other programs.
+■
+■
+The change from budget includes 
+decreases of $72 million in 
+Drugs and Supplemental Health 
+Benefits, due mainly to the new 
+agreements on drug pricing and 
+with pharmacists, and higher 
+cost recoveries under product 
+listing agreements; $72 million in 
+Community Care due to delays 
+with various initiatives; $54 million 
+related to lower insulin pump 
+therapy and pharmacist injection 
+needs, partly offset by $62 million 
+in net increases of physician 
+compensation and other programs.
+EDUCATION
+Total expense was $8.6 billion, an 
+increase of $319 million from 2017-18 
+and of $312 million from Budget 2018.
+■
+■
+The change from 2017-18 includes 
+increases of $318 million in 
+operating expense, primarily for 
+enrolment growth in public and 
+private schools and $41 million in 
+amortization with additional schools, 
+partly offset by $44 million larger 
+decrease in pension liabilities 
+(reported as negative expense).
+■
+■
+Increases from budget comprise 
+$230 million in operating expense, 
+from school board own-source 
+spending, $59 million in higher 
+amortization, and $17 million in a 
+smaller-than-expected decrease in 
+pension liabilities. 
+ADVANCED EDUCATION
+Total expense was $6.1 billion, an 
+increase of $62 million from 2017-18 
+and $54 million lower than budget. 
+■
+■
+The increase from 2017-18 
+includes $14 million by post-
+secondary institutions, $25 million 
+for student loan costs, $29 million 
+higher amortization, $10 million for 
+apprenticeship and foundational 
+learning, partly offset by $16 million 
+larger decrease in pension liabilities. 
+■
+■
+The decrease from budget primarily 
+reflects lower amortization expense 
+and grants to post-secondary 
+institutions, due to less demand for 
+apprenticeship training, partly offset 
+by higher student loan costs. 
+COMMUNITY AND SOCIAL 
+SERVICES
+Total expense was $3.6 billion in 
+2018-19, $208 million or 6.1% higher 
+than in 2017-18, and $14 million above 
+budget. The increase from 2017‑18 
+was primarily for higher caseloads 
+and costs-per-case in programs for 
+disabled and unemployed Albertans. 
+The increase from budget was mainly 
+from higher caseloads and increased 
+benefit rates, including from indexation 
+of program benefits to inflation 
+commencing January 1, 2019. 
+CHILDREN’S SERVICES
+Total expense of $1.5 billion, $91 million 
+or 6.5% higher than in 2017-18, and 
+$21 million more than budget, primarily 
+for higher caseloads. The Alberta Child 
+Benefit, which supports about 140,000 
+families, increased $11 million relative 
+to 2017-18, but was $6 million lower 
+than budget.
+
+
+=== PDF PAGE 8 ===
+8
+2018 –19 Final Results | Year-End Report
+JUSTICE AND SOLICITOR 
+GENERAL
+Total expense was $1.5 billion, an 
+increase from 2017-18 of $47 million,  
+and $18 million from budget. The 
+increase from 2017-18 was primarily for 
+Crown prosecutors, police, corrections, 
+court and justice services personnel, 
+and higher grants for Legal Aid, Victims 
+of Crime and municipal policing, while 
+the increase from budget was for Legal 
+Aid, Victims of Crime, motor vehicle 
+accident claims, rural crime, Gangs and 
+Guns and drug impaired driver training. 
+MUNICIPAL AFFAIRS
+Total expense was $1.2 billion, a 
+decrease of $1.3 billion from last year, 
+and $83 million more than budget. The 
+decrease from 2017-18 was primarily 
+due to accelerating municipal grants 
+from future years into 2017-18, partly 
+offset by higher flood assistance and 
+support for cannabis legalization. The 
+increase from budget reflects municipal 
+flood assistance and cannabis support.
+OTHER MINISTRIES
+Total expense for other ministries was 
+$12 billion in 2018-19, $869 million 
+higher than in 2017-18 but $106 million 
+lower than estimated in Budget 2018. 
+Changes from 2017-18 include:
+■
+■
+Legislative Assembly: $19 million 
+higher due to 2019 election costs.
+■
+■
+Energy expense was $209 million 
+more: $115 million increase in 
+carbon capture and storage (CCS) 
+capital grants; $53 million Regulated 
+Rate Option (RRO) payments began 
+in 2018-19; $30 million increase for 
+Orphan Well Association; $11 million 
+net other increases, which includes 
+$6 million for crude-by-rail.
+■
+■
+Environment and Parks down 
+by $193 million: $106 million 
+community resilience and flood 
+relocation grants accelerated into 
+2017-18; climate change programs 
+$99 million lower (some moved to 
+capital investment); $12 million net 
+increase in environmental liabilities 
+and other programs.
+■
+■
+Indigenous Relations increased 
+$46 million, including $18 million 
+for Lubicon Lake First Nations 
+land claim settlement, $7 million 
+additional support for consultation 
+and $20 million for climate change-
+related grants.
+■
+■
+Service Alberta expense increased 
+$62 million, mainly for Enterprise 
+Resource Planning implementation 
+($45 million) and for a Land Titles 
+assurance claim ($7 million).
+■
+■
+Transportation expense decreased 
+$584 million as a number of major 
+municipal capital grants were 
+accelerated into 2017-18. 
+■
+■
+Treasury Board and Finance up 
+$1,259 million: lower reduction in 
+pension liabilities ($461 million); 
+household rebates ($222 million); 
+higher external investment 
+management fees ($46 million); 
+market access advocacy campaign 
+($27 million); increased debt 
+servicing costs ($556 million); partly 
+offset by net $53 million decreases.  
+■
+■
+Expense in other ministries was 
+a net $50 million higher mainly 
+for federally-funded infrastructure 
+projects and labour market 
+programs, volume growth and 
+indexation in programs for seniors.
+Changes from budget include:
+■
+■
+A decrease of $200 million from the 
+budgeted disaster provision. 
+■
+■
+Legislative Assembly expense was 
+$28 million less than estimated as 
+the election was in May and thus 
+some costs occurred in 2019-20.
+■
+■
+Agriculture and Forestry expense 
+was $300 million higher: disaster 
+assistance of $233 million for 
+agriculture support (dry spring 
+conditions / late season snow), and 
+$193 million for wild-fire fighting 
+costs; offset by $88 million in lower-
+than-expected hail and livestock 
+indemnities and AgriStability income 
+support (fewer storms and higher 
+cattle prices), and net decrease of 
+$38 million in other programs. 
+■
+■
+Energy expense was $121 million 
+lower: $108 million reduced CCS 
+grants, from private sector partner 
+milestone delays; $21 million 
+decrease in RRO payments from 
+lower-than-estimated electricity 
+prices; a net $8 million increase in 
+crude-by-rail and other programs.
+■
+■
+Environment and Parks decreased 
+$53 million: $59 million lower 
+or re-allocated climate change 
+grants; $15 million increase for 
+environmental liabilities; $5 million 
+for surface rights board payments; 
+a net $14 milion in other decreases, 
+primarily fish and wildlife programs.
+■
+■
+Indigenous Relations increased by 
+$19 million mainly due to the land 
+claim settlement.
+■
+■
+Seniors and Housing up $47 million: 
+$28 million moved from capital 
+investment to grants for housing  
+and $19 million for higher volumes 
+and indexation of seniors programs.
+■
+■
+Transportation expense was down 
+$153 million mainly due to re-
+profiling municipal capital grants, 
+including some federally-funded.
+■
+■
+Treasury Board and Finance up 
+$179 million: lower decrease in 
+pension liabilities ($108 million); 
+higher external investment 
+management fees ($89 million); 
+market access advocacy campaign 
+($27 million); increased debt 
+servicing costs ($48 million); partly 
+offset by $93 million in decreases.
+■
+■
+Expense in other ministries was a 
+net $97 million lower than budget, 
+mainly from delays in climate 
+change programs and recruitment.
+PENSION PROVISIONS/RECOVERY
+■
+■
+Public sector pension plan liabilities 
+decreased by $190 million, to 
+$9.2 billion at March 31, 2019. This 
+was a smaller decrease than the 
+$593 million in 2017-18, and the 
+$310 million expected in budget.
+■
+■
+The change from 2017-18 was 
+mainly due to the impact of healthy 
+financial markets returns on several 
+plans last year. The change from 
+budget was primarily related to 
+revised life expectancy assumptions 
+in Teachers’ Pension Plans (TPP). 
+■
+■
+Liabilities for pre-1992 and other 
+closed plan obligations account 
+for 93% (2018: 92%) of the 
+government obligation, with the 
+pre‑1992 TPP unfunded liability 
+accounting for 84% (2018: 82%).
+(at March 31)
+2019
+2018
+Teachers' Pension Plans
+  – Pre-1992
+7,739
+  
+7,774
+  
+  – Post-1992
+340
+     
+450
+     
+PS Mgmt. (pre-1992)
+473
+     
+506
+     
+Local Authorities 
+-
+          
+-
+          
+Univ. Acad. (pre-1992)
+259
+     
+244
+     
+Universities Academic 
+160
+     
+205
+     
+Public Service 
+-
+          
+16
+       
+Spec. Forces (pre-1992)
+93
+       
+70
+       
+Supp. Exec. Retir. Plans
+66
+       
+60
+       
+MLA (Closed)
+40
+       
+42
+       
+PS Mgmt. (Supp.)
+70
+       
+55
+       
+Management Employees
+-
+          
+-
+          
+Prov. Judges / Masters
+-
+          
+8
+         
+Total Pension Liab.
+9,240
+  
+9,430
+  
+Pension Liabilities 
+Government obligations for pension 
+plan liabilities (millions of dollars)
+
+
+=== PDF PAGE 9 ===
+
+9
+2018 –19 Final Results | Year-End Report
+2017-18
+2017-18
+BY MINISTRY
+Budget
+Actual
+Actual
+Budget
+Actual
+Advanced Education 
+714
+          
+680
+          
+921
+          
+(34)
+           
+(241)
+         
+Agriculture and Forestry
+39
+            
+36
+            
+50
+            
+(3)
+             
+(14)
+           
+Community and Social Services
+2
+              
+2
+              
+1
+              
+-
+               
+1
+              
+Culture and Tourism
+76
+            
+87
+            
+67
+            
+11
+            
+20
+            
+Economic Development and Trade
+10
+            
+7
+              
+8
+              
+(3)
+             
+(1)
+             
+Education
+744
+          
+668
+          
+1,229
+       
+(76)
+           
+(561)
+         
+Energy
+194
+          
+154
+          
+73
+            
+(40)
+           
+81
+            
+Environment and Parks
+65
+            
+69
+            
+187
+          
+4
+              
+(118)
+         
+Health 
+1,338
+       
+640
+          
+1,000
+       
+(698)
+         
+(360)
+         
+Indigenous Relations
+8
+              
+8
+              
+8
+              
+-
+               
+-
+               
+Infrastructure
+220
+          
+661
+          
+212
+          
+441
+          
+449
+          
+Justice and Solicitor General
+10
+            
+8
+              
+4
+              
+(2)
+             
+4
+              
+Labour
+2
+              
+3
+              
+3
+              
+1
+              
+-
+               
+Municipal Affairs 
+892
+          
+889
+          
+2,248
+       
+(3)
+             
+(1,359)
+      
+Seniors and Housing
+259
+          
+166
+          
+191
+          
+(93)
+           
+(25)
+           
+Service Alberta
+117
+          
+109
+          
+126
+          
+(8)
+             
+(17)
+           
+Transportation
+1,481
+       
+1,497
+       
+2,233
+       
+16
+            
+(736)
+         
+Treasury Board and Finance 
+18
+            
+14
+            
+13
+            
+(4)
+             
+1
+              
+Legislative Assembly
+3
+              
+2
+              
+2
+              
+(1)
+             
+-
+               
+2013 Alberta flood assistance
+29
+            
+22
+            
+24
+            
+(7)
+             
+(2)
+             
+Climate Leadership Plan
+616
+          
+458
+          
+419
+          
+(158)
+         
+39
+            
+Contingency / unallocated
+(391)
+         
+-
+               
+-
+               
+391
+          
+-
+               
+Total Capital Plan
+6,444
+       
+6,180
+       
+9,021
+       
+(264)
+         
+(2,841)
+      
+Capital Plan Financing
+Cash received / donations for capital purposes
+969
+          
+517
+          
+732
+          
+(452)
+         
+(215)
+         
+Retained income of funds and agencies for capital purposes
+101
+          
+(69)
+           
+(53)
+           
+(170)
+         
+(16)
+           
+Climate Leadership Plan
+615
+          
+459
+          
+418
+          
+(156)
+         
+41
+            
+Book value of capital asset disposals / valuation adjustment for Swan Hills 
+-
+               
+88
+            
+35
+            
+88
+            
+53
+            
+Alternative financing (P3s – public-private partnerships)
+128
+          
+128
+          
+181
+          
+-
+               
+(53)
+           
+Direct borrowing
+3,772
+       
+4,177
+       
+5,434
+       
+405
+          
+(1,257)
+      
+SUCH sector self-financed
+860
+          
+825
+          
+935
+          
+(35)
+           
+(110)
+         
+Transfers from / (to) Capital Plan financing account
+-
+               
+55
+            
+1,339
+       
+55
+            
+(1,284)
+      
+Total Capital Plan Financing
+6,444
+       
+6,180
+       
+9,021
+       
+(264)
+         
+(2,841)
+      
+Change from 
+2018-19
+Capital Plan  (millions of dollars)
+The 2018-19 Capital Plan supported 
+$6.2 billion in projects, $2.8 billion lower 
+than in 2017-18 and $264 million lower 
+than the Budget 2018 estimate. 
+■
+■
+The decrease from 2017-18 
+was mainly due to municipal 
+transportation and other grants 
+accelerated into 2017-18, and a 
+general scaling back in the size of 
+the Capital Plan.
+■
+■
+The decrease from budget was 
+due mainly to re-profiling of health, 
+school, post-secondary, carbon 
+capture and storage, housing, flood 
+recovery, climate change and other 
+projects to future years, from slower 
+progress, partly offset by removing 
+the $391 million budgeted cash flow 
+adjustment, as intended.
+■
+■
+Progress was affected by: 
+adverse weather, pace of 
+project identification, approval 
+and construction under federal 
+programs, private sector and 
+municipal partner delays, land 
+conditions and timing related to 
+planning and permitting.
+■
+■
+As explained in the Notes on 
+restatements / changes to 
+presentation of numbers (page 2), 
+accounting policy for projects being 
+managed by the Department of 
+Infrastructure, for school boards and 
+Alberta Health Services, is now to 
+report the projects as Infrastructure 
+capital investment. The 2018-19 
+Actuals are reported on this basis, 
+but the Budget and the 2017-18 
+Actuals have not been restated. 
+As a result, the “change from” 
+amounts are not fully comparable 
+for Education, Health and 
+Infrastructure.
+Capital Plan Highlights
+
+
+=== PDF PAGE 10 ===
+10
+2018 –19 Final Results | Year-End Report
+■
+■
+$1.2 billion for the highway network, 
+including:
+♦
+♦$347 million for Calgary’s ring 
+road, with the final, southwest 
+portion about 50% complete.
+♦
+♦$314 million for twinning and 
+widening, including Highway 63, 
+Peace River bridge twinning and 
+Grande Prairie highway 43 bypass.
+♦
+♦$33 million for interchanges, 
+intersections and safety upgrades, 
+including the Highway 2 and Gaetz 
+Avenue interchange in Red Deer.
+♦
+♦$54 million for bridge construction, 
+including Highway 63 Prairie Creek 
+culvert and Highway 689 Beaton 
+Creek bridge.  
+♦
+♦$390 million for rehabilitation, and 
+$36 million for other projects such 
+as Edmonton’s ring road. 
+■
+■
+$1.4 billion in municipal support:
+♦
+♦$295 million in Municipal 
+Sustainability Initiative (MSI) grants.  
+MSI funding of $800 million was 
+re-profiled into 2017-18 from future 
+years, $400 million from 2018-19. 
+♦
+♦Grants of $67 million from federal 
+Public Transit Infrastructure Fund, 
+$17 million from federal Small 
+Communities, and $3 million from 
+Alberta Community Partnership.
+♦
+♦$340 million in Basic Municipal 
+Transportation Grants, $229 million 
+from the federal Gas Tax Fund, 
+$209 million in GreenTRIP grants for 
+transit and $22 million for Strategic 
+Transportation Infrastructure.
+♦
+♦$162 million for water supply, 
+treatment, wastewater treatment 
+and disposal systems; $30 million 
+for First Nations Water Tie-in. 
+■
+■
+$0.7 billion for school construction, 
+including $643 billion for various 
+ongoing projects and $35 million 
+for modular classrooms to 
+accelerate meeting demand for 
+educational spaces. Of the 278 
+projects approved since 2011, 207 
+have been finished, 34 are under 
+construction and 37 are in planning, 
+design or being tendered.
+■
+■
+$0.7 billion for post-secondary 
+projects, including funding of 
+$212 million for expansion and 
+upgrading, $123 million for 
+maintenance and renewal, and 
+$359 million in projects self-funded 
+by institutions and donations. 
+Major projects included University 
+of Calgary MacKimmie Complex, 
+University of Alberta Dentistry /
+Pharmacy, University of Lethridge 
+Destination project, Medicine Hat 
+College East and Northern Lakes 
+College High Prairie consolidation. 
+■
+■
+$0.9 billion for health facilities and 
+equipment:
+♦
+♦Completed the Edson Healthcare 
+Centre.
+♦
+♦Continued work on projects in 
+Grande Prairie, Medicine Hat, Fort 
+McMurray, Lloydminster, Red Deer, 
+Edmonton and Calgary. 
+♦
+♦Planning continued for the 
+Edmonton southwest hospital and 
+Calgary’s Peter Lougheed Centre 
+redevelopment and Complex 
+Continuing Care Facility .
+♦
+♦$31 million for continuing care. 
+Completed construction on ten 
+Affordable Supportive Living 
+Initiative projects adding 1,177 long 
+term care spaces.
+■
+■
+$459 million for Climate Leadership 
+Plan projects and $5 million for land 
+conservation.
+■
+■
+$166 million in carbon capture and 
+storage grants, $108 million lower 
+than budget but $115 million more 
+than 2017-18, due to construction 
+progress.
+■
+■
+$22 million for 2013 flood recovery 
+projects, and $39 million for the 
+Springbank Off-stream Resevoir. 
+■
+■
+$16 million for courthouse renewal 
+enabled completion of projects in  
+Red Deer, Wabasca, Red Earth 
+Creek and Fort Vermilion, and 
+ongoing work on facilities in Hinton, 
+Edmonton, Whitecourt, Canmore, 
+Didsbury, Cochrane, Chateh, 
+Alexis and Brooks. Land has been 
+acquired for the Red Deer Justice 
+Centre and design is in progress.
+■
+■
+$114 million for seniors and family 
+housing preservation, renewal and 
+renovations.
+■
+■
+Lottery funding of $37 million was 
+provided for Community Facility 
+Enhancement projects. 
+■
+■
+$52 million for maintenance and 
+renewal of parks.
+■
+■
+$6 million for fisheries habitats in 
+Allison Creek Brood Trout Hatchery 
+Station and Sam Livingston Fish 
+Hatchery.
+■
+■
+$41 million in Support for Culture 
+and Tourism Infrastructure grants.
+■
+■
+$7 million under the federal 
+Investing in Canada Infrastructure 
+Program for YWCA Calgary Hub 
+facility and Jerry Forbes Centre for 
+Community Spirit projects. 
+■
+■
+$17 million in irrigation rehabilitation 
+and rural gas and electrical 
+infrastructure grants.
+■
+■
+Completed construction of the 
+Alberta Gaming, Liquor and 
+Cannabis Commission distribution 
+warehouse in fall 2018. Commenced 
+planning and tendering work for the  
+Provincial Operations Centre, which 
+will house Alberta’s emergency 
+management system.
+CAPITAL PLAN FINANCING 
+The Capital Plan is funded from a 
+variety of sources, including: 
+■
+■
+$517 million in federal funding, 
+donations, and other sources. 
+■
+■
+Funding from entities, regulatory 
+and other agencies for their capital 
+spending was negative $69 million 
+in 2018-19, primarily as Alberta 
+Social Housing Corporation received 
+cash from the general revenue 
+fund that exceeded its Capital Plan 
+spending.
+■
+■
+The Climate Leadership Plan funded 
+$459 million.
+■
+■
+Capital assets of departments that 
+were disposed of result in a cash 
+source for the Capital Plan, while 
+the increase in the value of the 
+Swan Hills Waste Treatment Centre 
+requires no cash spending. 
+■
+■
+Direct borrowing and contributions 
+from public-private partnerships 
+provided $4.3 billion.
+■
+■
+School boards, universities and 
+colleges and the health authority 
+provided $825 million. 
+■
+■
+$55 million was available in the 
+Capital Plan financing account from 
+prior-year borrowing, which was 
+withdrawn in 2018-19.
+
+
+=== PDF PAGE 11 ===
+
+11
+2018 –19 Final Results | Year-End Report
+Contingency Account
+2017-18
+2017-18
+At March 31, 2019
+Budget
+Actual
+Actual
+Budget
+Actual
+1 Balance at Start of Year (April 1)
+1,661
+      
+1,661
+      
+2,299
+      
+-
+             
+(638)
+        
+2 Surplus / (Deficit)
+(8,802)
+     
+(6,711)
+     
+(8,023)
+     
+2,091
+      
+1,312
+      
+Cash Adjustments – Sources / (Requirements)
+3
+SUCH / Alberta Innovates own-source revenue / expense
+565
+         
+742
+        
+397
+         
+177
+         
+345
+         
+4
+Income retained by funds and agencies / Heritage Fund
+(1,479)
+     
+(1,191)
+   
+(2,165)
+     
+288
+         
+974
+         
+5
+Pension provisions (non-cash expense)
+(310)
+        
+(190)
+       
+(593)
+        
+120
+         
+403
+         
+6
+Amort. / invent. cons. (ex. SUCH; non-cash exp.) / book value disp. 
+1,190
+      
+1,135
+    
+1,089
+      
+(55)
+         
+46
+           
+7
+Student loans / inventory acquisition (excluding SUCH)
+(514)
+        
+(469)
+       
+(521)
+        
+45
+           
+52
+           
+8
+2016 Wood Buffalo fire / 2013 flood assistance revenue / expense
+(171)
+        
+(154)
+       
+(218)
+        
+17
+           
+64
+           
+9
+Energy royalties / personal income tax / other cash adjustments
+90
+           
+(945)
+        
+(534)
+        
+(1,035)
+     
+(411)
+        
+10
+Net deferred capital contribution adjustment (excluding SUCH)
+351
+         
+75
+          
+215
+         
+(276)
+        
+(140)
+        
+11
+Capital investment (excluding SUCH; cash requirement not in expense)
+(3,455)
+     
+(3,404)
+   
+(4,064)
+     
+51
+           
+660
+         
+12
+Withdrawal / (deposit) from / (to) Capital Plan account 
+-
+              
+55
+          
+1,339
+      
+55
+           
+(1,284)
+     
+13
+Direct borrowing for Capital Plan
+3,772
+      
+4,177
+    
+5,434
+      
+405
+         
+(1,257)
+     
+14
+Alternative financing for Capital Plan (P3s – public-private partnerships) 
+128
+         
+128
+        
+181
+         
+-
+             
+(53)
+          
+15
+Current principal repayments (P3s)
+(64)
+          
+(64)
+        
+(62)
+         
+-
+             
+(2)
+            
+16 Surplus / (deficit) plus net cash adjustments
+(8,699)
+     
+(6,816)
+     
+(7,524)
+     
+1,883
+      
+708
+         
+17
+Cash transferred from / (due to) prior-year final results
+-
+              
+-
+            
+2,392
+      
+-
+             
+(2,392)
+     
+18
+Cash from final results to be withdrawn / (deposited) next year
+-
+              
+(854)
+       
+-
+             
+(854)
+        
+(854)
+        
+19
+Direct borrowing for Fiscal Plan
+7,038
+      
+12,351
+  
+4,494
+      
+5,313
+      
+7,857
+      
+20 Balance at End of Year (March 31)
+-
+              
+6,342
+      
+1,661
+      
+6,342
+      
+4,681
+      
+2018-19
+Change from 
+Contingency Account (millions of dollars)
+Contingency Account. Balance of 
+$6.3 billion on March 31, 2019, an 
+increase of $4.7 billion from the prior 
+year, comprising: a net $6.8 billion 
+reduction, due to the deficit plus various 
+net cash adjustments; the addition of 
+$12.4 billion in borrowing; less cash 
+of $0.9 billion that will be deposited 
+in 2019-20 (after final results were 
+determined, the balance in the Account 
+on March 31, 2019 was $0.9 billion too 
+low). The additional borrowing includes 
+$7.2 billion borrowed in advance for 
+2019-20 cash management needs, 
+which were elevated this year as 
+borrowing activities are not undertaken 
+during a provincial election. 
+Cash adjustments such as 
+differences between accrued revenue 
+and cash receipts, non-cash revenue 
+or expense, SUCH sector entity results, 
+and transfers not reported on the 
+income statement, are necessary to 
+determine balance of the Contingency 
+Account under the Fiscal Planning and 
+Transparency Act.
+■
+■
+Net income of, or retained by, 
+other entities. 
+♦
+♦Positive adjustments include: 
+$0.7 billion of the $6.7 billion deficit 
+was due to SUCH sector / Alberta 
+Innovates net results, while another 
+$0.2 billion of the deficit was due to 
+the Alberta Petroleum and Marketing 
+Commission’s negative net income. 
+♦
+♦Negative adjustments include: 
+$0.3 billion in surpluses of entities 
+like Alberta Treasury Branches 
+or Agriculture Financial Services 
+Corporation are retained by the 
+entities; $0.3 billion is retained by 
+climate change funds and accounts; 
+$0.4 billion of Balancing Pool net 
+income is retained; $0.4 billion is 
+retained by the Heritage Fund for 
+inflation-proofing.
+■
+■
+Non-cash expense. $1.1 billion 
+of amortization and inventory 
+consumption expense requires no 
+cash; a $190 million decrease in 
+pension liabilities is reported as non-
+cash negative expense. 
+■
+■
+Cash requirements not in 
+expense. $337 million for 
+student loans, net of repayments; 
+$132 million for short-term inventory 
+assets; a net $154 million was 
+required for 2013 flood assistance 
+and 2016 Wood Buffalo wildfire 
+spending, after adjusting for revised 
+expense and revenue.
+■
+■
+Revenue and other cash 
+adjustments. Cash received for 
+non-renewable resource royalties 
+exceeded reported resource 
+revenue by $139 million, while 
+corporate income tax reported 
+revenue exceeded cash received 
+by $699 million, due to several 
+year-end accounting adjustments 
+increasing reported revenue; various 
+other differences between revenue 
+/ expense and cash amounted to 
+a net positive $385 million. Cash 
+transfers for capital, reported in 
+revenue over the related asset’s 
+life, exceeded non-cash reported 
+revenue by $75 million.
+■
+■
+Capital Plan cash. Cash for 
+capital investment and P3 principal 
+repayments of $3,468 million was 
+offset by $4,305 million in cash from 
+borrowing and P3 partners, and 
+a $55 million withdrawal from the 
+Capital Plan financing account. The 
+account contained cash borrowed in 
+prior years that did not end up being 
+required in those years. Its balance 
+is now $0.
+
+
+=== PDF PAGE 12 ===
+12
+2018 –19 Final Results | Year-End Report
+Net Financial and Capital Assets
+At March 31, 2019, Government of 
+Alberta financial and capital assets 
+exceeded liabilities by $23.3 billion. 
+This was $6.4 billion lower than 
+March 31, 2018, due to a reduction of 
+$8.1 billion in net financial assets, partly 
+offset by a net $1.7 billion increase 
+in capital / non-financial assets. The 
+decrease in net financial assets was 
+mainly due to:
+■
+■
+$4.8 billion increase in assets, 
+mainly comprising: $4.7 billion 
+increase in Contingency Account 
+cash, due to pre-borrowing for 
+2019-20 operations, a $0.5 billion 
+increase in government business 
+enterprise equity (mainly from the 
+Balancing Pool and ATB Financial), 
+a $0.3 billion increase in student 
+loans, a $1.2 billion increase in 
+various savings accounts, agencies, 
+the Heritage Fund and endowment 
+funds, partly offset by a $2 billion 
+reduction in other financial assets.
+■
+■
+$12.9 billion increase in liabilities 
+consisting mainly of $16.9 billion 
+borrowed for the Fiscal Plan, Capital 
+Plan and Alberta Capital Finance 
+Authority (ACFA), partly offset by 
+reductions of $2.5 billion in other 
+term debt, $0.2 billion in pension 
+plan liabilities and $1.3 billion in 
+other liabilities. 
+FINANCIAL ASSETS
+$75.7 billion at March 31, 2018.
+■
+■
+Heritage Fund. $16 billion book 
+value, an increase of $374 million 
+from March 31, 2018, from inflation-
+proofing of 2.4% (2018 Alberta CPI).
+■
+■
+Contingency Account. Balance of 
+$6.3 billion. This is an increase from 
+March 31, 2018 of $4.7 billion, due 
+to additional borrowing undertaken 
+in 2018-19 for 2019-20 operations. 
+The balance is $854 million less 
+than what has been determined 
+from final 2018-19 results. This cash 
+will be deposited during 2019-20, 
+such that the Account balance will 
+be $7.2 billion, while “Other financial 
+assets” will be $854 million lower. 
+■
+■
+Endowment and other funds.  
+$4.8 billion, a $36 million increase 
+from March 31, 2018, from net 
+investment income. Includes the 
+three endowment funds, Cancer 
+Prevention Legacy Fund and Alberta 
+Enterprise Corporation. 
+■
+■
+Self-supporting lending 
+organizations.  
+$22 billion in financial assets of 
+ACFA and Agriculture Financial 
+Services Corporation (AFSC). 
+These assets more than offset their 
+liabilities.
+■
+■
+Equity in commercial 
+enterprises. $3.1 billion, primarily 
+$3.6 billion in ATB Financial and 
+$0.4 billion in Credit Union Deposit 
+Guarantee Corporation equity, 
+less a net $0.9 billion deficiency 
+of the Balancing Pool and Alberta 
+Petroleum Marketing Commission. 
+■
+■
+Student loans. $2.9 billion. This 
+is an increase of $337 million from 
+March 31, 2018. $638 million in 
+loans were provided, $234 million 
+in loans were repaid, while loss 
+provisions and amortization of 
+loan subsidies amounted to a net 
+$67 million.
+■
+■
+Climate change funds and 
+accounts. 2018-19 climate change 
+revenue exceeded allocations 
+by $295 million. The carbon tax 
+account increased $171 million, to 
+$281 million on March 31, 2019, 
+Climate Change and Emissions 
+Management Fund balance 
+increased by $126 million to 
+$590 million, while Energy Efficiency 
+Alberta declined by $2 million, to  
+$8 million in March 31, 2019. 
+■
+■
+Other financial assets.  
+$19.9 billion. These assets include 
+financial assets of school boards, 
+universities and colleges and the 
+health authority, the cash reserve 
+of $5 billion added last year, and 
+accounts and interest receivable, 
+natural gas royalty deposits and 
+cash associated with future liabilities 
+such as corporate income tax 
+refunds. The assets also include 
+the $854 million in cash that will 
+be deposited into the Contingency 
+Account from final 2018-19 results 
+determined after March 31, 2019.
+LIABILITIES
+$103.2 billion at March 31, 2019, 
+including term debt of $77.8 billion, 
+alternative financing (public-private 
+parternships) of $2.9 billion, coal 
+phase-out liabilities of $1 billion, 
+pension liabilities of $9.2 billion and 
+other liabilities of $12.2 billion.
+■
+■
+Liabilities for capital projects.  
+$33.6 billion, a $4.3 billion increase 
+from March 31, 2018, due to 
+$4,177 million in direct borrowing, 
+$17 million in amortization of issue 
+discounts, and the addition of 
+$128 million in P3 project liabilities, 
+less $64 million in repayments.
+■
+■
+Fiscal Plan borrowing. Total of 
+$26.4 billion: $12.4 billion borrowed 
+in 2018-19, including $7.2 billion 
+pre-borrowed for 2019-20, and 
+$13.1 billion from prior years 
+(2016-17 and 2017-18); $0.9 billion 
+remains of the $1.2 billion borrowed 
+in 2009-10 as part of the financial 
+restructuring of the pre-1992 
+Teachers’ Pension Plan. 
+■
+■
+Other term debt. $20.8 billion. 
+This consists of $15.9 billion in 
+ACFA, $2.2 billion in AFSC, and 
+another $2.7 billion issued for other 
+purposes or entities. 
+■
+■
+Coal phase-out liabilities.  
+$1.0 billion, $67 million lower than 
+2017-18,  reflecting the net present 
+value of $97 million in annual 
+payments to be made to generators 
+for phasing-out coal use by 2030.
+■
+■
+Pension liabilities. $9.2 billion, a 
+decrease of $190 million.
+■
+■
+Other liabilities. $12.2 billion. 
+Includes liabilities of school boards, 
+universities and colleges and the 
+health authority, the borrowing 
+undertaken to establish the cash 
+reserve of $5 billion, natural gas 
+royalty and security deposits, 
+unearned revenue, estimated 
+corporate income tax refunds, trade 
+payables and other liabilities of 
+ACFA, AFSC and Alberta Social 
+Housing Corporation.
+CAPITAL / NON-FINANCIAL 
+ASSETS
+$53.9 billion at March 31, 2019. 
+■
+■
+$52.9 billion in capital assets include 
+land, land improvements, buildings, 
+computer hardware and software, 
+equipment, provincial highways, 
+bridges, dams and other water 
+management infrastructure. 
+■
+■
+Capital assets increased a net 
+$1.5 billion in 2018-19, with 
+$4.2 billion in capital investment 
+less $2.7 billion amortization and 
+disposals.
+
+
+=== PDF PAGE 13 ===
+
+13
+2018 –19 Final Results | Year-End Report
+2019
+2018
+Change from
+Actual
+Actual
+2017
+Financial Assets
+Alberta Heritage Savings Trust Fund
+15,956
+              
+15,582
+              
+374
+                   
+Endowment funds:
+Alberta Heritage Foundation for Medical Research
+1,778
+                
+1,760
+                
+18
+                     
+Alberta Heritage Science and Engineering Research
+1,076
+                
+1,058
+                
+18
+                     
+Alberta Heritage Scholarship
+1,281
+                
+1,269
+                
+12
+                     
+Other funds (Ab. Cancer Prevention Legacy / Ab. Enterprise Corporation)
+625
+                   
+637
+                   
+(12)
+                    
+Contingency Account
+6,342
+                
+1,661
+                
+4,681
+                
+Self-supporting lending organizations:
+Alberta Capital Finance Authority
+16,478
+              
+16,107
+              
+371
+                   
+Agriculture Financial Services Corporation
+5,507
+                
+5,364
+                
+143
+                   
+Equity in commercial enterprises (ATB / AGLC / APMC / CUDGCo / Bal. Pool)
+3,062
+                
+2,527
+                
+535
+                   
+Student loans
+2,884
+                
+2,547
+                
+337
+                   
+Climate change (carbon tax account / Energy Efficiency Ab / CCEMF)
+879
+                   
+584
+                   
+295
+                   
+Other financial assets (including SUCH sector)
+19,875
+              
+21,881
+              
+(2,006)
+               
+Total Financial Assets
+75,743
+              
+70,977
+              
+4,766
+                
+Liabilities
+Term debt issues / alternative financing (P3s)a:
+Direct borrowing for the Capital Plan
+30,651
+              
+26,457
+              
+4,194
+                
+Alternative financing (P3s - Capital Plan)
+2,946
+                
+2,882
+                
+64
+                     
+Debt issued to reduce pre-1992 TPP unfunded liability
+944
+                   
+944
+                   
+-
+                        
+Direct borrowing for the Fiscal Plan
+25,430
+              
+13,079
+              
+12,351
+              
+Fiscal / Capital Plan debt
+59,971
+              
+43,362
+              
+16,609
+              
+Term debt issued on behalf of, or by:
+Alberta Capital Finance Authority
+15,902
+              
+15,645
+              
+257
+                   
+Agriculture Financial Services Corporation
+2,232
+                
+2,203
+                
+29
+                     
+Alberta Social Housing Corporation / other
+2,686
+                
+5,204
+                
+(2,518)
+               
+Total term debt
+80,791
+              
+66,414
+              
+14,377
+              
+Coal phase-out liabilities (carbon tax account)
+983
+                   
+1,050
+                
+(67)
+                    
+Pension liabilities
+9,240
+                
+9,430
+                
+(190)
+                  
+Other liabilities (including SUCH sector)
+12,206
+              
+13,427
+              
+(1,221)
+               
+Total Liabilities
+103,220
+            
+90,321
+              
+12,899
+              
+Net Financial Assets (total financial assets less total liabilities)
+(27,477)
+             
+(19,344)
+             
+(8,133)
+               
+Capital / Other Non-financial Assets
+53,908
+              
+52,024
+              
+1,884
+                
+Spent deferred capital contributions
+(3,164)
+               
+(3,009)
+               
+(155)
+                  
+Net Assets (net financial assets + capital assets - deferred capital contributions)
+23,267
+              
+29,671
+              
+(6,404)
+               
+Change in Net Assetsb
+(6,404)
+               
+(8,050)
+               
+at March 31
+a	
+Does not include term debt of $5,149 million (2018: $5,897 million) issued on behalf of government business enterprises which is included on a net basis in 
+financial assets (“Equity in commercial enterprises” = assets minus debt and other liabilities), nor does it include short term debt (i.e. debt issues which mature 
+in less than a year) such as the $5 billion reserve. 
+b	
+Change in Net Assets differ from the surplus / (deficit) numbers due to net asset adjustments of positive $307 million in 2018-19, and negative $27 million in 
+2017-18. More information is provided in Schedule 16 of the Consolidated Financial Statements in the 2018-19 Government of Alberta Annual Report.
+Balance Sheet  (millions of dollars)
+SPENT DEFERRED CAPITAL 
+CONTRIBUTIONS 
+$3.2 billion at March 31, 2019.
+■
+■
+Spent deferred capital contributions 
+(DCC) increased by $155 million. 
+This reflects the use of $0.3 billion in 
+cash received for capital purposes 
+that has not yet been reported in 
+revenue (increasing DCC), less 
+$0.2 billion previously received and 
+spent, and now being recognized in 
+2018-19 revenue (decreasing DCC).
+■
+■
+Other non-financial assets include 
+$365 million in inventory assets and 
+$618 million in prepaid expenses. 
+Inventory consumption / write-downs 
+exceeded acquisition by $24 million, 
+while prepaid expenses increased by 
+$334 million primarily from crude-by-
+rail set up costs of $308 million. 
+
+
+=== PDF PAGE 14 ===
+14
+2018 –19 Final Results | Year-End Report
+Economic and Tax Highlights
+Economic highlights
+(Calendar Year Basis) 
+Alberta’s economy grew at a solid 
+pace through most of 2018, the second 
+year of recovery following two years of 
+recession in 2015 and 2016. However, 
+economic conditions deteriorated in 
+the fourth quarter of 2018 amid falling 
+global oil prices, exacerbated by 
+substantial discounts for Alberta crudes. 
+Energy sector activity weakened in 
+response, and in turn this weighed on 
+business and household activity. As a 
+result, growth in real gross domestic 
+product slowed to an estimated 
+2.2% in 2018 after growing by 4.4% 
+in 2017. With two years of positive 
+annual growth, Alberta’s economy has 
+recovered about 80% of losses incurred 
+during the downturn.
+Alberta’s economic growth in 2018 was 
+largely propelled by strong business 
+activity. Crude oil production grew 
+9.7% on the back of stronger-than-
+expected production from recently 
+completed oil sands projects along with 
+solid conventional activity. However, 
+the enlarged discounts for Alberta 
+crude oil prompted producers to slow 
+production and drilling activity later in 
+the year. Meanwhile, strength through 
+the first three quarters of the year lifted 
+manufacturing sales and non-energy 
+exports up 7% and 12% respectively 
+in 2018. In contrast, activity in the 
+construction sector remained subdued 
+amid a sharp slowdown in housing 
+activity and ongoing weakness in 
+commercial investment. 
+Alberta’s labour market also continued 
+to make headway in 2018. Average 
+annual employment rose by 43,800 
+or 1.9%, with all of the gains in full-
+time employment. The unemployment 
+rate also eased to 6.6% from the 
+7.8% it averaged in 2017. With more 
+jobs in full-time and goods-producing 
+industries, growth in average weekly 
+earnings picked up from 1% in 2017 to 
+1.7% in 2018. However, there are still 
+areas of weakness. While private sector 
+employment grew, it remained below 
+pre-recession highs. The recovery in 
+the labour market also continued to be 
+uneven across industries and regions in 
+the province.
+With labour market conditions 
+improving, Alberta posted net inflows 
+of interprovincial migrants for the first 
+time since 2015. This, combined with 
+natural population growth and high 
+international migration, lifted population 
+growth to 1.5% in 2018. This is the 
+highest annual population growth in 
+three years.
+Tax highlights
+Since the legalization of cannabis 
+on October 17, 2018, the federal 
+government has collected the cannabis 
+excise tax on behalf of the Alberta 
+government. Under this arrangement, 
+Alberta receives the greater of 75 
+cents per gram or 7.5% of the licensed 
+producer price, and an additional 
+amount of 16.8% of the licensed 
+producer price. This additional amount 
+is intended to be equivalent to around 
+10% of the retail price, comparable 
+to retail sales taxes applied in other 
+provinces.
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Nominal GDP growth a
+(17.0)
+     
+9.9
+        
+10.9
+      
+4.3
+        
+9.6
+        
+10.0
+      
+(14.0)
+     
+(6.8)
+       
+10.0
+      
+4.9
+        
+Real GDP growth a
+(5.5)
+       
+5.0
+        
+6.4
+        
+3.9
+        
+5.7
+        
+5.9
+        
+(3.7)
+       
+(4.2)
+       
+4.4
+        
+2.2
+        
+Employment (thousands)
+2,030
+    
+2,024
+    
+2,100
+    
+2,173
+    
+2,226
+    
+2,275
+    
+2,301
+    
+2,264
+    
+2,287
+    
+2,331
+    
+Employment growth
+(1.2)
+       
+(0.3)
+       
+3.7
+        
+3.5
+        
+2.5
+        
+2.2
+        
+1.2
+        
+(1.6)
+       
+1.0
+        
+1.9
+        
+Unemployment rate
+6.5
+        
+6.6
+        
+5.4
+        
+4.6
+        
+4.6
+        
+4.7
+        
+6.0
+        
+8.1
+        
+7.8
+        
+6.6
+        
+Average weekly earnings ($ / week)
+948
+       
+990
+       
+1,034
+    
+1,069
+    
+1,107
+    
+1,149
+    
+1,145
+    
+1,118
+    
+1,129
+    
+1,148
+    
+Primary household income a
+(3.7)
+       
+3.7
+        
+8.5
+        
+8.7
+        
+6.8
+        
+6.4
+        
+3.3
+        
+(10.8)
+     
+3.0
+        
+4.5
+        
+Net corporate operating surplus a
+(62.4)
+     
+63.3
+      
+27.1
+      
+(11.6)
+     
+19.2
+      
+23.0
+      
+(74.2)
+     
+(43.0)
+     
+247.5
+    
+16.3
+      
+Housing starts (number of units)
+20,298
+  
+27,088
+  
+25,704
+  
+33,396
+  
+36,011
+  
+40,590
+  
+37,282
+  
+24,533
+  
+29,457
+  
+26,085
+  
+Alberta consumer price index
+(0.1)
+       
+1.0
+        
+2.4
+        
+1.1
+        
+1.4
+        
+2.6
+        
+1.1
+        
+1.1
+        
+1.6
+        
+2.4
+        
+Population (July 1, thousands)
+3,679
+    
+3,732
+    
+3,789
+    
+3,875
+    
+3,981
+    
+4,084
+    
+4,145
+    
+4,196
+    
+4,244
+    
+4,307
+    
+Population growth
+2.3
+1.4
+1.5
+2.3
+2.7
+2.6
+1.5
+        
+1.2
+        
+1.1
+        
+1.5
+        
+a 2018 is an estimate.
+Key Economic Indicators Calendar year, % change unless otherwise noted, 2009 to 2018
+
+
+=== PDF PAGE 15 ===
+
+15
+2018 –19 Final Results | Year-End Report
+HISTORICAL FISCAL SUMMARY, 2008-09 TO 2018-19 a 
+(millions of dollars)
+a	 Numbers are not strictly comparable due to numerous accounting policy changes over time. Examples include reporting certain items (transfers through the tax system, crude oil marketing and transportation 
+costs, allowance for corporate income tax doubtful accounts) as expense, instead of netting the amounts from related revenue, increasing both revenue and expense, but not impacting the surplus / (deficit).  
+2015‑16 revenue and expense have been increased by $119 million to correct a consolidation adjustment eliminating those amounts at year-end; there is no impact on the deficit. 2016-17 revenue and expense 
+have been reduced by $111 million resulting from an accounting treatment change such that drug cost rebates under Product Listing Agreements are netted from operating expense instead of being reported as 
+revenue and gross expense.
+b	 Reflects capital grants and other support included in expense, and capital investment in government-owned assets not included in expense. Capital investment adds to capital assets, which are depreciated over 
+time through amortization expense. Numbers for 2008-09 to 2013-14 are estimates as details required to consolidate SUCH sector capital spending with full accuracy are not readily available. 
+c	 The change in net assets / (debt) year over year does not match the surplus / (deficit) exactly in most years, due to various balance sheet adjustments, most of which are minor. A significant adjustment reducing 
+net assets by $2 billion was made in 2012-13, to recognize the accumulated deferred capital contribution liability when the accounting standard was adopted.
+2008-09
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18
+2018-19
+Income Statement
+Actual
+Revenue
+1
+Personal income tax
+8,708
+7,877
+7,631
+8,563
+9,621
+10,537
+11,042
+11,357
+10,763
+10,775
+11,874
+2
+Corporate income tax
+4,252
+4,754
+3,334
+3,678
+4,756
+5,488
+5,796
+4,195
+3,769
+3,448
+4,871
+3
+Other tax revenue
+3,817
+3,746
+3,820
+4,099
+4,333
+4,500
+4,598
+5,168
+5,649
+6,538
+6,833
+4
+Resource revenue
+11,915
+6,768
+8,428
+11,636
+7,779
+9,578
+8,948
+2,789
+3,097
+4,980
+5,429
+5
+Investment income
+(1,888)
+3,541
+2,486
+2,168
+2,595
+3,423
+3,113
+2,544
+3,698
+3,126
+2,349
+6
+Premiums, fees and licences
+3,356
+2,857
+2,922
+2,931
+3,184
+3,437
+2,665
+3,574
+3,701
+3,839
+3,911
+7
+Other own-source revenue
+4,587
+4,627
+4,903
+5,128
+5,234
+5,412
+7,337
+5,850
+3,637
+6,982
+6,344
+8
+Total own-source revenue
+34,747
+34,170
+33,524
+38,203
+37,502
+42,375
+43,499
+35,477
+34,314
+39,688
+41,611
+9
+Federal transfers
+4,578
+5,342
+5,452
+5,192
+5,042
+7,059
+5,982
+7,142
+7,979
+7,606
+8,013
+10
+Total Revenue
+39,325
+39,512
+38,976
+43,395
+42,544
+49,434
+49,481
+42,619
+42,293
+47,295
+49,624
+Expense by Function
+11
+Health
+13,674
+14,636
+15,393
+16,284
+17,254
+17,967
+19,366
+20,115
+20,687
+21,239
+21,921
+12
+Basic / advanced education
+10,438
+11,067
+11,362
+11,951
+12,394
+12,782
+13,103
+13,673
+14,110
+14,471
+14,848
+13
+Social services
+3,417
+3,807
+4,129
+4,278
+4,641
+4,668
+4,548
+4,752
+5,198
+5,592
+5,867
+14
+Other program expense
+10,386
+9,834
+9,443
+9,853
+10,528
+12,970
+11,031
+10,375
+12,607
+13,189
+11,918
+15
+Total program expense
+37,915
+39,344
+40,327
+42,366
+44,817
+48,387
+48,048
+48,915
+52,602
+54,491
+54,554
+16
+Debt servicing costs
+208
+214
+472
+509
+530
+601
+722
+776
+1,018
+1,420
+1,971
+17
+Pension provisions
+2,133
+430
+439
+634
+296
+748
+(404)
+(630)
+(543)
+(593)
+(190)
+18
+Total Expense
+40,256
+39,988
+41,238
+43,509
+45,643
+49,736
+48,366
+49,061
+53,077
+55,318
+56,335
+19
+Surplus / (Deficit)
+(931)
+(476)
+(2,262)
+(114)
+(3,099)
+(302)
+1,115
+(6,442)
+(10,784)
+(8,023)
+(6,711)
+Capital Plan b
+7,943
+8,000
+7,544
+6,884
+6,062
+5,770
+6,181
+6,558
+6,578
+9,016
+6,180
+Balance Sheet (at March 31)
+20
+Heritage / endowment funds
+16,900
+17,077
+17,500
+17,936
+18,176
+18,562
+18,860
+19,262
+19,836
+20,306
+20,716
+21
+Contingency Account
+16,822
+14,983
+11,192
+7,497
+3,326
+4,658
+6,529
+3,625
+2,399
+1,661
+6,342
+22
+Other financial assets
+28,868
+30,338
+30,799
+32,972
+34,734
+40,039
+40,688
+40,990
+44,052
+49,010
+48,685
+23
+Capital Plan liabilities
+(880)
+(2,888)
+(3,199)
+(3,442)
+(4,594)
+(8,724)
+(11,922)
+(19,040)
+(23,769)
+(29,339)
+(33,597)
+24
+Fiscal Plan liabilities (borrowing / pre-1992 TPP)
+0
+(1,187)
+(1,187)
+(1,187)
+(1,187)
+(1,187)
+(943)
+(944)
+(9,529)
+(14,023)
+(26,374)
+25
+Pension obligations
+(10,239)
+(9,483)
+(9,922)
+(10,556)
+(10,852)
+(11,600)
+(11,196)
+(10,566)
+(10,023)
+(9,430)
+(9,240)
+26
+Other liabilities
+(19,770)
+(21,523)
+(23,530)
+(24,229)
+(25,148)
+(28,716)
+(28,962)
+(29,408)
+(31,867)
+(37,529)
+(34,009)
+27
+Net Financial Assets / (Debt) 
+31,701
+27,317
+21,653
+18,991
+14,455
+13,032
+13,054
+3,919
+(8,901)
+(19,344)
+(27,477)
+28
+Capital (net of defer. contrib.) / non-fin. assets
+30,275
+34,217
+37,607
+40,122
+39,517
+40,839
+42,197
+44,623
+46,622
+49,015
+50,744
+29
+Net Assets c
+61,976
+61,534
+59,260
+59,113
+53,972
+53,871
+55,251
+48,542
+37,721
+29,671
+23,267
+
+
+=== PDF PAGE 16 ===

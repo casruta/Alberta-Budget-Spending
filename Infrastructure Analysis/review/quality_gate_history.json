@@ -1,0 +1,74 @@
+[
+  {
+    "time_utc": "2026-10-09T01:56:42.331344+00:00",
+    "input_digest": "dea5c0a3c72f7729d95b9244f5ab0223de0a4351d731cb3d7e7de061d7d182ba",
+    "human_source_review": "See review/round3_final_audit.md; automated checks do not replace source judgment",
+    "tests_exit_code": 0,
+    "tests_result": ".....................                                                    [100%]\n21 passed in 4.41s",
+    "notebook": {
+      "executed_code_cells": 13,
+      "error_outputs": 0,
+      "rendered_figures": 8,
+      "figures_with_alt_text": 8
+    },
+    "verdict": "pass_with_documented_evidence_limits"
+  },
+  {
+    "time_utc": "2026-10-09T02:03:33.052650+00:00",
+    "input_digest": "54e1f7e5437c0fb99f17f6fc416d38d5482b81ef874432d7342316516686a5b9",
+    "human_source_review": "See review/round3_final_audit.md; automated checks do not replace source judgment",
+    "tests_exit_code": 0,
+    "tests_result": "......................                                                   [100%]\n22 passed in 4.66s",
+    "notebook": {
+      "executed_code_cells": 13,
+      "error_outputs": 0,
+      "rendered_figures": 8,
+      "figures_with_alt_text": 8
+    },
+    "verdict": "pass_with_documented_evidence_limits"
+  },
+  {
+    "time_utc": "2026-10-09T02:08:30.028884+00:00",
+    "input_digest": "56c744b2bd0161eeb9a3fecf16facaf3431a0c19bcf89a466fbdbea5ef0cda79",
+    "human_source_review": "See review/round3_final_audit.md; automated checks do not replace source judgment",
+    "tests_exit_code": 0,
+    "tests_result": "......................                                                   [100%]\n22 passed in 5.17s",
+    "notebook": {
+      "executed_code_cells": 13,
+      "error_outputs": 0,
+      "rendered_figures": 8,
+      "figures_with_alt_text": 8
+    },
+    "verdict": "pass_with_documented_evidence_limits"
+  },
+  {
+    "time_utc": "2026-10-09T03:17:49.131991+00:00",
+    "input_digest": "513770a44548cc2ce64c30f1d1740cc3c2c999e14dc5af52f97778e855f49f84",
+    "human_source_review": "See review/second_loop_final_adversarial_audit.md and earlier reviews; automated checks do not replace source judgment",
+    "tests_exit_code": 0,
+    "tests_result": "....................................                                     [100%]\n36 passed in 10.12s",
+    "notebook": {
+      "executed_code_cells": 15,
+      "error_outputs": 0,
+      "rendered_figures": 9,
+      "figures_with_alt_text": 9,
+      "embedded_figures_matching_saved_plots": 9
+    },
+    "verdict": "pass_with_documented_evidence_limits"
+  },
+  {
+    "time_utc": "2026-10-09T03:24:28.877308+00:00",
+    "input_digest": "83456ca957ff98dd34c5f56b22a5f62369d5b32a15678b8dcd9ace35823a383e",
+    "human_source_review": "See review/second_loop_final_adversarial_audit.md and earlier reviews; automated checks do not replace source judgment",
+    "tests_exit_code": 0,
+    "tests_result": "....................................                                     [100%]\n36 passed in 6.90s",
+    "notebook": {
+      "executed_code_cells": 15,
+      "error_outputs": 0,
+      "rendered_figures": 9,
+      "figures_with_alt_text": 9,
+      "embedded_figures_matching_saved_plots": 9
+    },
+    "verdict": "pass_with_documented_evidence_limits"
+  }
+]

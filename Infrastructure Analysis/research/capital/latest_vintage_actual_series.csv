@@ -1,0 +1,13 @@
+fiscal_year,calendar_year,capital_plan_actual_million,total_revenue_actual_million,total_expense_actual_million,net_capital_nonfinancial_assets_after_deferred_contributions_million,population_july1_thousands,alberta_cpi_annual_pct,status,source_file,fiscal_pdf_page,economic_pdf_page
+2013-14,2013,5770.0,49434.0,49736.0,40839.0,3979.0,1.4,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2014-15,2014,6181.0,49481.0,48366.0,42197.0,4081.0,2.6,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2015-16,2015,6558.0,42619.0,49061.0,44623.0,4150.0,1.1,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2016-17,2016,6578.0,42293.0,53077.0,46622.0,4195.0,1.1,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2017-18,2017,9021.0,47295.0,55318.0,49015.0,4237.0,1.6,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2018-19,2018,6057.0,49572.0,56283.0,50744.0,4293.0,2.4,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2019-20,2019,5545.0,46224.0,58376.0,51570.0,4355.0,1.8,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2020-21,2020,6896.0,43137.0,60099.0,54076.0,4407.0,1.1,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2021-22,2021,6622.0,68322.0,64407.0,55745.0,4432.0,3.2,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2022-23,2022,5633.0,75982.0,64498.0,56928.0,4511.0,6.4,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2023-24,2023,6300.0,74738.0,70453.0,57551.0,4685.0,3.3,actual,Budget PDFs/2024-2025 Budget.pdf,14,13
+2024-25,2024,7243.0,82469.0,74149.0,58845.0,4889.0,2.9,actual,Budget PDFs/2024-2025 Budget.pdf,14,13

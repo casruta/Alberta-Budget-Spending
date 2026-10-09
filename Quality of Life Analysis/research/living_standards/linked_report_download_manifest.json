@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://open.alberta.ca/dataset/ee6fc86b-2c20-4895-b677-9119712cd4e4/resource/bb863ea8-cfc3-473e-9df7-ef827308a9b7/download/au-annual-report-2024-2025.pdf",
+    "source_index_file": "/workspace/Alberta-Budget-Spending/Quality of Life Analysis/research/source_verification/annual_reports.html",
+    "retrieval_utc": "2026-10-09T03:36:30.690803+00:00",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "http_status": 403
+  },
+  {
+    "url": "https://open.alberta.ca/dataset/3a6b50d8-c1f2-4e9a-94ec-62f1e0a34e59/resource/5b876aae-aaae-4c93-a9a1-4fe1305c7b39/download/scss-annual-report-2024-2025.pdf",
+    "source_index_file": "/workspace/Alberta-Budget-Spending/Quality of Life Analysis/research/source_verification/annual_reports.html",
+    "retrieval_utc": "2026-10-09T03:36:30.691513+00:00",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "http_status": 403
+  },
+  {
+    "url": "https://open.alberta.ca/dataset/6dfd08a7-1e12-4b6b-b3c0-749d960f1143/resource/25d702f6-deca-46ed-a736-69522fcb0388/download/jet-annual-report-2024-2025.pdf",
+    "source_index_file": "/workspace/Alberta-Budget-Spending/Quality of Life Analysis/research/source_verification/annual_reports.html",
+    "retrieval_utc": "2026-10-09T03:36:30.692013+00:00",
+    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "http_status": 403
+  }
+]

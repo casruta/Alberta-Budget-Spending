@@ -1,0 +1,3146 @@
+           Public Safety and Emergency Services | Annual Report 2024–2025   i
+
+Classification: Protected A
+Public Safety and Emergency Services, Government of Alberta | Public Safety and Emergency Services
+Annual Report 2024 –2025
+
+©2025 Government of Alberta | Published: June 2025
+ISBN 978-1-4601-6301-6
+ISSN 2817-4534
+
+This publication is issued under the Open Government Licence – Alberta (http://open.alberta.ca/licence).
+
+Note to Readers: Copies of the annual report are available on the Alberta Open Government Portal website
+https://open.alberta.ca/publications/2817-4534
+
+
+
+ii                                                Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                                                                                  Introduction
+
+
+
+
+Table of Contents
+Preface ...................................................................................................................................................................... 3
+
+Minister’s Accountability Statement ............................................................................................................ 4
+
+Message from the Minister ............................................................................................................................... 5
+
+Management’s Responsibility for Reporting ............................................................................................ 7
+
+Results Analysis ................................................................................................................................................... 9
+      Ministry Overview ......................................................................................................................................................... 10
+      Discussion and Analysis of Results .................................................................................................................... 16
+      Performance Measure and Indicator Methodology ..................................................................................... 42
+
+Financial Information ........................................................................................................................................46
+      Reporting Entity and Method Consolidation ................................................................................................... 47
+      Ministry Financial Highlights ................................................................................................................................... 48
+      Supplemental Financial Information ................................................................................................................... 52
+      Other Financial Information ..................................................................................................................................... 53
+
+Annual Report Extracts and Other Statutory Reports........................................................................60
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                                                                                    1
+Introduction
+
+
+
+
+2              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                            Introduction
+
+
+
+
+Preface
+The Public Accounts of Alberta are prepared in accordance with the Financial Administration Act
+and the Sustainable Fiscal Planning and Reporting Act. The Public Accounts consist of the annual
+report of the Government of Alberta and the annual reports of each ministry.
+
+The 2024-25 Annual Report reflects the 2024-27 Ministry business plans, the Government of
+Alberta Strategic Plan, as well as the ministry’s activities and accomplishments during the 2024-25
+fiscal year, which ended on March 31, 2025.
+
+The Annual Report of the Government of Alberta contains Budget 2024 Key Results, the audited
+Consolidated Financial Statements and Performance Results, which compares actual performance
+results to desired results set out in the government’s strategic plan.
+
+This annual report of the Ministry of Public Safety and Emergency Services contains the Minister’s
+Accountability Statement, the ministry’s Financial Information and Results Analysis, a comparison
+of actual performance results to desired results set out in the Ministry Business Plan. This ministry
+annual report also includes:
+
+   •    other financial information as required by the Financial Administration Act and Sustainable
+        Fiscal Planning and Reporting Act, as separate reports, to the extent that the ministry has
+        anything to report.
+
+All Ministry Annual Reports should be considered along with the Government of Alberta Annual
+Report to provide a complete overview of government’s commitment to openness, accountability,
+and fiscal transparency.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                          3
+Introduction
+
+
+
+
+Minister’s Accountability Statement
+The ministry’s annual report for the year ended March 31, 2025, was prepared under my direction
+in accordance with the Sustainable Fiscal Planning and Reporting Act and the government’s
+accounting policies. All the government’s policy decisions as at June 12, 2025 with material
+economic or fiscal implications of which I am aware have been considered in the preparation of this
+report.
+
+
+
+[Original signed by]
+
+Mike Ellis
+Minister of Public Safety and Emergency Services
+
+
+
+
+4                                             Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                              Introduction
+
+
+
+
+Message from the Minister
+                                     In 2024-25, the Ministry of Public Safety and Emergency Services
+                                     remained focused on building safer, stronger communities across
+                                     Alberta. Our work spanned the province—from tackling urban and
+                                     rural crime and strengthening victims services, to preparing for
+                                     wildfires and floods. Across every initiative, our approach centred
+                                     on collaboration, innovation and resilience.
+
+                                  Over the past year, our ministry took bold steps to respond to the
+                                  growing complexity of public safety challenges. To tackle urban
+                                  crime, we invested more than $18.4 million into Calgary and
+                                  Edmonton through the Safe Streets Action Plan. This investment is
+                                  supporting the deployment of 100 additional officers across both
+                                  cities to strengthen visible enforcement, improve safety and
+reduce social disorder in high-risk areas.
+
+We also continued to support alternative policing models that reflect local needs and priorities.
+This included $11.3 million in transition funding to help establish the new Grande Prairie Police
+Service and $883,200 in ongoing support for Siksika Nation as it develops its own police service.
+Through an additional $1.27 million in grant funding in 2024-25, we helped 18 communities—
+including municipalities, First Nations and Metis Settlements—explore alternative policing and
+community safety models.
+
+Addressing rural crime continues to be a priority. Four new teams of Alberta Sheriffs are helping
+police disrupt crime in rural areas by gathering intelligence and evidence, and by apprehending
+wanted fugitives. In 2024, the fugitive apprehension teams executed 2,156 warrants in over 39
+municipalities. Over the past year, we also expanded the Safer Communities and Neighbourhoods
+teams in Edmonton and Calgary, and created two new teams in Red Deer and Lethbridge. Since
+2008, the Safer Communities and Neighbourhoods unit has investigated more than 10,000
+properties, including drug houses and gang hideouts.
+
+With an additional $10 million investment, we also expanded the RAPID Response program to
+boost visibility and improve response times in rural communities. At the same time, we
+strengthened intelligence-led enforcement strategies by committing $55.7 million to the Alberta
+Law Enforcement Response Teams (ALERT) to disrupt organized crime through a coordinated and
+collaborative approach.
+
+Recognizing the importance of border and transportation security, we announced $29 million in
+December 2024 to create and expand the Alberta Sheriffs Interdiction Patrol Team (IPT). This
+specialized team is tasked with disrupting illegal cross-border activity, particularly along the
+Alberta-Montana border and major east-west transport routes.
+
+In addition to strengthening frontline enforcement, we also took steps to modernize how Alberta
+monitors high-risk individuals in the community. Earlier this year, our ministry launched a new
+electronic monitoring program for adults on bail or serving community-based sentences who are
+identified by the courts as posing a potential risk. Enabled by recent amendments to the Corrections
+Act and Corrections Regulation, the program uses ankle bracelet technology to track compliance
+with court-ordered conditions.
+
+Also, in our correctional system, we expanded therapeutic living units in four facilities and
+introduced new transitional services in five others to better support successful reintegration. These
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                          5
+Introduction
+
+
+
+
+initiatives help individuals build the skills and stability needed to break the cycle of addiction, crime
+and incarceration.
+
+Supporting victims of crime also remained central to our efforts. This year marked the full
+implementation of a new regional model for police-based victim services, backed by a $25.7 million
+investment to improve access and consistency across the province. Another $8.1 million helped
+ensure victims of serious crime can access psychological supports and extended medical benefits.
+
+Alberta also took major steps to combat human trafficking. We provided $2.5 million to the Alberta
+Centre to End Trafficking in Persons (AC), which is an independent hub for system coordination
+and survivor support. Through the Combatting Trafficking in Persons Grant, 19 organizations
+received a total of $5.5 million in funding. The grant program, which was developed in partnership
+with the AC, focuses on prevention, protection and the empowerment of victims and survivors, with
+priority given to Indigenous- and survivor-led initiatives. Funding was balanced across Calgary,
+Edmonton and rural Alberta, and approximately 40 per cent of total funding directed to Indigenous-
+led or serving organizations.
+
+The ministry also continued to work with other government partners in advancing a multi-platform
+approach to address hate motivated crimes and incidents in the province. We provided $2.13
+million in grant funding to 95 groups across Alberta, including schools, places of worship and
+community-based service providers for security assessments, security infrastructure
+improvements, training, equipment and immediate security response measures.
+
+In the summer, wildfires prompted evacuations from a wide variety of communities, including the
+Municipality of Jasper, the County of Grande Prairie, the Municipal District of Greenview, the
+Regional Municipality of Wood Buffalo and Little Red River Cree Nation. The ministry allocated
+nearly $158 million in disaster recovery funding to support several communities with the costs of
+responding to these emergencies. We also provided training to nearly 19,300 local and municipal
+staff in emergency management to help ensure we are ready for whatever comes next. The
+legislative assembly also passed the Emergency Statutes Amendment Act, 2024, which ensures the
+government has the legislated authority it needs to actively manage local emergencies in times
+when additional provincial oversight and help is needed.
+
+Public safety is a collective effort. Our accomplishments this year reflect the dedication of
+thousands of Albertans who go above and beyond to keep our communities safe. I want to extend
+my deepest thanks to them and to the team within the Ministry of Public Safety and Emergency
+Services for their hard work and service.
+
+
+
+[Original signed by]
+
+Mike Ellis
+Minister of Public Safety and Emergency Services
+
+
+
+
+6                                                Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                            Introduction
+
+
+
+
+Management’s Responsibility for Reporting
+The Ministry of Public Safety and Emergency Services includes the Department of Public Safety and
+Emergency Services and the Victims of Crime and Public Safety Fund.
+
+The executives of the individual entities within the ministry have the primary responsibility and
+accountability for the respective entities. Collectively, the executives ensure the ministry complies
+with all relevant legislation, regulations and policies.
+
+Ministry business plans, annual reports, performance results and the supporting management
+information are integral to the government’s fiscal and strategic plan, annual report, quarterly
+reports, and other financial and performance reporting.
+
+Responsibility for the integrity and objectivity of the accompanying ministry financial information
+and performance results for the ministry rests with the Minister of Public Safety and Emergency
+Services. Under the direction of the Minister, I oversee the preparation of the ministry’s annual
+report, which includes the financial information, performance results on all objectives and
+initiatives identified in the Ministry Business Plan, and performance results for all ministry-
+supported commitments that were included in the 2024-27 Government of Alberta Strategic Plan.
+The financial information and performance results, out of necessity, include amounts that are based
+on estimates and judgments. The financial information is prepared using the government’s stated
+accounting policies, which are based on Canadian public sector accounting standards. The
+performance measures are prepared in accordance with the following criteria:
+
+   •    Reliable – information used in applying performance measure methodologies agrees with
+        the underlying source data for the current and prior years’ results.
+
+   •    Understandable – the performance measure methodologies and results are presented
+        clearly.
+
+   •    Comparable – the methodologies for performance measure preparation are applied
+        consistently for the current and prior years’ results.
+
+   •    Complete – outcomes, performance measures and related targets match those included in
+        the ministry’s Budget 2024.
+
+As Deputy Minister, in addition to program responsibilities, I am responsible for the ministry’s
+financial administration and reporting functions. The ministry maintains systems of financial
+management and internal control which gives consideration to costs, benefits, and risks that are
+designed to:
+
+   •    provide reasonable assurance that transactions are properly authorized, executed in
+        accordance with prescribed legislation and regulations, and properly recorded so as to
+        maintain accountability of public money;
+
+   •    provide information to manage and report on performance;
+
+   •    safeguard the assets and properties of the province under ministry administration;
+
+   •    provide Executive Council, the President of Treasury Board and Minister of Finance, and the
+        Minister of Public Safety and Emergency Services the information needed to fulfill their
+        responsibilities; and
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                          7
+Introduction
+
+
+
+
+    •    facilitate preparation of Ministry business plans and annual reports required under the
+         Sustainable Fiscal Planning and Reporting Act.
+
+In fulfilling my responsibilities for the ministry, I have relied, as necessary, on the executives of the
+individual entities within the ministry.
+
+
+
+[Original signed by]
+
+Curtis Zablocki
+Acting Deputy Minister of Public Safety and Emergency Services
+June 12, 2025
+
+
+
+
+8                                                 Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                                                                          Results Analysis
+
+
+
+
+Results Analysis
+Table of Contents
+   Ministry Overview..................................................................................................................................... 10
+         Organizational Structure ................................................................................................................................ 11
+         Operational Overview ...................................................................................................................................... 11
+         Key Highlights ..................................................................................................................................................... 14
+   Discussion and Analysis of Results ..................................................................................................... 16
+         Actions that support the priorities of the Government of Alberta Strategic Plan................... 16
+         Outcome One: Albertans are safe and secure......................................................................................... 17
+         Outcome Two: Albertans are supported in their interactions with the justice system........ 28
+         Outcome Three: Alberta is prepared and resilient to the impacts of disasters ....................... 34
+   Performance Measure and Indicator Methodology ...................................................................... 42
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                                                                                     9
+Results Analysis
+
+
+
+
+Ministry Overview
+Public Safety and Emergency Services (PSES) is committed to keeping Albertans safe and secure,
+and ensuring Alberta is prepared for and resilient to the impacts of disasters. The ministry works
+alongside partners in law enforcement, justice, health, social services, Indigenous communities, and
+other community-based organizations as a part of the justice and public safety continuum to
+support the unique needs of Albertans, while ensuring the sustainability and resilience of the
+system.
+
+PSES provides provincial policing services through an agreement with the federal government that
+establishes the Royal Canadian Mounted Police (RCMP) as the provincial police service and
+supports municipal policing through policing grants. The ministry supports specialized policing,
+such as the Alberta Law Enforcement Response Teams (ALERT), which work to combat organized
+and serious crime, and investigate drug trafficking, child exploitation, human trafficking, and gang
+violence. The Sheriff Interdiction Patrol Team is strengthening the province’s ability to secure its
+section of Canada's border with the United States and ensuring illegal attempts to cross the border
+or smuggle drugs and firearms are dealt with in a timely and appropriate manner.
+
+The ministry is responsible for the development of policing standards and the oversight of police,
+public security services and peace officers. It is also working to establish a new independent agency
+police service to assume policing functions performed by and planned for the Alberta Sheriffs to
+enhance the safety of Alberta communities. Additionally, the Public Security Indigenous Advisory
+Committee is advising government on policing matters affecting Indigenous people within their
+communities.
+
+With eight provincial adult correctional centres, two provincial youth correctional centres, and over
+40 probation offices across the province, the ministry is responsible for the custody and
+supervision of adults and young persons under correctional authority, as well as the facilitation of
+rehabilitation opportunities. The ministry also contracts with local Indigenous communities to
+provide community supervision of clients living within those communities. The ministry strives to
+help its correctional services clients make positive, sustainable and lawful choices.
+
+PSES ensures the delivery of programs and services to support victims of crime, including those
+affected by domestic violence and human trafficking. The ministry also provides grant funding for
+crime prevention, youth diversion and community safety programs, including programs that focus
+on youth who are at high risk of becoming involved in gang and criminal activity.
+
+The ministry leads the coordination, collaboration and cooperation of organizations involved in the
+prevention of, response to, and recovery from emergencies in the province. PSES provides direct
+emergency management support and advice to municipalities and Métis Settlements, as well as
+Alberta’s First Nations through an agreement with the Government of Canada to help those
+communities manage emergencies and disasters effectively.
+
+PSES continues to support the unique needs of Albertans involved in the criminal justice system.
+The ministry collaborates with the Ministry of Mental Health and Addiction and other partners to
+support a recovery-oriented system of care that provides access to a full continuum of services,
+including services that support mental health and addictions recovery. Therapeutic living units and
+transitional services are operational in Alberta correctional facilities.
+
+
+
+
+10                                             Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Results Analysis
+
+
+
+Organizational Structure
+
+
+
+
+Operational Overview
+Public Safety and Emergency Services
+Public Security Division
+
+Public Security works to ensure that Albertans live in safe and secure communities by managing
+and delivering a series of programs and services, including managing the provincial policing
+contract with the Royal Canadian Mounted Police; overseeing integrated and specialized policing
+initiatives; pursuing forfeiture of proceeds of crime; regulating the civil enforcement industry,
+security services and investigators and the peace officer program; delivering supplementary law
+enforcement, including border patrol, court security, prisoner transport, traffic and commercial
+vehicle safety enforcement; protecting officials and infrastructure; managing fish and wildlife
+enforcement; providing oversight of police and police oversight bodies to improve the delivery of
+police services; supporting municipalities and Indigenous communities interested in exploring
+different models of policing and public safety; licensing private investigators and security guards;
+providing security services for government buildings, employees, the judiciary, and members of
+government; and working with public safety stakeholders to address hate motivated crime and
+intimate partner violence.
+
+Correctional Services Division
+
+Correctional Services is responsible for the effective and efficient custody and supervision of adults
+and young persons under provincial correctional authority, including the facilitation of
+rehabilitation opportunities. Custody is for adults who are remanded or serving a sentence of less
+than two years and for young persons who are remanded or sentenced. Community supervision
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                         11
+Results Analysis
+
+
+
+includes programs such as pre-trial supervision, probation, and alternative measures/sanctions for
+both adults and young persons.
+
+The Training Academy provides induction training to Alberta’s peace officers, the Alberta Sheriffs
+and community peace officers as authorized by the director of law enforcement under the Peace
+Officer Act, and to Correctional Services. The Training Academy is accountable to establish
+standards, and providing oversight to peace officer training programs, developing and delivering
+training, and managing training facilities.
+
+Alberta Emergency Management Agency
+
+The Alberta Emergency Management Agency works with its partners to provide a province-wide
+emergency management system that protects Albertans, their property, and the environment
+against hazards. The agency coordinates the provincial response to large-scale emergencies and
+disasters, assists with disaster response and recovery activities, and provides direct assistance to
+local authorities when required. The agency also provides strategic policy direction and leadership
+as the Government of Alberta’s emergency management coordinating agency and supports
+preparedness through the provision of training and the Be Prepared program.
+
+The agency actively contributes to enhancing Alberta’s emergency management system and assists
+with the development of sustainable emergency management capabilities. It also facilitates the
+delivery of provincial emergency social services and Alberta’s 911 program and supports the
+Alberta First Responders Radio and Communications System. Additionally, the agency collaborates
+with provincial, territorial, federal, and international stakeholders to promote a comprehensive
+emergency management approach to enhance the safety of all Albertans.
+
+Financial Services Division
+
+Financial Services provides a full range of financial support functions for the ministry including
+compliance, budgeting, auditing, facilities and fleet services, procurement, and planning. These
+services are provided to establish and maintain strategic priorities and optimize operating
+efficiency while ensuring division, ministry and Government of Alberta goals are aligned.
+
+Strategy, Support and Integrated Initiatives Division
+
+Strategy, Support and Integrated Initiatives supports policy and planning, stakeholder engagement,
+strategic policy with legislative impacts, and the delivery of legislated business planning and
+reporting requirements. The division provides expertise and strategic insights into the ministry’s
+work through modernization and digitization, research, evaluation, data analytics, and strategic
+reporting. The division delivers programs and grants to improve community and public safety and
+support victims of crime, including the delivery of the Victims of Crime Assistance Program,
+community-based crime prevention and diversion grants, and grants to combat trafficking in
+persons. The division also partners with the Alberta Centre to End Trafficking in Persons and
+provides services to families of missing and murdered Indigenous people through the Family
+Information Liaison Unit. The division also provides agency oversight services for the ministry’s
+agencies, boards and commissions.
+
+
+
+
+12                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Results Analysis
+
+
+
+Agencies, Boards and Commissions
+Alberta Parole Board
+The Alberta Parole Board determines parole eligibility for people serving a sentence of less than
+two years in provincial correctional facilities. The board has exclusive authority, in accordance with
+legislated criteria, to determine whether to grant parole and is responsible for imposing conditions
+on individuals released on parole. Each board member has specific knowledge of crime trends and
+resources in their region. Board members are appointed through Order in Council.
+Law Enforcement Review Board
+
+The Law Enforcement Review Board, established under the Police Act, hears appeals from members
+of the public and police officers who have complaints regarding the actions of police officers, or
+who are unsatisfied with the disposition of their complaint by the responsible chief of police. The
+board also hears appeals relating to peace officer employer authorizations or peace officer
+appointments cancelled under the Peace Officer Act. Board members are appointed through Order
+in Council.
+Public Security Indigenous Advisory Committee
+The Public Security Indigenous Advisory Committee is responsible for providing the Minister with
+advice regarding public security matters, from an Indigenous perspective. The committee’s core
+areas of focus are policing matters affecting Indigenous peoples within their communities. The
+committee is comprised of diverse Indigenous perspectives from Treaty 6, 7 and 8, Métis Nations
+and Métis Settlements, urban and rural communities. Committee members are appointed through
+Ministerial Order.
+
+Victims of Crime and Public Safety Programs Committee
+The Victims of Crime and Public Safety Programs Committee evaluates grant applications from
+eligible programs and makes recommendations to the Minister, based upon submitted grant
+applications respecting programs that benefit victims of crime and public safety initiatives.
+Committee members are appointed through Ministerial Order.
+Independent Agency Police Service Oversight Board
+The Independent Agency Police Service Oversight Board is a newly established board to oversee the
+creation and operation of an independent agency police service, with a focus on civilian oversight,
+transparency, and accountability. Board members are appointed through Ministerial Order.
+Provincial Police Advisory Board
+The Provincial Police Advisory Board is a body representing small and rural communities served by
+the RCMP under the Provincial Police Service Agreement to make recommendations on province-
+wide policing priorities. The sections of the Police Act establishing the Board came into force March
+2025. Board members are appointed through Ministerial Order.
+
+Police Review Commission
+The Police Review Commission (PRC) will be an arm’s length agency responsible for receiving
+complaints against police officers, carrying out investigations and conducting disciplinary hearings.
+The PRC is intended to be in place for December 2025.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                       13
+Results Analysis
+
+
+
+Key Highlights
+The Ministry of Public Safety and Emergency Services focused on accomplishing three outcomes
+identified in the 2024-27 Ministry Business Plan:
+
+     •   Albertans are safe and secure,
+
+     •   Albertans are supported in their interactions with the justice system, and
+
+     •   Alberta is prepared and resilient to the impacts of disasters.
+
+Key highlights and results achieved by the Ministry of Public Safety and Emergency Services in
+2024-25 include:
+
+ Urban crime                Invested $18.4 million in provincial funding to the Calgary Police
+ prevention                 Service and Edmonton Police Service to continue the implementation of
+                            the Safe Streets Action Plan to address the challenges of crime, violence
+                            and social disorder in Alberta’s major cities.
+                            Calgary deployed 50 additional street-level police officers, and 32
+                            police officers deployed in Edmonton with a plan for the additional 18
+                            police officers to be deployed in 2025-26 to support urban crime
+                            reduction and address social disorder through proactive community
+                            engagement.
+
+ Indigenous and             Awarded $1.27 million in grant funding to 18 communities, including
+ Municipal Policing         municipalities, First Nations and Metis Settlements, to support
+                            exploration of alternative policing and community safety models.
+                            Provided $11.3 million in transition funding to support the creation of
+                            the Grande Prairie Police Service to deliver effective and community-
+                            focused policing services tailored to the needs of the city’s residents.
+                            Continued support to the Siksika Nation to develop their self-
+                            administered Indigenous police service to improve the safety and
+                            security of individuals within the community.
+
+ Strengthening rural        Provided over $376 million under the Provincial Police Service
+ policing                   Agreement for RCMP services to ensure Albertans in small and rural
+                            areas receive timely and effective law enforcement support.
+                            Invested $10 million to continue to expand the Rural Alberta Province
+                            Integrated Defence (RAPID) Response program to improve police
+                            response times and increase visible law enforcement presence across
+                            Alberta’s rural communities.
+
+ Crime prevention           Provided $55.7 million to support the Alberta Law Enforcement
+ initiatives                Response Teams (ALERT) to advance intelligence-led efforts to
+                            dismantle organized crime and suppress gang-related violence.
+                            Committed $28.6 million to establish the Alberta Sheriffs Interdiction
+                            Patrol Teams to secure Alberta’s section of Canada's border with the
+                            United States and to ensure illegal attempts to cross the border or
+                            smuggle drugs and firearms are dealt with in a timely and appropriate
+                            manner.
+
+
+
+
+14                                               Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                            Results Analysis
+
+
+
+                              Implemented the modern ankle bracelet electronic monitoring
+                              program for adult correctional clients on bail or serving community-
+                              based sentences who pose a potential risk as identified by the courts.
+
+ Modernizing victim           Invested $25.7 million to support the provision of services to victims of
+ services delivery            crime and implemented a new regional model for police-based victim
+                              services to improve access and ensure consistent, regionally
+                              coordinated services for victims of crime.
+                              Allocated over $8.1 million to support victims of crime to access
+                              immediate and longer-term psychological supports and extended
+                              medical benefits for victims.
+
+ Combatting trafficking       Provided $2.5 million to the Alberta Centre to End Trafficking in
+ in persons                   Persons, established as an independent non-profit, to support
+                              operations, lead system coordination, develop a provincial response
+                              model, and advance implementation of the Reading Stone report
+                              recommendations.
+                              Provided $5.5 million in grant funding to 19 organizations through the
+                              Combatting Trafficking in Persons Grant, with approximately 40 per
+                              cent of funding supporting Indigenous-led or serving organizations.
+
+ Protecting vulnerable        Provided over $2.1 million in grant funding to 95 organizations,
+ Albertans, at risk of        including faith-based organizations, high-risk schools and community
+ hate-motivated crime         organizations to inform prevention strategies and enhance responses
+                              to hate, bias and prejudice in Alberta.
+
+ Providing evidence-          Continued support to therapeutic living units in four correctional
+ based correctional           facilities to assist individuals in custody with skills necessary to avoid
+ interventions                reverting to substance use or criminal activity after their release to the
+                              community.
+                              Implemented transitional services in five correctional centres to
+                              support inmates to access recovery supports and services.
+
+ Improved emergency           Allocated nearly $158 million in disaster recovery funding for wildfire
+ management measures          and flood relief efforts to support affected communities in their journey
+                              towards recovery and rebuilding.
+                              Engaged nearly 19,300 participants in emergency management
+                              training sessions and supported approximately 2,400 learners through
+                              the new emergency social services training to build resilience, ensure
+                              readiness, and strengthen Alberta’s capacity to manage disaster
+                              impacts.
+                              Worked with volunteers to support search and rescue operations
+                              involving 470 incidents and over 149,000 service hours, including
+                              wildfire response and underwater search missions.
+
+
+The Ministry of Public Safety and Emergency Services remains committed to regulatory approaches
+and program delivery that reduces unnecessary government oversight and emphasizes outcomes to
+improve access to government services, attract investment, support innovation and
+competitiveness, and grow Alberta businesses.
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                             15
+Results Analysis
+
+
+
+
+Discussion and Analysis of Results
+Actions that support the priorities of the Government of Alberta Strategic Plan
+
+
+
+ Key Priority Two: Investing in Albertans
+ Objective: Accelerating mental health and addiction support
+
+ Alberta’s government is supporting Albertans at risk of or experiencing addiction and mental
+ health challenges in their pursuit of recovery. This recovery-oriented system of care provides
+ access to a full continuum of personalized, community-based services and supports, from
+ prevention and early intervention to treatment and recovery.
+
+ For detailed reporting on supporting initiative, please refer to:
+
+      •   Page 29 – Therapeutic Living Units and Transitional Services
+
+ Objective: Strengthening safe and thriving communities
+
+ Alberta’s government is taking action to address crime and social disorder to ensure that all
+ Albertans feel safe and secure in their communities. Albertans also deserve an accessible and
+ sustainable justice system that protects them and supports safer communities. Government will
+ protect Albertans through focused work to reduce and prevent crime, support victims of crime,
+ and make the justice system fairer, faster, and more effective. Government will work to address
+ racism, including the systemic barriers facing racially marginalized and Indigenous peoples and
+ communities, to help ensure all Albertans can reach their full social and economic potential.
+
+ For detailed reporting on supporting initiatives, please refer to:
+
+      •   Page 16 – Safe Streets Action Plan
+
+      •   Page 16 – Alberta Law Enforcement Response Teams
+
+      •   Page 19 – Combatting Trafficking in Persons
+
+      •   Page 19 – Hate Crimes Coordination Unit and Hate Crime Community Liaisons
+
+      •   Page 21 – Public Security Indigenous Advisory Committee
+
+      •   Page 23 – Modern ankle bracelet electronic monitoring
+
+      •   Page 31 – New Victim Service Delivery Model
+
+
+
+
+16                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                      Results Analysis
+
+
+
+Outcome One: Albertans are safe and secure
+Throughout 2024-25, PSES worked to ensure all Albertans are safe and secure in their
+communities. The department led initiatives that support the vision of contemporary and
+responsive policing that prioritizes the best interests of Alberta’s diverse populations. These
+included focused work to address family and sexual violence, organized crime, hate-motivated
+crime, and human trafficking to further enhance the safety of Alberta’s cities, communities and
+families and protect those vulnerable to victimization.
+
+Key Objectives
+
+1.1   In partnership with police services, municipalities, and Indigenous communities,
+      implement strategies to address crime and social disorder, particularly in urban
+      centres and transit systems.
+
+Safe Streets Action Plan
+
+In 2024-25, the ministry continued to strengthen public safety in Alberta’s largest urban centres
+through targeted investments and strategic partnerships with municipal police services. A total of
+$18.4 million in provincial funding was allocated to the Calgary Police Service (CPS) and Edmonton
+Police Service (EPS) to support the recruitment, training, and deployment of 50 new police officers.
+These resources are dedicated to enhancing visible law enforcement presence and addressing
+crime and social disorder in the downtown areas of Calgary and Edmonton. Of the total investment,
+$10 million was provided to Calgary and $8.4 million to Edmonton.
+
+In Edmonton, the ministry supported enhanced collaboration between the Transit Community
+Safety (TRACS) unit and the Edmonton Transit System peace officers. Together, proactive strategies
+to improve public safety in transit spaces were implemented. This included the development of an
+information-sharing framework and use of tools such as the Transit Centre Event Dashboard, which
+enables data-driven deployment of resources and targeted interventions at high-risk locations.
+These efforts contributed to a safer, more inclusive rider experience for Edmonton’s transit users.
+Thirty-two officers were assigned to TRACS in 2024-25 while the additional 18 officers will be
+assigned in 2025-26.
+
+In Calgary, through provincial grant funding, the Community Engagement Response Teams (CERT)
+expanded with the deployment of 50 new uniformed patrol officers in 2024-25. These teams focus
+on high-priority areas experiencing social disorder, including encampments, and integrate
+enforcement with compassionate outreach to support vulnerable populations. CERT’s high-
+visibility presence helps deter crime, promote public safety, and foster greater trust between law
+enforcement and the communities they serve.
+
+1.2   Continue to work with public safety stakeholders to address serious and organized
+      crime by implementing risk reduction strategies, such as increased border support to
+      keep crime out of Alberta. This includes work to establish the Alberta Office to Combat
+      Trafficking in Persons (AOCTIP) and focused work on rural crime, hate-motivated
+      crime, firearms violence, drug and human trafficking and proceeds of crime.
+
+Alberta Law Enforcement Response Teams
+
+In 2024-25, the ministry provided $55.7 million to support the continued operations of the Alberta
+Law Enforcement Response Teams (ALERT) to dismantle and disrupt crime in the province through
+a coordinated and collaborative approach. This funding supported a range of integrated and
+intelligence-led enforcement initiatives, including organized crime and gang-related violence
+throughout the province. ALERT’s coordinated efforts continue to play a critical role in enhancing
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                     17
+Results Analysis
+
+
+
+public safety, safeguarding communities, and addressing the evolving complexity of serious and
+violent crime.
+
+The Integrated Gang Enforcement Team (IGET),
+operating under ALERT’s Combined Forces Special
+Enforcement Unit, is focusing on the province’s most       Quick facts:
+violent gang offenders. Through coordinated
+enforcement strategies, IGET continued to                  2024-25 ALERT statistics:
+proactively respond to gang violence, support
+intelligence-sharing among law enforcement                     Number of Internet Child
+partners, and increase police presence in gang-                                                      4,582
+                                                               Exploitation cases handled
+impacted communities. In addition, ALERT
+continued to fund and support specialized units                Number of children rescued from
+                                                                                                       137
+such as the Firearms Investigative Unit (FIU) and              sexual abuse and/or luring
+Gang and Violence Suppression Teams in Edmonton
+and Calgary. The FIU, formed in 2019 by Edmonton               Number of charges laid                1,498
+Police Service and supported by ALERT, investigates
+and disrupts firearm-related offences tied to                  Number of people arrested for
+                                                                                                       150
+criminal networks, including illegal possession,               organized crime-related activities
+trafficking, and manufacturing of firearms and
+prohibited devices. In addition, the Gang and                  Number of firearms seized               105
+Violence Suppression Teams continued to focus on
+proactively identifying individuals at risk of
+involvement in gun violence and assisting in               In addition:
+suppressing gang-related firearm offences.                 •     over $8.8 million worth of drugs
+                                                                 seized; and
+These integrated teams contributed to multiple
+successful enforcement actions and continue to        • nearly $1.8 million worth of stolen
+provide a critical frontline response to gun and gang   vehicles, farming equipment and
+violence in Alberta. In 2024-25, ALERT seized over      property seized.
+$8.83 million worth of harmful drugs from
+communities across Alberta and approximately $500,000 in proceeds of crime.
+
+Sheriffs Interdiction Patrol Teams
+
+In December 2024, the Government of Alberta announced $28.6 million in funding to support the
+creation and expansion of the Alberta Sheriffs Interdiction Patrol Teams aimed at disrupting illegal
+cross-border activity, particularly along the Alberta-Montana border and major east-west
+interprovincial transport routes. The investment is part of a broader commitment to enhance
+Alberta’s response to the trafficking of deadly drugs and illegal firearms, and to strengthen border
+security measures in coordination with provincial and federal enforcement agencies. The funding
+also supports increased capacity for the Anti-Fentanyl and Illegal Gun Trafficking Implementation
+Team to investigate and prevent the unlawful use and distribution of fentanyl and firearms in
+Alberta. In January 2025, the first IPT unit comprised of members of the Alberta Sheriffs, was
+deployed and began coordinated patrols alongside RCMP federal policing, RCMP K-Division, and the
+Canada Border Services Agency. These integrated patrols focus on enhancing Alberta’s ability to
+detect, intercept, and respond to illegal border activity in real time. Full operational readiness of the
+Alberta Sheriffs Interdiction Patrol Teams is expected to be achieved in 2025-26.
+
+Fugitive Apprehension Sheriff Support Team (FASST)
+
+Since becoming operational in February 2024, FASST has contributed meaningfully to public safety
+by working with police partners to remove high-risk, wanted individuals from Alberta
+communities. In 2024-25, standard operating procedures and memoranda of understanding were
+
+
+18                                               Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                             Results Analysis
+
+
+
+formalized with key police partners, including the RCMP, the Medicine Hat Police Service, the
+Lethbridge Police Service, the Edmonton Police Service (EPS), and the Calgary Police Service (CPS).
+These agreements have strengthened operational coordination and clarified roles and
+responsibilities across agencies. During the reporting period, two joint forces operations were
+successfully led by the RCMP in collaboration with EPS and CPS. These operations resulted in the
+execution of 2,156 warrants and the arrest of 397 Tier 1 fugitives in 39 jurisdictions across the
+province. Tier 1 fugitives are defined as individuals who have caused harm to others, pose an
+elevated risk to public safety, or have a criminal history involving straight indictable offences under
+the Criminal Code. Work is ongoing to enhance operational effectiveness, including efforts to expand
+inter-agency collaboration and refine stakeholder engagement strategies to support improved
+safety outcomes for all Albertans.
+
+Sheriff Investigative Support Unit (SISU)
+
+In 2024-25, SISU expanded its operations through two new program concepts aimed at enhancing
+law enforcement capacity in Alberta. Sixteen additional SISU members were deployed with a
+dedicated rural crime mandate, while a second initiative embedded the 16-member team within
+ALERT, supported by dedicated operational funding. SISU provided surveillance support to 141
+                                                      cases province-wide, with the majority linked
+                                                      to drug trafficking and organized crime.
+   Quick facts:                                       Additional investigations supported included
+                                                      child exploitation, homicide, prolific and sex
+   2024 Sheriffs Highway Patrol (SHP) statistics:     offenders, human trafficking, guns and gang’s
+                                                      activity, and auto theft. SISU continued to
+                                                      work closely with ALERT, the Edmonton
+    Number of tickets issued              58,592      Police Service, the Calgary Police Service, the
+                                                      Royal Canadian Mounted Police, and other
+    Number of impaired drivers                        government stakeholders to increase capacity
+    apprehended (including Criminal        1,429      for evidence gathering and advancing
+    Code charges)                                     enforcement outcomes. Each SISU operation
+                                                      often targets multiple individuals involved in
+    Number of Criminal Code charges          284      criminal activities, resulting in arrests and
+                                                      improved safety outcomes across rural
+    Number of impaired-related                        Alberta.
+                                              59
+   Criminal Code charges
+   Number of vehicles seized from                                Rural Alberta Province Integrated Defence
+                                                 1,672           (RAPID) Response
+   impaired or suspended drivers
+
+                                                         In 2024-25, the Government of Alberta
+  Note: All impaired driving enforcement numbers         continued to advance the RAPID Response
+  in the table are related to the RAPID Response         initiative, which is aimed at enhancing public
+  initiative                                             safety in rural communities through stronger
+                                                         integration of provincial peace officers. Under
+this initiative, the Alberta Sheriffs have been granted expanded authorities to support the RCMP in
+responding to calls for service and conducting Criminal Code investigations. The initiative equips
+members of the Fish and Wildlife Enforcement Services and Sheriff Highway Patrol (SHP) with the
+training, resources, and authority needed to provide timely and effective support in rural policing.
+In 2024-25, $10 million was allocated in operational investments to support the continued rollout
+of the RAPID Response program. These funds were used for training programs, purchase of
+frontline equipment, and enhanced operational capacity among participating sheriff units. The
+program is on track for full implementation in 2025-26, with SHP members expected to be fully
+equipped with carbine rifles and hard body armour to enhance officer safety and preparedness in
+higher-risk situations. This work complements broader efforts to improve police response times
+and increase visible law enforcement presence across Alberta’s rural communities.
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                            19
+Results Analysis
+
+
+
+Provincial Police Service Agreement
+
+In 2024-25, government provided $376.7 million under the Provincial Police Service Agreement
+(PPSA) to provide RCMP services in Alberta small and rural communities. This funding supported
+nearly 1,700 RCMP officers and civilian staff to provide frontline patrols and specialized units
+targeting organized crime and theft. These investments aim to strengthen community safety,
+reduce response times, and ensure that Alberta small and rural areas receive timely and effective
+law enforcement support.
+
+Actions to Combat Hate Crimes
+
+The ministry continues to work with other Government of Alberta partners in advancing a multi-
+platform approach to address hate motivated crimes and incidents in the province. Since 2021, the
+Alberta Security Infrastructure Program (ASIP) has allocated more than $5 million to support not-
+for-profit organizations in strengthening their capacity to prevent and respond to hate and bias-
+motivated violence. In 2024-25, ASIP provided over $2.13 million to 95 initiatives which included
+physical security enhancements, the temporary deployment of security personnel, and the delivery
+of training to staff and volunteers, supporting safer, more inclusive environments across Alberta
+communities.
+
+In December 2023, eligibility for the ASIP grant was temporarily expanded to include Islamic and
+Jewish faith-based alternative schools, as well as Arabic bilingual programs. Due to global conflict,
+these schools were identified as being at heightened risk of experiencing hate or bias motivated
+violence. This expansion to eligible schools remains in effect until December 31, 2025. More than
+$670,000 of the total ASIP funding awarded in 2024-25 was awarded to 19 schools under this
+temporary expansion. One grant, provided to the Edmonton Public School Board, consolidated
+available funding for eight eligible schools, reducing administrative burden and allowing the school
+division to improve purchasing efficiency for security enhancements and optimize safety outcomes
+for vulnerable students, staff, and school communities.
+
+Ongoing outreach and engagement with community organizations, law enforcement agencies, and
+faith-based groups contributed to a broader awareness of ASIP and an increase in applications from
+a more diverse set of applicants, including shelter spaces, youth centres, and community leagues. In
+a survey of past ASIP recipients, 40 of the 42 respondents indicated that the funding was effective
+in improving safety, and many also reported increased feelings of security and reduced anxiety for
+those accessing their spaces. These findings affirm the government’s commitment to community
+resilience and safety across Alberta.
+
+In 2024-25, the PSES Hate Crime Coordination Unit (HCCU) continued to work closely with law
+enforcement and community stakeholders to promote investigation, prevention, and public
+education. The team is engaged with youth and Indigenous stakeholders, including partnerships
+with a rural southern Alberta school board to support anti-bullying and leadership programming.
+Two Hate Crime Community Liaisons (HCCLs) appointed in May 2022 completed their work which
+led to a series of recommendations submitted to government following broad engagement with
+stakeholders across sectors. Government is reviewing the recommendations, which will inform
+future government initiatives to address hate crime in Alberta. In 2024-25, approximately $7,500
+was allocated to support HCCL honoraria and travel expenses.
+
+Combatting Human Trafficking
+
+In 2024, the Alberta Office to Combat Trafficking in Persons was renamed the Alberta Centre to End
+Trafficking in Persons (AC) and began operations as an independent non-profit entity. The AC is the
+ministry’s partner in leading the fight to end human trafficking in Alberta. The AC received $2
+million in 2024-25 to support operations, lead system coordination, develop a provincial response
+
+
+20                                             Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                       Results Analysis
+
+
+
+model, and advance implementation of the Reading Stone report recommendations. The AC
+officially unveiled its branding and website on February 22, 2025, National Human Trafficking
+Awareness Day. The organization has established a board, recruited co-CEOs, and launched both an
+operational advisory committee and a national Lived Experience Advisory Network to guide its
+work.
+
+In 2024-25, the ministry provided $5.5 million in funding to 19 organizations through the first
+intake of the Combatting Trafficking in Persons (CTIP) Grant. Funding also supports province-wide
+engagement and model development for the AC. The grant program, which was developed in
+partnership with the AC, focuses on prevention, protection, and the empowerment of victims and
+survivors, with priority given to Indigenous- and survivor-led initiatives. Funding was balanced
+across Calgary, Edmonton, and rural Alberta, and approximately 40 percent of total funding was
+directed to Indigenous-led or serving organizations. This approach supports relationship-building
+with Indigenous communities and addresses community-specific needs through culturally
+appropriate responses.
+
+Through CTIP funding, 19 rapid exit and transitional beds will be added across the province to
+provide immediate safety and access to services for individuals exiting trafficking situations.
+Community partners and ALERT’s human trafficking teams have consistently identified the lack of
+emergency housing as the most significant barrier victims face. These additional beds are expected
+to reduce that gap and enhance long-term recovery outcomes.
+
+The CTIP funding also supports law enforcement capacity. The ALERT Safety Network Coordinator
+program will expand from four to six Safety Network Coordinators with new Safety Network
+Coordinators stationed in Grande Prairie and Tsuut’ina Nation to align with rural and Indigenous
+policing priorities. The expansion will ensure victims and survivors receive support throughout the
+investigative process. As part of the broader grant program, the AC will develop an evaluation
+framework and coordinated community response model. These efforts will support consistent data
+collection and improve measurement of grant outcomes. Reporting from recipients will begin in
+2025-26, with ongoing assessment to support ministry efforts to ensure Albertans are safe and
+secure.
+
+Gun and Gang Violence Action Fund
+
+Through the Gun and Gang Violence Action Fund (GGVAF), the ministry continues to support law
+enforcement, municipalities and community organizations to prevent, disrupt and increase
+awareness of gun and gang violence. In 2023, the federal government announced a $390 million,
+five-year extension of its GGVAF that provides funding to provinces and territories to strengthen
+law enforcement and prevention programs. Alberta’s share of this funding amounts to $53.03
+million. In 2024-25, Alberta provided $12.6 million in GGVAF funds to support key initiatives across
+municipality, community and law enforcement groups, including:
+
+   •    $4.1 million to the CPS, the EPS and the Camrose Police Service to address gun and gang
+        violence, including for the Strategic Data Integration and Intelligence Team, a firearms
+        compliance unit, and hiring a gang intelligence analyst.
+
+   •    $5.2 million to fund projects within the Government of Alberta, including $1.7 million for a
+        firearms prosecution team within Alberta Justice, and $1.1 million for the Correctional
+        Services Division to hire intelligence analysts and officers within provincial correctional
+        facilities.
+
+   •    $3.3 million in grants and support to community groups focused on gang prevention and
+        gang exit programs for at-risk youth and individuals recently released from correctional
+        facilities.
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                      21
+Results Analysis
+
+
+
+Alberta Crime Prevention Grant
+
+The Alberta Crime Prevention grant is funded from the proceeds of property forfeited under
+Alberta’s Civil Forfeiture Act. Civil forfeiture makes Alberta communities safer by taking away
+property linked to crime, such as cash, vehicles and real estate. In 2024-25, the ministry awarded
+approximately $2.38 million to 19 community-based organizations to support a variety of eligible
+projects and initiatives. A list of recipients and their funded projects can be found here: Alberta Civil
+Forfeiture Community Grant Funding (2022-2024).
+
+Public Security Indigenous Advisory Committee (PSIAC)
+
+The Government of Alberta continued to strengthen collaboration with Indigenous peoples to
+ensure public safety programs and initiatives reflect the priorities of Indigenous communities. The
+committee’s mandate has recently been refocused specifically on policing matters affecting
+Indigenous peoples within their communities. The committee is composed of diverse Indigenous
+perspectives from Treaty 6, 7 and 8, Métis Nations and Métis Settlements, urban and rural
+communities. Approximately $24,000 was allocated in 2024-25 to support committee operations,
+including honoraria, travel, and hosting costs. The committee remains a key mechanism for
+ensuring culturally informed, community-driven approaches to public safety and policing in
+Indigenous contexts.
+
+Community-led Crime Prevention
+
+The ministry continued to invest in citizen-led crime prevention efforts through targeted grant
+funding to Alberta’s three provincial community crime prevention associations: the Alberta
+Community Crime Prevention Association, the Alberta Provincial Rural Crime Watch Association,
+and the Alberta Citizens on Patrol Association. These grants directly support the department’s
+commitment to improving community safety by enhancing local capacity in rural and municipal
+areas through grassroots crime prevention initiatives. Total funding available to the three
+associations increased from nearly $363,000 to $478,000 in 2024-25, provided in March 2024 to
+support timely planning and implementation of programs across Alberta. In addition to funding, the
+department engages regularly with each association to strengthen alignment amongst community-
+based initiatives and provincial public safety goals. The three organizations meet quarterly with
+department staff and the RCMP’s Community Safety and Well-being Branch to discuss emerging
+trends, share local insights, and coordinate strategies to enhance public safety outcomes. These
+ongoing collaborations reinforce the province’s commitment to community-led solutions and the
+vital role that local volunteers and crime prevention advocates play in keeping Alberta’s
+communities safe.
+
+1.3   Continue to improve the delivery of policing services in the province to ensure
+      Albertans are safe and police are accountable to the communities they serve, including
+      working with the Alberta Sheriffs and further investment in Indigenous policing
+      programs.
+
+Independent Agency Police Service
+
+The Public Safety Statutes Amendment Act, 2024 received Royal Assent in May 2024, advancing
+government priorities to better protect Albertans. One key aspect of the legislation was to respond
+to the evolving public safety needs of Alberta’s communities by enabling the creation of a new
+independent agency police service (IAPS). The IAPS is anticipated to assume policing
+responsibilities currently carried out by the Alberta Sheriffs, who have taken on increasingly
+complex, police-like roles in recent decades. This change to having policing roles carried out by
+police officers under the authority of the Police Act, rather than being conducted by peace officers
+under the Peace Officer Act, aligns with best practices for police work and would result in more
+
+
+22                                               Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Results Analysis
+
+
+
+transparency and accountability for the public. In November 2024, the Minister appointed
+members to the IAPS oversight board to begin the work of operationalizing the service. Initial
+priorities include the recruitment of a Chief of the IAPS and the development of governance and
+operational frameworks in accordance with legislative direction. Work to establish IAPS as a fully
+functioning police agency is ongoing and will continue into 2025-26 as part of the government’s
+commitment to modernize law enforcement in Alberta.
+
+Implementation of Mandatory Body Worn Cameras
+
+In preparation for the province-wide implementation of body-worn cameras (BWCs) across all
+police services in 2025-26, PSES worked closely with the Alberta Association of Chiefs of Police to
+update provincial policing standards in September 2024 and advance a coordinated procurement
+approach. In May 2024, in collaboration with the Ministry of Technology and Innovation, a
+negotiated request for proposal was developed to acquire BWCs, In-Car Digital Video (ICDV)
+systems, and a digital evidence management system. Following a competitive bid process, a vendor
+was identified, and contract negotiations began. The province-wide implementation of BWCs will
+ensure digital evidence management across all Alberta police services, in alignment with the
+government’s commitment to enhancing public trust, accountability, and transparency in law
+enforcement practices.
+
+Police Review Commission
+
+The Police Amendment Act, 2022, which received Royal Assent in December 2022, provides a
+modernized framework for police complaints oversight. Key reforms include five standardized
+complaint categories and the creation of the Police Review Commission (PRC), an arm’s length
+agency responsible for receiving, assessing, investigating, and resolving complaints against police.
+The Alberta Serious Incident Response Team (ASIRT) will be integrated into the PRC and continue
+to lead investigations of a serious or sensitive nature, with an expanded mandate to include the
+Alberta Sheriffs, other designated peace officers and legislative security officers. The PRC is
+expected to become operational in December 2025. Following the creation of a dedicated
+implementation team in 2023-24, efforts in the past year have focused on legislative and regulatory
+development, community and stakeholder engagement, organizational design, staffing, branding,
+procurement of training and technology, change management with police services, and securing
+office space. Operational costs for the implementation team in 2024-2025 totaled $3.6 million.
+
+Police Governance Regulation
+
+In 2024-25, the Police Governance Regulation and Police Governance (Ministerial) Regulation were
+developed to expand on the roles, functions, and composition of RCMP governance bodies
+mandated by the Police Amendment Act, 2022, including the Provincial Police Advisory Board
+(PPAB) and municipal and regional policing committees. These new regulations were based on a
+series of engagement sessions in early 2024, which provided perspectives on how the new
+governance bodies can better support communities individual needs. The new regulations, as well
+as the corresponding Police Act amendments, took effect on March 1, 2025. A transition period
+allowed municipalities to pass and implement relevant bylaws for policing committees and
+providing sufficient time to stand up the PPAB.
+
+1.4   Support municipalities and Indigenous communities interested in exploring different
+      models of policing and public safety.
+
+City of Grande Prairie’s Transition to a Municipal Police Service
+
+In March 2023, the City of Grande Prairie passed a resolution to establish a municipal police service.
+The Minister of Public Safety and Emergency Services approved $9.7 million in transition funding to
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                       23
+Results Analysis
+
+
+
+support the creation of the Grande Prairie Police Service (GPPS). Funding provided over 2023-24
+and 2024-25 supported key transition activities including recruitment and salaries for 48 officers
+and 13 civilian staff, procurement of 15 vehicles, initial information technology (IT) infrastructure,
+training, and other operational requirements. The GPPS is expected to be fully operational by 2026-
+27, with the capacity to deliver effective and community-focused policing services tailored to the
+needs of Grande Prairie residents.
+
+Indigenous and Municipal Police Transition Study Grant
+
+The Indigenous and Municipal Police Transition Study Grant (IMPTSG) supports communities
+exploring alternative policing and community safety models through one-time funding for
+feasibility studies. Since the program’s inception, including 2024-25, IMPTSG has awarded
+$2.4 million to support 37 applications to 35 municipalities, 23 First Nations, and five Métis
+Settlements. In 2024-25, 18 grant recipients received approximately $1.27 million in total funding.
+These included Smoky Lake County, Kee Tas Kee Now Tribal Council, the Municipal District of
+Opportunity No. 17, the Town of Slave Lake, the City of Beaumont, Kikino Métis Settlement, Gift
+Lake Métis Settlement, Dene Tha’ First Nation, Fort McKay First Nation, Athabasca Tribal Council,
+the Town of Rocky Mountain House, the Town of Cochrane, Enoch Cree Nation, the Town of
+Drayton Valley, the Métis Settlements General Council (MSGC), the Town of Two Hills, Town of
+Peace River, and O’Chiese First Nation. The program helps communities identify safety models
+tailored to local needs and priorities, contributing to the province’s goal of supporting responsive,
+community-based policing and public safety solutions.
+
+Siksika Nation Self-Administered First Nations Police Service
+
+In June 2022, Siksika Nation presented a business case to establish a First Nation police service. A
+Relationship Agreement and MOU were signed with the Government of Alberta in 2023 confirming
+provincial support. Under the Chief ’s leadership, Siksika Nation is actively recruiting a Chief of
+Police and police commission members, while ongoing collaboration between PSES and Siksika
+Nation continue to guide progress. Over 2023-24 and 2024-25, the ministry provided $883,200 in
+funding to support the initiative. In 2025-26, coordinated effort to advance the development of the
+Siksika Nation police service will continue.
+
+1.5   Implement a modern ankle bracelet electronic monitoring program to enhance the
+      supervision of individuals under correctional jurisdiction.
+
+In January 2025, the Government of Alberta launched a modernized electronic monitoring program
+for adult clients on bail or serving community-based sentences who are identified by the courts as
+posing a potential risk. Enabled by recent amendments to the Corrections Act and Corrections
+Regulation, the program monitors compliance with court-ordered conditions through the use of
+ankle bracelets. A central monitoring unit within the Correctional Services Division provides 24/7
+oversight of electronic monitoring conditions in coordination with the supervision provided by
+community-based probation officers. This integrated approach supports public safety by enhancing
+real-time accountability and strengthening the enforcement of judicial orders. Implementation of
+the program has been supported by ongoing engagement with law enforcement, justice system
+partners, and other stakeholders to ensure operational readiness and responsiveness. This
+collaborative foundation will support continued program success and inform future enhancements.
+The program is being evaluated to assess its impact on public safety and identify opportunities for
+improvement. Funding of $2.8 million was allocated in fiscal 2024-25 to support initial
+implementation and operations.
+
+
+
+
+24                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                    Results Analysis
+
+
+
+Performance Metric 1.a:
+      Median time from intake to resolution of Safer Communities and Neighbourhoods
+      (SCAN) complaints1
+
+
+                          Prior Years’ Results
+                                                                                  2024-25            2024-25
+  2020-21            2021-22            2022-23             2023-24                Target             Actual
+
+
+                                                                                                  119 days
+  Not                Not
+                                        92 days             170 days           89 days            (South
+  Available          Available
+                                                                                                  Only)2
+
+This measure was introduced in the Public Safety and Emergency Services Business Plan for the
+first time in 2024-25 to assess the timeliness and efficiency of the Alberta Sheriffs’ Safer
+Communities and Neighbourhoods (SCAN) unit in disrupting illegal activities and improving public
+safety.
+In 2024-25, the median time from complaint intake to resolution was 119 days. This represents a
+34 per cent increase from the 2024-25 target, but a 30 per cent decrease from the revised 2023-24
+result of 170 days. The measure reflects the government’s commitment to protecting Albertans by
+addressing problem properties associated with activities such as drug trafficking, prostitution, child
+exploitation, and gang-related crime.
+
+Since 2023, the Alberta Sheriffs have strengthened SCAN’s provincial capacity by adding 20 new
+investigator positions, expanding staffing in Edmonton and Calgary, and establishing new units in
+Lethbridge and Red Deer to serve southern Alberta. In 2024, SCAN received and accepted 951
+complaints for investigation, up from 698 in 2023, a figure expected to increase as public
+awareness and community engagement grow.
+The time required to resolve complaints varies based on several factors. Investigations involving
+community safety orders may take up to three years to resolve due to the complexity and need to
+uphold investigative quality, especially when case statuses shift between active and inactive.
+
+
+
+
+1 Targets for this metric were initially set as follows: 89 days for 2024-25, 87 days for 2025-26, and 84 days
+
+for 2026-27 based on the analysis of a two-month dataset informed by limited system capability at the time,
+which introduced some inaccuracies in the results for the baseline and the targets set for the three-year
+period. The methodology was refined to capture a full-year dataset for analysis using a new, more robust
+records management system that accounts for all files. The current methodology offers better confidence in
+the baseline and reported results. The ministry is also working on a new version of the Alberta Public
+Security Application record management system with an improved search capability to significantly minimize
+search errors and improve the integrity and accuracy of the data.
+
+2 Only data from the provincial south region has been included in the calculation of the 2024-25 actual result
+
+due to a data entry issue in the northern region, which significantly affected the reliability of the results. The
+ministry has since implemented enhanced data validation protocols, provided targeted training to regional
+staff responsible for data entry, and introduced an additional review step in the reporting process to ensure
+data accuracy and to prevent similar issues from occurring in future reporting cycles.
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                   25
+Results Analysis
+
+
+
+Additionally, timelines can be affected by the scheduling and duration of court and residential
+tenancy dispute resolution service hearings, which fall outside SCAN’s control.
+The nature of complaints also influences resolution timelines. While some files are straightforward,
+others require extensive investigative work, including surveillance, evidence collection, and
+coordination with law enforcement partners.
+To ensure SCAN continues to meet the needs of Albertans, the ministry is maintaining support for
+investigative operations by funding new positions, expanding its regional presence through
+permanent offices in Lethbridge and Red Deer, and enhancing collaboration with the RCMP and
+municipal police services in central Alberta to disrupt drug houses and support broader criminal
+investigations.
+
+This performance measure will provide ongoing insight into the SCAN unit’s ability to respond to
+community concerns and contribute to safer, more secure neighbourhoods across Alberta.
+
+Performance Indicator 1.a:
+     Violent and Property Crime Rates per 100,000 population
+
+                                             2019         2020          2021          2022          2023
+
+  Alberta Violent Crime Rate                 1,462        1,455         1,519         1,561         1,591
+
+  Rural                                      2,243        2,410         2,470         2,539         2,551
+
+  Urban                                      1,291        1,246         1,312         1,352         1,392
+
+  Alberta Property Crime Rate                5,894        5,070         4,599         5,061         4,752
+
+  Rural                                      7,441        6,843         6,416         6,786         6,673
+
+  Urban                                      5,545        4,674         4,197         4,685         4,349
+*Data has been revised by the Canadian Centre for Justice and Community Safety Statistics since the
+2024-27 business plan’s publication.
+
+Crime rate measures the volume of crime, including all Criminal Code violations (except traffic)
+relative to population size and is shown as urban and rural results. Violent crime includes homicide,
+attempted murder, robbery, abduction and various forms of sexual assault. It does not include
+traffic incidents that result in death or bodily harm.
+
+Violent Crime Rate
+
+In 2023, Alberta saw a small increase in violent crime. The overall rate went up by 1.9 per cent
+compared to the year before. Urban Alberta had a three per cent increase, while rural areas had a
+slight increase of 0.5 per cent. Most of the increase was due to a rise in extortion cases, which went
+up by 25.7 per cent. However, some serious crimes dropped. Attempted murder went down by 14
+per cent, firearm-related incidents reduced by nearly one per cent, and abductions decreased by 2
+per cent. These crimes were the main drivers of violent crime in the previous year.
+
+Property Crime Rate
+
+In 2023, property crime in Alberta went down by 6.1 per cent overall. Rural areas saw a drop of 1.7
+per cent, while urban areas had a larger decrease of 7.2 per cent. Compared to 2019, property crime
+
+
+26                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                              Results Analysis
+
+
+
+is down 19.4 per cent across the province: 22 per cent lower in urban areas and 10 per cent lower
+in rural communities. The decrease in 2023 was mainly due to fewer cases of trafficking in stolen
+property (down 13 per cent), identity fraud (down 2.2 per cent), and identity theft (down 9.5 per
+cent).
+
+Performance Indicator 1.b:
+      Violent and Non-violent Crime Severity Index3
+
+
+
+              Violent Crime Severity Index                                  Non-Violent Crime Security Index
+                                                                 124
+              110           114         114        114
+   108                                                                        108
+                                              99         99                                             103          99
+                                   93                                                        97
+         90         88
+                                                                       76                                                 74
+                                                                                    69             68         71
+
+
+
+
+     2019      2020           2021        2022      2023          2019          2020          2021       2022         2023
+
+                         Alberta     Canada                                              Alberta     Canada
+
+
+Source: Uniform Crime Reporting Survey, Canadian Centre for Justice and Community Safety
+Statistics (CCJCSS). Data is available annually. CCJCSS Table data was available in July 2024.
+
+The Crime Severity Index (CSI) measures the volume and severity of police-reported crime in
+Canada. It has a base index value of 100 for 2006. The Violent CSI measures the overall volume and
+severity of violent crime. Non-violent crime involves all police-reported property violations, other
+Criminal Code violations, Criminal Code traffic violations and other federal statute violations.
+
+The ministry continues to act on a number of fronts as part of its commitment to reduce crime,
+including implementing RAPID Response, increasing funding to ALERT, hiring additional
+investigators to support Alberta’s SCAN units, increasing police resources in high crime city centres,
+creating dedicated border patrol teams, and supporting initiatives to combat hate crimes and
+human trafficking. These initiatives are ensuring that Albertans are better protected from criminals
+wherever they are in the province.
+
+Overall Crime Severity Index (CSI)
+
+In 2023, Canada’s CSI rose by 2.2 per cent, mainly due to increase in non-violent crimes. While 10 of
+13 provinces and territories saw increases, Alberta’s CSI dropped by 2.1 per cent. Calgary and Red
+Deer saw notable decreases of 8.5 per cent and 10.6 per cent, while Lethbridge and Edmonton
+
+
+
+
+3 While this performance indicator is not included in the 2024-27 Public Safety and Emergency Services
+
+Business Plan, it is being included in the Annual Report to provide additional context to reported crime
+trends in the province.
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                                 27
+Results Analysis
+
+
+
+experienced increases of 6.9 per cent and 2.9 per cent. Alberta’s overall decline in CSI was driven by
+decreases in property crimes and serious violent offences like attempted murder and child sexual
+offences, though this was partly offset by increase in extortion and arson.
+
+Violent Crime Severity Index
+
+The national violent CSI was 99.4 in 2023, a 0.39 per cent increase over the 2022 index of 99, and
+35 per cent higher than in 2013. Similarly, Alberta saw a slight increase of 0.27 per cent in the
+Violent CSI in 2023 over the 2022 index as a result of the increase in extortion.
+
+Non-violent Crime Severity Index
+
+In 2023, the national non-violent CSI was 73.5, 3.1 per cent higher than in 2022. In 2023, Alberta’s
+Non-violent CSI decreased by 3.2 per cent from the level in 2022. This was as a result of the declines
+seen in most of the property crimes, including trafficking in stolen property, motor vehicle theft,
+theft over and under $5,000, identity theft and identity fraud.
+
+Outcome Two: Albertans are supported in their interactions with the justice system
+The ministry continued to implement initiatives to modernize the delivery of correctional services,
+including collaborating with Mental Health and Addiction on the implementation of a recovery-
+oriented system of care that provides a network of community-based services that support those
+with or at risk of alcohol, drug, or mental health issues. The implementation of a new victims
+assistance program and a new victim services delivery model also ensure improved access and
+consistent services for victims of crime.
+
+Key Objectives
+
+2.1   Work with municipalities, police services, community-based organizations, and other
+      ministries to improve the alignment of mental health and addictions crisis response
+      resources in community policing and corrections.
+
+Correctional Services Delivery
+
+The Correctional Services Division (CSD) is responsible for the supervision and care of adults and
+young persons under provincial correctional jurisdiction. With operations spanning 10 adult and
+youth correctional centres and more than 40 probation offices across Alberta, the division supports
+client rehabilitation through the assessment of individual needs and risks. In partnership with
+community organizations and service providers, CSD enables structured programming and
+vocational training designed to equip individuals with the skills needed for successful community
+reintegration. By being responsive and using evidence-based interventions, the ministry is working
+to reduce recidivism and support positive, lawful behaviour. These efforts enhance public safety
+and help build stronger, more resilient communities across the province. In 2024-25, the ministry
+spent approximately $317.8 million in operating provincial correctional facilities and delivering
+community supervision services to ensure the effective and accountable operation of Alberta’s
+correctional system.
+
+Integrated Offender Management Strategy
+
+Through the Integrated Offender Management (IOM) program, the ministry continues to support a
+person-centered approach to reducing recidivism by addressing the underlying factors that
+contribute to criminal behaviour. In collaboration with Case Development Groups (CDGs) across
+Alberta, the ministry advanced efforts in 2024-25 by enabling members of various law enforcement
+agencies to assume facilitation roles within the program, strengthening coordination and
+
+
+28                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                       Results Analysis
+
+
+
+contributing to overall community safety. IOM operations expanded to include 20 RCMP
+detachments, supported by monthly meetings across 14 CDGs, and 12 provincial IOM meetings
+were held to align strategies with broader policing objectives and improve inter-agency
+information-sharing. To enhance oversight and ensure consistency, the ministry initiated a
+comprehensive review of IOM operations to standardize reporting metrics and evaluated four
+secondee contracts to reinforce the program’s operational framework. These secondee contracts
+represented a total
+investment of $690,000
+across participating law           Quick facts:
+enforcement agencies. Moving
+forward, the ministry will         2024-25 Correctional Services statistics:
+continue to evaluate program
+effectiveness, apply lessons        Total admissions into provincial adult custody      20,000
+learned and pursue
+opportunities to further
+integrate IOM with                  Total releases from provincial adult custody        19,934
+community safety partners
+across Alberta, with the goal       Monthly average number of clients under
+                                                                                        17,186
+of reducing repeat offences         community supervision
+and improving outcomes for
+at-risk individuals.
+
+Mental Health Policy Advisory Committee
+
+In 2024-25, the ministry, through the Mental Health and Addiction Police Advisory Committee,
+continued to provide a platform for collaborative information-sharing, issue resolution, and the
+alignment of resources among police services, mental health and addiction specialists, policy
+leaders, and government and community-based service providers. The committee worked across
+the province to strengthen coordinated responses to mental health-related calls by:
+
+   •    distributing 3,000 copies and printing an additional 3,000 copies of the Police
+        Considerations for Mental Health–Related Calls Quick Reference Guide, which clarifies the
+        responsibilities of police in responding to such calls;
+
+   •    distributing 18,000 copies of the Addiction and Mental Health Supports Public Resource
+        Card, with 7,000 more printed to ensure vulnerable Albertans and their families are
+        informed about available government supports;
+
+   •    continuing to implement the HealthIM app-based program under a three-year contract
+        valued at $2,219,760.00 ($739,920 annually). in collaboration with law enforcement, the
+        Ministry of Mental Health and Addiction (MHA), and other stakeholders, set to expire in
+        March 2026 with an option to extend for one additional year; and
+
+   •    continuing to implement the Provincial Law Enforcement Mental Health Consultation Line,
+        funded by a $210,000 contribution from MHA, to expedite access to mental health
+        professionals and connect individuals with appropriate community supports.
+
+These initiatives are helping ensure that police services across Alberta are equipped with the
+necessary tools to promote wellness, support recovery and contribute to safer communities.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                      29
+Results Analysis
+
+
+
+2.2   Implement therapeutic living units and supports in correctional facilities in alignment
+      with and commitment to a recovery-oriented system of care.
+
+Therapeutic Living Units
+
+As part of the Government of Alberta’s commitment to a recovery-oriented system of care, the
+ministry continued to partner with MHA to establish Therapeutic Living Units (TLUs) within
+provincial correctional facilities. TLUs provide individuals in custody who are at risk of substance
+use disorders and mental health concerns with access to holistic, evidence-based addiction
+treatment aimed at supporting recovery and reducing the risk of recidivism. The first three TLUs
+were launched in 2023, with a fourth unit opening at the Calgary Correctional Centre in May 2024.
+
+In 2024-25, the ministry continued its partnership with Beccarian Correctional Care (formerly
+Recovery Oriented Systems of Care Solutions Group) and MHA to operate and deliver programming
+in the TLUs. Correctional staff oversee unit operations and work closely with Beccarian
+                                           Correctional Care to identify candidates suitable for
+                                           participation. The program is voluntary and available to
+ Quick facts:                              sentenced individuals who have an aggregate sentence of
+                                           at least 90 days, and to remanded individuals with a
+ In 2024-25:                               minimum of 90 days remaining before a major court
+                                           appearance, a demonstrated need for substance use
+ • Average daily occupancy rate            treatment, and who meet specific eligibility criteria.
+     in the TLUs was 90 per cent
+ • 54 individuals successfully             To further enhance support services, transitional services
+     completed in-custody                  operated by Beccarian were implemented across Alberta’s
+     programming.                          remaining adult correctional facilities between June and
+                                           December 2024. These transitional services are accessible
+                                           to individuals who are ineligible for TLUs due to limited
+time in custody or other eligibility constraints and focus on connecting clients with recovery
+communities, treatment programs and community-based supports prior to release. In 2024-25, the
+ministry received $3.43 million from MHA to support the operation of the TLUs and associated
+transitional services across Alberta.
+
+2.3   Continue to modernize corrections technology to enhance service delivery and
+      promote system sustainability.
+
+Wi-Fi in Provincial Correctional Centres
+
+Reliable Wi-Fi connectivity is essential to modernizing operations and delivering enhanced services
+within Alberta’s correctional facilities. Building on the initial implementation of wireless
+infrastructure at the Edmonton Remand Centre, the ministry expanded its efforts in 2024-25, and in
+partnership with the Ministry of Technology and Innovation invested $543,500 to successfully
+implement Wi-Fi at the Red Deer Remand Centre. This initiative is part of a broader strategy to
+improve access to secure, digital tools that support rehabilitation, education, and operational
+efficiency. During the fiscal year, a competitive procurement process was completed, and a vendor
+was selected to develop wiring plans and commence construction at additional correctional centres
+across the province. Once fully operational, the Wi-Fi infrastructure will support the delivery of
+stakeholder-led programming and services, such as post-secondary institution educational services,
+community-based programming and health-care services. These improvements will increase
+service accessibility for inmates while enabling staff to streamline workflows and enhance facility
+operations.
+
+
+
+
+30                                             Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Results Analysis
+
+
+
+New Internet-based Video Visitation System
+
+In 2024-25, the ministry advanced its efforts to support
+family and community connections for individuals in           Quick facts:
+custody through the implementation of a new video
+visitation system. In partnership with the Ministry of        2024-25 Correctional Services
+Technology and Innovation, the system was launched at         Technology Statistics:
+the Edmonton Remand Centre to facilitate personal
+visits, with $1.03 million invested specifically to support • 2,259 inmates across three
+monitoring services through a contact with the                    correctional centres had access
+Elizabeth Fry Society. The new platform allows visitors           to Wi-Fi services in 2024-25.
+to connect remotely from any location using their             • More than 5,500 visitors have
+personal devices, which significantly expanded daily              registered for the Video Visitation
+visitation capacity. Maintaining meaningful contact with          System service since
+family, friends, and community supports is a key factor           implementation in February
+in successful reintegration and long-term rehabilitation.         2024.
+During the fiscal year, video visitation services were
+extended to include professional visits, enabling secure
+virtual access for probation officers, legal counsel and law enforcement personnel. The ministry is
+currently assessing opportunities to expand the video visitation system to additional provincial
+correctional centres to further enhance connectivity, reduce administrative burden and improve
+outcomes for individuals in custody.
+
+2.4   Improve awareness of Clare’s Law and other tools to assist Albertans at risk of
+      domestic violence make informed decisions about their safety.
+
+Clare’s Law Public Awareness Campaign
+
+The Disclosure to Protect Against Domestic Violence (Clare’s Law) Act empowers individuals at risk
+of domestic violence by providing them with critical information about a current or former intimate
+partner’s history of domestic violence or related behaviours. This disclosure enables individuals to
+make informed decisions about their personal safety and take steps to prevent victimization or re-
+victimization. The Alberta Integrated Threat and Risk Assessment Centre is responsible for the
+operationalization of Clare’s Law, including coordination with law enforcement and community
+partners.
+
+In 2024-25, the ministry spent $300,000 in funding from the Federal National Action Plan to end
+gender-based violence to implement a range of awareness and capacity-building initiatives. This
+included printing and distributing educational materials, engaging a qualified vendor to conduct
+two targeted surveys, expanding the Clare’s Law social service response, and supporting
+stakeholder training sessions delivered by the ministry’s Clare’s Law coordinator. Awareness and
+education activities related to Clare’s Law will continue as part of a long-term engagement strategy,
+with training and materials made available to frontline professionals, service providers and
+community members across the province.
+
+2.5   Improve access to timely and efficient services and supports for victims of crime and
+      tragedy.
+
+Victims of Crime Assistance Program
+
+Alberta’s Victims of Crime Assistance Program (VAP) provides timely access to financial assistance
+and related supports for individuals impacted by violent crime. Administered in partnership with
+Alberta Blue Cross, the program issues victims their own victims of crime Alberta Blue Cross card,
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                       31
+Results Analysis
+
+
+
+which can be used to access extended medical benefits directly related to injuries sustained from
+victimization. Approved health service providers may invoice Alberta Blue Cross directly for
+treatment and support services, while victims may also be reimbursed for eligible emergency-
+related expenses, including:
+
+     •   safety and security related out-of-pocket expenses;
+     •   immediate need, and basic necessity expenses;
+     •   emergency temporary accommodation;
+     •   relocation expenses for human trafficking victims;
+     •   emergency travel funding for those seeking to escape domestic violence;
+     •   reimbursement for medical aid repair, replacement, or newly required aids; and
+     •   other additional unexpected costs incurred by the victim as a result of the crime.
+In 2024-25, the ministry received and processed 2,974 applications and allocated over $8.1 million
+to support victims of crime through the VAP. By offering responsive and trauma-informed
+assistance, the ministry is ensuring victims receive the support they need when it matters most.
+Program data collected on funding decisions will inform future improvements and ensure the
+evolving needs of victims across Alberta are effectively addressed.
+
+New Victim Services Delivery Model
+
+In 2024-25, $25.7 million was provided to support provision of services to victims of crime and
+tragic circumstances. This included funding for external partner organizations to provide vital
+supports and services to victims of crime and tragedy, including the establishment of a new
+regional model for police-based victim services. The updated provincial model for victim services
+encompasses:
+
+     •   a regional governance structure for RCMP-based victim services, focusing on Alberta's
+         smaller, rural, and remote communities;
+
+     •   continued funding for municipalities and Indigenous Nations operating their own police
+         agencies; and
+
+     •   specialized support for victims of specific crimes or those requiring additional assistance.
+
+This past year, Alberta’s government transitioned from funding 60 independent victim-serving
+societies to four integrated regional victim serving societies (RVSS), ensuring that resources are
+deployed to underserved areas and, improving access to immediate support. The transition was
+facilitated by up to six months of funding for victim-serving societies under the old model to
+minimize disruption to victims, communities, and staff. The RVSS are regionally aligned with RCMP
+district boundaries, allowing for enhanced service delivery. Local frontline court and support
+navigators work out of RCMP detachments, ensuring victims receive support within their own
+communities. This new delivery model aims to foster greater collaboration and integration among
+criminal justice stakeholders, resulting in more operational efficiency and increasing victim
+participation in the justice system.
+
+
+
+
+32                                               Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Results Analysis
+
+
+
+Performance Measure 2.a:
+    Average days to decision for applications to the Victims of Crime Assistance Program
+
+
+                          Prior Years’ Results
+                                                                        2024-25          2024-25
+ 2020-21             2021-22            2022-23             2023-24      Target           Actual
+
+
+ 58 days             35 days            66 days             49 days   40 days         44 days
+
+This performance measure evaluates the effectiveness of the VAP in providing timely support to
+victims of crime. It demonstrates the ministry's commitment to offering prompt, direct assistance
+to those affected by crime by ensuring that applications are adjudicated quickly upon receipt. The
+legacy victims of crime financial Benefits program required extensive police and medical
+documentation to determine eligibility, which often resulted in significant delays due to lengthy
+court processes.
+
+In 2024-25, the average time to decision for VAP applications was higher than the target of 40 days
+but saw a 10.2 per cent improvement compared to 2023-24. Factors affecting the 2024-25
+performance include the learning curve associated with onboarding and training new Frontline
+Court & Support Navigators, following the October 2024 launch of the RVSS. VAP staff worked
+closely with RVSS staff and clients to gather necessary information for decision-making to facilitate
+smoother adjudication processes.
+
+Performance Measure 2.b:
+      Average daily occupancy rate in Therapeutic Living Units in Provincial Correctional
+      Centres
+
+
+                          Prior Years’ Results
+                                                                        2024-25          2024-25
+ 2020-21             2021-22            2022-23             2023-24      Target           Actual
+
+
+ Not                 Not                Not
+                                                            87%       71%             90%
+ Available           Available          Available
+
+This new performance measure, introduced in the 2024-27 business plan, tracks the occupancy
+rate of available bedspaces in the Therapeutic Living Unit (TLU) program. The first TLU was
+established at the Red Deer Remand Centre in July 2023, followed by openings at the Lethbridge
+Correctional Centre in October 2023, Fort Saskatchewan Correctional Centre in February 2024, and
+the Calgary Correctional Centre in May 2024. Given that the TLUs have only been fully operational
+since May 2024, there is limited historical data to assess baseline trends.
+
+In 2024-25, the TLU daily occupancy rate exceeded its target of 71 per cent. On average, available
+TLU bed spaces were filled to 90 per cent capacity throughout the year. Operational adjustments,
+including reductions in available bed spaces for infrastructure maintenance, were accounted for to
+ensure accurate representation of occupancy rates.
+
+This performance measure supports the ministry’s commitment to a recovery-oriented system of
+care, aimed at providing comprehensive mental health and addiction recovery services. It also
+aligns with the mandate of the ministry to assess client needs and offer evidence-based
+rehabilitation.
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                       33
+Results Analysis
+
+
+
+Occupancy rates may fluctuate due to factors such as inmates' length of stay in custody. A 90 per
+cent occupancy rate indicates that the TLU program is effectively identifying eligible participants
+and completing admissions efficiently. This measure also reflects the significant demand for such
+programming within correctional facilities and highlights the willingness of Alberta’s inmate
+population to participate.
+
+Outcome Three: Alberta is prepared and resilient to the impacts of disasters
+Public Safety and Emergency Services is dedicated to supporting municipalities and communities
+throughout all stages of emergencies and disasters, including preparedness, response, and
+recovery, through the Alberta Emergency Management Agency (AEMA). The Provincial Emergency
+Coordination Centre (PECC) plays a critical role in monitoring and reporting on events across
+Alberta, providing a centralized space for coordination during actual emergencies. Continued
+enhancements to emergency communication systems and public alerting services ensure that
+Albertans receive accurate and timely information in the face of emerging threats, helping to
+protect lives and property. The ministry's ongoing efforts focus on improving coordination,
+response time, and community resilience, ensuring that Alberta is well-prepared to face the
+challenges posed by natural and human-made disasters.
+
+Key Objectives
+
+3.1   Support Albertans and communities to raise their awareness of disaster risk and
+      preventative action.
+
+Fire and Flood Mitigation Strategy
+
+In alignment with the government’s mandate to develop a flood and fire mitigation strategy, the
+ministry continued to support cross-government collaboration on this strategy. The Ministry of
+Forestry and Parks serves as the lead agency for wildfires, while the Ministry of Environment and
+Protected Areas leads flood mitigation efforts. In 2024-25, the ministry contributed input to the
+development of a provincial fire mitigation strategy alongside Forestry and Parks. This ongoing
+collaboration ensures a comprehensive, multi-agency approach to reducing the risks and impacts of
+future natural disasters and further enhances the safety and resilience of Alberta’s communities.
+
+Provincial Hazard Identification and Risk
+Assessment program                                      Quick facts:
+
+In 2024-25, the ministry began implementing the         2024-25 stakeholder satisfaction result
+Hazard Identification and Risk Assessment (HIRA)        for the HIRA’s training program:
+framework, aimed at providing a standardized
+process for assessing disaster risks across the         •   92 per cent of participants strongly
+province. This initiative supports government               agreed that the course clearly
+departments and stakeholders by ensuring                    explains HIRA concepts.
+consistent, integrated decision-making to reduce
+the likelihood and impact of disasters. In              •   100 per cent of participants agreed
+December 2024, the HIRA implementation                      or strongly agreed that course
+approach was endorsed, which includes                       content is logically and clearly
+identifying priority hazards and establishing an            structured.
+assessment schedule for 2025.                           •   100 per cent of participants rated
+                                                            course materials as good or
+In line with the September 2020 Office of the               excellent.
+Auditor General report recommendations, the
+ministry developed training courses and an online
+e-tool to enhance stakeholder capacity in risk assessments. This included the development of three
+
+
+34                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Results Analysis
+
+
+
+core courses: HIRA Orientation, HIRA Application, and the HIRA e-tool course. Additionally, an
+application based on the Geographic Information System (GIS) is being developed to improve risk
+visualization across Alberta. Phase 1 of HIRA implementation is underway, with stakeholder
+engagement on a flood risk assessment in Lethbridge in March 2025 and Cochrane in April 2025.
+Further assessments are planned for other beginning of 2025-26 and continuing thereafter on a
+rotating basis.
+
+Be Prepared Program
+
+In 2024-25, the ministry continued to enhance the Be Prepared Program to build resilience and
+disaster risk literacy across Alberta. This program promotes disaster preparedness through
+research, public education, and strategic partnerships. In July 2024, the program released its fourth
+annual Preparedness Survey of Albertans, with 1,535 respondents providing valuable insights into
+Albertans’ readiness and resilience in the event of a disaster which shaped programming and
+outreach strategy. The annual budget for the Survey of Albertans was $20,000. The Resilience
+Builders Network, a virtual community focused on public preparedness, grew by 61 per cent during
+the fiscal year. Recent program updates include new content addressing water shortages and
+extreme heat. The program was promoted at several conferences, including Bordering on Disaster
+(September 2024), the Rural Municipalities of Alberta Conference (November 2024), and teachers’
+conventions (February 2025), engaging over 580 representatives. Conference participation further
+strengthens interprovincial collaboration, targets rural preparedness needs, and bridges youth
+preparedness gaps, through resources like the National Test Alert Guide which was downloaded 91
+times in 2024.
+
+Emergency Management and Emergency Social Services (ESS) Training
+
+The ministry continued enhancing the ESS program to support communities during emergencies
+and disasters, focusing on training and supporting the consistent delivery of essential services. In
+2024-25, two new ESS courses were introduced, delivering 106 in-person and virtual sessions and
+equipping 2,388 participants with the skills to assist evacuees and those impacted by emergencies.
+ESS provides critical support for displaced individuals, covering basic needs such as food, clothing,
+and accommodation.
+
+To enhance disaster preparedness and community resilience across Alberta, the ministry continues
+to provide training and sets standards for individuals with responsibilities under emergency
+management regulations. In 2024-25, 20 emergency management courses were delivered through
+502 sessions, engaging 19,286 participants. These initiatives help to build resilience, ensure
+readiness, and strengthen Alberta’s capacity to manage disaster impacts.
+
+Regional Field Officer and First Nation Field Officer Programs
+
+In 2024, Regional and First Nations Field Operations continued to enhance Alberta’s emergency
+management capacity by building local readiness, providing expert planning and response support,
+and conducting in-person reviews of emergency management plans. Field officers played a critical
+role in wildfire response efforts, assisting evacuations in Peace River, Fort McMurray and
+Edmonton. In Jasper, officers supported unified command efforts for more than 30 days. First
+Nations field officers also aided the Little Red River Cree Nation during the Semo Complex wildfires,
+helping evacuate 6,000 members. These coordinated efforts reflect the ministry’s growing
+proficiency in the Incident Command System and the Alberta Incident Management System,
+strengthening Alberta’s overall resilience and improving emergency response across the province.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                       35
+Results Analysis
+
+
+
+3.2   Work with emergency management partners to enhance the coordination of disaster
+      response and recovery across Alberta, including timely and fiscally responsible
+      administration of disaster financial assistance.
+
+Disaster Financial Assistance Programs
+
+In 2024, the Disaster Recovery Program (DRP) continued to support individuals, small businesses
+and local authorities impacted by eligible disaster events through financial assistance, expert advice
+and coordinated recovery resources. The Minister approved two DRP initiatives: $149 million for
+the Municipality of Jasper, which included assistance for 11 ministries to address disaster response
+costs and provide temporary accommodations for essential personnel, and $2.8 million for the
+Regional Municipality of Wood Buffalo, which included assistance for the Ministry of
+Transportation and Economic Corridors’ response-related costs. The Jasper wildfire posed unique
+challenges, with damage zones crossing federal, provincial and municipal jurisdictions,
+complicating roles and responsibilities throughout response and recovery operations.
+
+Municipal Wildfire Assistance Programs
+
+Throughout 2024-25, the province-wide Municipal Wildfire Assistance Program (MWAP) continued
+to provide critical financial support to municipalities facing extraordinary wildfire suppression
+costs outside of Alberta’s Forest Protection Area. The program assists local authorities with
+incremental expenses that exceed regular firefighting operations. Two MWAP applications were
+approved during the year: $2.6 million for the County of Grande Prairie No. 1 and $3.6 million for
+the Municipal District of Peace No. 135. These approvals reflect the province’s ongoing commitment
+to ensuring municipalities have the necessary resources to respond effectively to wildfire threats
+and protect their communities, infrastructure and natural environments.
+
+Provincial Flood Stockpile
+
+The Provincial Flood Stockpile, established to strengthen Alberta’s flood emergency readiness,
+provides essential equipment and supplies to support communities and municipalities during flood
+events. In 2024-25, Foothills County received $105,000 to support ongoing stockpile maintenance
+and staffing. In addition, stockpile resources were deployed to four communities, including the
+Town of Fahler, Village of Linden, County of Forty Mile and Town of Milk River in response to
+flooding hazards. As part of the province’s broader flood mitigation strategy, the Provincial Flood
+Stockpile plays a vital role in ensuring timely, coordinated responses that help protect lives,
+property and critical infrastructure across the province.
+
+Personal Protective Equipment Strategic Stockpile (PPESS)
+
+The PPESS initiative maintains a 60-day reserve of critical personal protective equipment, including
+gloves, masks, face shields, gowns, disinfectant wipes, and hand sanitizer, for Alberta’s non-
+healthcare sector during health emergencies. In July 2024, the stockpile refresh project was
+launched, replacing 3.3 million Level 3 masks and face shields. The team collaborated with Service
+Alberta and Red Tape Reduction to issue a request for proposal, secure vendor quotes and prepare
+warehouse space. By leveraging Government of Canada standing offers, inventory costs were
+reduced by 78 per cent, with total expenditures of $378,000. The refresh project is expected to be
+completed by 2027-28.
+
+Provincial Emergency Coordination Centre (PECC)
+
+In 2024, the PECC continued to serve as Alberta’s 24/7 hub for the coordination of the province’s
+response to emergency and disasters. The PECC collects, evaluates and shares critical information
+during single or multiple incidents, and supports First Nations and local authorities during
+
+
+36                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                       Results Analysis
+
+
+
+response across the province. During the 2024 wildfire season, the PECC played a key role in
+coordinating support for communities affected across central and northern Alberta, including the
+evacuation of the Municipality of Jasper due to a
+wildfire in Jasper National Park.
+                                                         Quick facts:
+Wildland Urban Interface Field Officer Program
+                                                         In 2024-25, PECC was elevated
+The Wildland Urban Interface (WUI) is where human        above Level 1 for 35 days:
+infrastructure borders undeveloped wildlands and
+usually presents complex wildfire management             • Five days in May 2024 due to
+challenges. WUI field officers play a key role in            wildfires impacting communities
+mitigation, preparedness and response, working               across northern Alberta.
+closely with municipal and First Nations fire            • Thirty days in July 2024 to
+departments to strengthen coordination and resource          support wildfire response efforts
+support. WUI response teams deliver emergency                in central and northern Alberta,
+wildfire response, support the provincial WUI                including the Jasper National
+advisory committees, and lead training and education         Park wildfire, which affected the
+initiatives. In 2024-25, the program trained over 700        Municipality of Jasper.
+municipal and First Nations fire service members. To
+meet increasing demand, the program will expand
+from two to six teams in 2025-26. This enhanced capacity is supported by over $4 million in new
+funding from Natural Resources Canada and Alberta Forestry and Parks.
+
+Alberta First Responders’ Radio Communication System
+
+The ministry remains committed to enhancing the reliability of the Alberta First Responders Radio
+Communication System (AFFRCS) to ensure first responders have access to an efficient radio
+communication network during emergencies. AFFRCS offers a secure, public-safety-grade radio
+network, extending coverage to over 95 per cent of the province along major highways. Channel
+upgrades at six sites have significantly improved radio traffic capacity, with ongoing maintenance
+ensuring 24/7 reliability. Despite rising preventative maintenance costs and financial uncertainties
+affecting upgrades, the ministry is addressing these challenges through strategic planning,
+technological innovation, and close collaboration with public safety partners.
+
+Alberta Emergency Alert Program
+
+AEMA plays a vital role in delivering timely, life-saving information during emergencies such as
+wildfires, floods and tornadoes. The Alberta Emergency Alert system continues to be enhanced to
+ensure effective public warnings. In 2024-25, AEMA supported 410 live alert issuers, over 1,000
+trained users, 84 police alerters, 326 community alerters, and four 24/7 Government of Alberta
+warning notification coordinators. The system remains a trusted tool for keeping Albertans safe
+and informed. Ongoing collaboration with Public Safety Canada, provinces, territories and industry
+partners ensures integration of best practices and evolving technologies.
+
+Emergency Social Services (ESS)
+
+In 2024-25, the ministry continued to support local authorities in addressing emergency social
+services needs ensuring essential needs are met for evacuated Albertans. The ESS team expanded
+from four to seven officers, aligning more closely with Regional Field Operations. The ministry also
+maintained the Registration and Reception Centre Program to help local authorities track displaced
+residents. Additionally, a new information-sharing platform was introduced to strengthen
+collaboration among ESS leads across Alberta. Operational cost for ESS initiatives in 2024-25 was
+$797,000.
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                      37
+Results Analysis
+
+
+
+All Hazards Incident Management Teams
+
+To strengthen Alberta’s emergency management capacity, the ministry continued to invest in the
+development and support of municipal and regional capabilities for hazard management. In 2024-
+25, five regional All-Hazard Incident Management Teams (AHIMTs) were equipped to enhance
+response capabilities during emergencies or disasters that exceed local resources. Supported
+through a conditional annual grant of $250,000 shared across five teams, the funding enables
+continued operations and specialized training. The AEMA also provides centralized training to
+ensure interoperability across all AHIMTs. Team members contribute their expertise to their home
+municipalities, creating an added benefit that improves local response capacity, and this has been
+recognized as a key success of the initiative.
+
+Emergency Management Exercise (EMX) 2024 and 2025
+
+                                                     On April 4, 2024, the AEMA conducted EMX
+ Quick facts:                                        24, a full-day tabletop exercise designed to
+                                                     strengthen emergency management
+ In 2024-25,                                         coordination within the Government of
+                                                     Alberta. The exercise engaged 87 executive
+ •    SAR Alberta reported increases in activity     leaders to enhance understanding of crisis
+      compared to 2023 (excluding parks and          roles and responsibilities. Key themes
+      fire departments):                             included improving communication, clarifying
+       - 30 per cent increase in incidents           authority, enhancing decision-making,
+           responded to (480)                        expanding training and refining emergency
+       - 20 per cent increase in regular service     planning processes. On March 20, 2025,
+           hours (154,606)                           AEMA held EMX 25, focusing on coordinated
+       - 80 per cent increase in disaster            response to concurrent emergencies, such as
+           service hours (12,025)                    evacuations, wildfires and major event
+                                                     disruptions. This functional exercise brought
+ •    During the 2024 wildfire season, 19 SAR        together the government’s consequence
+      teams and 303 volunteers supported             management and business continuity officers,
+      responses at 13 locations across Alberta.      PECC personnel, senior government leaders
+       - Jasper wildfire involved 53 volunteers      and federal partners. Informed by the
+         contributing 4,587 hours.                   challenges of the 2024 hazard season, EMX 25
+ •    The Underwater Search Team responded           provided a critical opportunity to test and
+      to 15 incidents, logging 582 on-scene          improve emergency procedures, ensuring a
+      hours.                                         more effective and coordinated provincial
+                                                     response in future emergencies. Operational
+ •    Estimated value of skilled volunteer           cost for EMX exercises in 2024-25 was
+      labour: $4,180,325.                            $70,000.
+
+Improving the delivery of search and rescue operations
+
+PSES continued to implement government’s mandate to review and recommend improvements to
+Alberta’s search and rescue (SAR) delivery model and funding. In 2024-25, SAR Alberta received $2
+million in interim grant funding to support administration, operations, equipment, and training.
+
+3.3   Develop and implement initiatives that contribute to continuous improvement and
+      refinement of the province’s emergency management framework.
+
+Emergency Management Legislative Review
+
+On May 9, 2024, the Emergency Statutes Amendment Act, 2024 (ESAA) was introduced to strengthen
+Alberta’s emergency management framework in response to lessons learned during the 2023
+
+
+38                                            Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                     Results Analysis
+
+
+
+wildfire season. The amendments to the Emergency Management Act (EMA) introduced several
+enhancements, including new ministerial authorities to improve coordination and oversight during
+emergencies. Local authorities are now required to notify the Minister of both the anticipated
+powers they intend to exercise under a State of Local Emergency (SOLE) and the termination of a
+declared SOLE. In addition, new provisions were established outlining compensation requirements
+when the Minister assumes control of a local emergency response. These amendments ensure
+Alberta has stronger legislative tools to protect communities from increasingly frequent and
+complex hazards such as wildfires, floods and droughts. The ESAA came into force on May 30, 2024.
+
+Further amendments to the EMA in 2025-26 will address rising disaster-related costs, improve
+oversight and accountability, and support more robust all-hazard emergency planning at the local
+level. Input from experts representing 68 communities across Alberta helped shape these updates.
+Further regulatory amendments to the Government Emergency Management Regulation, Local
+Authority Emergency Management Regulation and Disaster Recovery Regulation, will ensure
+Alberta’s emergency management system continues to evolve in response to emerging risks.
+
+
+
+2023 Spring Hazards Post-Incident Assessment
+
+In response to the 2023 hazard season, internal post-incident assessments were completed by
+Government of Alberta ministries involved in emergency response, while a broader external review
+is ongoing through a third-party vendor and will continue into the 2025 hazard season. Several
+interim improvements are already being implemented, including updated operational policies and
+standard operating procedures at the PECC, expansion of the WUI program from two to six teams,
+and the redevelopment of Alberta’s Emergency Social Services Framework. These assessments are
+essential to identifying strengths, addressing gaps and enhancing preparedness, accountability and
+overall emergency response capacity. Operational cost for the third-party review was $699,000.
+
+Advocacy on Disaster Financial Assistance Arrangements.
+
+Alberta collaborated with Public Safety Canada (PSC) to modernize disaster financial assistance,
+providing input and advocating for improvements. After receiving the Government of Canada’s
+draft modernized Disaster Financial Assistance Arrangements (DFAA) guidelines in May 2024,
+Alberta started aligning its provincial disaster financial assistance with the modernized DFAA to
+improve federal mitigation funding access, streamline administration and enhance disaster
+resilience. Alberta, as co-chair of the Canadian Council of Emergency Management Organizations’
+Recovery Working Group, led national discussions on implementation strategies and challenges.
+Alberta also hosted a DFAA workshop in Edmonton in November 2024 with attendees from
+Saskatchewan and British Columbia. PSC delivered training on the modernized DFAA and gathered
+provincial and territorial feedback on program material and implementation improvements. New
+Disaster Assistance Directives have been developed, including legislative updates to the Emergency
+Management Act and Disaster Recovery Regulation along with a structured change management
+plan to support stakeholder adaptation and improve efficiency, training and communication. The
+DFAA took effect on April 1, 2025. The Disaster Assistance Directives are planned to be in place
+before any programs are approved through a Ministerial Order for the 2025 disaster season. This
+will ensure policy stability and greater sustainability to support stronger disaster recovery for
+Albertans and their communities.
+
+Provincial Emergency Coordination Centre (PECC) Augmentee Program
+
+In 2024-25, the ministry continued to manage the PECC Augmentee Program, which trains
+Government of Alberta employees from various departments to support emergency response
+operations in key PECC roles. The program enables a scalable, coordinated response to large-scale
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                    39
+Results Analysis
+
+
+
+emergencies by temporarily increasing staffing capacity within the PECC. During the fiscal year, 81
+augmentees were trained and actively contributed to strengthening Alberta’s overall disaster
+management readiness. In January 2025, a virtual information session introduced 96 Government
+of Alberta staff to the PECC and the Augmentee Program.
+
+Performance Measure 3.a:
+      Percentage of local authorities visited by an AEMA field officer and had their
+      Community Emergency Management Plan reviewed annually
+
+                         Prior Years’ Results
+                                                                            2024-25            2024-25
+  2020-21          2021-22          2022-23          2023-24                 Target             Actual
+
+
+  83%              85%              90%              93%                90%                 95%
+
+This performance measure reflects the level of preparedness and resilience across the province. By
+reviewing emergency plans, field officers can identify weaknesses or gaps in preparedness,
+allowing local authorities to address them proactively. These reviews ensures that local authorities
+align with established standard and best practices, fostering a cohesive and unified approach to
+disaster management. Keeping plans updated strengthens community resilience and enhance
+overall disaster readiness.
+
+In 2024-25, AEMA field officers visited 95 per cent of communities in Alberta and reviewed their
+emergency management plans, exceeding the target by five per cent, with 316 reviews out of 333
+local authorities. The five per cent increase in emergency plan reviews can be attributed to a
+combination of stronger community engagement, increased capacity, and targeted outreach.
+Several communities demonstrated greater readiness and responsiveness, which helped facilitate
+more reviews. In addition, newly hired field officers were fully trained and integrated into their
+regions this year, allowing for expanded coverage and a focused effort to connect with communities
+that had not been reached in previous years.
+
+Although First Nations communities do not fall under the jurisdiction of the Emergency
+Management Act, First Nations field officers regularly visit communities and offer various in-person
+services, including reviews of community emergency management plans. In 2024-25, the number of
+completed plan reviews and visits for First Nations communities was 13 out of 46. This two per
+cent increase can be attributed to stronger engagement from First Nations communities, with more
+scheduling reviews and showing increased readiness to update their emergency management
+plans.
+
+Performance Measure 3.b:
+      Percentage of Albertans who have taken at least three preparedness actions in the
+      past year (annual survey)
+
+
+                         Prior Years’ Results
+                                                                            2024-25            2024-25
+  2020-21          2021-22          2022-23          2023-24                 Target             Actual
+
+
+  Not
+                   55%              47%              51%                53%                 50%
+  Available
+
+
+
+
+40                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                         Results Analysis
+
+
+
+Preparedness is one of the four phases of emergency management, and individual preparedness
+plays a critical role in community resilience. This performance measure evaluates the effectiveness
+of the AEMA’s Be Prepared public education initiatives by tracking the percentage of Albertans who
+report completing at least three preparedness activities, such as: making an emergency kit, creating
+an evacuation plan, or taking other similar steps. Although the survey has been conducted annually
+since 2021, it was formally introduced as a key performance measure in the PSES 2024-25 Business
+Plan.
+
+The target for 2024-25 was set at 53 per cent, informed by previous trends and the anticipated
+effects of public awareness efforts. The actual result for the year was 50 per cent, a three-
+percentage-point variance below the target and one point below the previous year’s result of
+51 per cent. This result remains within the ±2.5 per cent margin of error typical for this type of
+survey, indicating a stable trend.
+
+Preparedness levels have fluctuated in recent years, with a significant drop from 55 per cent in
+2021-22 to 47 per cent in 2022-23, likely due to shifting public priorities following the COVID-19
+pandemic. A rebound was seen in 2023-24, with a 51 per cent result, and a minor decrease to
+50 per cent in 2024-25 suggests that awareness efforts are regaining ground. External factors such
+as economic pressures may continue to affect the public’s ability to invest in emergency
+preparedness.
+
+Internally, AEMA’s preparedness initiatives, including public education, increased outreach and
+improved access to preparedness resources, are expected to show greater impact over time. While
+current results reflect a modest decline, the findings highlight the importance of continued
+investment in preparedness education and the need to tailor communication strategies to reach
+diverse communities across Alberta. Ongoing evaluation will ensure that public education remains
+effective, relevant and adaptable to changing circumstances.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                        41
+Results Analysis
+
+
+
+
+Performance Measure and Indicator Methodology
+Performance Measure 1.a:
+     Median time from intake to resolution of Safer Communities and Neighbourhoods
+     (SCAN) complaints
+
+Source: Public Safety and Emergency Services Administrative Data, Public Security Division.
+
+Methodology: the measure monitors the timeliness and overall efficiency of the Alberta Sheriffs’
+Safer Communities and Neighbourhoods (SCAN) unit in keeping Albertan communities safe by
+dealing with problem properties used for illegal activities such as drug trafficking, prostitution,
+child exploitation and gang-related crime.
+
+The measure is calculated by comparing the date a complaint is received to the date a resolution is
+made, which results in the ‘time to resolution’, and then the median of all the times to resolution
+indicates the performance, as shown in the equation below:
+
+                              Median time from intake to resolution =
+                       Median (Number of days from intake to resolution for
+                               each SCAN complaint in the fiscal year)
+
+The overall objective of the measure is to contribute to community safety and minimize negative
+impacts of problem properties with quicker file resolutions. The impacts to a family living near a
+drug house are significant and saving a family from enduring this type of activity for even one less
+day is a huge contribution to public safety.
+
+The expansion of SCAN by 20 investigators directly impacts the files that were previously
+unassigned, which in turn directly reduced the amount of time it takes to resolve a complaint. In
+addition, the time it takes to resolve a complaint can vary depending on how complex the case is,
+changes in its status, the timing of external hearings, and the specific steps needed to complete the
+investigation. To improve outcomes, the ministry is enhancing SCAN operations by adding staff and
+strengthening partnerships with RCMP and municipal police services.
+
+Performance Indicator 1.a:
+     Violent and property crime rates per 100,000 population
+
+Source: Uniform Crime Reporting Survey, Canadian Centre for Justice and Community Safety
+Statistics (CCJCSS). Data is available annually. CCJCSS Table data was available in July 2024.
+
+Methodology: crime rate is calculated using incident-based Uniform Crime Reporting (UCR2) data,
+which measures police-reported crime in each Canadian jurisdiction. Crime rate measures the
+volume of police-reported crime, expressed as the number of crimes per 100,000 people. Historical
+results are revised annually to reflect updated data provided by police services for incidents that
+occurred in previous years. Property crime includes theft, break and enter, fraud and possession of
+stolen goods. It does not include the use of threat of violence against an individual. Violent crime
+includes homicide, attempted murder, robbery, abduction and various forms of sexual assault. It
+does not include traffic incidents that result in death or bodily harm.
+
+
+
+
+42                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                            Results Analysis
+
+
+
+Performance Indicator 1.b:
+     Violent and non-violent Crime Severity Index
+
+Source: Uniform Crime Reporting Survey, Canadian Centre for Justice and Community Safety
+Statistics (CCJCSS). Data is available annually. CCJCSS Table data was available on July 27, 2023.
+
+Methodology: the crime severity index is a measure of the seriousness of police reported crime.
+Each criminal offence is weighted based on the sentence imposed upon the offender. More serious
+offences, such as homicide or serious assault, are weighted more heavily than minor thefts and
+minor assaults. The crime severity index is calculated using incident-based Uniform Crime
+Reporting Survey (UCR2) data. It should be noted that incident-based UCR2 data was not available
+for all respondents for the period from 1998 to 2015. Instead, these police services continued to
+report to the Aggregate Uniform Crime Reporting Survey (UCR), which meant that a process of
+imputation was necessary to translate UCR data into its UCR2 equivalents. Approximately 80 per
+cent of the offence codes in the aggregate survey mapped 1:1 onto the incident-based violation
+codes in the UCR2. For the remaining categories of violation (such as the “aggregate other Criminal
+Code” category), it was necessary to estimate their seriousness by looking at the distribution of
+other Criminal Code offences in the reports of existing UCR2 respondents.
+
+Performance Measure 2.a:
+     Average days to decision for applications to the Victims of Crime Assistance Program
+
+Source: Public Safety and Emergency Services Administrative Data, Strategy, Support and
+Integrated Initiatives Division.
+
+Methodology: the measure reflects the effectiveness of the redesigned victims services delivery
+program in providing timely support to victims of crime. The measure is calculated by comparing
+the date the application is received to the date a decision is made, which results in the ‘time to
+decision’, and then the average of all the times to decision indicates the performance, as shown in
+the equation below:
+
+                                             Cumulative number of days to decision
+                                            for all VAP applications in the fiscal year
+                Average days to decision = (                                            )
+                                               Total number of VAP applications
+                                                    processed in the fiscal year
+
+
+Performance includes consideration of all decisions made and length of time from receipt of
+application to date of decision. A five per cent margin of error is considered as the new Victims of
+Crime Assistance Program was implemented as of September 1, 2022. By providing access to
+emergency supports and services as soon as possible after victimization, the program aims to
+ensure victims are supported while navigating the criminal justice system and long-term impacts of
+victimization can be mitigated. The results of the evaluation will be used to inform future
+enhancements and determine the need for additional program services or supports.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                           43
+Results Analysis
+
+
+
+Performance Measure 2.b:
+     Average daily occupancy rate in Therapeutic Living Units in Provincial Correctional
+     Centres
+
+Source: Public Safety and Emergency Services Administrative Data, Correctional Services Division
+
+Methodology: this measure demonstrates inmate participation in the recovery-oriented systems of
+care addiction treatment programming while in custody. It reports the average daily utilization rate
+of available TLU beds across correctional centres in the province. TLUs provide inmates an
+opportunity to begin holistic addiction treatment, accessing supports while serving custodial time.
+At the same time, TLUs allow them an opportunity to be released into a recovery community to
+access supports as they continue their treatment journey, if they choose to do so.
+
+Each provincial TLU calculates its daily occupancy rate by dividing the number of TLU participants
+by the number of available bedspaces obtained from the TLU Bed Count Report generated from the
+Offender Records and Correctional Administration (ORCA) system. The daily occupancy rate is
+calculated by dividing the total daily count of occupied beds by the total daily count of available
+beds in all provincial TLUs, multiplied by 100 percent, as shown in the formula below:
+
+                                   Total daily count of occupied beds in all provincial TLUs
+Average Daily Occupancy Rate = (                                                              ) X 100
+                                   Total daily count of available beds in all provincial TLUs
+
+A range of ±5 per cent in the result is considered acceptable and acknowledges the voluntary nature
+of the program, as TLUs are optional and only available to select inmates meeting specific eligibility
+criteria. The target TLU participant group consists of sentenced individuals with aggregate
+sentences of 90 days or longer, and those who are remanded with a minimum of 90 days remaining
+before a major court appearance, with a high need for substance abuse treatment. Strict guidelines
+for reporting adjustments to bed space when changes occur have been introduced to ensure both
+the “Total Count of Beds in Use” and “Available Beds” data points are accurately updated when
+there is a temporary increase in the number of individuals enrolled in the TLU program.
+
+Public Safety and Emergency Services is working with the Ministry of Mental health and Addiction
+to explore options for enhancement of TLU programming, including an evaluation of the program
+with a focus on staffing, training, project roll out and client engagement.
+
+Performance Measure 3.a:
+     Percentage of local authorities visited by an Alberta Emergency Management Agency
+     field officer and had their Community Emergency Management Plan reviewed annually
+
+Source: data and information regarding field visits and reviews of community emergency
+management plans, including those completed both in-person and remotely, is recorded in ArcGIS,
+a geographic information system application.
+Methodology: field officers will typically conduct community emergency management plan reviews
+in person with a representative from the local authority, preferably the director of emergency
+management. The field officer may review the plan within the Community Emergency Management
+Program database or can request an electronic copy in advance to prepare for the in-person review.
+Regardless of the method, the field officer will record their observations and recommendations
+within Community Emergency Management Program for future and ongoing tracking.
+The following equation is used to process the data collected in the Community Emergency
+Management Program:
+
+
+
+
+44                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                          Results Analysis
+
+
+
+         Number of local authorities visited by AEMA field officers and had their
+           Community Emergency Management Plan reviewed in a fiscal year
+      %=(                                                                         ) × 100
+                      Total number of local authorities in Alberta
+
+This performance measure is calculated by comparing the number of local authorities who were
+visited by an AEMA field officer and had their community emergency management plan reviewed in
+a fiscal year to the total number of local authorities in Alberta. The resulting ratio is expressed as a
+percentage. A confidence interval is not applicable since a representative sample is not used for
+statistical inference. The data analysis for this performance measure only includes the local
+authorities that have been visited by a field officer and who have had their community emergency
+management plan reviewed either remotely or in-person. Both activities must have occurred for the
+data to be included.
+
+For local authorities who have adopted a regional approach for developing emergency management
+plans, field officers review the regional plan and meet with the appropriate municipal
+representative for the region. Review of an emergency management plan for a region, and
+subsequent field visits, count as a review and visit for all constituent local authorities. Each
+constituent community of a regional community emergency management plan is counted
+separately for this performance measure rather than just counting one review and field visit.
+
+Performance Measure 3.b:
+     Percentage of Albertans who have taken at least three preparedness actions in the past
+     year (annual survey)
+
+Source: Personal Preparedness and Resilience Survey 2024: Final Report. Advanis Incorporated.
+
+The annual preparedness survey targets Albertans aged 18 and older and is designed to achieve
+demographic representation across age groups, genders, regions, and ethnic backgrounds.
+Respondents are recruited through a vendor-managed General Population Random Sample (GPRS)
+panel consisting of over 100,000 Alberta residents from diverse backgrounds. Participants are
+contacted at random and invited to complete the survey via a secure link. In 2024, the survey
+collected responses from 1,535 Albertans, exceeding the minimum annual target of 1,500
+participants.
+
+To ensure high-quality, representative data, the GPRS panel is regularly refreshed to reduce survey
+fatigue and improve response accuracy. Following data collection, responses are processed and
+analyzed using Statistical Package for the Social Sciences software and Advanis’ proprietary Online
+Reporting Environment. Results are weighted to align with Alberta’s population distribution based
+on Statistics Canada’s 2016 census data, adjusting for variations in gender, ethnicity, and age.
+
+Survey findings are considered accurate within a margin of error of ±2.5 percentage points, 19
+times out of 20, at a 95 per cent confidence level. Independent statistical tests are used to identify
+meaningful differences among demographic groups, and only results meeting the 95 per cent
+significance threshold are reported.
+
+Insights from the survey inform the Ministry’s public education initiatives, outreach strategies,
+preparedness planning, and resource offerings, ensuring they remain targeted and effective in
+encouraging proactive emergency preparedness. By continuously adapting to the evolving needs
+and preparedness levels of Albertans, these efforts help strengthen resilience and readiness across
+the province.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                           45
+Financial Information
+
+
+
+
+Financial Information
+
+Table of Contents
+
+     Reporting Entity and Method Consolidation .................................................................................. 47
+     Ministry Financial Highlights ............................................................................................................... 48
+          Statement of Revenues and Expenses (unaudited) ............................................................................. 48
+          Revenue and Expense Highlights ................................................................................................................ 49
+          Breakdown of Revenues (unaudited) ....................................................................................................... 50
+          Expenses – Directly Incurred Detailed by Object (unaudited) ....................................................... 51
+     Supplemental Financial Information ................................................................................................ 52
+          Tangible Capital Assets (unaudited).......................................................................................................... 52
+     Other Financial Information ................................................................................................................ 53
+          Disaster Recovery Program (unaudited) ................................................................................................. 55
+          Statement of Credit or Recovery (unaudited)........................................................................................ 56
+          Lapse/Encumbrance (unaudited) .............................................................................................................. 57
+          Payments Based on Agreements (unaudited) ....................................................................................... 59
+
+
+
+
+Note: The financial statements for the Victims of Crime and Public Safety Fund were not available
+prior to going to publication and will be posted when available.
+
+
+
+
+46                                                                    Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                  Financial Information
+
+
+
+
+Reporting Entity and Method Consolidation
+The financial information is prepared in accordance with government’s stated accounting policies,
+which are based on Canadian Public Sector Accounting Standards.
+
+The reporting entity is the ministry for which the Minister of Public Safety and Emergency
+Services is accountable. The accounts of the Ministry, which includes the department of Public
+Safety and Emergency Services and the Victims of Crime and Public Safety Fund, are fully
+consolidated using the line-by-line method, with the accounting policies described below.
+
+Under this method, accounting policies of the consolidated entities are adjusted to conform to
+government accounting policies and the results of each line item in their financial statements
+(revenue, expense, assets, and liabilities) are included in government’s results. Revenue and
+expense, capital, investing and financing transactions and related asset and liability balances
+between the consolidated entities have been eliminated.
+
+A list of the individual entities making up the ministry are shown on the “Management’s
+Responsibility for Reporting” statement included in this annual report.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                      47
+Financial Information
+
+
+
+
+Ministry Financial Highlights
+Statement of Revenues and Expenses (unaudited)
+Year Ended March 31, 2025
+
+
+
+
+48                                   Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Financial Information
+
+
+
+Revenue and Expense Highlights
+
+
+Revenues
+Budget to Actual
+Ministry revenues in 2024-25 are $416.5 million, which is $192.5 million or 86% per cent higher than
+budgeted. The increased revenues are mainly the result of:
+    •   $140 million higher than budget in transfer from Government of Canada (GOC) due to an
+        increase in Disaster Financial Assistance Arrangements (DFAA) for Jasper Wildfire and other
+        Alberta wildfires.
+    •   $48.5 million higher than budget in other revenue, primarily due to the return of prior year grant
+        payments.
+    •   $7.6 million higher than budget in Other Premiums, fees and licenses revenue due to an
+        increase in 911 levy.
+    •   Offset by $4.7 million decrease in Fines and Penalties from traffic tickets.
+
+Actual to Actual
+Actual revenues in 2024-25 reflect an increase of $125 million or 42.9 per cent:
+   • $133.2 million increase in Federal Government Grants primarily due to higher revenues from
+     Disaster Recovery Programs related to the Alberta wildfires, including costs associated with the
+     Jasper Wildfire.
+   • $6.6 million increase in Other Premiums, fees and licenses revenue, primarily due to an increase
+     in 911 levy.
+   • Offset by $11.3 million decrease in Other Revenue from 2023 Northwest Territories (NWT)
+     wildfires evacuation cost recovery
+
+
+Expenses
+Budget to Actual
+The total operating expense in 2024-25 was $1,457.1 million, which is $164.3 million or 12.7 per cent
+higher than budget:
+   • $162.8 million over budget in Alberta Emergency Management Agency (AEMA) due to an
+     increase in Disaster Recovery Program funding including Jasper and other wildfires in Alberta.
+   • $7.2 million over budget in the Public Security due to police support grant to Cities of Edmonton
+     and Calgary.
+   • Offset by $3.8 million decrease in Correctional Services, primarily due to vacant positions.
+
+Actual to Actual
+Actual operating expenses were $50.6 million or 3.4 per cent lower than 2023-24. The decrease in
+expenses is mainly the result of:
+   • $131 million decrease in AEMA due to a decrease in Disaster Recovery Program funding
+     including 2023 Spring wildfires, NWT Evacuation, and North Central Flood.
+   • Offset by:
+     o    $47.2 million increase in Public Security, primarily due to Provincial Policing Agreement with
+          RCMP and recruitment costs for sheriffs related to policing services.
+     o    $26.5 million increase in Correctional Services due to recruitment costs on Custody
+          Operations and Community Corrections.
+     o    $4.3 million increase in Strategy, Support and Integrated Initiative program mainly due to
+          grant funding for Community Initiatives Support
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                            49
+Financial Information
+
+
+
+Breakdown of Revenues (unaudited)
+The following information presents detailed revenues of the ministry. The objective of detailed revenues
+disclosure is to provide information that is useful in understanding and assessing the financial impact of
+government’s revenue raising and for enhancing legislative control.
+
+
+
+
+                                               2025 Revenue Actuals
+                                                     In thousands
+                        Other Premiums, Fees
+                            and Licences
+                               $53,377                                               Surcharges
+                                 13%                                                  $40,776
+                                                                                        10%
+
+         Investment Income
+               $2,314
+                 0%
+
+
+
+                                                                                             Other Revenue
+                                                                                               $142,025
+                                                                                                  34%
+
+
+
+
+             Transfer from
+         Government of Canada
+               $178,043
+                 43%
+
+
+
+     •     Transfers from Government of Canada ($178 million). Revenue from federal agreements,
+           primarily for Disaster Recovery in support of Alberta wildfires.
+
+     •     Other Premiums, Fees, and Licences ($53.4 million). Mainly for 911 levy and Security
+           Services fees.
+
+     •     Surcharges ($40.8 million). Victims of Crime and Public Safety Fund levies 20% Surcharge
+           on all traffic ticket fine amounts that is deposited in the fund with statutory authority to spend
+           on victims.
+
+     •     Investment Income ($2.3 million). Comprised of interest earned on the VOCPSF and
+           department funds invested in the Consolidated Liquidity Solution (CLS).
+
+     •     Other Revenue ($142 million). For $73.8 million with Police Funding Model, $57.9 million for
+           Refund Expenditure of disaster grant payments and Alberta First Responders Radio
+           Communications System (AFRRACS) radio tower services.
+
+
+
+
+50                                                  Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                        Financial Information
+
+
+
+Expenses – Directly Incurred Detailed by Object (unaudited)
+The following information presents expenses of the ministry that were directly incurred by object. The
+objective of disclosure of expenses by object is to provide information that is useful in evaluating the
+economic impact of government acquiring or consuming various types of resources.
+
+
+
+                                       2025 Expense Actuals                  Other
+                                                   In thousands              $927
+       Amortization of                                                        0%
+    tangible capital assets
+           $28,417
+              2%
+
+
+        Grants
+       $437,879                                                                        Salaries, wages and
+         30%                                                                            employee benefits
+                                                                                            $477,454
+                                                                                               33%
+
+
+
+
+                                                                             Supplies and
+                                                                               services
+                                                                              $512,388
+                                                                                 35%
+
+
+
+
+• Supplies and services spending of $512.4 million or 35 per cent of total spending is the ministry’s
+  largest operating expense. Primarily for the Provincial Police Services Agreement and inmate food
+  services contracts in Correctional Services. In addition to contract services, the ministry purchases
+  all materials and supplies for correctional facilities and Alberta Emergency Management Agency
+  (AEMA) across the province.
+• Salaries, wages, and employee benefits expenses of $477.5 million, or 33 per cent of total ministry’s
+  second largest spending. The ministry provides frontline programs and services that ensure
+  Albertans have safe and protected communities and fair access to the public safety and emergency
+  systems. Funding primarily covers positions in correctional facilities and community corrections
+  offices, sheriffs, and enforcement workers, and AEMA services staff.
+• Grants spending of $437.9 million or 30 per cent of total spending is the ministry’s third largest
+  operating expense. It primarily provides operational funding for delivery of services by key
+  stakeholders and partners via support to individuals, organizations and communities through
+  Emergency Services and Public Safety grant programs. This includes the grants related to 2024
+  Jasper Wildfire, 911 Call Centres Support, Policing Support Grant and Organized and Serious
+  Crime.
+• The remainder of ministry expenses were classified as amortization of tangible capital assets ($28.4
+  million) and other expenses ($0.9 million).
+• Inter-ministry elimination (-$11.1 million) for the services provided by Advanced Education for (-$5.8)
+  million and Alberta Health Services for (-$5.1) million.
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                             51
+Financial Information
+
+
+
+
+Supplemental Financial Information
+
+Tangible Capital Assets (unaudited)
+
+
+                               Net Book Value as of March 31, 2025
+                                            In thousands
+
+
+
+                                        Buildings,
+                                         $128 ,
+                                           0%                        Other,
+                                                                     $344 ,
+     Computer                                                         0%
+     Hardware
+       and
+     Software,
+     $15,290 ,
+        7%
+
+
+
+
+                                                                                   Equipment,
+                                                                                   $209,242 ,
+                                                                                      93%
+
+
+
+
+• The ministry’s largest category of tangible capital assets, Equipment, represents 93 percent ($209.2)
+  million of the Net Book Value (NBV). This category is primarily comprised of radio towers operated
+  under Alberta First Responders Radio Communications System, vehicles, in-car video and
+  distributed antenna system for the Public Security Division, and equipment's for corrections’
+  program.
+
+
+
+
+52                                             Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                                              Financial Information
+
+
+
+
+Other Financial Information
+
+Table of Contents
+        Disaster Recovery Program (unaudited) ................................................................................................. 55
+        Statement of Credit or Recovery (unaudited)........................................................................................ 56
+        Lapse/Encumbrance (unaudited) .............................................................................................................. 57
+        Payments Based on Agreements (unaudited) ....................................................................................... 59
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                                                        53
+Financial Information
+
+
+
+Other Financial Information
+Certain disclosures (unaudited) required by legislation and regulations, and financial information
+relating to trust funds include the following where applicable:
+
+     •   Disaster Recovery Program
+
+In addition to the above, other schedules (unaudited) that form part of this section include the
+following and the presentation:
+
+     •   Statement of Credit or Recovery [FAA S.24(3)]
+
+     •   Lapse / Encumbrance [FAA S.28(5) and 28.1(4)]
+
+     •   Payments Based on Agreement [FAA S. 25(3)]
+
+
+
+
+54                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                            Financial Information
+
+
+Disaster Recovery Program (unaudited)
+Department of Public Safety and Emergency Services
+For the year ended March 31, 2025
+(in thousands)
+
+The Disaster Recovery Program (DRP) is administered by the Alberta Emergency Management
+Agency (AEMA). AEMA is part of the Alberta Public Safety and Emergency Services. Alberta
+Regulation 51/94 of the Alberta Emergency Management Act allows the province to provide
+disaster recovery assistance to residents, small business, agriculture operations, and provincial and
+municipal governments if the event meets the criteria as outlined in the regulation.
+
+The Ministry recognizes the DRP expense when the Government of Alberta (GoA) issues a
+Ministerial Order.
+
+The Ministry recognizes Disaster Financial Assistance Arrangements (DFAA) revenue when the
+Government of Canada (GoC) issues an Order in Council (OiC) declaring the Alberta disaster to be of
+a concern to the GoC. The estimated DFAA revenue is determined by assessing eligible DRP
+expenses under the DFAA guidelines. As a result, some DRP expenses are excluded when
+calculating the estimated DFAA revenue.
+
+The Ministry will continue to pursue revenue from the GoC for expenses that are excluded from the
+estimated DFAA calculation.
+
+The following schedule lists disasters being administered by AEMA at March 31, 2025:
+                                                                                             Total
+                                                Total
+                                                                                          Projected      Advances/
+                                              Projected    Payments to      Accrued                                      Accounts
+                                                                                            DFAA         Payments
+                                                DRP           Date         Liabilities                                  Receivable
+                                       GoC                                               Revenue (1)    Received (3)
+                                             Expense (1)
+   Disaster                            OiC                                                    (2)
+2013 Southern Alberta Flood DRP        162     1,371,529       1,371,212           317        968,236        600,000         368,236
+2014 Southwestern Alberta DRP          181        19,304          19,304             -          1,007               -          1,007
+2016 Wood Buffalo Wildfire DRP         197       511,446         511,339           107        405,136        307,000          98,136
+2018 Spring Flood DRP                  218        31,347          25,039         6,308          4,553               -          4,553
+2019 Northwest Alberta Wildfires DRP   222        67,822          66,228         1,594         28,173         16,164          12,009
+2020 Northern Alberta Floods DRP       232       174,817         136,051        38,766         56,960         27,151          29,809
+2023 Alberta Spring Wildfire           258       175,127          63,180       111,947         69,764               -         69,764
+2023 North Central Flood               271        67,988           7,028        60,960          4,969               -          4,969
+2024 Municipality of Jasper DRP        278       148,793          38,224       110,569         58,014         19,570          38,444
+2024 RMWB DRP                          278         2,800             109         2,691          1,733               -          1,733
+Other DRPs (4)                          -         58,719          41,073        17,646              -               -              -
+March 31, 2025                               $ 2,629,692   $   2,278,787   $   350,905    $ 1,598,545   $   969,885     $    628,660
+
+March 31, 2024                               $ 2,518,742   $   2,196,465   $   322,277    $1,463,132        $950,316        $512,816
+
+
+
+(1) DRP expense and DFAA revenue are calculated based on management estimates. The projected DRP
+expenses and DFAA revenue are adjusted to reflect management's best estimate of the remaining obligations
+of the DRP and expected DFAA revenue.
+
+(2) A province or territory may request GoC disaster financial assistance when eligible expenditures exceed
+an established initial threshold based on the provincial or territorial population.
+
+(3) The GoC may provide advance payments to provincial and territorial governments as funds are expended
+under the provincial/territorial DRP.
+
+(4) "Other DRPs" includes DRPs with accrual balances or transactions during the 2024/25 fiscal year that are
+DFAA ineligible.
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                                    55
+Financial Information
+
+
+Statement of Credit or Recovery (unaudited)
+
+Department of Public Safety and Emergency Services
+For the year ended March 31, 2025
+(in thousands)
+
+                                                                                             2025
+
+                                                                            Actual                        Total Revenue
+                                                           Authorized      Revenue       Unearned           Received/       (Shortfall)/
+                                                            Spending      Recognized     Revenue           Receivable        Excess (1)
+     EXPENSE AMOUNTS                                                                     In thousands
+       Edmonton Regional Airports Authority Policing
+       Services Agreement (3)                          $        4,180 $        4,524 $              - $           4,524 $            344
+       Credit or Recovery (Shortfall)                  $        4,180 $        4,524 $              - $           4,524 $            344   (2)
+
+
+
+
+      (1) Shortfall is deducted from current year’s corresponding funding authority
+
+      (2) The revenue of each credit or recovery is included in the Statement of Revenues and Expenses
+
+      (3) Edmonton Regional Airport Authority Policing Services Agreement revenues are received on a full
+          cost recovery basis from the Edmonton Regional Airport Authority for policing services provided to
+          the Edmonton International Airport under the Provincial Police Service Agreement.
+
+
+
+
+56                                                                Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                                                                        Financial Information
+
+
+Lapse/Encumbrance (unaudited)
+
+Department of Public Safety and Emergency Services
+For the year ended March 31, 2025
+(in thousands)
+
+The following has been prepared pursuant to Section 24(4) of the Financial Administration Act.
+
+
+
+                                                                                                                   Adjusted                               Over
+                                                                     Voted         Supplementary                    Voted               Voted           Expended
+                                                                   Estimate (1)     Estimate (2) Adjustments (3)   Estimate            Actuals (4)    (Unexpended)
+
+EXPENSE VOTE BY PROGRAM
+   Ministry Support Services
+         1.1 Minister's Office                                     $        913    $            -   $         -    $        913    $            901   $        (12)
+         1.2 Deputy Minister's Office                                       925                 -             -             925                 901            (24)
+         1.3 Corporate Services                                           8,660                               -           8,660               7,462         (1,198)
+                                                                         10,498                 -             -          10,498               9,264         (1,234)
+
+    Public Security
+          2.1 Alberta Sheriffs                                          136,738                -         (1,050)        135,688             139,365          3,677
+          2.2 Alberta Serious Incident Response Team                      5,734                -              -           5,734               6,305            571
+          2.3 Provincial Security Intelligence Office                     1,972                -              -           1,972               2,582            610
+          2.4 Law Enforcement Oversight                                  29,724                -              -          29,724              14,614        (15,110)
+          2.5 Contract Policing and Policing Oversight                  391,452                -              -         391,452             391,683            231
+          2.6 Indigenous Policing Services                               22,539                -              -          22,539              21,095         (1,444)
+          2.7 Policing Support Grant                                    108,819                -              -         108,819             114,314          5,495
+          2.8 Organized and Serious Crime                                66,316            2,121              -          68,437              71,612          3,175
+                                                                        763,294            2,121         (1,050)        764,365             761,570         (2,795)
+
+    Correctional Services
+          3.1 Correctional Planning and Innovation                        5,133                               -           5,133               3,981         (1,152)
+          3.2 Custody Operations                                        265,480                               -         265,480             269,110          3,630
+          3.3 Community Corrections                                      57,031                               -          57,031              52,873         (4,158)
+          3.4 Correctional Programs and Services                         13,730                 -             -          13,730              12,471         (1,259)
+          3.5 Training Academy                                            7,321                               -           7,321               7,189           (132)
+                                                                        348,695                 -             -         348,695             345,624         (3,071)
+
+    Alberta Emergency Management Agency
+          4.1 Managing Director’s Office                                    617                 -             -             617               1,205            588
+          4.2 Strategy and Systems Support                               23,981                               -          23,981              22,912         (1,069)
+          4.3 Operations                                                  9,330                -              -           9,330               9,285            (45)
+          4.4 Recovery Operations                                         2,397           43,358              -          45,755               2,521        (43,234)
+          4.5 Disaster Recovery                                               -                -              -               -              28,392         28,392
+                                                                         36,325           43,358              -          79,683              64,315        (15,368)
+
+    Strategy, Support and Integrated initiatives
+          5.1 Strategic Policy and Planning                               2,699                 -             -           2,699               3,559            860
+          5.2 Community and Public Safety Services                       14,581                 -             -          14,581              12,323         (2,258)
+          5.3 Information Technology, Research and Modernization          3,124                 -             -           3,124               3,239            115
+                                                                         20,404                 -             -          20,404              19,121         (1,283)
+
+    Total                                                              1,179,216          45,479         (1,050)       1,223,645          1,199,894        (23,751)
+    Credit or Recovery Shortfall                                                                                                                                 -
+                                                                   $ 1,179,216     $      45,479    $    (1,050) $ 1,223,645       $      1,199,894   $    (23,751)
+    Lapse                                                                                                                                             $    (23,751)
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                                                                                  57
+Financial Information
+
+
+Lapse/Encumbrance (unaudited-cont’d)
+
+Department of Public Safety and Emergency Services
+For the year ended March 31, 2025
+(in thousands)
+
+                                                                                             Adjusted                             Over
+                                                Voted        Supplementary                    Voted            Voted            Expended
+                                              Estimate (1)    Estimate (2) Adjustments (3)   Estimate         Actuals (4)     (Unexpended)
+CAPITAL INVESTMENT VOTE BY PROGRAM
+   Ministry Support Services                  $         -    $            -   $         -    $        -   $             153 $          153
+   Public Security                                  8,695                 -         1,050         9,745                6001         (3,744)
+   Correctional Services                            1,280                 -           292         1,572               1,448           (124)
+   Alberta Emergency Management Agency              2,300                 -         2,401         4,701               2,805         (1,895)
+
+     Total                                         12,275                 -         3,743        16,018             10,408          (5,610)
+     Credit or Recovery Shortfall                                                       -             -                                  -
+                                              $    12,275    $            -   $     3,743    $   16,018   $         10,408    $     (5,610)
+     Lapse                                                                                                                    $     (5,610)
+
+FINANCIAL TRANSACTIONS VOTE BY PROGRAM
+
+     Alberta Emergency Management Agency
+     Recovery Operations                      $    15,440    $            -   $         -    $   15,440   $           6,817 $       (8,623)
+     Disaster Recovery                             36,000                 -             -        36,000               25591        (10,409)
+
+     Total                                         51,440                 -             -        51,440             25,591         (19,032)
+     Credit or Recovery Shortfall                                                       -             -                                  -
+                                              $    51,440    $            -   $         -    $   51,440   $         25,591    $    (19,032)
+     Lapse                                                                                                                    $    (19,032)
+
+CONTINGENCY
+OPERATING EXPENSE
+   Policing Support Grant                     $          -   $            -   $     8,400    $    8,400   $           8,400   $          -
+   Recovery Operations                                   -                -         9,442         9,442               9,442              -
+   Disaster Recovery                                     -                -         5,500         5,500                   -         (5,500)
+
+Capital Grants
+   Indigenous Policing services               $          -   $            -   $       780    $      780   $            780    $          -
+   Credit or Recovery Shortfall                          -                              -             -                  -               -
+                                              $          -   $            -   $    24,122    $   24,122   $         18,622    $     (5,500)
+     Lapse                                                                                                                    $     (5,500)
+
+
+
+(1) As per “Expense Vote by Program”, “Capital Investment Vote by Program” and “Financial Transactions
+    Vote by Program”, page 177-185 of 2024-25 Government Estimates on February 29, 2024.
+
+(2) Per the Supplementary Supply Estimates approved on March 20, 2025.
+
+(3) Adjustments include encumbrances, capital carry forward amounts, transfers between votes, credit or
+    recovery increases approved by Treasury Board, and credit or recovery shortfalls. An encumbrance is
+    incurred when, on a vote-by-vote basis, the total of actual disbursements in the prior year exceed the
+    total adjusted estimate. All calculated encumbrances from the prior year are reflected as an adjustment
+    to reduce the corresponding voted estimate in the current year. Adjustments also include supply vote
+    transfers for "Contingency" as approved by the Lieutenant Governor in Council under the direction of
+    the Minister of Finance. The Contingency supply vote consists of a provisional funding authority
+    transferable to any ministry. Upon approval by the Lieutenant Governor in Council, the President of
+    Treasury Board and Minister of Finance may either spend or transfer all or a portion of this supply vote
+    to another Minister for public emergencies, disasters or unanticipated costs.
+
+(4) Actuals exclude non-voted amounts as no cash disbursement is required (non-cash amounts), or because
+    the Legislative Assembly has already provided the funding authority pursuant to a statute other than an
+    appropriation act. Non-cash amounts (such as amortization, accretion, valuation adjustments, and other
+    provisions) are excluded as these amounts do not require any expenditure or payment of public money.
+    Year-end expense accruals & payables which will immediately require a cash outlay (payment of public
+    money) to settle or otherwise extinguish the liabilities are included in Actuals.
+
+
+
+58                                                    Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                  Financial Information
+
+
+
+Payments Based on Agreements (unaudited)
+
+Department of Public Safety and Emergency Services
+For the year ended March 31, 2025
+(in thousands)
+
+The Department has entered into agreements to deliver programs and services that are fully funded
+by the Government of Yukon Territory (Yukon) and the Government of Canada (GC). Costs based on
+these agreements are incurred by the Department under authority in Section 25 of the Financial
+Administration Act. Accounts Receivable includes $49 (2024 - $58) from Yukon, and ($970) (2024 –
+$792) from the GC relating to payments based on agreements.
+
+The agreement with the Yukon is for the purpose of conducting investigations of Serious Incidents
+respecting members of the Territorial Police Service.
+
+The agreements with the Government of Canada are to deliver the Alberta First Nations Emergency
+Management Support Program.
+
+Amounts paid and payable based on agreements with program sponsors are as follows:
+
+
+
+
+The Department has also entered into an agreement to disburse the provincial share of net
+forfeitures from proceeds of crime on behalf of the Department of Justice Canada (Justice Canada).
+Proceeds received from Justice Canada under this agreement are in accordance with Section 10 of
+the Federal Seized Property Management Act resulting from the investigation efforts by law
+enforcement agencies in Alberta.
+
+Disbursements to law enforcement agencies and crime and drug prevention organizations based on
+this agreement are made by the Department under authority in Section 25 of the Financial
+Administration Act. Only the amounts received from Justice Canada and not disbursed are reflected
+in these financial statements. For the year ended March 31, 2025, amounts payable to law
+enforcement agencies and crime and drug prevention organizations under this agreement are
+$2,991 (2024 - $2,466) and are reflected in the Statement of Financial Position.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                      59
+Annual Report Extracts and Other Statutory Reports (Unaudited)
+The Criminal Code requires the Minister of Public Safety and Emergency Services to report annually
+on the following parts of the Act.
+
+Criminal Code s.83.3 (3) – Anti-Terrorism Act
+
+In accordance with subsection 83.3(4) of the Criminal Code, a peace officer who suspects, on
+reasonable grounds, that the detention of a person is necessary to prevent a terrorist activity, may
+arrest the person without a warrant.
+
+Pursuant to subsection 83.31(3) of the Criminal Code, the minister responsible for policing in every
+province shall publish or otherwise make available to the public an annual report for the previous
+year on the operation of subsection 83.3 of the Criminal Code that includes:
+
+      •   The number of arrests without warrant that were made under subsection 83.3(4) and
+          the period of the arrested person’s detention in custody in each case; and
+      •   The number of cases in which a person was arrested without warrant under subsection
+          83.3(4) and was released.
+
+Information has been received from all police services in Alberta indicating that no arrests without
+a warrant were made under this subsection in the previous year; therefore, the report for 2024 is
+zero.
+
+Criminal Code s.25.3 – Organized Crime and Law Enforcement – Designations
+
+Section 25.3 of the Criminal Code provides a limited justification for otherwise illegal acts and
+omissions by law enforcement officers, and others acting at their discretion. An essential condition
+is that it can apply only to officers designated by a competent authority. In the case of municipal
+police services, the Minister of Public Safety and Emergency Services is the competent authority.
+
+The competent authority is responsible for publishing an annual report on the designations and
+authorizations provided under subsections 24.1 to 25.4 of the Criminal Code. This report shall
+include information on the amount and nature of the acts or omissions committed by those officers
+designated under this legislation.
+
+Alberta began designating officers under this legislation in March 2003. The designations for
+January 1 to December 31, 2024 include:
+
+      •   Number of times that acts and omissions were committed: Two (2)
+      •   Nature of conduct being investigated: Fraud and illicit tobacco trade (One) and Homicide
+          (One).
+      •   Nature of act or omission: Section 121.1 Criminal Code - Sell, offer, trade a tobacco
+          product not stamped. Section 380(1)(b) Criminal Code - Fraud under $5000. Section
+          430(1)(b) Criminal Code - Mischief under $5000/ rendering property inoperative or
+          ineffective.
+
+
+
+
+60                                              Public Safety and Emergency Services | Annual Report 2024–2025
+                                                                                      Financial Information
+
+
+Public Interest Disclosure (Whistleblower Protection) Act
+
+Section 32 of the Public Disclosure (Whistleblower Protection) Act requires the chief officer of a
+department to report annually on all disclosures made to the designated officer of the department,
+public entity or office of the legislature for which the chief officer is responsible.
+
+This constitutes the annual report of the chief officer of the department covering the period of
+April 1, 2024 to March 31, 2025.
+
+Chief Officer Report as at March 31, 2024
+
+In relation to the reporting requirements under section 32 of the Public Interest Disclosure
+(Whistleblower Protection) Act, designations for April 1, 2024 to March 31, 2025 include:
+       •     Number of disclosures of wrongdoing: zero
+       •     Number of investigations and reports submitted: zero
+       •     Number of wrongdoings identified: zero
+
+
+Ministry Response to Recommendations from the Office of the Child and Youth Advocate
+
+In response to a recommendation from the Office of the Child and Youth Advocate (OCYA), the
+Correctional Services Division (CSD) has committed to public annual reporting of emergency
+incidents that required the use of Oleoresin Capsicum spray (OC spray) and incidents where
+administrative placement was required within a provincial young offender centre.
+
+For the period of April 1, 2024 through March 31, 2025, CSD reports the following:
+
+  I.       Total Number of Incidents of OC Spray Deployment in Provincial Young Offender
+           Centres
+
+The use of OC spray is based on a variety of exceptional circumstances that are unique to each
+situation. It is only used when all lesser use of force options are exhausted, and to reduce the
+likelihood of injury or harm for young person(s) and staff involved. Data is collapsed to the
+provincial level, in order to protect the privacy of youths involved in the OC spray incidents. Also, to
+protect the privacy of the youth involved, the number of OC spray incidents in young offender
+centres is not reported when fewer than six instances have occurred. For the 2024-25 fiscal year,
+25 incidents of OC spray occurred within provincial young offender centres.
+
+ II.       Secure Separation in Provincial Young Offender Centres
+
+In 2024-25, CSD focused on refining the methodology used to assess and monitor the use of secure
+separation of young persons in correctional facilities. This work is essential to ensure that future
+reporting is accurate, consistent, and meaningful. Prior work has focused on implementing changes
+to policies and practices related to the segregation of youth in correctional facilities. These updates
+introduced standards for secure separation that align with trauma-informed practices. Key changes
+included clearer parameters for confinement conditions, revised review protocols, and a new case
+conference mechanism to guide responses to behavioral incidents.
+
+
+
+
+Public Safety and Emergency Services | Annual Report 2024–2025                                          61
+

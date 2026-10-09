@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-10-09T04:38:34.575765+00:00",
+  "words_including_alt_text_before": 3554,
+  "words_including_alt_text_after": 2512,
+  "total_word_reduction_pct": 29.3,
+  "visible_reading_words_before": 2731,
+  "visible_reading_words_after": 1079,
+  "visible_text_reduction_pct": 60.5,
+  "visible_figures_before": 21,
+  "visible_figures_after": 7,
+  "reviewed_supporting_figures": 14,
+  "original_archive_figures": 21,
+  "markdown_tables": 2,
+  "expandable_sections": 8,
+  "readme_sha256": "ccd44958e5a20be38912df87ef65e2dba22031817abcc8b1eb6295250d58485a",
+  "pr_pull_status": "blocked pending PR URL or number; API Forbidden; no pull refs exposed",
+  "native_github_browser_render": "not tested"
+}

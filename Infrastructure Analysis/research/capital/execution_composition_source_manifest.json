@@ -1,0 +1,82 @@
+[
+  {
+    "fiscal_year": "2015-16",
+    "path": "Budget PDFs/2015-2016 Annual Report.pdf",
+    "sha256": "b897cb6cc181a0c13b9b1f32f0009b21d7bd2d678384ae94bb7077a242f01cfe",
+    "pdf_page": 10,
+    "pdf_title": "Government of Alberta Annual Report 2015-16 - Complete Volume - June 29, 2016",
+    "pdf_author": ""
+  },
+  {
+    "fiscal_year": "2016-17",
+    "path": "Budget PDFs/2016-2017 Budget.pdf",
+    "sha256": "e9c8c6b7098a0b4ee0bf3b6d33b96e62a83285e6ea82b32e7fcc9bdf675402fa",
+    "pdf_page": 12,
+    "pdf_title": "Government of Alberta Annual Report 2016-17 - June 29, 2017",
+    "pdf_author": ""
+  },
+  {
+    "fiscal_year": "2017-18",
+    "path": "Budget PDFs/2017 Budget.pdf",
+    "sha256": "c5cbb7327d8625867422eca99544a7e2d0da421eaedd185952c13abd1fec3f73",
+    "pdf_page": 12,
+    "pdf_title": "Government of Alberta Annual Report 2017-18 - June 28, 2018",
+    "pdf_author": "Government of Alberta"
+  },
+  {
+    "fiscal_year": "2018-19",
+    "path": "Budget PDFs/2018-19 Budget.pdf",
+    "sha256": "9ea540568cfc2e6aa69de763871b38189eb41f04ca1027ee39b5a65b91db8647",
+    "pdf_page": 3,
+    "pdf_title": "2018-19 Year-end Report - Final Results - June 28, 2019",
+    "pdf_author": "Government of Alberta"
+  },
+  {
+    "fiscal_year": "2019-20",
+    "path": "Budget PDFs/2019-20 Budget.pdf",
+    "sha256": "918bd585714c42741cb72dbe451af4f64a4295129d2c2f64909831627540cdc5",
+    "pdf_page": 3,
+    "pdf_title": "2019-20 Final Results - Year-end Report - August 27, 2020",
+    "pdf_author": "Government of Alberta"
+  },
+  {
+    "fiscal_year": "2020-21",
+    "path": "Budget PDFs/2020-21 Budget.pdf",
+    "sha256": "4195764018ab4bed23f73384d0348827cbb16edf104931411d2d310569fb7c38",
+    "pdf_page": 3,
+    "pdf_title": "2020-21 Final Results - Year-end Report - June 30, 2021",
+    "pdf_author": "Government of Alberta"
+  },
+  {
+    "fiscal_year": "2021-22",
+    "path": "Budget PDFs/2021-22 Budget.pdf",
+    "sha256": "b2b5a6210ae86fe271873d146ad72f14ebe435e90606204719e39ab013687498",
+    "pdf_page": 3,
+    "pdf_title": "2021-22 Final Results - Year-end Report",
+    "pdf_author": "Government of Alberta"
+  },
+  {
+    "fiscal_year": "2022-23",
+    "path": "Budget PDFs/2022-2023 Budget.pdf",
+    "sha256": "a2ead4cddbe160fdfa2935ab11db33f3c86e49f6e8c356480c65f9e8cb55cbfa",
+    "pdf_page": 3,
+    "pdf_title": "2022-2023 Final Results - Year-end Report",
+    "pdf_author": "Government of Alberta"
+  },
+  {
+    "fiscal_year": "2023-24",
+    "path": "Budget PDFs/tbf-goa-2023-2024 Budget.pdf",
+    "sha256": "b625d7e304ff07cfdbb27e8bd0932fe533c0ea19348f308d4ce3f0401df71296",
+    "pdf_page": 3,
+    "pdf_title": "2023-24 Final Results - Year-end Report - June 2024",
+    "pdf_author": "Government of Alberta - Treasury Board and Finance"
+  },
+  {
+    "fiscal_year": "2024-25",
+    "path": "Budget PDFs/2024-2025 Budget.pdf",
+    "sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+    "pdf_page": 3,
+    "pdf_title": "2024-25 Final Results - Year-end Report",
+    "pdf_author": "Government of Alberta - Treasury Board and Finance"
+  }
+]

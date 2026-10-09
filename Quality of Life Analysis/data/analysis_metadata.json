@@ -1,0 +1,11 @@
+{
+  "observation_fiscal_years": "2015-16 through 2024-25",
+  "source_report": "2024-25 Final Results Year-End Report",
+  "outcome_years": "Economic series calendar 2015\u20132024; source marks selected values estimated",
+  "cpi_index_2024": 126.35160858481694,
+  "statistical_scope": "Descriptive source-backed calculation; no causal attribution or aggregate QoL score",
+  "anomalies": [
+    "2022-23 function component sum exceeds source total by CAD6M; all published cells preserved"
+  ],
+  "accounting_warning": "Source says numbers not strictly comparable due to accounting policy changes; FY2019-20/2021-22 reorganizations."
+}

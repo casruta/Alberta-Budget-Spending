@@ -1,0 +1,43 @@
+# Evidence gaps and the data needed to resolve them
+
+Reviewed October 9, 2026. These are unresolved requirements, not claims that data do not exist publicly. The local corpus is sufficient for the report's spending calculations and selected delivery descriptions; it is insufficient for a complete latest-decade or net-capacity assessment. No missing measurement is assigned zero.
+
+## Gaps affecting the financial comparison
+
+| Gap | What the current evidence establishes | Required additional evidence | Acceptance check before using it |
+|---|---|---|---|
+| Latest completed decade | Actual capital totals through 2024–25; the latest completed fiscal year is 2025–26 | Official 2025–26 final results, historical restatements, matching population and prices | Verify document identity, actual status and March 2026 cutoff; reconcile revised overlap before shifting to 2016–17 through 2025–26. Publication status is not inferred from blocked retrieval. |
+| 2018–19 $123M revision | Total 6,180→6,057M; investment 4,228→4,105M; grants unchanged | Full annual consolidated statements/notes and a specific reconciliation for capital investment | Trace the exact amount and scope to a stated correction. Do not use the separate ministry-attribution transfer or a coincident financing amount as an explanation. |
+| 2022–23 $11M revision | Total 5,644→5,633M; grants 1,536→1,525M; narrowed to the “Other” grants line | Full statements/notes or source reconciliation identifying the program/accounting adjustment | Match the same fiscal year and reporting perimeter. A general organization/accounting note is not proof of this exact cause. |
+| Capital-investment flow to asset-account additions | $4.309B Capital Plan investment versus approximately $3.9B investment in the asset narrative | Detailed consolidated statements and a cash/asset-addition reconciliation | Preserve the two reported measures until bridged. Rounded narrative figures cannot establish an exact $400M discrepancy; do not assign cash timing, donated assets or exclusions as its cause without support. |
+| Budget authority versus table budget | Ten paired final-results budget/actual columns; some budget columns can be restated | Original appropriation/budget and in-year revisions, with capital cash-flow changes by project | Preserve original, revised and final-forecast plan vintages separately. Do not replace contemporary actuals with revised actuals until paired budget comparability is reconstructed. |
+| Fiscal population alignment | July 1 estimates, with observed vintage revisions | Quarterly population levels for April, July, October and January, consistently revised | Use one source vintage and an explicit fiscal-average convention. Verify quarterly coverage and year alignment before joining; a July observation is not a fiscal midpoint. |
+| Fiscal consumer prices | Calendar annual growth rates, identical where overlapping across seven local reports | Monthly Alberta CPI index levels across April–March | Compute compatible fiscal index averages from levels; do not average annual growth percentages into a supposed observed fiscal CPI. |
+| Construction purchasing power | Household CPI sensitivity and a hypothetical 5.0% cumulative break-even threshold | Compatible building and engineering construction-price indices, project mix and geography | Check sector/geographic coverage, base/rebase treatment, timing and aggregation weights. A city building index alone cannot deflate all provincial roads, schools and hospitals without qualification. |
+
+The population table named in existing provenance is Statistics Canada **17-10-0009-01**. It is a source target, not a claim of successful current retrieval. New price and capacity sources should be catalogued only after their definitions and access are verified.
+
+## Gaps affecting physical capacity and service adequacy
+
+| Sector or concept | Recovered evidence | Missing reconciliation / denominator | Acceptance check before making a growth or adequacy claim |
+|---|---|---|---|
+| Project completion and operation | 17 selected audited project records: four explicitly dated construction-completion fiscal years, thirteen status observations; one verified operational year | Actual handover, operation and predecessor retirement dates, by phase | Keep first recovered completed-status report, actual construction end and opening as separate fields. Quest and the pharmacy-map contradiction demonstrate why status lists alone are insufficient. |
+| Schools | Selected new/modernized space figures and named completions; active project pipeline | Net usable seats after replacements/closures, school IDs, enrolment and catchment distribution | Separate new, modernized, replacement and modular capacity. Join fiscal project records to school-year enrolment explicitly; avoid summing overlapping pipelines or treating a modernization as new seats. |
+| Health and care | Named acute facilities, local dialysis, gross differently scoped care spaces, recovery-community beds | Staffed versus licensed/design beds, closures, services activated, age/needs and catchment demand | Separate acute, continuing care, long-term care and addiction treatment. Resolve the 17-versus-two source count conflict through granular records; no provincial bed series follows from project counts. |
+| Roads and bridges | Named twinning/bridge works, a specific 3.5 km route segment, rehabilitation counts | Consistent route/lane/two-lane-equivalent units, retirements, network boundary, traffic and condition | Resolve unit labels before calculating stock growth. Route distance is not lane distance; rounded bridge counts do not establish exact additions. |
+| Municipal transit and water | Financial transfers, shared rural-program basket, selected flood assets | Asset ownership and service-area boundaries, completed/open transit capacity, treatment capacity/connections and local population | Reconcile municipal project/asset registers and openings. Keep flood resilience distinct from drinking-water capacity; a funded project is not necessarily completed. |
+| Housing | 388 completed units, 617 in progress, named Conklin units and broad existing stock | Retired/replaced units, ownership/eligibility perimeter, occupied units and eligible household demand | Units are not buildings or bedrooms. Pipeline does not enter delivered stock; gross additions need a stock-flow reconciliation before population/household normalization. |
+| Post-secondary and digital | Dated science-building replacement, redevelopment, data-centre consolidation and financial broadband allocation | Usable seats/enrolment, retired facilities, connected households, speed/reliability/uptake | Building replacement and fewer consolidated data centres are not automatically less or more capacity. Broadband spending does not verify connections. |
+| Maintenance and condition | Financial CMR and road rehabilitation; older building energy performance | Consistent asset-condition assessments, remaining life, deferred work and inspection coverage | Maintenance spending cannot determine backlog or condition changes by itself. Energy intensity measures energy use, not structural condition or unmet service need. |
+| Service outcomes | Older continuing-care admission timeliness with its actual admitted-client denominator | A comparable recent definition/series, all-waitlist outcomes, operational inputs and demand | Do not substitute “all waiting clients” for “clients admitted.” Policy/preference changes and facility incidents confound interpreting the metric as an infrastructure effect. |
+
+The older full annual reports contain performance appendices largely absent from the recent abbreviated year-end files. The corpus difference limits coverage; it does not demonstrate that newer measures were discontinued or that service performance stayed unchanged.
+
+## Decision rule for future revisions
+
+1. Archive the authoritative source with document identity, retrieval status, hash, exact page/table, units, scope and actual/forecast status.
+2. Reconcile overlapping years and definitions before joining or replacing existing inputs. Retain both vintages when a revision is meaningful.
+3. Record unresolved disagreement explicitly; use granular records where justified, without silently correcting the source.
+4. Add a net-capacity or adequacy claim only when the relevant additions, removals, operating readiness and demand denominator are all supported.
+
+Current evidence supports the report's scoped conclusions. These checks define what would be needed to extend those conclusions; they are not a request for credentials or permission, and no blocked source was represented as downloaded.

@@ -1,0 +1,96 @@
+PHYSICAL PDF PAGE 64, 1-indexed
+Results Analysis
+
+
+
+Performance Measure 4a:
+Percentage of clients moved to continuing care homes1 within 30 days of being
+assessed
+
+                                 Prior Years’ Results
+                                                                                                       2024-25                 2024-25
+                                                                                                        Target                  Actual
+      2020-21                 2021-22                  2022-23                 2023-24
+
+       61.3%                   65.6%                   64.1%                   62.5%2                   66.0%                   63.0%
+Source: Alberta Health Services. Data are extracted from Meditech and Strata Health Pathways
+Notes:
+1. Includes long-term care homes (type A) and designated supportive living (type B) but excludes hospices (type C).
+2. Since May 2023, some zones have been unable to report the data that supports the calculation of this provincial indicator due to the launch
+of Connect Care. As a result, the data to support the provincial percentage of clients moved to continuing care within 30 days of being assessed
+is not complete to the end of 2023-24.
+
+Description: This measure monitors the timeliness of access to continuing care homes in Alberta,
+as indicated by the wait times experienced by clients who move into a continuing care home within
+30 days of being assessed.
+
+Rationale: This measure speaks to the ministry’s commitment to provide access to a continuing
+care home as soon as possible after being assessed, supporting the delivery of highest quality client
+care regardless of where they reside in the province.
+
+Results and variance explanation: The 2024-25 result of 63.0 per cent is higher than the 62.5
+per cent reported in 2023-24 and shows an increase in the percentage of clients who moved into a
+continuing care home within 30 days of being assessed. The preliminary result for 2024-25 is three
+percentage points below target.
+
+Investments have been made in home and community care and the number of available continuing
+care home spaces is increasing as additional new spaces are identified and planned for. Together,
+these investments will provide additional capacity to enable Albertans who need continuing care
+homes the ability to access them in a timelier manner.
+
+
+
+
+62                                                              Seniors, Community and Social Services | Annual Report 2024–2025
+
+
+PHYSICAL PDF PAGE 71, 1-indexed
+                                                                                                                          Results Analysis
+
+
+
+Performance Measure 4.a:
+     Percentage of clients moved to continuing care homes within 30 days of being assessed
+
+Continuing care homes (CCH)1 refers to the level of care that provides health and support services
+appropriate to meet the client’s assessed unmet needs (i.e., Designated Supportive Living Level 3 or
+4, 4-Dementia or Long-Term Care).
+
+Assessed and Approved date refers to the date the client is placed on the waitlist for CCH1 following
+the completion of the assessment and approval process.
+
+
+
+                                          # of clients moved to a CCH1 from community within 30 days
+                                                       of their assessed and approved date2
+             % Community = Total # of clients admitted to a continuing care home × 100
+                                         during the reporting period
+
+
+% Acute/Sub − acute care =
+
+# of clients moved to a CCH1 from acute/sub−acute care within 30 days of their assessed & approved date
+                                                                                                        × 100
+             Total # of clients admitted to a continuing care home during the reporting period
+
+
+
+
+                # of clients moved to a CCH1 within 30 days of their assessed and approved date
+% Total =                                                                                         × 100
+                Total # of clients admitted to a continuing care home during the reporting period
+
+
+
+
+Source: Alberta Health Services. Data are extracted from Meditech and Strata health Pathways
+Notes:
+1. Includes continuing care homes of type A (long-term care) and type B (designated supportive living) but excludes community hospices
+(type C).
+2. # of clients moved to a CCH1 within 30 days of their assessed and approved date = # clients moved to a CCH1 from home + # of clients moved
+to a CCH1 from acute care.
+
+
+
+
+Seniors, Community and Social Services | Annual Report 2024–2025                                                                           69

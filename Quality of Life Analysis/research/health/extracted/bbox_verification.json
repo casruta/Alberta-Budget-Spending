@@ -1,0 +1,149 @@
+[
+  {
+    "metric": "ED initial physician assessment wait",
+    "group": "16 largest hospital sites",
+    "physical_pdf_page": 23,
+    "coordinate_values": [
+      4.5,
+      6.2,
+      6.7,
+      7.0
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "EMS urgent-call response",
+    "group": "Metro/urban",
+    "physical_pdf_page": 24,
+    "coordinate_values": [
+      14.6,
+      17.5,
+      13.8,
+      14.2
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "EMS urgent-call response",
+    "group": "Communities >3000 residents",
+    "physical_pdf_page": 24,
+    "coordinate_values": [
+      18.6,
+      18.9,
+      16.3,
+      16.4
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "EMS urgent-call response",
+    "group": "Rural <3000 residents",
+    "physical_pdf_page": 24,
+    "coordinate_values": [
+      33.8,
+      33.9,
+      33.3,
+      29.2
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "EMS urgent-call response",
+    "group": "Remote",
+    "physical_pdf_page": 24,
+    "coordinate_values": [
+      55.4,
+      61.8,
+      64.9,
+      52.0
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "Elective surgery within national wait benchmark",
+    "group": "Hip",
+    "physical_pdf_page": 26,
+    "coordinate_values": [
+      51.6,
+      51.2,
+      43.0,
+      62.4,
+      72.8
+    ],
+    "checked_count": 5,
+    "passed": true
+  },
+  {
+    "metric": "Elective surgery within national wait benchmark",
+    "group": "Knee",
+    "physical_pdf_page": 26,
+    "coordinate_values": [
+      43.3,
+      39.7,
+      32.5,
+      53.3,
+      62.5
+    ],
+    "checked_count": 5,
+    "passed": true
+  },
+  {
+    "metric": "Elective surgery within national wait benchmark",
+    "group": "Cataract",
+    "physical_pdf_page": 26,
+    "coordinate_values": [
+      45.3,
+      64.7,
+      64.7,
+      59.7,
+      62.8
+    ],
+    "checked_count": 5,
+    "passed": true
+  },
+  {
+    "metric": "Diagnostic imaging within priority targets",
+    "group": "MRI",
+    "physical_pdf_page": 30,
+    "coordinate_values": [
+      68.0,
+      49.0,
+      42.0,
+      41.0
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "Diagnostic imaging within priority targets",
+    "group": "CT",
+    "physical_pdf_page": 30,
+    "coordinate_values": [
+      87.0,
+      80.0,
+      80.0,
+      80.0
+    ],
+    "checked_count": 4,
+    "passed": true
+  },
+  {
+    "metric": "Unplanned medical hospital readmission within30days",
+    "group": "included medical acute-care discharges",
+    "physical_pdf_page": 42,
+    "coordinate_values": [
+      13.2,
+      12.9,
+      12.6,
+      12.7,
+      12.7
+    ],
+    "checked_count": 5,
+    "passed": true
+  }
+]

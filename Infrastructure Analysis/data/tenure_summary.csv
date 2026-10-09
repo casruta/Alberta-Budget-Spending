@@ -1,0 +1,5 @@
+period,fiscal_years,nominal_capital_total_cad,nominal_capital_annual_mean_cad,cpi_adjusted_capital_annual_mean_2024_cad,population_weighted_nominal_per_resident_annual_cad,population_weighted_cpi_adjusted_per_resident_annual_2024_cad,median_cpi_adjusted_per_resident_annual_2024_cad,interpretation
+2015-16 to 2018-19,4,28214000000.0,7053500000.0,8719936884.88182,1671.9407407407407,2066.9480023423575,1978.1842955407556,"Descriptive tenure comparison, unequal periods, not causal policy effect"
+2019-20 to 2024-25,6,38239000000.0,6373166666.666667,6965796472.363805,1401.7742585871915,1532.1228356678334,1491.9721927584915,"Descriptive tenure comparison, unequal periods, not causal policy effect"
+2015-16 to 2018-19 excluding 2017-18 spike,3,19193000000.0,6397666666.666667,7927710197.092201,1518.6738407975945,1881.8745522453398,1959.70871373397,"Descriptive tenure comparison, unequal periods, not causal policy effect"
+2022-23 to 2024-25,3,19176000000.0,6392000000.0,6571112260.333332,1361.4483493077742,1399.5979255236064,1383.7139807897543,"Descriptive tenure comparison, unequal periods, not causal policy effect"

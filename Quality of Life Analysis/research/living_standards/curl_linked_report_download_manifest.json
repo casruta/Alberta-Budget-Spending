@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://open.alberta.ca/dataset/ee6fc86b-2c20-4895-b677-9119712cd4e4/resource/bb863ea8-cfc3-473e-9df7-ef827308a9b7/download/au-annual-report-2024-2025.pdf",
+    "client": "curl -L --fail; default TLS verification; normal proxy",
+    "retrieval_utc": "2026-10-09T03:44:50.183293+00:00",
+    "http_status": "200",
+    "exit_code": 0,
+    "previous_urllib_status": 403,
+    "file": "au-annual-report-2024-2025.pdf",
+    "bytes": 2723013,
+    "sha256": "7258f62bd80c068f219fe9be55c15230ff83c5315726b7ea77b4bc70592dc11f"
+  },
+  {
+    "url": "https://open.alberta.ca/dataset/3a6b50d8-c1f2-4e9a-94ec-62f1e0a34e59/resource/5b876aae-aaae-4c93-a9a1-4fe1305c7b39/download/scss-annual-report-2024-2025.pdf",
+    "client": "curl -L --fail; default TLS verification; normal proxy",
+    "retrieval_utc": "2026-10-09T03:44:50.384106+00:00",
+    "http_status": "200",
+    "exit_code": 0,
+    "previous_urllib_status": 403,
+    "file": "scss-annual-report-2024-2025.pdf",
+    "bytes": 4331311,
+    "sha256": "5033fad03a5344ab34299befc5fb76623c4f4d66be1ee50f60d9c3ad484c39db"
+  },
+  {
+    "url": "https://open.alberta.ca/dataset/6dfd08a7-1e12-4b6b-b3c0-749d960f1143/resource/25d702f6-deca-46ed-a736-69522fcb0388/download/jet-annual-report-2024-2025.pdf",
+    "client": "curl -L --fail; default TLS verification; normal proxy",
+    "retrieval_utc": "2026-10-09T03:44:50.270015+00:00",
+    "http_status": "200",
+    "exit_code": 0,
+    "previous_urllib_status": 403,
+    "file": "jet-annual-report-2024-2025.pdf",
+    "bytes": 3187298,
+    "sha256": "411de65a7c104ac305e40c454365ee190f9fa163727d4f6119c82d2449d5f70b"
+  }
+]

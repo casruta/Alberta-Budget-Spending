@@ -1,0 +1,218 @@
+PHYSICAL PDF PAGE 105, 1-indexed
+                                               PERFORMANCE MEASURES       AND INDICATORS
+
+
+                                5
+cs.pdf                                                        2015‐16 GoA Annual Report
+                                                                                  Measuring Up ‐ Outcomes 5
+                      Outcome                A system of supports for seniors that will assist them in remaining independent and
+                                            pdf named: 15‐16_MUP_o5_hfcri.pdf                                                                           2015‐16 GoA An
+                                             participating in their communities.                                                                        Measuring Up ‐
+               Access to Continuing Care Spaces
+               Clients placed in continuing care within 30 days of being
+               assessed   (percentage)
+                   CONTINUING     CARE ACCESS (PERCENTAGE)                  HOUSING
+                                                                         Housing      FACILITIES
+                                                                                 Facilities       CONDITION
+                                                                                            Condition         RATING
+                                                                                                      Rating Index   INDEX
+                                                                                                                   (percentage
+                      Performance Measure                                                (PERCENTAGE) Performance Measure
+                                       67          69                                             4.9                  5                   5
+                                                                                   100
+                           64
+                                                                  60     60         80
+                                                                                                  55.5                 62                  63
+                 59                                                                 60
+                        2011-12      2012-13    2013-14     2014-15    2015-16
+                                                                                    40
+
+                    In 2015-16, 60 per cent of clients were placed in               20            39.6                 33                  32
+                    continuing care living options within 30 days of being           0
+                    assessed. This did not meet the target of 70 per                           2012-13               2013-14            2014-15
+               pdf named:    15-16_MUP_o5_atccs.pdf
+                    cent.The decline in performance in getting clients into                     Good          Fair   Poor
+                    continuing care spaces in 2014-15, continued through
+                    2015-16, and is likely due to issues associated with a
+                                                                                      The percentages over the last two actuals reported for
+                    policy change.
+                                                                                      2013-14 and 2014-15 have been relatively stable and
+                      In May 2015, Alberta Health Services began                      are consistent when compared with the targets set
+                      implementing the new Designated Living Option:                  of 34 percent in “good” condition and 62 per cent
+                      Access and Waitlist Management in Continuing Care           pdf named:     15-16_MUP_o5_hfcri.pdf
+                                                                                      in “fair” condition  for 2015-16. The purpose of the
+                      policy, which establishes a consistent, principle-based,        measure is to illustrate a consistent stock of “good” and
+                      transparent approach for individuals to access a                “fair” housing options while maintaining a low percentage
+                      continuing care living option. The approach taken in this       of “poor” options.
+                      new policy (as compared to the previous “First Available
+                                                                                         Alberta’s government owned or supported housing assets
+                      Bed” policy, rescinded in June 2013) is more person-
+                                                                                         have an estimated deferred maintenance cost of over
+                      centred. The new policy requires that each client and
+                                                                                         $1 billion, reflected in the “fair” and “poor” FCI category
+                      their family receives enough information, support, and
+                                                                                         ratings. Many buildings in the owned and supported
+                      time to decide on one or more living options that will
+                                                                                         portfolio are between 30 and 60 years old, and therefore
+                      be suitable to meet the client’s needs and preferences.
+                                                                                         maintenance costs continue to rise. To support the
+                      This additional time is necessary to ensure that clients
+                                                                                         replacement of property systems and components at
+                      and families have sufficient opportunity for research and
+                                                                                         or near the end of their useful life, government spent
+                      discussions to support them in making an important life
+                                                                                         $22.9 million in 2014-15 and $22.8 million in 2015-16 on
+                      decision. This process may impact the length of time
+                                                                                         maintenance. This spending will help maintain the current
+                      between assessment and admission for those waiting for
+                                                                                         condition of facilities and ensure the safety, security and
+                      admission to a continuing care living option.
+                                                                                         comfort of residents in government-owned and supported
+                      Capacity issues are expected to be partly addressed                housing.
+                      when the planned 2,000 long-term care and dementia
+                                                                                         In addition, the province invested almost $45 million
+                      care spaces become available over the next few years.
+                                                                                         in 2014-15 and almost $66 million in 2015-16 to
+                      Planned expansions and improvements to home and
+                                                                                         regenerate and renew the aging facilities in its portfolio.
+                      community care are also expected to help to address
+                                                                                         These investments encompassed major renovations,
+                      current capacity issues.
+                                                                                         replacements and additions to government-owned and/
+                      The Ministry of Health and Alberta Health Services have            or supported seniors lodge and other social housing
+                      recently agreed to set a performance target on this                operating pursuant to the Alberta Housing Act, or under
+                      measure for 2016-17 of 62 per cent, increasing three               long-term operating agreements.
+                      per cent annually through 2018-19, which will allow for
+                      stabilization to continue and improvements to be made as
+                      capacity development progresses.
+
+
+
+
+                      MEASURING UP                                                                                                                 99
+
+F\BusFunctions\SMP\BP‐ZTOPICS\Measuring Up\2015‐16\Excel Files\
+                                                                                  Printed: 6/2/2016/2:23 PM
+
+
+PHYSICAL PDF PAGE 122, 1-indexed
+PERFORMANCE MEASURES AND INDICATORS – SOURCES AND NOTES
+
+Life Expectancy at Birth                                      Note(s): Percent of clients admitted to a
+      Source: Alberta Health Care Insurance Plan              continuing care living option (supportive or
+      (AHCIP) Quarterly Population Registry Files,            facility living) within 30 days of the Assessed
+      Alberta Health Postal Code Translation File             and Approved date
+      (PCTF), Alberta Vital Statistics Death File and         Continuing care living option refers to the level
+      the Ministry of Health                                  of care in a publicly funded resident
+      Note(s): Historical results have been adjusted          accommodation that provides health and
+      in response to updated data from Alberta Vital          support services appropriate to meet the client’s
+      Statistics and Alberta Health Care Insurance            assessed unmet needs (i.e. Designated
+      Plan.                                                   Supportive Living Level 3, 4, 4-Dementia, or
+                                                              long-term care).
+      Life expectancy is interpreted as the
+      average number of years a hypothetical age              Assessed and approved date refers to the date
+      cohort would live if they were subjected                the client is placed on the waitlist for a
+      to the current mortality conditions                     continuing care living option following the
+      throughout the rest of their lives.                     completion of the assessment and approval
+                                                              process.
+      Life expectancy is calculated using the
+      commonly-used “period” life table                       The result is calculated based on the number of
+      methodology. A detailed description of the              individuals admitted to a continuing care living
+      methodology used to convert age-sex specific            option within 30 days of their assessed and
+      death rates into life expectancy at birth can be        approved date divided by the total number of
+      found in Appendix 3 of the Ministry of Health           individuals admitted to a continuing care living
+      report Chronic Disease Projections                      option (supportive or facility living) during the
+      Methodology, 2008. http://www.health.alberta.           reporting period expressed as a percentage.
+      ca/documents/Chronic-Disease-Method-2008.
+      pdf.                                               Housing Facilities Condition Rating Index
+
+      The accuracy of health data for First Nations           Source: Ministry of Seniors and Housing
+      populations, both nationally and in Alberta,            provides the Ministry of Infrastructure with
+      is limited by inconsistencies in the methods            an inventory listing of all housing facilities
+      used to identify the individuals included in            to be assessed. The Ministry of Infrastructure
+      the First Nations population, it is clear that          completes the assessments and calculations for
+      the population health status of First Nations           each housing asset, assigns the facility condition
+      people in Alberta is significantly lower than           rating, and sends a full report back to the
+      the health status of other Albertans. This is           Ministry of Seniors and Housing
+      consistent with the national results which              Note(s): This performance measure illustrates
+      indicate that the health of Indigenous peoples          the overall condition of Alberta’s government-
+      is poorer than for Canadians as a whole.                owned or supported housing assets. Assessed
+                                                              housing stock is categorized as in “good”, “fair”
+                                                              or “poor” condition, and the percentage in each
+OUTCOME FIVE
+                                                              category then calculated.
+Continuing Care Access
+                                                              To arrive at these numbers, first the condition
+      Source: Ministry of Health, 7 Meditech rings            of each government owned or supported
+      for the South, Central and North Zones and              housing asset is assessed and rated. The assessed
+      from 2 Strata health Pathways applications by           facility condition rating is then combined
+      the Calgary and Edmonton Zones                          with values for deferred maintenance cost and
+                                                              inflation, to create a new Facility Condition
+
+116                                                              GOVERNMENT OF ALBERTA 2015 –16 ANNUAL REPORT
+
+
+PHYSICAL PDF PAGE 123, 1-indexed
+PERFORMANCE MEASURES AND INDICATORS – SOURCES AND NOTES
+
+     Index (FCI) percentage value. The FCI is                 since you stopped receiving social assistance?”
+     the ratio of repair to replacement costs (i.e.           “Yes” and “No” responses are used to calculate
+     cost to correct current and future physical              the performance measure result.
+     condition deficiencies, relative to current              The sample size for the 2015-16 result is 2,062.
+     facility replacement values). This method of             The margin of error is ±2.16 percentage points,
+     calculating the condition of housing assets              19 times out of 20.
+     is an industry standard and is used in other
+     provincial jurisdictions to measure overall         Maintenance Enforcement Program Compliance
+     condition of government-owned facilities.                Rate
+     As assessments are conducted over multi-                 Source: Ministry of Justice and Solicitor
+     year cycles, the results for any facilities that         General
+     have been reassessed in each new cycle will
+                                                              Note(s): The amount of regular payments is a
+     replace the results from the former cycle.
+                                                              proxy measure for Maintenance Enforcement
+     The percentages for each category in the                 Program’s (MEP’s) compliance rate on cases
+     measure are calculated by taking the number              enrolled. Terms of maintenance orders and
+     of all facilities in good, fair or poor condition        agreements are entered into the Maintenance
+     and dividing each by the total number of                 Information Management System (MIMS).
+     all audited facilities. If a facility has been           The overall amount of maintenance payments
+     constructed or completely refurbished                    that are due each month are then totaled by
+     within the last 10 years, and has not been               MIMS. Payments received are also entered
+     assessed, it is automatically rated as “good.”           into the system and totaled monthly by
+                                                              MIMS. The performance measure shows the
+                                                              amount of regular maintenance collected as
+OUTCOME SIX                                                   a percentage of the regular maintenance due.
+                                                              It does not reflect collection of MEP-charged
+Program Participants Employed after Leaving
+                                                              fees or penalties, any arrears, or any variable
+     Income Support
+                                                              extraordinary expenses. The result is calculated
+     Source: Ministry of Human Services                       on a monthly basis by dividing the amount
+                                                              of regular maintenance collected in a month
+     Note(s): Results for the measure are obtained
+                                                              by the amount of regular maintenance due in
+     through the Work Outcomes Reporting
+                                                              that month. The annual result is an average of
+     Project (WORP) Survey. People in two
+                                                              the monthly results. The methodology for this
+     categories may qualify for income support
+                                                              measure was adapted from a similar measure
+     and are included in the survey; people who
+                                                              developed by the Canadian Centre for Justice
+     have difficulty working because of a chronic
+                                                              Statistics.
+     mental or physical health problem or because
+     of multiple barriers to employment and people
+     who are looking for work, working, or unable        Family Support for Children with Disabilities
+     to work in the short-term.                               (FSCD) Program Satisfaction (Percentage
+                                                              of families accessing the FSCD program
+     A third-party survey provider was contracted to          who indicated the services had a positive
+     survey former Income Support Program                     impact on their family.)
+     participants three months after they left the            Source: Ministry of Human Services
+     program. The results are based on income
+     support participants who left the program                Note(s): The last available survey results are
+     between September 1, 2014 and August 31,                 from the 2014-15 fiscal year. The next available
+     2015. The results include participants’                  survey results are forthcoming in 2016-17.
+     employment status as determined from the
+     question, “Have you been employed at any time
+
+MEASURING UP                                                                                               117

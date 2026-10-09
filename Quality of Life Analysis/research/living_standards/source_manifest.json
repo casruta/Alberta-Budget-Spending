@@ -1,0 +1,18 @@
+[
+  {
+    "source_file": "Budget PDFs/2024-2025 Budget.pdf",
+    "source_pdf_page": 13,
+    "sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+    "panel": "primary_same_vintage_2013_2024",
+    "calendar_year_start": 2013,
+    "calendar_year_end": 2024
+  },
+  {
+    "source_file": "Budget PDFs/2022-2023 Budget.pdf",
+    "source_pdf_page": 12,
+    "sha256": "a2ead4cddbe160fdfa2935ab11db33f3c86e49f6e8c356480c65f9e8cb55cbfa",
+    "panel": "supplementary_older_vintage_not_spliced",
+    "calendar_year_start": 2011,
+    "calendar_year_end": 2022
+  }
+]

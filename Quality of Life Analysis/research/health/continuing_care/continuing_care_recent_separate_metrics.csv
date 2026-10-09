@@ -1,0 +1,15 @@
+fiscal_year,metric,actual,unit,source_local_pdf,physical_pdf_page_1indexed,source_vintage,scope_or_revision_note
+2020-21,waitlist_hospital_14_largest,190,persons,health-2023-2024.pdf,53,2023-24,14 largest acute care sites; March31; excludes process delays; NOT earlierprovincewidecounts
+2021-22,waitlist_hospital_14_largest,216,persons,health-2023-2024.pdf,53,2023-24,14 largest acute care sites; March31; excludes process delays; NOT earlierprovincewidecounts
+2022-23,waitlist_hospital_14_largest,240,persons,health-2023-2024.pdf,53,2023-24,14 largest acute care sites; March31; excludes process delays; NOT earlierprovincewidecounts
+2023-24,waitlist_hospital_14_largest,205,persons,health-2023-2024.pdf,53,2023-24,14 largest acute care sites; March31; excludes process delays; NOT earlierprovincewidecounts
+2019-20,home_care_hours,12.52,million_hours,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2019-20,home_care_unique_clients,124779,persons,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2020-21,home_care_hours,11.46,million_hours,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2020-21,home_care_unique_clients,117502,persons,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2021-22,home_care_hours,11.95,million_hours,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2021-22,home_care_unique_clients,122084,persons,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2022-23,home_care_hours,12.67,million_hours,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2022-23,home_care_unique_clients,126539,persons,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2023-24,home_care_hours,12.71,million_hours,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries
+2023-24,home_care_unique_clients,130111,persons,health-2023-2024.pdf,54,2023-24,2019-20to2022-23 revised in source; use onevintage acrossseries

@@ -1,0 +1,68 @@
+Total Expense
+(millions of dollars)
+                                                                                        2023-24        2022-23  Change from
+   Operating Expense by Ministry                                            Budget   Actual   Actual Budget  2022-23
+ 1    Advanced Education                                                                 5,779     6,233     5,716     454     517
+ 2     Affordability and Utilities                                                        131      119      712       (12)     (593)
+ 3     Agriculture and Irrigation                                                        804      743      708       (61)      35
+ 4     Arts, Culture and Status of Women                                               132      132      138            -         (6)
+ 5    Children and Family Services                                                        1,725     1,603     1,552      (122)      51
+ 6    Education                                                                          8,836     8,878     8,329      42     549
+ 7    Energy and Minerals                                                           766      822     1,234      56      (412)
+ 8    Environment and Protected Areas                                                493      377      429      (116)      (52)
+ 9    Executive Council                                                             54       47       46         (7)      1
+ 10     Forestry and Parks                                                            316      285      271       (31)      14
+ 11    Health                                                                           24,533    25,165    23,438     632    1,727
+ 12    Immigration and Multiculturalism                                                 40       39       38         (1)      1
+ 13     Indigenous Relations                                                           214      214      185            -      29
+ 14     Infrastructure                                                                 462      462      447            -      15
+ 15     Jobs, Economy and Trade                                                            1,664     1,557     1,320      (107)     237
+ 16     Justice                                                                      655      652      588         (3)      64
+ 17    Mental Health and Addiction                                                     148      151       88       3      63
+ 18     Municipal Affairs                                                              228      220      180         (8)      40
+ 19     Public Safety and Emergency Services                                                1,187     1,205     1,032      18     173
+ 20     Seniors, Community and Social Services                                              5,252     5,284     4,816      32     468
+ 21    Service Alberta and Red Tape Reduction                                           159      159      131            -      28
+ 22    Technology and Innovation                                                      704      723      660      19      63
+ 23    Tourism and Sport                                                            103      112       92       9      20
+ 24     Transportation and Economic Corridors                                           507      564      572      57         (8)
+ 25    Treasury Board and Finance                                                         1,971     2,237     1,910     266     327
+ 26     Legislative Assembly                                                          178      160      128       (18)      32
+ 27 Total Operating Expense                                                             57,038    58,143    54,760    1,105    3,383
+    Capital Grants
+ 28     Arts, Culture and Status of Women                                               136      123       97       (13)      26
+ 29    Energy and Minerals                                                           205      130       53       (75)      77
+ 30     Municipal Affairs                                                              782      765      750       (17)      15
+ 31     Transportation and Economic Corridors                                               1,127      819      452      (308)     367
+ 32    Other                                                                       571      266      173      (305)      93
+ 33 Total Capital Grants                                                                   2,821     2,103     1,525      (718)     578
+    Disaster / Emergency Assistance
+ 34     Agriculture and Irrigation – agriculture support                                                               -     1,856     1,141    1,856     715
+ 35     Forestry and Parks – wildfire fighting                                                                           -      851      161     851     690
+ 36    Health - wildfire supports                                                                                         -       4            -       4       4
+ 37     Public Safety and Emergency Services – wildfire / flood support                                         -      260       17     260     243
+ 38     Seniors, Community and Social Services - wildfire supports                                             -       54            -      54      54
+ 39 Total Disaster / Emergency Assistance                                                                          -     3,025     1,319    3,025    1,706
+ 40 Amortization / Inventory Consumption / Loss on Asset Disposals                      4,418     4,399     4,090       (19)     309
+   Taxpayer-supported Debt Servicing Costs - General
+ 41    Education (School Boards)                                                    9       10       8       1       2
+ 42    Treasury Board and Finance                                                    850      917      972      67       (55)
+ 43    Total Taxpayer-supported General Debt Servicing Costs                          859      927      980      68       (53)
+   Taxpayer-supported Debt Servicing Costs - Capital Plan
+ 44    Education (school P3s) / Transportation (ring road P3s)                               125      122      128         (3)        (6)
+ 45    Treasury Board and Finance – direct borrowing                                        1,113     1,201     1,217      88       (16)
+ 46    Total Taxpayer-supported Capital Plan Debt Servicing Costs                       1,238     1,323     1,345      85       (22)
+ 47 Total Taxpayer-supported Debt Servicing Costs                                       2,097     2,250     2,325     153       (74)
+   Self-supported Debt Servicing Costs
+ 48    Treasury Board and Finance – loans to local authorities                               659      802      428     143     374
+ 49    Treasury Board and Finance – Ag Financial Services Corp.                            92       97       76       5      21
+ 50 Total Self-supported Debt Servicing Costs                                         751      899      504     148     395
+ 51 Total Debt Servicing Costs                                                            2,848     3,149     2,829     301     320
+ 52 Pension Provisions / (Recovery)                                                           (322)     (372)       (21)      (50)     (351)
+ 53 Contingency                                                                          1,500            -             -    (1,500)           -
+ 54 Total Expense                                                                       68,303    70,447    64,502    2,144    5,945
+
+
+
+
+2023-24 Final Results | Year-End Report                                                                               7

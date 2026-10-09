@@ -1,0 +1,54 @@
+[
+  {
+    "source": "Statistics Canada quality-of-life hub",
+    "url": "https://www160.statcan.gc.ca/index-eng.htm",
+    "checked_utc": "2026-10-09T03:34:53.921499+00:00",
+    "method": "HTTPS GET via provided network route; normal TLS verification",
+    "retrieved": false,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source": "Alberta population health",
+    "url": "https://www.alberta.ca/population-health-status-assessment",
+    "checked_utc": "2026-10-09T03:34:53.936393+00:00",
+    "method": "HTTPS GET via provided network route; normal TLS verification",
+    "retrieved": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "Alberta education annual reports",
+    "url": "https://www.alberta.ca/education-annual-reports",
+    "checked_utc": "2026-10-09T03:34:55.118833+00:00",
+    "method": "HTTPS GET via provided network route; normal TLS verification",
+    "retrieved": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "Alberta government and ministry annual reports",
+    "url": "https://www.alberta.ca/government-and-ministry-annual-reports",
+    "checked_utc": "2026-10-09T03:35:09.644847+00:00",
+    "method": "HTTPS GET via provided network route; normal TLS verification",
+    "retrieved": true,
+    "status": 200,
+    "bytes_read": 206933,
+    "final_url": "https://www.alberta.ca/government-and-ministry-annual-reports"
+  },
+  {
+    "source": "Alberta budget documents",
+    "url": "https://www.alberta.ca/budget-documents",
+    "checked_utc": "2026-10-09T03:35:10.006823+00:00",
+    "method": "HTTPS GET via provided network route; normal TLS verification",
+    "retrieved": true,
+    "status": 200,
+    "bytes_read": 173962,
+    "final_url": "https://www.alberta.ca/budget-documents"
+  },
+  {
+    "source": "Statistics Canada annual unemployment table",
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032701",
+    "checked_utc": "2026-10-09T03:35:10.344576+00:00",
+    "method": "HTTPS GET via provided network route; normal TLS verification",
+    "retrieved": false,
+    "error": "HTTP Error 503: Service Unavailable"
+  }
+]

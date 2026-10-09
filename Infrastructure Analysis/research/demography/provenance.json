@@ -1,0 +1,25 @@
+{
+  "source_file": "Budget PDFs/2024-2025 Budget.pdf",
+  "source_sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+  "source_report": "2024-25 Final Results | Year-End Report",
+  "table": "Key Economic Indicators, 2013 to 2024",
+  "pdf_page": 13,
+  "printed_page": 13,
+  "report_table_metadata_date": "2025-06-19",
+  "provenance_url": "https://open.alberta.ca/publications/government-of-alberta-annual-report",
+  "provenance_url_status": "catalog landing page; not independently retrieved in this environment",
+  "network_blocker": "StatCan CSV download proxy 403; direct egress DNS unavailable",
+  "official_population_table": "17-10-0009-01",
+  "official_annual_cpi_table": "18-10-0005-01",
+  "official_monthly_cpi_table": "18-10-0004-01",
+  "official_construction_price_table": "18-10-0276-01",
+  "missing_years": [
+    2025,
+    2026
+  ],
+  "extrapolation": "none",
+  "population_growth_2015_2024_pct": 17.80722891566264,
+  "population_growth_2019_2024_pct": 12.261768082663615,
+  "cpi_chained_growth_2015_2024_pct": 26.351608584816944,
+  "rows": 10
+}

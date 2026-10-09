@@ -1,0 +1,7 @@
+{
+  "url": "https://open.alberta.ca/dataset/7714457c-7527-443a-a7db-dd8c1c8ead86/resource/e6c7f85c-73bc-44d3-af00-edebf01d82a1/download/goa-annual-report-2024-2025.pdf",
+  "source_index": "Quality of Life Analysis/research/source_verification/annual_reports.html",
+  "http_status": 403,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "result": "No PDF downloaded; no content claims"
+}

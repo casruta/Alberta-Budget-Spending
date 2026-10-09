@@ -1,0 +1,284 @@
+{
+  "checked_at_utc": "2026-10-09T04:42:55.760702+00:00",
+  "readme_sha256": "ccd44958e5a20be38912df87ef65e2dba22031817abcc8b1eb6295250d58485a",
+  "local_destinations_checked": 74,
+  "analytical_figures": 42,
+  "main_figures": 21,
+  "archive_figures": 21,
+  "headline_financial_comparisons_checked": 15,
+  "outcome_source_observations_checked": 7,
+  "prior_reviewed_artifacts_preserved": 60,
+  "calculated_financial_values": {
+    "population_growth_pct": 13.883065455392508,
+    "cpi_growth_pct": 20.12570655721153,
+    "combined_population_price_growth_pct": 36.80283702730194,
+    "capital_nominal_growth_pct": 19.580650487039787,
+    "capital_adjusted_per_resident_growth_pct": -12.589056568194623,
+    "Health_nominal_growth_pct": 34.84786277998266,
+    "Health_adjusted_per_resident_growth_pct": -1.4290451059352782,
+    "Basic and advanced education_nominal_growth_pct": 15.8203125,
+    "Basic and advanced education_adjusted_per_resident_growth_pct": -15.33778464193285,
+    "Social services_nominal_growth_pct": 44.23044145219022,
+    "Social services_adjusted_per_resident_growth_pct": 5.429422800205486,
+    "Other programs_nominal_growth_pct": 35.833473790662396,
+    "Other programs_adjusted_per_resident_growth_pct": -0.7085841622173961,
+    "Total programs_nominal_growth_pct": 30.888774723863357,
+    "Total programs_adjusted_per_resident_growth_pct": -4.323055304955636
+  },
+  "images": [
+    {
+      "path": "Quality of Life Analysis/figures/01_spending_intensity.png",
+      "width": 1869,
+      "height": 910,
+      "sha256": "52b76fc89f907ed78ff38555abdd7e11168ead82de838903258c57ff844f592a"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/02_allocation_change.png",
+      "width": 1894,
+      "height": 809,
+      "sha256": "6b7edf2d3f7314c59cff56a6580ec2409a324fbabc77574bb83791fa017b6963"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/02_spending_per_resident.png",
+      "width": 2124,
+      "height": 1080,
+      "sha256": "2d578a66ddd4f9b09a1cc80d154c237066e9f726f5c832411b614cb5941ed5e0"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/01_actual_capital_spending.png",
+      "width": 2124,
+      "height": 1080,
+      "sha256": "64f47013354ccd67e8dd1e7f4f20de83ac774e227dd809f19b2aa77556ef67f8"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/03_growth_benchmarks.png",
+      "width": 2124,
+      "height": 1080,
+      "sha256": "0365c2f038e1b2b11995e4c2408f6690ed71f3c3fa66df509a53261a07b79e9f"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/04_baseline_sensitivity.png",
+      "width": 2124,
+      "height": 1080,
+      "sha256": "97166db2147e0cb056ab2153561e19d15cd6b76cdaaaef25ec314b182dbc84da"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/05_latest_sector_changes.png",
+      "width": 2160,
+      "height": 1368,
+      "sha256": "b0bbac29cf5c6426833dc52c5cf96df584b63863833522aa247f8dbdb6b4b61d"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/06_tenure_sensitivity.png",
+      "width": 2124,
+      "height": 1080,
+      "sha256": "b7ed3cd8e8fe0a3b1469b9bd7344f2e7988ef006866c2a3097ece9414af3aa8e"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/07_selected_project_stages.png",
+      "width": 2340,
+      "height": 1332,
+      "sha256": "f397c8d9762a772201bf8f4e6e0d328d4ac0d6fe6194fc5665d9dd76d4d04f1a"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/08_hypothetical_price_sensitivity.png",
+      "width": 2124,
+      "height": 1080,
+      "sha256": "508b341ecf89235362b464ec8bef08b6147cbf2c2b4565edfcbcb88889195abd"
+    },
+    {
+      "path": "Infrastructure Analysis/plots/09_reported_budget_execution.png",
+      "width": 2160,
+      "height": 1440,
+      "sha256": "0c1a676a1157990982d6e128abbfbc35610c605c8be4a9371913183c05994430"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/08_emergency_and_imaging.png",
+      "width": 1855,
+      "height": 837,
+      "sha256": "0446a6e8e9c23e2e0f43c64a6ce2320191a24a9271a72bf74091fea16cb96b27"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/09_surgery_and_ems.png",
+      "width": 1888,
+      "height": 837,
+      "sha256": "3dbcce56a72dbfae6cc37fcc09d82e6f22d70bd3186034f7ac7ef530b64d430b"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/12_life_expectancy.png",
+      "width": 1588,
+      "height": 837,
+      "sha256": "815186cdb386c160ade78a4eb88745fd5ee079f634a63ab1ec6a6fd303c4361d"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/07_mental_health.png",
+      "width": 1564,
+      "height": 809,
+      "sha256": "9c5ee4e66905585838b0feefc5ae6f7c6ff6e5fc9625549af2e18fc2f262b4f2"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/06_grade9.png",
+      "width": 1580,
+      "height": 837,
+      "sha256": "770b7157b06a83aae89e5cc5491c329e0c3b3b7cd4f91d3b69cc696763693c39"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/05_completion.png",
+      "width": 1869,
+      "height": 837,
+      "sha256": "3baa267c5c9b1968ee925f8ef3175b0c8f94d63acf68368c74764cd37efe0d3e"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/11_poverty.png",
+      "width": 1853,
+      "height": 910,
+      "sha256": "b73b830cb4fbaadf85fd61e0af3e8d3d27e2b5f1c5af498e218712e4c32e08ca"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/03_pay_and_unemployment.png",
+      "width": 1886,
+      "height": 837,
+      "sha256": "030934f0e39236533eb67079faa7ab3aeec55bc8ace0e4068472fc4226dc75ca"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/10_housing_support.png",
+      "width": 1597,
+      "height": 823,
+      "sha256": "40099039ee96b9507e86460b6cf252870a64fa8d7036deb0a39c7a5b2804fc24"
+    },
+    {
+      "path": "Quality of Life Analysis/figures/04_safety.png",
+      "width": 1886,
+      "height": 837,
+      "sha256": "61f10d0538a189b37e407b2f8994a759b20b6ac33ae2b9b46982f164d9625c2e"
+    },
+    {
+      "path": "2011-2025 Expense Analysis/plots/alberta_fiscal_summary_infographic.png",
+      "width": 3596,
+      "height": 3928,
+      "sha256": "40930becea5ba21d79e624117f315dfa851d61fbc52550e7bce0403cfbb9b64e"
+    },
+    {
+      "path": "2011-2025 Expense Analysis/plots/expense_composition.png",
+      "width": 2360,
+      "height": 1967,
+      "sha256": "76d3a66e016196b53630aa5aee619dc169f5c2511a525a11df56d68c5c458652"
+    },
+    {
+      "path": "2011-2025 Expense Analysis/plots/expense_percapita.png",
+      "width": 2380,
+      "height": 1807,
+      "sha256": "2f46ab13f23005cf0e0bd086e7adda98a00f3f31b1fb3dd20864a55819bd2270"
+    },
+    {
+      "path": "2011-2025 Expense Analysis/plots/expense_real_spending.png",
+      "width": 2403,
+      "height": 1848,
+      "sha256": "82f7cd6a84dfc169f4a5d6c5f21b8718e38e7983061461cc09ac42a013876f03"
+    },
+    {
+      "path": "2011-2025 Expense Analysis/plots/expense_health_deep_dive.png",
+      "width": 2770,
+      "height": 1229,
+      "sha256": "db347525af2e031f35b95022e7a348a10f4585ffe6ea0d2df31905f19bad1ce7"
+    },
+    {
+      "path": "2011-2025 Expense Analysis/plots/expense_growth_indexed.png",
+      "width": 2331,
+      "height": 1196,
+      "sha256": "8f28feef613c75841d835010e265b3bede6f722c17a8738fb1c84ef216b3be2b"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/scissors_effect.png",
+      "width": 4166,
+      "height": 2363,
+      "sha256": "d7f5f8dcee99be3568114756444d2edee1bff6605fac3da450a754e13e5d1d01"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/fiscal_balance_waterfall.png",
+      "width": 4761,
+      "height": 2364,
+      "sha256": "5a83581e4ae64671b6c7f0d8d46c425b83c743641003d6746df89d5b15ca7162"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/revenue_composition.png",
+      "width": 3500,
+      "height": 1999,
+      "sha256": "cc58ae2bcc7d585d25e60f4765cab85515fdb55aedc935dc3336325f22b98b19"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/revenue_resource_risk.png",
+      "width": 3499,
+      "height": 1998,
+      "sha256": "25ea8095de851f5d0af999133a76f2f36e4f2140a5479674c27fda702ee780c2"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/revenue_dependency_comparison.png",
+      "width": 3990,
+      "height": 2244,
+      "sha256": "0f8b2de04bb22668e3963c4e5db6cfaf674f7379773339c5ed3785f67fd6bd29"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/expense_ministry_ranking.png",
+      "width": 4166,
+      "height": 3568,
+      "sha256": "90bd5a7c7b4b3ca8e8b93ef645b7037c8bc2a55a162ac6af08dc7c094a818857"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/per_dollar_breakdown.png",
+      "width": 3860,
+      "height": 2061,
+      "sha256": "1c8c049c71530619fce832dc842b587d6d0c1b00ed69e9920e405a97dacd0a9d"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/expense_changes_tornado.png",
+      "width": 4164,
+      "height": 2368,
+      "sha256": "c0f9d83c5944f4c13cca9219e4cf664afd2afbe15e396301189070df2cd62c82"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/expense_composition_categories.png",
+      "width": 3571,
+      "height": 2071,
+      "sha256": "5ba4e40d43192d6873345acc4d862bec9f1fd7a505842aa98eb70293d472aefc"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/expense_growth_vs_size.png",
+      "width": 4355,
+      "height": 2970,
+      "sha256": "1c8e6f13c4f8702dcf44ab18208fe5ab8b5c61b332a2befbfad3a8ccd63a06dd"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/health_spending_deep_dive.png",
+      "width": 3565,
+      "height": 2060,
+      "sha256": "bb981a62b82ab64a081b8331a24897ec6de618fe160a7218feef7e8e7fde1e1a"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/revenue_vs_expense_gap.png",
+      "width": 3145,
+      "height": 2339,
+      "sha256": "cf74b9d9a75a9e1f7bc20a04b97ccb122a1da8c70c0e5e5f451ed7b2b7990703"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/cumulative_deficit.png",
+      "width": 3565,
+      "height": 2060,
+      "sha256": "6b0e03baf9c17be1869d7bd379530d9da870f652facf1f68943d24b4c619f403"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/debt_trajectory.png",
+      "width": 4761,
+      "height": 2358,
+      "sha256": "00aa38ece527df76bd968aecbf0d1a7e3ffeafd8e96a8cb0a113b7072c7c9913"
+    },
+    {
+      "path": "2026-2029 Fiscal Plan/plots/debt_servicing_escalation.png",
+      "width": 3565,
+      "height": 2060,
+      "sha256": "68512fc55d4003b0718f90601db56a503dc3847a1e163fdb96560f0b1fdbb291"
+    }
+  ],
+  "status": "passed",
+  "limitations": "Archive numerical claims were not newly source-audited; native GitHub browser rendering was not tested."
+}

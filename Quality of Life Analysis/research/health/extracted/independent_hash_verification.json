@@ -1,0 +1,26 @@
+[
+  {
+    "file": "hlth-annual-report-2024-2025.pdf",
+    "expected_sha256": "0adc9772e55cf261b1f630a2e1378ce840e66c0d2868c079e7a849530dbefca8",
+    "sha256sum": "0adc9772e55cf261b1f630a2e1378ce840e66c0d2868c079e7a849530dbefca8",
+    "pass": true
+  },
+  {
+    "file": "health-2018-2019.pdf",
+    "expected_sha256": "91b040627c64814a29e817d58860096977bf171280d9e03dd51ca19497e8a85e",
+    "sha256sum": "91b040627c64814a29e817d58860096977bf171280d9e03dd51ca19497e8a85e",
+    "pass": true
+  },
+  {
+    "file": "health-2019-2020.pdf",
+    "expected_sha256": "5b7a60a185afebb453e444bc500267a0b6c4e8b49e3da7e632cca5f568359a4f",
+    "sha256sum": "5b7a60a185afebb453e444bc500267a0b6c4e8b49e3da7e632cca5f568359a4f",
+    "pass": true
+  },
+  {
+    "file": "health-2023-2024.pdf",
+    "expected_sha256": "1bf1f2380a6723d241953243936afe2acb3161d37ba3af0fe2d6a622fea6377d",
+    "sha256sum": "1bf1f2380a6723d241953243936afe2acb3161d37ba3af0fe2d6a622fea6377d",
+    "pass": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "validation_environment": "/workspace/.venv-alberta-independent-check",
+  "system_site_packages": false,
+  "executed_code_cells": 15,
+  "unexecuted_code_cells": 0,
+  "error_outputs": 0,
+  "rendered_images": 9,
+  "runtime_output": [
+    "Python runtime: /workspace/.venv-alberta-independent-check/bin/python\n"
+  ],
+  "claims": "Clean local virtual environment validation; cloud fresh-task restoration remains untested.",
+  "tests_passed": 36,
+  "pip_check": "No broken requirements found",
+  "embedded_figures_matching_saved_plots": 9,
+  "html_figures_matching_notebook": 9,
+  "html_alternative_text_preserved": true,
+  "label_repair_verified": true
+}

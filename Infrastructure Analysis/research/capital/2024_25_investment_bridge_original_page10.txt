@@ -1,0 +1,493 @@
+10
+2024-25 Final Results | Year-End Report
+2023-24
+2023-24
+Budget
+Actual
+Actual
+Budget
+Actual
+Cash/Alberta Fund at start of the year
+3,218
+       
+3,667
+       
+5,136
+       
+449
+          
+(1,469)
+      
+AB Fund - Heritage Fund allocation
+(2,000)
+      
+(2,000)
+      
+-
+               
+-
+               
+(2,000)
+      
+Surplus / (Deficit)
+355
+          
+8,320
+       
+4,285
+       
+7,965
+       
+4,036
+       
+Cash Adjustments (negative = cash requirement; positive = cash source)
+Retained Income of Funds and Agencies
+Alberta Heritage Savings Trust Fund
+(907)
+         
+(1,871)
+      
+(1,892)
+      
+(964)
+         
+21
+            
+ATB Financial
+(266)
+         
+(348)
+         
+(337)
+         
+(82)
+           
+(11)
+           
+Agriculture Financial Services Corporation
+(1,051)
+      
+46
+            
+609
+          
+1,097
+       
+(563)
+         
+Heritage Foundation for Medical Research Endowment Fund
+(119)
+         
+(169)
+         
+(174)
+         
+(50)
+           
+5
+              
+Heritage Science and Engineering Research Endowment Fund
+(62)
+           
+(86)
+           
+(87)
+           
+(24)
+           
+1
+              
+Heritage Scholarship Fund
+(72)
+           
+(79)
+           
+(83)
+           
+(7)
+             
+4
+              
+Alberta Social Housing Corporation
+(24)
+           
+7
+              
+6
+              
+31
+            
+1
+              
+Credit Union Deposit Guarantee Corporation
+(16)
+           
+(17)
+           
+(9)
+             
+(1)
+             
+(8)
+             
+Alberta Petroleum Marketing Commission
+525
+          
+616
+          
+1,637
+       
+91
+            
+(1,021)
+      
+Technology Innovation and Emissions Reduction Fund 
+(16)
+           
+(89)
+           
+(425)
+         
+(73)
+           
+336
+          
+Balancing Pool
+(65)
+           
+(50)
+           
+(160)
+         
+15
+            
+110
+          
+Other
+(27)
+           
+(72)
+           
+(57)
+           
+(45)
+           
+(15)
+           
+Total Retained Income of Funds and Agencies 
+(2,099)
+      
+(2,111)
+      
+(972)
+         
+(11)
+           
+(1,138)
+      
+Other Cash Adjustments
+SUCH sector own-source revenue
+(5,877)
+      
+(6,805)
+      
+(6,020)
+      
+(928)
+         
+(785)
+         
+SUCH sector own-source expense
+6,895
+       
+7,075
+       
+6,643
+       
+180
+          
+432
+          
+Net deferred capital contribution cash adjustment
+(42)
+           
+4
+              
+183
+          
+46
+            
+(179)
+         
+Energy royalties (difference between accrued revenue & cash)
+549
+          
+552
+          
+274
+          
+3
+              
+278
+          
+Student loans
+(606)
+         
+(296)
+         
+(540)
+         
+310
+          
+244
+          
+Other cash adjustments
+(351)
+         
+(733)
+         
+922
+          
+(382)
+         
+(1,655)
+      
+2013 Alberta flood assistance revenue / expense
+(20)
+           
+-
+               
+(7)
+             
+20
+            
+7
+              
+Wood Buffalo wildfire revenue / expense
+95
+            
+(1)
+             
+(6)
+             
+(96)
+           
+5
+              
+Pension recovery (non-cash expense)
+(364)
+         
+(403)
+         
+(372)
+         
+(39)
+           
+(31)
+           
+Inventory acquisition (excluding SUCH sector; non-cash expense)
+(234)
+         
+(205)
+         
+(157)
+         
+29
+            
+(48)
+           
+Inventory consumption (excluding SUCH sector; non-cash expense)
+233
+          
+180
+          
+361
+          
+(53)
+           
+(181)
+         
+Total Other Cash Adjustments
+279
+          
+(632)
+         
+1,280
+       
+(911)
+         
+(1,913)
+      
+Capital Cash Adjustments
+Capital investment (excluding SUCH sector self-financed)
+(4,323)
+      
+(3,437)
+      
+(3,581)
+      
+886
+          
+144
+          
+Capital Plan contingency
+800
+          
+-
+               
+-
+               
+(800)
+         
+-
+               
+Current principal repayments (P3s – public-private partnerships)
+(98)
+           
+(74)
+           
+(92)
+           
+24
+            
+18
+            
+Alternative financing (P3s – public-private partnerships)
+1
+              
+4
+              
+64
+            
+3
+              
+(60)
+           
+Amortization (excluding SUCH sector - non-cash expense)
+1,363
+       
+1,305
+       
+1,212
+       
+(58)
+           
+93
+            
+Book value of asset disposals (net non-cash expense / revenue)
+-
+               
+-
+               
+-
+               
+-
+               
+-
+               
+Total Capital Cash Adjustments
+(2,257)
+      
+(2,203)
+      
+(2,397)
+      
+55
+            
+194
+          
+ATB Financial dividend
+100
+          
+100
+          
+-
+               
+-
+               
+100
+          
+Total Cash Adjustments
+(3,977)
+      
+(4,845)
+      
+(2,089)
+      
+(867)
+         
+(2,757)
+      
+Surplus / (Deficit) plus net cash adjustments
+(3,622)
+      
+3,475
+       
+2,196
+       
+7,098
+       
+1,279
+       
+Allocation of Surplus Cash
+Surplus cash (balance at start of year +/- AB Fund - Heritage Fund allocation + surplus 
++/- net cash adjustments)
+(2,404)
+      
+5,142
+       
+7,333
+       
+7,546
+       
+(2,191)
+      
+Less: 
+Debt repayment / Heritage Fund 
+-
+               
+(2,571)
+      
+(3,666)
+      
+(2,571)
+      
+1,095
+       
+Allocation to Alberta Fund
+-
+               
+(2,571)
+      
+(3,667)
+      
+(2,571)
+      
+1,096
+       
+Direct borrowing required
+2,404
+       
+-
+               
+-
+               
+(2,404)
+      
+-
+               
+Unallocated Surplus Cash
+-
+               
+-
+               
+-
+               
+-
+               
+-
+               
+2024-25
+Change from 
+Cash Adjustments / Borrowing Requirements 
+(millions of dollars)

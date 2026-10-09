@@ -1,0 +1,54 @@
+[
+  {
+    "file": "hlth-annual-report-2024-2025.pdf",
+    "url": "https://open.alberta.ca/dataset/4bb6bc99-ab59-47fd-a633-dfc27d7a049e/resource/6920038c-39c3-4dbd-ad36-14c649bff0a6/download/hlth-annual-report-2024-2025.pdf",
+    "http_status": 200,
+    "sha256": "0adc9772e55cf261b1f630a2e1378ce840e66c0d2868c079e7a849530dbefca8",
+    "bytes": 2189317,
+    "retrieval_session_date_utc": "2026-10-09",
+    "provenance_recorded_at_utc": "2026-10-09T03:37:09.224668+00:00",
+    "request": "curl -L --fail with normal platform proxy and TLS verification; URLs followed official annual-report index",
+    "header_verification_http_status": "200",
+    "header_verification_utc": "2026-10-09T03:45:52.985663+00:00",
+    "header_verification_returncode": 0
+  },
+  {
+    "file": "health-2018-2019.pdf",
+    "url": "https://open.alberta.ca/dataset/4bb6bc99-ab59-47fd-a633-dfc27d7a049e/resource/32a0c20e-728d-4004-bc38-52f24ebd30cd/download/health-annual-report-2018-2019-web.pdf",
+    "http_status": 200,
+    "sha256": "91b040627c64814a29e817d58860096977bf171280d9e03dd51ca19497e8a85e",
+    "bytes": 1735247,
+    "retrieval_session_date_utc": "2026-10-09",
+    "provenance_recorded_at_utc": "2026-10-09T03:37:09.479876+00:00",
+    "request": "curl -L --fail with normal platform proxy and TLS verification; URLs followed official annual-report index",
+    "header_verification_http_status": "200",
+    "header_verification_utc": "2026-10-09T03:45:53.736370+00:00",
+    "header_verification_returncode": 0
+  },
+  {
+    "file": "health-2019-2020.pdf",
+    "url": "https://open.alberta.ca/dataset/4bb6bc99-ab59-47fd-a633-dfc27d7a049e/resource/04c7e15d-c88e-4172-b3fd-169be52ffe73/download/health-annual-report-2019-2020.pdf",
+    "http_status": 200,
+    "sha256": "5b7a60a185afebb453e444bc500267a0b6c4e8b49e3da7e632cca5f568359a4f",
+    "bytes": 3153457,
+    "retrieval_session_date_utc": "2026-10-09",
+    "provenance_recorded_at_utc": "2026-10-09T03:37:09.849949+00:00",
+    "request": "curl -L --fail with normal platform proxy and TLS verification; URLs followed official annual-report index",
+    "header_verification_http_status": "200",
+    "header_verification_utc": "2026-10-09T03:45:54.144262+00:00",
+    "header_verification_returncode": 0
+  },
+  {
+    "file": "health-2023-2024.pdf",
+    "url": "https://open.alberta.ca/dataset/4bb6bc99-ab59-47fd-a633-dfc27d7a049e/resource/0cbfe4d6-a288-4c51-91f6-7a0870de9b2c/download/hlth-annual-report-2023-2024.pdf",
+    "http_status": 200,
+    "sha256": "1bf1f2380a6723d241953243936afe2acb3161d37ba3af0fe2d6a622fea6377d",
+    "bytes": 3247219,
+    "retrieval_session_date_utc": "2026-10-09",
+    "provenance_recorded_at_utc": "2026-10-09T03:37:10.246329+00:00",
+    "request": "curl -L --fail with normal platform proxy and TLS verification; URLs followed official annual-report index",
+    "header_verification_http_status": "200",
+    "header_verification_utc": "2026-10-09T03:45:54.484407+00:00",
+    "header_verification_returncode": 0
+  }
+]

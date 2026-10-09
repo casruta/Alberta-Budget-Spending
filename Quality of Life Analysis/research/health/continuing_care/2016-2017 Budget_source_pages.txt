@@ -1,0 +1,118 @@
+PHYSICAL PDF PAGE 128, 1-indexed
+PERFORMANCE MEASURE                        3                                         STRATEGIC PRIORITY                   5
+      pdf named: 16-17_MUP_p5-m3_atccs.pdf                                                                    2016-17 GoA Annual Report
+                                                                                                        Measuring Up, Priority 5, Measure 3
+
+                           Access to Continuing Care Spaces
+                            Access to Continuing Care Spaces
+                           Percentage of
+                           Percentage of clients
+                                         clients placed
+                                                 placed inincontinuing
+                                                             continuingcare within
+                                                                         care      30 days
+                                                                              within       of being
+                                                                                      30 days       assessed
+                                                                                               of being assessed
+                                  100
+
+                                      80                 69
+                                             67
+                                                                        60             60                            62
+                                                                                                      56
+                            Percent
+
+
+                                      60
+
+                                      40
+
+                                      20
+
+                                      0
+                                           2012-13    2013-14        2014-15        2015-16        2016-17         Target
+
+                           Source: Alberta Health Services, 7 Meditech rings for the South, Central and North Zones and from 2
+                           Source: Alberta Health Services, 7 Meditech rings for the South, Central and North Zones and from 2
+                           Strata health Pathways applications by the Calgary and Edmonton Zones
+                           Strata Health Pathways applications by the Calgary and Edmonton Zones
+                           For additional sources and notes see page 146
+
+
+                           Results Analysis
+                           Continuing Care Living Option refers to the level of care in a publicly-funded resident
+                           accommodation that provides health and support services appropriate to meet the
+                           client’s assessed unmet needs (i.e. Designated Supportive Living or Long-term Care).
+                           The 2016-17 result of 56 per cent is six percentage points lower than the target of 62 per
+                           cent. A number of factors have contributed to this result including the curtailment of the
+                           planned investment in home care spending, as well as some unanticipated continuing
+                           care capacity and facility issues that arose in 2016-17. For example, some continuing
+                           care spaces did not open as originally planned this year; there were also some major
+                           water incidents in continuing care facilities requiring restoration work that resulted in
+                           displacement and repatriation of residents. These challenges have driven longer waits
+                           and higher waitlists for placement into Continuing Care Living Options. All delayed
+                           continuing care spaces are planned to open in the 2017-18 fiscal year.
+                           To continue to address the broader capacity expansion need, the Government of Alberta
+                           is committed to increasing capacity for publicly-funded facility-based continuing care
+                           (which includes long-term care and designated supportive living). In Budget 2017,
+                           $322 million was committed over four years to expand facility-based continuing care
+                           spaces and the home and community care budget was boosted by $200 million. Capacity
+                           issues are expected to be partly addressed when the planned spaces start to become
+                           available across the next few years and as improvements to home and community care
+                           are realized.
+
+
+
+
+126                                                                          GOVERNMENT OF ALBERTA 2016 –17 ANNUAL REPORT
+
+
+PHYSICAL PDF PAGE 148, 1-indexed
+           March 31) by the total population covered by the Alberta Health Care Insurance
+           Plan as at March 31 of the same fiscal year, and then multiplying the resulting
+           quotient by 100 to obtain the percentage.
+           The numerator is the total number of patients enrolled in PCNs in a given
+           year (April 1 to March 31), as reported in Table 2.29 Primary Care Networks:
+           Distribution by Health Region (AHS Zone), Number of Primary Care Physicians,
+           Number of Patients, and Total Payments for the Service Year April 1, 2015 to March
+           31, 2016, Alberta Health Care Insurance Plan Statistical Supplement. Patients are
+           considered to be enrolled in a PCN when they are assigned to a physician/nurse
+           practitioner/pediatrician registered to a PCN.
+           The number of patients enrolled in a PCN is calculated by the payments issued
+           to the program, which is associated with the providers within the PCN. The
+           payments to the PCN are identified by the payments the providers receive
+           through the Claims Assessment System (CLASS). CLASS is an application that
+           collects and processes claims transactions for physicians of multiple disciplines
+           and provides information of compensation for physician services.
+           The denominator is the number of people with an Alberta Personal Health
+           Number that are registered and covered under the Alberta Health Care Insurance
+           Plan as at March 31 of a given year. This number is reported in Table 1.1 of the
+           Alberta Health Care Insurance Plan Statistical Supplement.
+
+      Access to Continuing Care Spaces
+           Source: Alberta Health Services, 7 Meditech rings for the South, Central and
+           North Zones and from 2 Strata Health Pathways applications by the Calgary and
+           Edmonton Zones.
+           Note(s): Percent of clients admitted to a continuing care living option (supportive
+           or facility living) within 30 days of the Assessed and Approved date.
+           Continuing Care Living Option refers to the level of care in a publicly funded
+           resident accommodation that provides health and support services appropriate to
+           meet the client’s assessed unmet needs (i.e. Designated Supportive Living Level 3
+           or 4, or Long-term Care).
+           Assessed and Approved date refers to the date the client is placed on the waitlist
+           for a continuing care living option following the completion of the assessment
+           and approval process.
+           The result is calculated based on the number of individuals admitted to a
+           Continuing Care Living Option within 30 days of their Assessed and Approved
+           date divided by the total number of individuals admitted to a Continuing
+           Care Living Option (supportive or facility living) during the reporting period,
+           expressed as a percentage.
+
+      Influenza Immunization
+           Source: Ministry of Health; Alberta Health Services (AHS); Alberta Blue Cross;
+           Health Canada
+
+
+
+
+146                                             GOVERNMENT OF ALBERTA 2016 –17 ANNUAL REPORT

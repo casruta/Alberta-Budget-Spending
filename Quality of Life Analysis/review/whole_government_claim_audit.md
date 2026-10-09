@@ -1,0 +1,57 @@
+# Whole-government2024–25claim audit
+
+ReviewedOctober9,2026. Directoriginal152pageannualreportPDFsource_verification/downloads/goa-annual-report-2024-2025.pdf inspected alongsidePSES2024–25annualPDF. Sourcepublication/fiscaltitleisnotnecessarilyobservationperiod. Nooriginal/sourcefileschanged.
+
+## 1. Long-term unemployment: contradictory status
+
+WholegovernmentphysicalPDF102/printed100states exactly:
+
+> “Status: Improving - The share of unemployed Albertans who were unemployed long-term increased from16per cent in2023to21per cent in2024.”
+
+DetailedphysicalPDF114/printed112labels **“Status: Increasing”**, repeats16→21 andcharts2020=19,2021=37,2022=21,2023=16,2024=21percent. Thussummary“Improving” conflictswithnumericdirectionanddetail. Report the share's **5percentage-pointincrease** from2023to2024and flagstatusinconsistency. Relative+31.25%canbecalculatedfromroundedvaluesbutaddsfalseprecision;prefer5pp.
+
+Denominatoris**unemployedAlbertans**,notallresidents/alllabourforce,so21%isnotprovincewideunemploymentrate. MethodphysicalPDF145/printed143identifiesStatisticsCanadaLFS,calendarresults,noninstitutionalizedage15+withstandardexclusions(reserves/otherIndigenoussettlements,armedforces,institutions,remotehouseholds). Recoverednote doesnotstateexactdurationthresholdfor“long-term”;do notinvent52/27weekdefinitionwithoutdirectseriesmetadata. Labelshareofunemployedwhoarelongtermusingpublishedsource,notanunverifiedstandardduration.
+
+## 2. Crime: source percentage discrepancy and index distinctions
+
+WholegovernmentphysicalPDF103/printed101says **“In2023,Alberta'scrime severity indexdecreasedby2.2per cent.”** PSESphysicalPDF29/printed27 says **AlbertaCSI dropped2.1per cent**,whileCanadarose2.2%. Wholegovernmentchart/detailandPSESmaydifferinrounding/vintage;accessibletextdoesnotresolveexactcause. Do notdeclareonewrongbyassumingCanadafigurecopy. Preserve **published−2.2versus−2.1source discrepancy**;reportapproximately2%fallifheadlineprecisionunneeded.
+
+OverallCSIisnotviolentCSIorviolentcrimerate. PSESPDF30/printed28saysAlbertaviolentCSI**+0.27%** andnonviolentCSI**−3.2%**in2023,whilepolicereportedviolentcrimerateincreased1.9%. WholegovernmentPDF138/printed136matchesviolent+1.9%andproperty−6.1%. Thesearesimultaneouslypossiblebecausecrimevolume,weightsandtypesdiffer;notcontradictions.
+
+PSESroundedchartviolent2022=114and2023=114cannotrecover+0.27%fromdisplayedintegers;sourceproseusesmorepreciseunderlyingvalues. LikewisecomponentscannotbeaveragedtoreconstructoverallCSI. Indexweightedseverityperpopulationversuscrimerateper100kandreportedincidentsremainseparate. Bothreportsdescribe**calendar2023**,notFY2024–25safetyoutcomesor2026conditions.
+
+## 3. Affordable housing: mixed output measure
+
+WholegovernmentphysicalPDF141/printed139title:
+
+> “PerformanceIndicator:Newaffordablehousingunitsandrent subsidies”
+
+Itstatesresultsinclude **“newlybuilt,refurbishedorupgraded(i.e.,regenerated)affordablehousingunitsacrossfivecapitalprogramsandadditionalhouseholdssupportedundertheRentSupplementprogram”**,includingnewgender-basedviolencehousingbenefit. Chart2021–22=2243,2022–23=2325,2023–24=2302,2024–25=798.
+
+Therefore798is**combinednew/regeneratedunitsplusnewrental-subsidyhouseholdsupports**,not798newhouses,netaddedphysicalunits,newbuildings ortotalhouseholdscurrentlyserved. Evenchartaxis“NumberofAffordableHousingUnits”isnarrowerthanparagraphdefinition;paragraphandmethodmustcontrolanalysislabels. Do notcompare798directlywithInfrastructureReport388completedhousingunitsasifidenticaldenominators;financialprogramscopeandnonphysicalsubsidiesdiffer.
+
+2302→798is−1504combinedoutputs,**−65.3%**descriptivefall;not65.3%shrinkageofhousingstockorbudget. Sourceexplainscapitaltimingandlargerrentbenefitsforalreadycoveredhouseholds,butthesearesourceexplanations,notindependentlyidentifiedcausalfactors. Sourcealsoreports1626units/359shelterspaces**inprogress**,notdelivered. MethodPDF151/printed149tiesmetricto25000morehouseholdsby2032–33strategyandscopegovernmentowned/supportedprivate/public/nonprofit housing. No2024–25numericperformance targetissuppliedhere.
+
+## 4. Surgery counts: estimates, not reconciled audited exact totals
+
+WholegovernmentphysicalPDF151/printed149states exactly:
+
+> “Volumesarepresentedasestimatesasreconciliationofactualvolumesrequiresdetailedreviewofsurgicalchartstodetermineactualproceduresandvolumes.”
+
+Ifusingthesourcecounts,labelestimatedscheduled/emergencysurgeryvolumesfromlocalOR/AHSrepository,notauditedproceduretotalsoruniquepatients. Moreproceduresdoesnotitselfprovewaittimeimprovement/demandmet,thoughsourcesaysindicatorreflectsexpandedsurgicalcapacity. Noautomaticcausalbudgeteffect;comparisonneedsclinicalmix,urgency,demand,staffingandcountsreconciliation.
+
+## 5. Clinician supply: active licence is not active practice
+
+WholegovernmentphysicalPDF151/printed149states:
+
+> “CPSAdatareflectsphysicianswhomaintainanactivelicenseinAlbertaandcannotbeinterpretedasthosewhoareactivelypracticingintheprovince.”
+
+AndforCRNAregisterednurses/nursepractitioners:
+
+> “Thedatareflectssupplyandnotworkforce.”
+
+Despiteindicatorheading“workforce”,interpretationmustsay**licensed supply**,notactiveproviderheadcount/FTE,availablefamilydoctorcoverageorstaffedclinicalcapacity. Numeratormayincludeindividualsnotpracticingintheprovince. Perpopulationnormalizationcreateslicensedsupplyperresident,notactualserviceaccess. Distinguishfamilyphysicians,nursepractitionersandRNs;licensescannotbeaddedtosurgeries/bedsascommoncapacityunits.
+
+## Integration verdict
+
+Sourceauditshoulddisplaycontradictorystatus/percentagesandsemanticdefinitionproblemsratherthanrepeatingpromotional“Improving”labels. Newreportmaystateoutcomesevidenceismixedwithdifferentperiods/scopes;nooverallquality-of-lifeindexorpartisanbudget-to-outcomeeffectidentified. GovernmentFY2024–25reporttitlecancontaincalendar2023crime,calendar2024employmentand2023–24schoolcompletion:retainobservationdatesineverytable/figure.

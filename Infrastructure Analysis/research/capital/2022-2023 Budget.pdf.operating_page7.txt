@@ -1,0 +1,72 @@
+Total Expense
+(millions of dollars)                                                                2022-23      2021-22  Change from
+     Operating Expense by Ministry                                           Budget   Actual   Actual  Budget 2021-22
+   1    Advanced Education                                                          5,283    5,501    5,138     218     363
+   2     Affordability and Utilities                                                    78     712     356     634     356
+   3     Agriculture and Irrigation                                                   700     685     661       (15)     24
+   4     Children's Services                                                           2,389    2,440    1,706      51     734
+   5     Culture                                                                150     162     161      12       1
+   6    Education                                                                   8,390    8,308    7,846       (82)    462
+   7    Energy (incl. crude-by-rail expense of $866 million in 2021-22)                     491     796    1,419     305     (623)
+   8    Environment and Protected Areas                                           376     416     390      40      26
+   9     Executive Council                                                         26      28      22       2       6
+  10     Forestry, Parks and Tourism                                               328     303     301       (25)      2
+  11     Health                                                                    21,917   22,516   21,235     599    1,281
+  12     Indigenous Relations                                                     165     185     153      20      32
+  13     Infrastructure                                                            408     431     430      23       1
+  14     Jobs, Economy and Northern Development                                    312     252     197       (60)     55
+  15     Justice                                                                 502     588     461      86     127
+  16    Mental Health and Addiction                                                101      88      66       (13)     22
+  17     Municipal Affairs                                                         186     180     187         (6)        (7)
+  18     Public Safety and Emergency Services                                          1,024    1,032    1,060       8       (28)
+  19     Seniors, Community and Social Services                                        4,646    4,873    4,353     227     520
+  20     Service Alberta and Red Tape Reduction                                      88      89      88       1       1
+  21     Skilled Trades and Professions                                             162     155     142         (7)     13
+  22    Technology and Innovation                                                 540     532     533         (8)        (1)
+  23     Trade, Immigration and Multiculturalism                                        67      68      45       1      23
+  24     Transportation and Economic Corridors                                       461     572     437     111     135
+  25    Treasury Board and Finance                                                   1,847    1,952    2,034     105       (82)
+  26     Legislative Assembly                                                     170     128     117       (42)     11
+  27 Total Operating Expense                                                      50,800   52,992   49,531    2,192    3,461
+    COVID-19 / Recovery Plan Operating Expense
+ 28    Advanced Education                                                       62      60      15         (2)     45
+ 29     Energy                                                                310     439     318     129     121
+ 30     Health                                                                  10     922    1,508     912     (586)
+ 31     Jobs, Economy and Northern Development                                    106      88     377       (18)    (289)
+ 32     Technology and Innovation                                                 122     127      65       5      62
+ 33     Other                                                                   77      98     529      21     (431)
+ 34     Contingency (Treasury Board and Finance)                                    750            -            -     (750)           -
+ 35 Total COVID-19 / Recovery Plan Operating Expense                               1,437    1,734    2,812     297   (1,078)
+     Capital Grants
+  36     Culture                                                                110      97      33       (13)     64
+  37    Energy                                                                 58      53      43         (5)     10
+  38     Municipal Affairs                                                         778     750    1,702       (28)    (952)
+  39     Transportation and Economic Corridors                                         1,070     452     472     (618)      (20)
+  40    Other                                                                  413     184     253     (229)      (69)
+  41 Total Capital Grants                                                             2,429    1,536    2,503     (893)    (967)
+     Disaster / Emergency Assistance
+  42     Agriculture and Irrigation – agriculture support                                                            -    1,141    2,886    1,141   (1,745)
+  43     Forestry, Parks and Tourism – wildfire fighting                                                            -     161     144     161      17
+  44     Public Safety and Emergency Services – wildfire / flood support                                     -      17      32      17       (15)
+  45    Technology and Innovation – 1GX costs                                                                    -            -      14            -       (14)
+  46    Contingency (Treasury Board and Finance)                                      1,000            -            -   (1,000)           -
+  47 Total Disaster / Emergency Assistance                                           1,000    1,319    3,076     319   (1,757)
+  48 Amortization / Inventory Consumption / Loss on Asset Disposals                  4,057    4,090    4,213      33     (123)
+     Taxpayer-supported Debt Servicing Costs - General
+  49    Education (School Boards)                                                   9       8       9         (1)        (1)
+  50    Treasury Board and Finance                                                   1,150     972    1,154     (178)    (182)
+  51     Total Taxpayer-supported General Debt Servicing Costs                       1,159     980    1,163     (179)    (183)
+     Taxpayer-supported Debt Servicing Costs - Capital Plan
+  52    Education (school P3s) / Transportation (ring road P3s)                          128     128     129            -         (1)
+  53    Treasury Board and Finance – direct borrowing                                  1,156    1,217     987      61     230
+  54     Total Taxpayer-supported Capital Plan Debt Servicing Costs                   1,284    1,345    1,116      61     229
+  55 Total Taxpayer-supported Debt Servicing Costs                                   2,443    2,325    2,278     (118)     47
+     Self-supported Debt Servicing Costs
+  56    Treasury Board and Finance – loans to local authorities                          155     428     298     273     130
+  57    Treasury Board and Finance – Ag Financial Services Corp.                        64      76      65      12      11
+  58 Total Self-supported Debt Servicing Costs                                     219     504     363     285     141
+  59 Total Debt Servicing Costs                                                      2,662    2,829    2,641     167     187
+  60 Pension Provisions / (Recovery)                                                      (289)      (21)     (365)    268     344
+  61 Total Expense                                                                62,096   64,479   64,407    2,383      72
+
+2022-23 Final Results | Year-End Report                                                                               7

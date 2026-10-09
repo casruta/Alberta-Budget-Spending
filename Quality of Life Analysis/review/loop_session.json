@@ -1,0 +1,30 @@
+{
+  "started_utc": "2026-10-09T03:31:14+00:00",
+  "completed_utc": "2026-10-09T04:11:33.931264+00:00",
+  "elapsed_minutes": 40.33218773333333,
+  "focus": "Evidence gaps and source verification, selected by the user",
+  "downloaded_government_pdfs": 12,
+  "direct_statistics_canada_tables": 2,
+  "tests_passed": 12,
+  "executed_notebook_code_cells": 22,
+  "rendered_figures": 12,
+  "source_hashes_verified": 46,
+  "final_deliverable_hashes": 31,
+  "prior_deliverable_hashes_preserved": 29,
+  "original_tracked_files_changed": false,
+  "runtime": "Independent pinned environment; confirmed from actual executed notebook output",
+  "configuration_draft_revision": 5,
+  "configuration_fields_saved": [
+    "start_skill"
+  ],
+  "configuration_published": false,
+  "fresh_task_restoration_verified": false,
+  "assessment": "Mixed observed outcomes; share with stated caveats; no causal overall QoL verdict",
+  "remaining_gaps": [
+    "Healthy life expectancy, life satisfaction, food insecurity and housing cost burden",
+    "Need/sector-price-adjusted inputs and fuller subgroup distributions",
+    "Latest fiscal actuals and source revision/definition bridges",
+    "Program exposure and counterfactual design for causal evaluation",
+    "Hosted Data report-app runtime unavailable; no hosted publication"
+  ]
+}

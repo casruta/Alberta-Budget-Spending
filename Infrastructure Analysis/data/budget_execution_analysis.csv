@@ -1,0 +1,11 @@
+fiscal_year,budget_million,contemporary_actual_million,budget_execution_pct,actual_minus_budget_million,source_reported_budget_difference_million,budget_difference_rounding_residual_million,latest_2024_25_vintage_actual_million,latest_minus_contemporary_actual_million,contemporary_grants_actual_million,contemporary_investment_actual_million,source_file,pdf_page,source_vintage
+2015-16,7863,6558,83.40328119038534,-1305,-1305,0,6558.0,0.0,1911,4647,Budget PDFs/2015-2016 Annual Report.pdf,10,2015-16
+2016-17,8481,6578,77.56160830090792,-1903,-1903,0,6578.0,0.0,2161,4417,Budget PDFs/2016-2017 Budget.pdf,12,2016-17
+2017-18,9175,9016,98.26702997275204,-159,-159,0,9021.0,5.0,4017,4999,Budget PDFs/2017 Budget.pdf,12,2017-18
+2018-19,6444,6180,95.90316573556798,-264,-264,0,6057.0,-123.0,1952,4228,Budget PDFs/2018-19 Budget.pdf,3,2018-19
+2019-20,6206,5564,89.65517241379311,-642,-642,0,5545.0,-19.0,1696,3868,Budget PDFs/2019-20 Budget.pdf,3,2019-20
+2020-21,6960,6896,99.08045977011494,-64,-64,0,6896.0,0.0,2401,4495,Budget PDFs/2020-21 Budget.pdf,3,2020-21
+2021-22,8114,6622,81.61202859255607,-1492,-1492,0,6622.0,0.0,2503,4119,Budget PDFs/2021-22 Budget.pdf,3,2021-22
+2022-23,7534,5644,74.9137244491638,-1890,-1890,0,5633.0,-11.0,1536,4108,Budget PDFs/2022-2023 Budget.pdf,3,2022-23
+2023-24,8005,6300,78.70081199250468,-1705,-1705,0,6300.0,0.0,2103,4197,Budget PDFs/tbf-goa-2023-2024 Budget.pdf,3,2023-24
+2024-25,8299,7243,87.27557537052657,-1056,-1056,0,7243.0,0.0,2934,4309,Budget PDFs/2024-2025 Budget.pdf,3,2024-25

@@ -1,0 +1,43 @@
+{
+  "comparison_cells": 80,
+  "all_match": true,
+  "sources": {
+    "archived_final_results": {
+      "file": "Budget PDFs/2024-2025 Budget.pdf",
+      "sha256": "a1a5d7638d96995845885ac43c556249bff2341f0d875d0f38027944df17c87f",
+      "pdf_metadata": {
+        "format": "PDF 1.6",
+        "title": "2024-25 Final Results - Year-end Report",
+        "author": "Government of Alberta - Treasury Board and Finance",
+        "subject": "2024-25 Final Results - Year-end Report",
+        "keywords": "",
+        "creator": "Adobe InDesign 20.3 (Macintosh)",
+        "producer": "Adobe PDF Library 17.0",
+        "creationDate": "D:20250625131347-06'00'",
+        "modDate": "D:20250626173952-06'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "current_website_annual_report": {
+      "file": "Quality of Life Analysis/research/source_verification/downloads/goa-annual-report-2024-2025.pdf",
+      "sha256": "9928eabc408f5f6a4770f0d62dc8da42d654e6dd34e3932299265355492de477",
+      "pdf_metadata": {
+        "format": "PDF 1.6",
+        "title": "Annual Report - Government of Alberta 2024-2025",
+        "author": "Government of Alberta - Treasury Board and Finance",
+        "subject": "Annual Report Government of Alberta 2024-2025\rBudget 2021 Key Results\rConsolidated Financial Statements\rPerformance Results",
+        "keywords": "Security Classification: PUBLIC\nAnnual Report - Government of Alberta 2024-2025\nBudget 2024 Key Results\nConsolidated Financial Statements\nPerformance Results",
+        "creator": "Adobe Acrobat 25.1.20529",
+        "producer": "Adobe PDF Library 17.0",
+        "creationDate": "D:20250620132928-06'00'",
+        "modDate": "D:20250626171338-06'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    }
+  },
+  "archived_page": 14,
+  "website_physical_page": 14,
+  "website_printed_page": 12
+}
