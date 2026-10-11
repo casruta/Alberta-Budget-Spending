@@ -1,0 +1,37 @@
+{
+  "surface": "Local Chromium preview using GitHub-style markdown CSS; GitHub native stylesheet requests returned HTTP403",
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "documentWidth": 1440,
+      "visibleImages": 7,
+      "details": 8,
+      "tableOverflowContained": true,
+      "expanded_images": 42,
+      "all_images_loaded": true,
+      "details_toggle_passed": true,
+      "horizontal_overflow": false
+    },
+    "narrow": {
+      "width": 390,
+      "documentWidth": 390,
+      "visibleImages": 7,
+      "details": 8,
+      "tableOverflowContained": true,
+      "expanded_images": 42,
+      "all_images_loaded": true,
+      "details_toggle_passed": true,
+      "horizontal_overflow": false
+    }
+  },
+  "readme_sha256": "7e08f2ca02705c982712e741b37258af79953e4cc0c429363e599aea0a6e350b",
+  "checked_date_utc": "2026-10-11",
+  "css_source": "https://raw.githubusercontent.com/sindresorhus/github-markdown-css/main/github-markdown-light.css",
+  "css_sha256": "de2d14b5290b8cf2af74c95e92560d9c00642ae72de0b856cece3e4eddb2d885",
+  "saved_screenshots": {
+    "presentation/desktop-intro.png": "fa593c986948bc8ef22badddafa3bea87e519f99f39a6abb467142165b08e496",
+    "presentation/narrow-intro.png": "48e5b620c6561ecacbededc8b46c390507ab4225a11d13e2afa7db03a6ca9090",
+    "presentation/desktop-health.png": "1f2463bdb317f0b8144cdada4c141331d1196976a00ff24ed4bbfa9cdfafa2a5",
+    "presentation/narrow-housing-and-access.png": "2734a2a795ea37e4505bfd9a9f385a6db5476a18dde022635b19e9ab5c670120"
+  }
+}

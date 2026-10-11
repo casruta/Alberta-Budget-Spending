@@ -1,6 +1,7 @@
 ALBERTA BUDGET 2026-29: EXPENSE ANALYSIS FINDINGS
 ================================================
 Generated: 2026-02-26
+Numerical corrections reviewed: 2026-10-11; original generation date retained.
 
 HEADLINE: Total operating expense grows from $62.0B (2024-25) to $74.1B (2028-29), a 20% increase.
 
@@ -31,9 +32,10 @@ CATEGORY ANALYSIS (2026-27):
   Public Safety (2 min.):       ~$ 2.3B  (~ 3%)
   Other (14 ministries):        ~$ 7.6B  (~10%)
 
-KEY STRUCTURAL OBSERVATIONS:
-  - Health + Education + Social Services = ~60% of all spending
-  - Spending growth consistently outpaces revenue growth
+ORIGINAL INTERPRETATIONS AND VERIFIED NUMERICAL COMPARISONS:
+  Contextual explanations remain hypotheses; this snapshot does not establish causality.
+  - Health + Education + Social Services = 80.6% of 2026-27 program expense
+  - Projected expense remains above revenue throughout 2025-26 to 2028-29
   - Large apparent cuts in Agriculture and Forestry reflect
     non-recurring disaster spending in 2024-25, not true program cuts
   - Healthcare spending projected to reach $31.3B by 2028-29,

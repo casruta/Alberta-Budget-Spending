@@ -1,7 +1,8 @@
 REVENUE PREDICTION ANALYSIS: KEY FINDINGS
 ==========================================
 Prepared: 2026-02-26
-Source: Alberta Fiscal Plan 2025-2029
+Numerical corrections reviewed: 2026-10-11; original preparation date retained.
+Source: Alberta Fiscal Plan 2026-2029
 
 1. REVENUE TRAJECTORY
    - Total revenue drops from $82.5B (2024-25 actual) to $74.6B (2026-27 estimate), a 9.6% decline.
@@ -15,14 +16,15 @@ Source: Alberta Fiscal Plan 2025-2029
    - Resource revenue share drops from 26.7% to 17.7% of total revenue.
 
 3. TAX REVENUE (PARTIAL OFFSET)
-   - Tax revenue grows from $30.4B to $33.2B (+9.3% over the period).
-   - Key growth: education property tax (+28.4%), insurance tax (+16.0%), tourism levy (+58.7%).
-   - Key decline: corporate income tax (-10.2%), tobacco/vaping tax (-7.0%).
-   - Tax revenue share rises from 36.8% to 40.9%, reflecting a composition shift.
+   - Tax revenue is $30.356B actual in 2024-25 and $30.470B estimated in 2026-27 (+0.4%).
+   - The $33.177B (+9.3%) value is the 2028-29 target, not the 2026-27 estimate.
+   - Growth to 2026-27: education property tax (+28.4%), insurance tax (+16.0%), tourism levy (+58.7%).
+   - Decline to 2026-27: corporate income tax (-10.2%), tobacco/vaping tax (-7.0%).
+   - Tax revenue share rises from 36.8% actual to 40.9% in 2026-27, reflecting a composition shift.
 
 4. FEDERAL TRANSFERS
-   - Stable growth from $12.6B to $13.8B (+8.7%).
-   - Share rises from 15.3% to 17.0%.
+   - 2024-25 actual $12.618B -> 2026-27 estimate $13.715B (+8.7%); share rises 15.3% -> 18.4%.
+   - 2028-29 target $13.839B is 9.7% above 2024-25; its revenue share is 17.0%.
 
 5. FISCAL GAP
    - Alberta moves from $8.3B surplus (2024-25) to deficits of $4.1B to $9.4B.
@@ -31,10 +33,10 @@ Source: Alberta Fiscal Plan 2025-2029
    - The gap is driven by revenue declining while expenses grow 7.1%, 5.7%, 3.1%, 2.2% annually.
 
 6. STRUCTURAL RISK
-   - The deficit is structural, not cyclical: even with partial resource recovery, expenses 
-     outpace revenue through the entire forecast window.
+   - The plan projects expense above revenue through its forecast window.
+   - These projections do not isolate the structural or cyclical share of the deficit.
    - Alberta's revenue base remains highly exposed to commodity price volatility.
-   - Without policy changes, the province faces persistent deficits.
+   - The plan projects deficits through 2028-29; effects of alternative policies are not estimated here.
 
 CHARTS PRODUCED:
    - revenue_composition.png: Stacked bar chart of revenue by category

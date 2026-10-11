@@ -4,6 +4,8 @@
 **Date:** February 2026
 **Source:** Government of Alberta, Fiscal Plan 2026-29 (February 26, 2026)
 
+**Archive review — October 11, 2026:** Financial comparisons below use the retained Fiscal Plan tables: 2024–25 actual, 2025–26 forecast, 2026–27 estimate and 2027–29 targets. Revenue-year comparisons, spending shares and net-assets labels have been corrected. Parts V–IX retain the original contextual commentary; their external comparisons, policy scenarios and causal claims have not been independently verified and are not findings of the [current reviewed report](../README.md).
+
 ---
 
 ## Table of Contents
@@ -26,15 +28,15 @@
 
 The Government of Alberta's Fiscal Plan 2026-2029 marks a decisive inflection point in the province's fiscal trajectory. After recording a surplus position in 2024-25, Alberta is projected to enter a sustained period of deficit spending, driven by a sharp contraction in resource revenues coinciding with accelerating growth in program expenditures. Total revenue is forecast to decline from $82.5 billion in 2024-25 to $74.6 billion in 2026-27, a reduction of 9.6 percent, while total operating expense rises from $62.0 billion to $74.1 billion by 2028-29, representing a 20 percent increase over the plan period.
 
-The convergence of falling revenues and rising expenditures produces what this analysis terms a "scissors effect," illustrated below. The gap between the two trendlines widens to a projected peak deficit of $9.4 billion in 2026-27, with cumulative deficits over the four-year plan period totalling approximately $28.0 billion. This structural mismatch between revenues and expenditures is not a temporary cyclical phenomenon. Even by 2028-29, when partial revenue recovery is anticipated, total revenue of $81.5 billion remains approximately $1 billion below the 2024-25 level.
+The convergence of falling revenues and rising expenditures produces what this analysis terms a "scissors effect," illustrated below. The gap between the two trendlines widens to a projected peak deficit of $9.4 billion in 2026-27, with cumulative deficits over the four-year plan period totalling approximately $28.0 billion. The projections show persistent deficits through 2028–29; they do not isolate the structural or cyclical share. Even by 2028-29, when partial revenue recovery is anticipated, total revenue of $81.5 billion remains approximately $1 billion below the 2024-25 level.
 
 **Figure 1: Revenue vs. Expense Divergence (The Scissors Effect)**
 
 ![Figure 1: Revenue vs. Expense Divergence](plots/scissors_effect.png)
 
-The fiscal consequences are substantial. Taxpayer-supported debt is projected to grow from $85.2 billion to $137.5 billion by 2028-29, an increase of 61 percent. Debt servicing costs rise from $3.2 billion to $4.9 billion annually, a 51 percent escalation that will exceed the individual budgets of 21 of 26 government ministries. The province's net financial assets are forecast to decline from $24.5 billion to negative $3.5 billion, marking a fundamental deterioration in Alberta's balance sheet position.
+The fiscal consequences are substantial. Taxpayer-supported debt is projected to grow from $85.2 billion to $137.5 billion by 2028-29, an increase of 61 percent. Debt servicing costs rise from $3.2 billion to $4.9 billion annually, a 51 percent escalation that will exceed the individual budgets of 21 of 26 government ministries. Total net assets, including non-financial assets, are projected to decline from $24.5 billion at March 2025 to negative $3.5 billion at March 2029.
 
-This expanded analysis situates these projections within a broader context: macroeconomic risks including oil price volatility and the energy transition; interprovincial comparisons revealing Alberta's uniquely narrow tax base; a comprehensive assessment of revenue diversification options; and an evaluation of expenditure efficiency relative to other Canadian provinces. The central finding is that Alberta faces a dual structural problem -- above-average spending combined with below-average non-resource revenue capacity -- that cannot be resolved through commodity price recovery alone.
+The original commentary below considers macroeconomic risks, interprovincial comparisons, revenue diversification and expenditure options. Its comparative estimates and policy-effect assumptions remain historical hypotheses requiring separate verification.
 
 ---
 
@@ -66,18 +68,18 @@ The waterfall above decomposes this transition year by year. The worst projected
 
 ### 2.1 Revenue Trajectory
 
-Total revenue declines from $82.5 billion in 2024-25 to $74.6 billion in 2026-27, before partially recovering to $81.5 billion by 2028-29, still $1.0 billion below the starting level. This is not a temporary dip but a structural downward shift.
+Total revenue is projected to decline from $82.5 billion in 2024-25 to $74.6 billion in 2026-27, before partially recovering to $81.5 billion by 2028-29, still $1.0 billion below the starting level. The forecast horizon does not establish a permanent decline.
 
 **Table 2: Revenue Summary by Category**
 
 | Revenue Category | 2024-25 ($B) | 2026-27 ($B) | 2028-29 ($B) | Change (2024-25 to 2026-27) |
 |---|---|---|---|---|
-| Resource Revenue | $22.0 | $13.2 | $16.9 | -40.0% |
-| Tax Revenue | $30.4 | $33.2 | $33.2 | +9.3% |
-| Federal Transfers | $12.6 | $13.0 | $13.8 | +8.7% |
+| Resource Revenue | $22.0 | $13.2 | $16.9 | -39.9% |
+| Tax Revenue | $30.4 | $30.5 | $33.2 | +0.4% |
+| Federal Transfers | $12.6 | $13.7 | $13.8 | +8.7% |
 | **Total Revenue** | **$82.5** | **$74.6** | **$81.5** | **-9.6%** |
 
-Tax revenue growth of 9.3 percent and stable federal transfers provide a partial offset, but are insufficient to compensate for the resource revenue decline.
+From 2024–25 to 2026–27, tax revenue is projected to rise from $30.356B to $30.470B (+0.4%), and federal transfers from $12.618B to $13.715B (+8.7%). Tax revenue reaches $33.177B (+9.3% over 2024–25) only in the 2028–29 target. These increases provide a partial offset to the resource-revenue decline. Category sums can differ from reported totals by $1M because published inputs are rounded.
 
 **Figure 3: Revenue Composition by Category**
 
@@ -117,16 +119,16 @@ Total operating expenditure rises from $62.0 billion to $74.1 billion by 2028-29
 
 | Rank | Ministry | Approximate Spending ($B) |
 |---|---|---|
-| 1 | Hospital and Surgical Services | >$13B |
-| 2 | Education and Childcare | >$13B |
-| 3 | Primary and Preventative Health | >$12B |
-| 4 | Assisted Living and Home Care | >$12B |
+| 1 | Hospital and Surgical Health Services | $13.832B |
+| 2 | Education and Childcare | $13.436B |
+| 3 | Primary and Preventative Health Services | $12.653B |
+| 4 | Assisted Living and Social Services | $12.233B |
 
 **Figure 6: Ministry Spending Rankings**
 
 ![Figure 6: Ministry Spending Rankings](plots/expense_ministry_ranking.png)
 
-For every dollar of revenue collected, approximately 38.3 cents goes to health care, 28.4 cents to education, and 18.7 cents to social services. Total expenditure equals 113 cents per revenue dollar, a 13-cent structural deficit.
+For every dollar of projected 2026–27 revenue, approximately 38.3 cents goes to health care, 28.4 cents to education, and 18.7 cents to social services. Total expenditure equals 113 cents per revenue dollar, a 13-cent projected gap.
 
 **Figure 7: Where Each Revenue Dollar Goes**
 
@@ -153,7 +155,7 @@ These decreases reflect the natural expiry of time-limited disaster response spe
 
 ### 3.3 Spending by Policy Area
 
-Health, education, and social services together account for approximately 60 percent of all program spending, a share projected to increase as demand-driven cost pressures outpace other categories.
+Under the original notebook's ministry classification, health, education and social services together account for **80.6% of 2026–27 program expense**. The groups contain three health ministries, two education ministries and two social-service ministries, including Assisted Living and Social Services. This grouping differs from the functional definitions in the current reviewed report.
 
 **Figure 9: Expense Composition by Policy Category**
 
@@ -167,7 +169,7 @@ The largest ministries are also among those experiencing the fastest growth, a c
 
 ### 3.4 Health Spending Deep Dive
 
-Three health ministries (Hospital and Surgical, Primary and Preventative, and Mental Health and Addiction) collectively form the largest spending block, rising from 34.8 percent to 38.1 percent of total program expense, progressively crowding out other priorities.
+Three health ministries (Hospital and Surgical Health Services, Primary and Preventative Health Services, and Mental Health and Addiction) collectively form the largest spending block. Their share of total program expense rises from 34.8 percent in 2024–25 to a 38.1 percent target in 2028–29. A higher share does not by itself demonstrate reduced spending or service capacity elsewhere.
 
 **Figure 11: Health Spending Over Time**
 
@@ -187,7 +189,7 @@ Revenue declines 9.6 percent to a 2026-27 trough while expenditure grows 20 perc
 
 ![Figure 12: Revenue vs. Expense Gap](plots/revenue_vs_expense_gap.png)
 
-Revenue declines are driven by external commodity markets beyond government control; expenditure increases are driven by domestic service demand and policy commitments. This asymmetry limits the ability to close the gap through revenue-side measures alone.
+These figures describe the government's revenue and expense assumptions. They do not estimate the effects of alternative tax or service policies or isolate causes of expense growth.
 
 ---
 
@@ -203,11 +205,13 @@ Cumulative deficits total approximately $28.0 billion over the plan period, but 
 
 ### 5.2 Debt Trajectory
 
-Taxpayer-supported debt grows from $85.2 billion to $137.5 billion by 2028-29 (+61%). Net financial assets decline from $24.5 billion to negative $3.5 billion, meaning liabilities will exceed financial assets for the first time.
+Taxpayer-supported debt is projected to grow from $85.2 billion at March 2025 to $137.5 billion at March 2029 (+61%). **Total net assets**, including non-financial assets, decline from $24.508B to −$3.483B. **Net financial assets / (debt)** are already negative at March 2025 (−$34.337B) and are projected to reach −$69.750B at March 2029. These are separate balance-sheet measures.
 
 **Figure 14: Taxpayer-Supported Debt Growth**
 
 ![Figure 14: Taxpayer-Supported Debt Growth](plots/debt_trajectory.png)
+
+Amounts in the preserved graphic denote **billions**, despite its older “Millions” axis wording. The source tables give exact amounts in millions; the native Power BI version uses consistent billions throughout.
 
 ### 5.3 Debt Servicing Cost Escalation
 
@@ -540,9 +544,11 @@ International best practices suggest Alberta should adopt: (1) a structural bala
 
 This analysis identifies the following findings and their policy implications:
 
+**Scope:** The comparisons and policy-impact estimates in this part retain the original author's assumptions. They have not been independently source-verified in the current review; they should be read as hypotheses and scenarios.
+
 **Structural Findings**
 
-1. **The deficit is structural, not cyclical.** The $9.4 billion peak deficit reflects a fundamental misalignment between Alberta's revenue capacity and expenditure commitments. Even with partial revenue recovery, deficits persist through the entire plan period and cumulate to $28 billion.
+1. **The Fiscal Plan projects persistent deficits.** The peak projected deficit is $9.4 billion, and the four-year cumulative deficit is $28 billion. These projections do not isolate the structural or cyclical share.
 
 2. **Alberta faces a dual structural problem.** Per-capita spending is approximately 10 percent above the four-province comparator average, while non-resource tax revenue per capita is the lowest of any Canadian province. Closing the gap requires action on both sides of the ledger.
 

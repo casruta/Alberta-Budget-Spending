@@ -1,0 +1,47 @@
+{
+  "status": "passed",
+  "evidence": "Original retained CSV cells; arithmetic independent of Power BI display helpers",
+  "corrected_comparisons": {
+    "Total tax revenue": {
+      "2024_25_actual_million": 30356.0,
+      "2026_27_estimate_million": 30470.0,
+      "change_pct": 0.37554354987481275,
+      "2028_29_target_million": 33177.0
+    },
+    "Transfers from Government of Canada": {
+      "2024_25_actual_million": 12618.0,
+      "2026_27_estimate_million": 13715.0,
+      "change_pct": 8.69392930733872,
+      "2028_29_target_million": 13839.0
+    },
+    "Total non-renewable resource revenue": {
+      "2024_25_actual_million": 21986.0,
+      "2026_27_estimate_million": 13213.0,
+      "change_pct": -39.90266533248431,
+      "2028_29_target_million": 16892.0
+    },
+    "health_education_social_share": {
+      "ministries": [
+        "Hospital and Surgical Health Services",
+        "Primary and Preventative Health Services",
+        "Mental Health and Addiction",
+        "Education and Childcare",
+        "Advanced Education",
+        "Assisted Living and Social Services",
+        "Children and Family Services"
+      ],
+      "numerator_million": 63620.0,
+      "denominator_million": 78922.0,
+      "share_pct": 80.61123641063328
+    },
+    "Net assets": {
+      "march_2025_actual_million": 24508.0,
+      "march_2029_target_million": -3483.0
+    },
+    "Net financial assets / (debt)": {
+      "march_2025_actual_million": -34337.0,
+      "march_2029_target_million": -69750.0
+    }
+  },
+  "limits": "Selected archive financial corrections; historical external comparisons and policy scenarios are not fully audited."
+}

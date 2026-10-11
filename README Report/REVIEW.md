@@ -1,5 +1,7 @@
 # README evidence and presentation review
 
+**Historical record — October 9, 2026.** See the [October 11 final review](FINAL_REVIEW.md) for current corrections, verification and publication status.
+
 **Loop started:** October 9, 2026, 04:17:52 UTC.
 
 The main README is a combined report using the collected infrastructure and quality-of-life evidence. It includes all 42 analytical PNG charts: 21 in the main narrative and 21 preserved in expandable archive galleries. PDF-page screenshots in the research folders are evidence extracts, not analytical charts.

@@ -1,6 +1,6 @@
 # Alberta's budget: more dollars, uneven results
 
-**Prepared by:** Kacper Ruta · **Evidence reviewed:** October 9, 2026
+**Prepared by:** Kacper Ruta · **Evidence reviewed:** October 11, 2026 · **Source snapshot:** October 9, 2026
 
 **Power BI:** [Free Windows Desktop report and setup](Power%20BI/README.md) · [Download offline project](Power%20BI/downloads/AlbertaBudget-PowerBI.zip). Includes all 42 chart topics; Desktop rendering is awaiting verification.
 
@@ -13,6 +13,8 @@
 **Scope:** Financial actuals cover fiscal 2015–16 to 2024–25; each outcome below has its own cutoff. Amounts are Canadian dollars. **CPI-adjusted** means adjusted for broad consumer prices, not sector-specific costs. Seven key charts lead the report; expand supporting evidence to see all **21 reviewed figures**, plus **21 original archive figures**.
 
 [Spending](#spending) · [Infrastructure](#infrastructure) · [Health](#health) · [Education](#education) · [Living standards](#living-standards) · [Housing and access](#housing-and-access) · [Safety](#safety) · [Sources and methods](#sources-and-methods) · [Archive](#archive-gallery)
+
+Expand supporting evidence for the full report; select a chart to view its labels at full size.
 
 ## Spending
 
@@ -33,7 +35,7 @@ Education combines basic and advanced education **per total resident**, not K–
 <details>
 <summary>Allocation chart and accounting detail (1 supporting figure)</summary>
 
-![Functional spending changes from 2018–19 to 2024–25, comparing nominal growth with CPI-adjusted growth per resident.](Quality%20of%20Life%20Analysis/figures/02_allocation_change.png)
+![CPI-adjusted functional spending per resident changed unevenly from 2018–19 to 2024–25: health and education fell while social services rose.](Quality%20of%20Life%20Analysis/figures/02_allocation_change.png)
 
 Program expense rose $54.502B → $71.337B. Debt servicing and pension adjustments sit outside programs; total expense was $74.149B in 2024–25. The entire Capital Plan cannot be added to expense because it mixes investment with grants already included in expense. [Financial calculations](Quality%20of%20Life%20Analysis/data/functional_expense_baseline_comparisons.csv)
 
@@ -90,7 +92,9 @@ Actual $7.243B was $1.056B below the $8.299B paired budget in 2024–25. Budget 
 
 ![Emergency-department 90th-percentile waits rose from 4.5 to 7.0 hours, while MRI and CT shares within clinical priority targets declined.](Quality%20of%20Life%20Analysis/figures/08_emergency_and_imaging.png)
 
-**Other results were mixed.** Completed hip, knee and cataract cases within benchmarks improved **62.4% → 72.8%**, **53.3% → 62.5%** and **59.7% → 62.8%** between 2023–24 and 2024–25; patients still waiting are excluded. Metro ambulance response times worsened **13.8 → 14.2 minutes** at the 90th percentile, while rural and remote times improved. Life expectancy recovered to **81.53 years in 2024**, still 0.43 years below 2019; calendar 2023 and 2024 are preliminary. Eligible first mental-health/addiction emergency visits without prior public-service contact were **19.7% against a 17.9% target in 2023–24**; this measures contact, not recovery. [Health sources and definitions](Quality%20of%20Life%20Analysis/REPORT.md)
+**Other results were mixed.** Completed hip, knee and cataract cases within benchmarks improved **62.4% → 72.8%**, **53.3% → 62.5%** and **59.7% → 62.8%** between 2023–24 and 2024–25; patients still waiting are excluded. Metro ambulance response times worsened **13.8 → 14.2 minutes** at the 90th percentile, while rural and remote times improved.
+
+Life expectancy recovered to **81.53 years in 2024**, still 0.43 years below 2019; calendar 2023 and 2024 are preliminary. Eligible first mental-health/addiction emergency visits without prior public-service contact were **19.7% against a 17.9% target in 2023–24**; this measures contact, not recovery. [Health sources and definitions](Quality%20of%20Life%20Analysis/REPORT.md)
 
 <details>
 <summary>Surgery, ambulance, life expectancy and mental-health evidence (3 supporting figures)</summary>
@@ -149,7 +153,9 @@ Housing-support output fell **2,302 → 798 from 2023–24 to 2024–25**, again
 
 ![Combined affordable housing units and additional rent-supported households fell to 798 in 2024–25, below a target of 1,500.](Quality%20of%20Life%20Analysis/figures/10_housing_support.png)
 
-Other access measures add context: continuing-care placement within the benchmark was **63.0%**, preliminary and below its 66% target, among admitted clients. AISH medical adjudication took **5.3 weeks**, within its nine-week target but longer than the prior year's 4.3 weeks, after complete documentation. Childcare fees averaged **$15/day in January 2024** in the licensed up-to-kindergarten scope; **142.7k licensed spaces** were reported by March 31, 2025, including 14.3k net new spaces. Licensed capacity is not attendance or staffed availability. [Sources and scope](Quality%20of%20Life%20Analysis/REPORT.md)
+In **2024–25**, continuing-care placement within 30 days of assessment was **63.0%**, preliminary and below its 66% target, among admitted clients. Median AISH medical adjudication took **5.3 weeks**, within its nine-week target but longer than 2023–24's 4.3 weeks, measured after complete documentation.
+
+Childcare fees averaged **$15/day in January 2024** in the licensed up-to-kindergarten scope; **142.7k licensed spaces** were reported by March 31, 2025, including 14.3k net new spaces. Licensed capacity is not attendance or staffed availability. [Sources and scope](Quality%20of%20Life%20Analysis/REPORT.md)
 
 ## Safety
 
@@ -202,11 +208,13 @@ Pinned dependencies and full reproduction commands are in the guides. Reviewed P
 python "README Report/validate_readme.py"
 ```
 
-[Compaction review](README%20Report/COMPACTION_REVIEW.md)
+[Latest independent review](README%20Report/FINAL_REVIEW.md) · [Compaction review](README%20Report/COMPACTION_REVIEW.md)
 
 ## Archive gallery
 
 The **21 original charts** below retain their original definitions and assumptions. Earlier expense inputs differ from the main report's final-results vintage; the older narrative labels 2024–25 a budget estimate. [Input audit](Infrastructure%20Analysis/research/demography/existing_notebook_input_audit.csv). Fiscal Plan figures include estimates and projections through 2028–29. Their comparative and policy assumptions were not newly audited for this report.
+
+The linked Fiscal Plan narrative has corrected revenue-year comparisons, spending shares and net-assets labels. Its broader policy scenarios and international comparisons remain historical assumptions, rather than verified findings of this report.
 
 <details>
 <summary><strong>Earlier operating-expense charts (6 figures)</strong></summary>

@@ -1,5 +1,7 @@
 # README compaction review
 
+**Historical record — October 9, 2026.** See the [October 11 final review](FINAL_REVIEW.md) for current corrections, verification and publication status.
+
 ## Pull-request access
 
 No pull request is attached to this task. Both GitHub GraphQL and REST PR-list requests returned `Forbidden`. `git ls-remote origin 'refs/pull/*/head'` returned no PR refs. Fetching `main` succeeded and confirmed commit `6a01b4b93b5d3e9a271483c0e89738b8568e3957`, matching the current checkout. A PR URL or number was requested; no PR branch has been pulled or reviewed yet.
