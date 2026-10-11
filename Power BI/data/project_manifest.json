@@ -1,0 +1,2645 @@
+{
+  "format": "Power BI Desktop PBIP / PBIR / TMDL import model",
+  "tables": [
+    {
+      "name": "ChartData",
+      "rows": 1639,
+      "columns": [
+        "ChartId",
+        "Panel",
+        "Period",
+        "Series",
+        "Value",
+        "Unit",
+        "ObservationKind",
+        "Status",
+        "SourcePaths",
+        "SourceRows",
+        "SourceFields",
+        "Transformation"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "double",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "11446dec2be263f6937b09e42324063bab3fa807cfaa75c2c9228ba2b2418f47",
+      "hidden": false
+    },
+    {
+      "name": "SourceCatalog",
+      "rows": 69,
+      "columns": [
+        "SourceId",
+        "Path",
+        "Rows",
+        "Columns",
+        "Role",
+        "ModelTable",
+        "SHA256"
+      ],
+      "types": [
+        "string",
+        "string",
+        "int64",
+        "int64",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "30a56a0dc6947b716e3d4ffbd483e12b9ff03d56934846689130fbfd2d5a5441",
+      "hidden": false
+    },
+    {
+      "name": "Source001",
+      "rows": 26,
+      "columns": [
+        "Ministry",
+        "2024-25_Actual",
+        "2025-26_Budget",
+        "2025-26_Forecast",
+        "2026-27_Estimate",
+        "2027-28_Target",
+        "2028-29_Target",
+        "Change_vs_2024",
+        "Pct_Change_vs_2024",
+        "Share_2026"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "cdf3d704b3b67d79ca01a8cff6a6962a7e2f98c47585ef88786a08f197a4ee6a",
+      "hidden": true
+    },
+    {
+      "name": "Source002",
+      "rows": 16,
+      "columns": [
+        "Item",
+        "2024-25_Actual",
+        "2025-26_Forecast",
+        "2026-27_Estimate",
+        "2027-28_Target",
+        "2028-29_Target",
+        "Change_vs_2024",
+        "Pct_Change_vs_2024"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "541c5ce6ce323859a08e435af43f030a45fb23b8dc4626d9b540360667a83340",
+      "hidden": true
+    },
+    {
+      "name": "Source003",
+      "rows": 5,
+      "columns": [
+        "Fiscal_Year",
+        "Total_Revenue",
+        "Total_Expense",
+        "Surplus_Deficit",
+        "Revenue_Change_Pct",
+        "Expense_Change_Pct"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "5f618f33c0661707848bf761865e5671488fc98095e6fd1d28b058ccebea5172",
+      "hidden": true
+    },
+    {
+      "name": "Source004",
+      "rows": 10,
+      "columns": [
+        "Type",
+        "Item",
+        "2024-25_Actual",
+        "2026-27_Estimate",
+        "Change",
+        "Pct_Change"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "108fe72efa930031eb067195f083005869d46a65fca759573a7b6ae3b56ea533",
+      "hidden": true
+    },
+    {
+      "name": "Source005",
+      "rows": 25,
+      "columns": [
+        "fiscal_year",
+        "total_revenue_millions",
+        "personal_income_tax_millions",
+        "corporate_income_tax_millions",
+        "other_tax_revenue_millions",
+        "resource_revenue_millions",
+        "investment_income_millions",
+        "federal_transfers_millions",
+        "other_revenue_millions",
+        "total_expense_millions",
+        "program_expense_millions",
+        "debt_servicing_millions",
+        "pension_provisions_millions",
+        "surplus_deficit_millions",
+        "fiscal_status",
+        "reporting_basis",
+        "source_document"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "5a7033c4710f94697d03cbdf34f421535f987a8a33a90db306b3682ba213da1f",
+      "hidden": true
+    },
+    {
+      "name": "Source006",
+      "rows": 33,
+      "columns": [
+        "Section",
+        "Item",
+        "At March 31, 2025 (Actual)",
+        "At March 31, 2026 (Forecast)",
+        "At March 31, 2027 (Estimate)",
+        "At March 31, 2028 (Target)",
+        "At March 31, 2029 (Target)"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "76f4ad0234b08c27977f9ae6d75a1db0935726bf37aa89a5949fdead131ebc06",
+      "hidden": true
+    },
+    {
+      "name": "Source007",
+      "rows": 19,
+      "columns": [
+        "Section",
+        "Item",
+        "2024-25 Actual",
+        "2025-26 Budget",
+        "2025-26 Forecast",
+        "2026-27 Estimate",
+        "2027-28 Target",
+        "2028-29 Target"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "3fbb19800e5d9b5022537fd98a261084023327e5cc3f790783cf0461e24c751c",
+      "hidden": true
+    },
+    {
+      "name": "Source008",
+      "rows": 396,
+      "columns": [
+        "Table",
+        "Category",
+        "Item",
+        "Fiscal Year",
+        "Value ($ millions)"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "eaacebc1ca488e380ed3140018db1348917aa51f39306b351bed751b8624b919",
+      "hidden": true
+    },
+    {
+      "name": "Source009",
+      "rows": 27,
+      "columns": [
+        "Ministry",
+        "2024-25 Actual",
+        "2025-26 Budget",
+        "2025-26 Forecast",
+        "2026-27 Estimate",
+        "2027-28 Target",
+        "2028-29 Target"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "cbd40d46c8d4370cff009b6beea421b22fc4a78945ce77663ba1bc5c21167728",
+      "hidden": true
+    },
+    {
+      "name": "Source010",
+      "rows": 21,
+      "columns": [
+        "Category",
+        "Item",
+        "2024-25 Actual",
+        "2025-26 Budget",
+        "2025-26 Forecast",
+        "2026-27 Estimate",
+        "2027-28 Target",
+        "2028-29 Target"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "ad053f69f119709ec6e2ce003cde88c24b59a3e91ebcd0d7878e686a776d6946",
+      "hidden": true
+    },
+    {
+      "name": "Source011",
+      "rows": 70,
+      "columns": [
+        "fiscal_year",
+        "ministry_normalized",
+        "operating_expense_millions",
+        "raw_ministries",
+        "source"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "a3a517cfe6a1a8591e9b2395a4a932263de7e9f04f8d71f55f1c27cd0f9bb87f",
+      "hidden": true
+    },
+    {
+      "name": "Source012",
+      "rows": 340,
+      "columns": [
+        "fiscal_year",
+        "ministry_raw",
+        "ministry_normalized",
+        "operating_expense_millions",
+        "source"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "897c6cc3b46cc663d80bf85e67c69f3479c0c9447453522d0cb320c7e7c67179",
+      "hidden": true
+    },
+    {
+      "name": "Source013",
+      "rows": 14,
+      "columns": [
+        "fiscal_year",
+        "Advanced Education",
+        "Education (K-12)",
+        "Health",
+        "Other",
+        "Social Services",
+        "total_operating"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "6541cb36438c923846ac80ccec05a2a8da8ec26909f2e5e2af712146b0ac2e99",
+      "hidden": true
+    },
+    {
+      "name": "Source014",
+      "rows": 5,
+      "columns": [
+        "baseline",
+        "endpoint",
+        "nominal_capital_growth_pct",
+        "population_growth_pct",
+        "cpi_growth_pct",
+        "nominal_per_resident_growth_pct",
+        "cpi_adjusted_per_resident_growth_pct",
+        "endpoint_constant_intensity_benchmark_cad",
+        "endpoint_difference_from_benchmark_cad",
+        "benchmark_interpretation",
+        "rounding_sensitivity_real_per_resident_growth_low_pct",
+        "rounding_sensitivity_real_per_resident_growth_high_pct",
+        "rounding_sensitivity_interpretation"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "3945c979f8db4355b833b32b7f48c8c9313f856b8469e9c83cbfce1fd41cc32c",
+      "hidden": true
+    },
+    {
+      "name": "Source015",
+      "rows": 10,
+      "columns": [
+        "fiscal_year",
+        "budget_million",
+        "contemporary_actual_million",
+        "budget_execution_pct",
+        "actual_minus_budget_million",
+        "source_reported_budget_difference_million",
+        "budget_difference_rounding_residual_million",
+        "latest_2024_25_vintage_actual_million",
+        "latest_minus_contemporary_actual_million",
+        "contemporary_grants_actual_million",
+        "contemporary_investment_actual_million",
+        "source_file",
+        "pdf_page",
+        "source_vintage"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "a7ad0915af1ed3807e27b1b2b7ce1c60377c19f1eb8ebb7383aad2f86289fd76",
+      "hidden": true
+    },
+    {
+      "name": "Source016",
+      "rows": 10,
+      "columns": [
+        "fiscal_year",
+        "calendar_year",
+        "capital_plan_actual_million",
+        "total_revenue_actual_million",
+        "total_expense_actual_million",
+        "net_capital_nonfinancial_assets_after_deferred_contributions_million",
+        "population_july1_thousands",
+        "alberta_cpi_annual_pct",
+        "status",
+        "source_file_capital",
+        "fiscal_pdf_page",
+        "economic_pdf_page",
+        "population_july_1",
+        "population_precision",
+        "population_basis",
+        "alberta_annual_cpi_growth_pct",
+        "cpi_chained_index_2015_100",
+        "cpi_deflator_to_2024",
+        "source_file_demography",
+        "source_pdf_page",
+        "source_printed_page",
+        "source_report",
+        "source_table",
+        "data_quality",
+        "cpi_index_2015_100",
+        "cpi_deflator_2024",
+        "capital_nominal_cad",
+        "capital_nominal_per_resident_cad",
+        "capital_cpi_adjusted_2024_cad",
+        "capital_cpi_adjusted_per_resident_2024_cad",
+        "nominal_yoy_pct",
+        "real_per_resident_yoy_pct",
+        "government_period",
+        "source_cutoff"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "8bd0370af4596286c2f16325437ddf6fb3ad1bef797657818313cdca0afb756c",
+      "hidden": true
+    },
+    {
+      "name": "Source017",
+      "rows": 351,
+      "columns": [
+        "assumed_cumulative_price_growth_pct",
+        "calculated_price_adjusted_spending_per_resident_growth_pct",
+        "scenario_status"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "b81a2c0850f5a4941ce93148b4403c68509440fe36aecb2254f43b59bfd3f5de",
+      "hidden": true
+    },
+    {
+      "name": "Source018",
+      "rows": 10,
+      "columns": [
+        "project",
+        "sector",
+        "first_observed_earlier_stage_year",
+        "first_observed_stage",
+        "operational_year_if_verified",
+        "net_new_measure_if_known",
+        "reported_capacity_measure",
+        "reported_capacity_value",
+        "reported_capacity_unit",
+        "status_as_of",
+        "earlier_source_pdf",
+        "earlier_pdf_page",
+        "earlier_extract",
+        "status_source_pdf",
+        "status_pdf_page",
+        "status_extract",
+        "interpretation_notes",
+        "prior_ledger_claimed_completion_fy",
+        "first_reported_completed_status_fy",
+        "explicit_construction_completion_fy",
+        "explicit_calendar_completion_date",
+        "completion_year_semantics",
+        "prior_ledger_project_name",
+        "date_verification_source_pdf",
+        "date_verification_pdf_page",
+        "date_verification_extract",
+        "earlier_year",
+        "reported_status_year"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d7c200af59e4db56a9d7c0cc9aa2a069009e927a3fa864a57e19dfa539644e19",
+      "hidden": true
+    },
+    {
+      "name": "Source019",
+      "rows": 4,
+      "columns": [
+        "period",
+        "fiscal_years",
+        "nominal_capital_total_cad",
+        "nominal_capital_annual_mean_cad",
+        "cpi_adjusted_capital_annual_mean_2024_cad",
+        "population_weighted_nominal_per_resident_annual_cad",
+        "population_weighted_cpi_adjusted_per_resident_annual_2024_cad",
+        "median_cpi_adjusted_per_resident_annual_2024_cad",
+        "interpretation"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "5aae2db639c8bbba4818aee69190be40f4ea26cef8bc8eb41c39f37ccf75bf4a",
+      "hidden": true
+    },
+    {
+      "name": "Source020",
+      "rows": 14,
+      "columns": [
+        "envelope",
+        "budget_million",
+        "actual_million",
+        "prior_actual_million",
+        "budget_change_reported_million",
+        "prior_change_reported_million",
+        "pdf_page"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "2b06e20f2bc3a55918bff00e60cc6f00f4101dedafa8a4bd117a03f954c70766",
+      "hidden": true
+    },
+    {
+      "name": "Source021",
+      "rows": 84,
+      "columns": [
+        "fiscal_year",
+        "source_vintage",
+        "envelope",
+        "actual_cad_millions",
+        "budget_cad_millions",
+        "status",
+        "pdf_page",
+        "source_file"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d10462bb9debeafce11ceb8803fe118f2626b1ebf5bd17aa6e7813ae2f5b37ab",
+      "hidden": true
+    },
+    {
+      "name": "Source022",
+      "rows": 58,
+      "columns": [
+        "fiscal_year",
+        "source_vintage",
+        "envelope",
+        "actual_cad_millions",
+        "budget_cad_millions",
+        "status",
+        "pdf_page",
+        "source_file"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "da1a5996f346869cc9017a4ddc6821a8468903d800e6a08a7cb0dfcbf6c6be45",
+      "hidden": true
+    },
+    {
+      "name": "Source023",
+      "rows": 9,
+      "columns": [
+        "fiscal_year_revised",
+        "next_source_vintage",
+        "original_total_million",
+        "next_comparative_total_million",
+        "total_revision_million",
+        "original_grants_million",
+        "next_grants_million",
+        "grant_revision_million",
+        "original_investment_million",
+        "next_investment_million",
+        "investment_revision_million",
+        "source_file",
+        "pdf_page"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "0e784392c8cbe76d1e2eb4c78d4a97921e2aff6bddcd54d17e516d46873f5fe3",
+      "hidden": true
+    },
+    {
+      "name": "Source024",
+      "rows": 10,
+      "columns": [
+        "fiscal_year",
+        "budget_million",
+        "contemporary_actual_million",
+        "budget_execution_pct",
+        "actual_minus_budget_million",
+        "source_reported_budget_difference_million",
+        "budget_difference_rounding_residual_million",
+        "latest_2024_25_vintage_actual_million",
+        "latest_minus_contemporary_actual_million",
+        "contemporary_grants_actual_million",
+        "contemporary_investment_actual_million",
+        "source_file",
+        "pdf_page",
+        "source_vintage"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "a7ad0915af1ed3807e27b1b2b7ce1c60377c19f1eb8ebb7383aad2f86289fd76",
+      "hidden": true
+    },
+    {
+      "name": "Source025",
+      "rows": 30,
+      "columns": [
+        "fiscal_year",
+        "observation_fiscal_year",
+        "column_status",
+        "total_capital_plan_million",
+        "capital_grants_million",
+        "capital_investment_million",
+        "component_rounding_residual_million",
+        "grant_share_pct",
+        "investment_share_pct",
+        "source_file",
+        "pdf_page",
+        "source_vintage"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "612d3802c96c72373ca99c12ee8c22280b3e0c0dd22e306b039fcc800d835ff1",
+      "hidden": true
+    },
+    {
+      "name": "Source026",
+      "rows": 38,
+      "columns": [
+        "comparison",
+        "ministry",
+        "prior_actual_million",
+        "current_actual_million",
+        "change_million",
+        "source_file",
+        "pdf_page",
+        "scope"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "fb629e556fd12c8f269c51435bb56e570b21d69edd7654c5e930b161081ada43",
+      "hidden": true
+    },
+    {
+      "name": "Source027",
+      "rows": 10,
+      "columns": [
+        "fiscal_year",
+        "budget_million",
+        "actual_million",
+        "prior_actual_million",
+        "pdf_page",
+        "source_file"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d9905de1f2dfe6152312401038e551cc46730ee857a5da633aa35ba77bf4c9d5",
+      "hidden": true
+    },
+    {
+      "name": "Source028",
+      "rows": 12,
+      "columns": [
+        "fiscal_year",
+        "calendar_year",
+        "capital_plan_actual_million",
+        "total_revenue_actual_million",
+        "total_expense_actual_million",
+        "net_capital_nonfinancial_assets_after_deferred_contributions_million",
+        "population_july1_thousands",
+        "alberta_cpi_annual_pct",
+        "status",
+        "source_file",
+        "fiscal_pdf_page",
+        "economic_pdf_page"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "233094dc98cf87f9e56e8c2d02bee56c4bec0694954c24e4896f514c705e306d",
+      "hidden": true
+    },
+    {
+      "name": "Source030",
+      "rows": 57,
+      "columns": [
+        "fiscal_year",
+        "ministry",
+        "budget_million",
+        "actual_million",
+        "prior_actual_million",
+        "pdf_page",
+        "source_file",
+        "vintage"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "954cf8c5a02c55c8c6210191d7d59b5ce96e32d014b492203cb9b732786c3e41",
+      "hidden": true
+    },
+    {
+      "name": "Source031",
+      "rows": 10,
+      "columns": [
+        "calendar_year",
+        "report_vintages",
+        "population_min",
+        "population_max",
+        "population_range_persons",
+        "latest_population",
+        "cpi_growth_min",
+        "cpi_growth_max"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "55480454ff08d457907c4e4cbbe7ed9f69ab460c01147014f756ed085d0ef38d",
+      "hidden": true
+    },
+    {
+      "name": "Source032",
+      "rows": 10,
+      "columns": [
+        "calendar_year",
+        "fiscal_year",
+        "population_july_1",
+        "population_precision",
+        "population_basis",
+        "alberta_annual_cpi_growth_pct",
+        "cpi_chained_index_2015_100",
+        "cpi_deflator_to_2024",
+        "source_file",
+        "source_pdf_page",
+        "source_printed_page",
+        "source_report",
+        "source_table",
+        "data_quality"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "a3d8ff08f93119e1e9f88a4f382254f54fe55eb6f7df2345bf1d1c03aa59dd78",
+      "hidden": true
+    },
+    {
+      "name": "Source033",
+      "rows": 10,
+      "columns": [
+        "fiscal_year",
+        "notebook_population",
+        "official_local_population_rounded",
+        "population_difference",
+        "notebook_cpi",
+        "notebook_implied_cpi_growth_pct",
+        "official_local_cpi_growth_pct",
+        "cpi_growth_difference_pp"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "6e5095b379909530909a082bd492a702e907749711f9f56b57992323688a2d44",
+      "hidden": true
+    },
+    {
+      "name": "Source034",
+      "rows": 78,
+      "columns": [
+        "source_file",
+        "source_pdf_page",
+        "source_report_calendar_endpoint",
+        "calendar_year",
+        "population_july_1",
+        "annual_alberta_cpi_growth_pct",
+        "population_precision",
+        "cpi_precision",
+        "series_type",
+        "status"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "1530ffb01ad7a79539ff6f07f535a6179f922bf0bac26528b0348bc4f707cfd0",
+      "hidden": true
+    },
+    {
+      "name": "Source035",
+      "rows": 19,
+      "columns": [
+        "fiscal_year",
+        "metric",
+        "value",
+        "unit",
+        "source_pdf",
+        "physical_pdf_page",
+        "excerpt",
+        "interpretation",
+        "source_report_fiscal_year",
+        "year_semantics",
+        "indicator_class",
+        "derived_value_formula"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "8cb6f85296d801d168f2bc9cb23cca8e7bd3ce43e9f5ceed0a5eefb5d1ed546f",
+      "hidden": true
+    },
+    {
+      "name": "Source036",
+      "rows": 17,
+      "columns": [
+        "project",
+        "sector",
+        "first_observed_earlier_stage_year",
+        "first_observed_stage",
+        "operational_year_if_verified",
+        "net_new_measure_if_known",
+        "reported_capacity_measure",
+        "reported_capacity_value",
+        "reported_capacity_unit",
+        "status_as_of",
+        "earlier_source_pdf",
+        "earlier_pdf_page",
+        "earlier_extract",
+        "status_source_pdf",
+        "status_pdf_page",
+        "status_extract",
+        "interpretation_notes",
+        "prior_ledger_claimed_completion_fy",
+        "first_reported_completed_status_fy",
+        "explicit_construction_completion_fy",
+        "explicit_calendar_completion_date",
+        "completion_year_semantics",
+        "prior_ledger_project_name",
+        "date_verification_source_pdf",
+        "date_verification_pdf_page",
+        "date_verification_extract"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "f23d2ee63a31e452c0a1ce83bf024e3a5e48ea9892b2306985bc18e714d768d5",
+      "hidden": true
+    },
+    {
+      "name": "Source037",
+      "rows": 8,
+      "columns": [
+        "report_year",
+        "project",
+        "verified_status",
+        "physical_metric",
+        "quantity",
+        "capital_plan_funding_million_cad",
+        "local_pdf",
+        "printed_page",
+        "interpretation_caveat"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "9a27532060a62bb90fadbb516cad0f926a3d4e7da85c0a7866ac40af1c043bdf",
+      "hidden": true
+    },
+    {
+      "name": "Source038",
+      "rows": 25,
+      "columns": [
+        "fiscal_year_end",
+        "sector",
+        "metric",
+        "value",
+        "unit",
+        "status",
+        "repository_pdf",
+        "pdf_page",
+        "excerpt",
+        "caveat"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "7114107f2c7704604f02e393533e7e2cd2c0cc72042ba997c1789d605ee75a73",
+      "hidden": true
+    },
+    {
+      "name": "Source039",
+      "rows": 5,
+      "columns": [
+        "fiscal_year",
+        "capacity_measure",
+        "value",
+        "unit",
+        "interpretation",
+        "source_pdf",
+        "pdf_page",
+        "source_extract"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d6f3198d773650c4f17ab5ab34c76fe09287466376bd5db6d6b0ebc9d1b554cd",
+      "hidden": true
+    },
+    {
+      "name": "Source040",
+      "rows": 17,
+      "columns": [
+        "project",
+        "sector",
+        "first_observed_earlier_stage_year",
+        "first_observed_stage",
+        "construction_completion_fy",
+        "operational_year_if_verified",
+        "net_new_measure_if_known",
+        "reported_capacity_measure",
+        "reported_capacity_value",
+        "reported_capacity_unit",
+        "status_as_of",
+        "earlier_source_pdf",
+        "earlier_pdf_page",
+        "earlier_extract",
+        "status_source_pdf",
+        "status_pdf_page",
+        "status_extract",
+        "interpretation_notes"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "4babeaa602b02bb58ca5846ccb808c4e027e079fc998d214df2e5b3bde5baa57",
+      "hidden": true
+    },
+    {
+      "name": "Source041",
+      "rows": 14,
+      "columns": [
+        "source_file",
+        "pdf_pages",
+        "pdf_title_metadata",
+        "pdf_author_metadata",
+        "source_form",
+        "sha256",
+        "coverage_limit"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "7962a90a4a9e1ab751fcd0d0e32b9eb0f16ee16734643f9a5eec47d757398ffa",
+      "hidden": true
+    },
+    {
+      "name": "Source042",
+      "rows": 10,
+      "columns": [
+        "calendar_year",
+        "average_weekly_earnings",
+        "employment",
+        "employment_growth",
+        "housing_starts",
+        "primary_household_income_growth",
+        "unemployment_rate",
+        "employment_status",
+        "employment_unit",
+        "employment_growth_status",
+        "employment_growth_unit",
+        "unemployment_rate_status",
+        "unemployment_rate_unit",
+        "average_weekly_earnings_status",
+        "average_weekly_earnings_unit",
+        "primary_household_income_growth_status",
+        "primary_household_income_growth_unit",
+        "housing_starts_status",
+        "housing_starts_unit",
+        "source_file",
+        "source_pdf_page",
+        "time_basis",
+        "cpi_index_2015_100",
+        "weekly_earnings_cpi_adjusted_2024_cad"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d1992836e50d13b9683c711a19ae4288355956bb746d4e5efa7f46bb5b8202db",
+      "hidden": true
+    },
+    {
+      "name": "Source043",
+      "rows": 28,
+      "columns": [
+        "baseline_calendar_year",
+        "endpoint_calendar_year",
+        "function",
+        "nominal_growth_pct",
+        "nominal_per_resident_growth_pct",
+        "cpi_adjusted_per_resident_growth_pct"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "0c0cb2fcb54693148eb3e14b4e5d830cafee9d9fe4f1f7e434f726939bdfe9cd",
+      "hidden": true
+    },
+    {
+      "name": "Source044",
+      "rows": 70,
+      "columns": [
+        "calendar_year",
+        "fiscal_year",
+        "function",
+        "nominal_million",
+        "population_july_1",
+        "cpi_index_2015_100",
+        "nominal_per_resident",
+        "cpi_adjusted_per_resident_2024_cad",
+        "expense_pdf_page",
+        "economic_pdf_page",
+        "source_file",
+        "status",
+        "caution"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "a8042c9cd7bae1d1588c8c1a9f5d1c73cd36f0f682c984888258b2d05a562960",
+      "hidden": true
+    },
+    {
+      "name": "Source045",
+      "rows": 9,
+      "columns": [
+        "source_reporting_fiscal_year",
+        "category",
+        "budget_2024_25_million",
+        "actual_2024_25_million",
+        "actual_2023_24_million",
+        "source_reported_budget_change_million",
+        "source_reported_prior_change_million",
+        "source_file",
+        "pdf_page",
+        "scope"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "a6c0acdde9608e717b2515da3cdd6adf39d29bb4a344a0c2d31622770d3f9ebb",
+      "hidden": true
+    },
+    {
+      "name": "Source046",
+      "rows": 21,
+      "columns": [
+        "baseline",
+        "endpoint",
+        "metric",
+        "nominal_total_growth_pct",
+        "population_growth_pct",
+        "cpi_growth_pct",
+        "cpi_adjusted_per_resident_growth_pct",
+        "calculation"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "c4a550dad9274b12406003d7bc01d34a928dccbedb5c107bf52bf77dec5f3693",
+      "hidden": true
+    },
+    {
+      "name": "Source047",
+      "rows": 3,
+      "columns": [
+        "source_vintage",
+        "observation_fiscal_year",
+        "source_file",
+        "pdf_page",
+        "health_expense_million",
+        "basic_advanced_education_expense_million",
+        "social_services_expense_million",
+        "other_program_expense_million",
+        "total_program_expense_million",
+        "debt_servicing_expense_million",
+        "pension_provisions_recovery_million",
+        "total_expense_million",
+        "program_sum_minus_reported_total_million"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "3f1b11e2badac5e40fd33051ee9479df357f31d66f72a1122c7b583861fb6216",
+      "hidden": true
+    },
+    {
+      "name": "Source048",
+      "rows": 10,
+      "columns": [
+        "fiscal_year",
+        "calendar_year",
+        "health_expense_million",
+        "basic_advanced_education_expense_million",
+        "social_services_expense_million",
+        "other_program_expense_million",
+        "total_program_expense_million",
+        "debt_servicing_expense_million",
+        "pension_provisions_recovery_million",
+        "total_expense_million",
+        "population_july_1_thousands",
+        "alberta_calendar_annual_cpi_growth_pct",
+        "program_component_rounding_residual_million",
+        "total_component_rounding_residual_million",
+        "program_reconciliation_status",
+        "total_reconciliation_status",
+        "status",
+        "source_vintage",
+        "source_file",
+        "expense_pdf_page",
+        "economic_pdf_page",
+        "measure_scope"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "73f8b82bee8264b907481c11a43995b89c3b2460a4b5bb4cd6d864619caae9af",
+      "hidden": true
+    },
+    {
+      "name": "Source049",
+      "rows": 26,
+      "columns": [
+        "source_reporting_fiscal_year",
+        "ministry",
+        "budget_2024_25_million",
+        "actual_2024_25_million",
+        "actual_2023_24_million",
+        "source_reported_budget_change_million",
+        "source_reported_prior_change_million",
+        "source_file",
+        "pdf_page",
+        "scope"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "43e93e8a4045039ce58dd70fc72016dc1aec4053fbe189f8583f7bb03769df53",
+      "hidden": true
+    },
+    {
+      "name": "Source050",
+      "rows": 30,
+      "columns": [
+        "metric",
+        "observation_period",
+        "value",
+        "unit",
+        "record_kind",
+        "source_file",
+        "source_pdf_page",
+        "status",
+        "definition_scope"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "c7ea099b1039442742763ea047bfd30dfbe222b68d39cab8dcfd4646f586995a",
+      "hidden": true
+    },
+    {
+      "name": "Source051",
+      "rows": 27,
+      "columns": [
+        "metric",
+        "observation_period",
+        "value",
+        "unit",
+        "source_file",
+        "source_pdf_page",
+        "reporting_scope",
+        "status"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "840a6c610935aa169601200ff76b2b393dd8be153b721d674fc0011b13bc5858",
+      "hidden": true
+    },
+    {
+      "name": "Source052",
+      "rows": 19,
+      "columns": [
+        "fiscal_year",
+        "metric",
+        "actual",
+        "unit",
+        "same_year_target",
+        "source_local_pdf",
+        "physical_pdf_page_1indexed",
+        "denominator_or_population",
+        "comparability_note"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "22cfb36ac4a90524a75088628cc030ccab0af54b6f1277b85ca6211b0e766bb3",
+      "hidden": true
+    },
+    {
+      "name": "Source053",
+      "rows": 14,
+      "columns": [
+        "fiscal_year",
+        "metric",
+        "actual",
+        "unit",
+        "source_local_pdf",
+        "physical_pdf_page_1indexed",
+        "source_vintage",
+        "scope_or_revision_note"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "aff9247a09984e6bc058eb3860354a057362ce8b99aaf04383c70274365d5017",
+      "hidden": true
+    },
+    {
+      "name": "Source054",
+      "rows": 13,
+      "columns": [
+        "metric",
+        "value",
+        "unit",
+        "period",
+        "source_report",
+        "physical_pdf_page",
+        "definition",
+        "limitation",
+        "source_quote"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "388ec53f205b383679cc7a09d991a9c2f753b7068ad6f6fe7d9e026f132ba4bc",
+      "hidden": true
+    },
+    {
+      "name": "Source055",
+      "rows": 108,
+      "columns": [
+        "metric",
+        "group",
+        "period",
+        "period_type",
+        "value",
+        "unit",
+        "target",
+        "preferred_direction",
+        "source_vintage",
+        "primary_within_definition",
+        "source_pdf",
+        "physical_pdf_page",
+        "source_sha256",
+        "transcription",
+        "definition",
+        "limitations",
+        "source_quote"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d589d15300ffd53b48269f6a9602909397bc1c49fa4e161fabb0d025f87419ca",
+      "hidden": true
+    },
+    {
+      "name": "Source057",
+      "rows": 180,
+      "columns": [
+        "REF_DATE",
+        "GEO",
+        "DGUID",
+        "Age group",
+        "Sex",
+        "Element",
+        "UOM",
+        "UOM_ID",
+        "SCALAR_FACTOR",
+        "SCALAR_ID",
+        "VECTOR",
+        "COORDINATE",
+        "VALUE",
+        "STATUS",
+        "SYMBOL",
+        "TERMINATED",
+        "DECIMALS"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "5a030893e1125bcc37f457df9fb75cc8fbb608c63115242963acd1f970030505",
+      "hidden": true
+    },
+    {
+      "name": "Source059",
+      "rows": 14,
+      "columns": [
+        "period",
+        "metric",
+        "value",
+        "unit",
+        "status",
+        "source_file",
+        "source_url",
+        "source_pdf_page",
+        "source_printed_page",
+        "exact_source_quote",
+        "interpretation_limit"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "cdd0bac78c06d75e8590c8b2c6c27850d778d0d513db5bec8a5ce2936e47b1a6",
+      "hidden": true
+    },
+    {
+      "name": "Source060",
+      "rows": 14,
+      "columns": [
+        "period",
+        "metric",
+        "value",
+        "unit",
+        "status",
+        "source_file",
+        "source_url",
+        "source_pdf_page",
+        "source_printed_page",
+        "exact_source_quote",
+        "interpretation_limit"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "d1b0c558634adee626ebe7b985d43535acd0321eb03ad40644a1a5ff89bb2c60",
+      "hidden": true
+    },
+    {
+      "name": "Source061",
+      "rows": 3,
+      "columns": [
+        "baseline_calendar_year",
+        "endpoint_calendar_year",
+        "average_weekly_earnings_nominal_growth_pct",
+        "average_weekly_earnings_cpi_adjusted_growth_pct",
+        "unemployment_rate_change_percentage_points",
+        "status",
+        "caveat"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "4d6f8215b05223665a47e940d76a6ac38203adb0d96a3ae53b55af1773f368f1",
+      "hidden": true
+    },
+    {
+      "name": "Source062",
+      "rows": 144,
+      "columns": [
+        "panel",
+        "calendar_year",
+        "metric",
+        "value",
+        "unit",
+        "status",
+        "geography",
+        "time_basis",
+        "source_file",
+        "source_pdf_page",
+        "source_printed_page",
+        "source_report",
+        "exact_source_row",
+        "source_definition",
+        "footnote",
+        "interpretation_limit"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "856f48be43e8329d4063e30418b3d00c5b9c6209feb44a28e33267c1827de68c",
+      "hidden": true
+    },
+    {
+      "name": "Source063",
+      "rows": 10,
+      "columns": [
+        "calendar_year",
+        "geography",
+        "index_value",
+        "index_name",
+        "unit",
+        "status",
+        "source_file",
+        "source_pdf_page",
+        "source_printed_page",
+        "definition_pdf_page",
+        "definition_printed_page",
+        "provider",
+        "exact_definition_quote",
+        "limitation"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "e1b537d5ea3674f8799b1088efb92c42e6f675144c602c3776823912b2d56cb8",
+      "hidden": true
+    },
+    {
+      "name": "Source064",
+      "rows": 28,
+      "columns": [
+        "calendar_year",
+        "geography",
+        "mbm_base",
+        "persons",
+        "poverty_rate_pct",
+        "quality_flag",
+        "quality_definition",
+        "vector",
+        "coordinate",
+        "source_table",
+        "source_url",
+        "source_status",
+        "income_survey",
+        "comparability"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "ae9f5d1f8c7ef9503af8b8e00b39a162d8ed2fb00d2eed50497f1ae85b3cf9c2",
+      "hidden": true
+    },
+    {
+      "name": "Source065",
+      "rows": 28,
+      "columns": [
+        "REF_DATE",
+        "GEO",
+        "DGUID",
+        "Persons in low income",
+        "Low income lines",
+        "Statistics",
+        "UOM",
+        "UOM_ID",
+        "SCALAR_FACTOR",
+        "SCALAR_ID",
+        "VECTOR",
+        "COORDINATE",
+        "VALUE",
+        "STATUS",
+        "SYMBOL",
+        "TERMINATED",
+        "DECIMALS"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "dce9f0d8a34b8e126eb68631453cafb53e9606a7fd767d1a19a26dcd04a338fa",
+      "hidden": true
+    },
+    {
+      "name": "Source066",
+      "rows": 12,
+      "columns": [
+        "source_file",
+        "title",
+        "author",
+        "pages",
+        "sha256",
+        "official_url",
+        "source_kind"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "5eec261ccf2ffe40413e320c3dd3131895c31ddec9378bc063d353d6620cd81c",
+      "hidden": true
+    },
+    {
+      "name": "Source067",
+      "rows": 5,
+      "columns": [
+        "metric",
+        "fiscal_year",
+        "value",
+        "unit",
+        "source_file",
+        "source_pdf_page",
+        "source_printed_page",
+        "source_quote",
+        "status",
+        "target",
+        "target_period",
+        "caveat"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "6333cac7f3bf79cd1ea346965a96b459762d3aabcd0d915fe681eae9faf1d560",
+      "hidden": true
+    },
+    {
+      "name": "Source068",
+      "rows": 30,
+      "columns": [
+        "metric",
+        "geography",
+        "calendar_year",
+        "value",
+        "unit",
+        "source_file",
+        "source_pdf_page",
+        "source_printed_page",
+        "source_quote",
+        "source_vintage",
+        "status",
+        "caveat"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "bf459ceb51a8398cf391807dc6c88bba78065aa2ebd15b9e806e12d7663769b4",
+      "hidden": true
+    },
+    {
+      "name": "Source069",
+      "rows": 80,
+      "columns": [
+        "fiscal_year",
+        "metric",
+        "archived_pdf_value_million",
+        "current_website_pdf_value_million",
+        "primary_ledger_value_million",
+        "website_minus_archived_million",
+        "ledger_minus_archived_million",
+        "match",
+        "archived_pdf_page",
+        "website_physical_pdf_page",
+        "website_printed_page"
+      ],
+      "types": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "payload_sha256": "28ee1a0b9cc0931679c11868255d23ce1bce32cfc69daf8a0c3da4819271a8d5",
+      "hidden": true
+    }
+  ],
+  "pages": 43,
+  "chart_topics": 42,
+  "native_chart_visuals": 71,
+  "bindings": [
+    {
+      "page": "a7105ae6135a50039339",
+      "visual": "47dc88f5d6ae5b97b4c7",
+      "chart": "qol_02_allocation_change",
+      "panel": "p1"
+    },
+    {
+      "page": "a7105ae6135a50039339",
+      "visual": "4f076e1167ff5afdaf3c",
+      "chart": "infra_02_spending_per_resident",
+      "panel": "p1"
+    },
+    {
+      "page": "a7105ae6135a50039339",
+      "visual": "39242e7b53415606b7e5",
+      "chart": "qol_08_emergency_and_imaging",
+      "panel": "p1"
+    },
+    {
+      "page": "a7105ae6135a50039339",
+      "visual": "36ac68b4aefd57039a2c",
+      "chart": "qol_09_surgery_and_ems",
+      "panel": "p1"
+    },
+    {
+      "page": "fa9e24bdd606551b919a",
+      "visual": "835817a4e5855b128514",
+      "chart": "qol_01_spending_intensity",
+      "panel": "p1"
+    },
+    {
+      "page": "fa9e24bdd606551b919a",
+      "visual": "063951fc2ca15f04a09d",
+      "chart": "qol_01_spending_intensity",
+      "panel": "p2"
+    },
+    {
+      "page": "907db274434d5765addc",
+      "visual": "e1e30b094e0f584fa543",
+      "chart": "qol_02_allocation_change",
+      "panel": "p1"
+    },
+    {
+      "page": "616d5e078eda594a80a2",
+      "visual": "76215ab6391c5fb99377",
+      "chart": "qol_03_pay_and_unemployment",
+      "panel": "p1"
+    },
+    {
+      "page": "616d5e078eda594a80a2",
+      "visual": "6107cbe582a65fdcb4d1",
+      "chart": "qol_03_pay_and_unemployment",
+      "panel": "p2"
+    },
+    {
+      "page": "260d0250bf6550e79cef",
+      "visual": "ba4348f3c836548a8b52",
+      "chart": "qol_04_safety",
+      "panel": "p1"
+    },
+    {
+      "page": "260d0250bf6550e79cef",
+      "visual": "78d8a069826d5b799d05",
+      "chart": "qol_04_safety",
+      "panel": "p2"
+    },
+    {
+      "page": "e202f0811122500a9bae",
+      "visual": "556cd8c544395ac581eb",
+      "chart": "qol_05_completion",
+      "panel": "p1"
+    },
+    {
+      "page": "e202f0811122500a9bae",
+      "visual": "6cd531dd792d5a29bb1a",
+      "chart": "qol_05_completion",
+      "panel": "p2"
+    },
+    {
+      "page": "37fb15a240585a88b780",
+      "visual": "130bb6c5e0d7597c92c8",
+      "chart": "qol_06_grade9",
+      "panel": "p1"
+    },
+    {
+      "page": "37fb15a240585a88b780",
+      "visual": "e1643a1ce30255cfa9d8",
+      "chart": "qol_06_grade9",
+      "panel": "p2"
+    },
+    {
+      "page": "ef128087500455b0b481",
+      "visual": "ce71b0796a725d119a47",
+      "chart": "qol_07_mental_health",
+      "panel": "p1"
+    },
+    {
+      "page": "ef128087500455b0b481",
+      "visual": "077040a104e85163a606",
+      "chart": "qol_07_mental_health",
+      "panel": "p2"
+    },
+    {
+      "page": "f04521f5a18056a69681",
+      "visual": "bb0c8f1617035ab09fb2",
+      "chart": "qol_08_emergency_and_imaging",
+      "panel": "p1"
+    },
+    {
+      "page": "f04521f5a18056a69681",
+      "visual": "dddd64566e9e5497b888",
+      "chart": "qol_08_emergency_and_imaging",
+      "panel": "p2"
+    },
+    {
+      "page": "78773f446b6f57c4af01",
+      "visual": "a03882b37bb4554fba58",
+      "chart": "qol_09_surgery_and_ems",
+      "panel": "p1"
+    },
+    {
+      "page": "78773f446b6f57c4af01",
+      "visual": "ffe7c51e6a8358819d76",
+      "chart": "qol_09_surgery_and_ems",
+      "panel": "p2"
+    },
+    {
+      "page": "63e246b94bbf58309c66",
+      "visual": "fc275f6d85825d3f9cc8",
+      "chart": "qol_10_housing_support",
+      "panel": "p1"
+    },
+    {
+      "page": "d9d7b594dde155518643",
+      "visual": "852856e2e26256a495da",
+      "chart": "qol_11_poverty",
+      "panel": "p1"
+    },
+    {
+      "page": "d9d7b594dde155518643",
+      "visual": "b0149cef9fa05c4ba961",
+      "chart": "qol_11_poverty",
+      "panel": "p2"
+    },
+    {
+      "page": "5760fad2ac5753c58b4d",
+      "visual": "d60a716ec6cd5f8594d7",
+      "chart": "qol_12_life_expectancy",
+      "panel": "p1"
+    },
+    {
+      "page": "5760fad2ac5753c58b4d",
+      "visual": "859e5d669133538c9605",
+      "chart": "qol_12_life_expectancy",
+      "panel": "p2"
+    },
+    {
+      "page": "2dd717e8d6af5d1fbc07",
+      "visual": "73537353f8605bb69ffb",
+      "chart": "infra_01_actual_capital_spending",
+      "panel": "p1"
+    },
+    {
+      "page": "6fc6f2b7f936540d888c",
+      "visual": "cb2c70e01911552fa7a9",
+      "chart": "infra_02_spending_per_resident",
+      "panel": "p1"
+    },
+    {
+      "page": "a737c459515f5c00983d",
+      "visual": "739a7d86ba405860813b",
+      "chart": "infra_03_growth_benchmarks",
+      "panel": "p1"
+    },
+    {
+      "page": "376e91cdce0b5cb19536",
+      "visual": "ef78923b8be65b349950",
+      "chart": "infra_04_baseline_sensitivity",
+      "panel": "p1"
+    },
+    {
+      "page": "59a4f52659095d499e83",
+      "visual": "bf9c50c7e82450e1ab33",
+      "chart": "infra_05_latest_sector_changes",
+      "panel": "p1"
+    },
+    {
+      "page": "04956818b4a25f24acd7",
+      "visual": "26b7ac39118b5ba18dee",
+      "chart": "infra_06_tenure_sensitivity",
+      "panel": "p1"
+    },
+    {
+      "page": "86708fa1edc751379145",
+      "visual": "203d3c0399d05cd6bb29",
+      "chart": "infra_07_selected_project_stages",
+      "panel": "p1"
+    },
+    {
+      "page": "f6e8a45000ad5e45bebf",
+      "visual": "1d005da6071e53738329",
+      "chart": "infra_08_hypothetical_price_sensitivity",
+      "panel": "p1"
+    },
+    {
+      "page": "3b325ddc18205c65a7f9",
+      "visual": "8ed27bdf3612534e9f42",
+      "chart": "infra_09_reported_budget_execution",
+      "panel": "p1"
+    },
+    {
+      "page": "3b325ddc18205c65a7f9",
+      "visual": "f00c2f8c03e056669468",
+      "chart": "infra_09_reported_budget_execution",
+      "panel": "p2"
+    },
+    {
+      "page": "28db2ee1451c5343aa5a",
+      "visual": "168307a86ee759b3ad60",
+      "chart": "history_expense_composition",
+      "panel": "p1"
+    },
+    {
+      "page": "28db2ee1451c5343aa5a",
+      "visual": "fcadf6a8ba9455f29871",
+      "chart": "history_expense_composition",
+      "panel": "p2"
+    },
+    {
+      "page": "ba9eac8914e15a3d90bc",
+      "visual": "f6bb4879678154b2bb71",
+      "chart": "history_expense_percapita",
+      "panel": "p1"
+    },
+    {
+      "page": "ba9eac8914e15a3d90bc",
+      "visual": "cfbafbb03db45e238cb1",
+      "chart": "history_expense_percapita",
+      "panel": "p2"
+    },
+    {
+      "page": "0046cebc7b525d84a08d",
+      "visual": "a32bcde53e485ff99411",
+      "chart": "history_expense_real_spending",
+      "panel": "p1"
+    },
+    {
+      "page": "0046cebc7b525d84a08d",
+      "visual": "c8f4d8c3508c575c9e0b",
+      "chart": "history_expense_real_spending",
+      "panel": "p2"
+    },
+    {
+      "page": "7decb31fa8a25917b2d2",
+      "visual": "6535d0ac54625be08a0f",
+      "chart": "history_expense_health_deep_dive",
+      "panel": "p1"
+    },
+    {
+      "page": "7decb31fa8a25917b2d2",
+      "visual": "7d6753c4d94959b7ba74",
+      "chart": "history_expense_health_deep_dive",
+      "panel": "p2"
+    },
+    {
+      "page": "7decb31fa8a25917b2d2",
+      "visual": "b9a2c7468c4f5170ba15",
+      "chart": "history_expense_health_deep_dive",
+      "panel": "p3"
+    },
+    {
+      "page": "9ecac32cd2d754b6b45e",
+      "visual": "f758e727f12e5a74bf65",
+      "chart": "history_expense_growth_indexed",
+      "panel": "p1"
+    },
+    {
+      "page": "01c30bdbacae5c70aa76",
+      "visual": "077f4a468ac25924bcb8",
+      "chart": "history_alberta_fiscal_summary_infographic",
+      "panel": "p1"
+    },
+    {
+      "page": "01c30bdbacae5c70aa76",
+      "visual": "6f0802bc5b0455428759",
+      "chart": "history_alberta_fiscal_summary_infographic",
+      "panel": "p2"
+    },
+    {
+      "page": "01c30bdbacae5c70aa76",
+      "visual": "806d79b5ff785625a621",
+      "chart": "history_alberta_fiscal_summary_infographic",
+      "panel": "p3"
+    },
+    {
+      "page": "bd19a57b41465e819ebe",
+      "visual": "44253f25339d5c7d871f",
+      "chart": "plan_scissors_effect",
+      "panel": "p1"
+    },
+    {
+      "page": "34de970477c456ceaa34",
+      "visual": "36668d514dcb5236a7db",
+      "chart": "plan_revenue_vs_expense_gap",
+      "panel": "p1"
+    },
+    {
+      "page": "34de970477c456ceaa34",
+      "visual": "5a002884599256599ee7",
+      "chart": "plan_revenue_vs_expense_gap",
+      "panel": "p2"
+    },
+    {
+      "page": "c0df97868b9a5a659b78",
+      "visual": "3d76e57632fe5cc1bf74",
+      "chart": "plan_fiscal_balance_waterfall",
+      "panel": "p1"
+    },
+    {
+      "page": "c0df97868b9a5a659b78",
+      "visual": "b825238cf2d15a06abef",
+      "chart": "plan_fiscal_balance_waterfall",
+      "panel": "p2"
+    },
+    {
+      "page": "009a8d25a5cb5e09bdaa",
+      "visual": "265f5646f4a458bcaa78",
+      "chart": "plan_revenue_composition",
+      "panel": "p1"
+    },
+    {
+      "page": "68a6e553c5fc58d38b65",
+      "visual": "f8660abb0c095beb9ae4",
+      "chart": "plan_revenue_resource_risk",
+      "panel": "p1"
+    },
+    {
+      "page": "18bf4eaf10a55bac924c",
+      "visual": "43480a5623fa5979b5c9",
+      "chart": "plan_revenue_dependency_comparison",
+      "panel": "p1"
+    },
+    {
+      "page": "81d39a4215b85eff88a5",
+      "visual": "781fb9e052af5e4eb7fb",
+      "chart": "plan_expense_ministry_ranking",
+      "panel": "p1"
+    },
+    {
+      "page": "48a3f9bc332455fb85e7",
+      "visual": "dd4cded74683538f82b5",
+      "chart": "plan_expense_changes_tornado",
+      "panel": "p1"
+    },
+    {
+      "page": "a29b402b00f158139110",
+      "visual": "03019b8b990e5a73bd0a",
+      "chart": "plan_expense_composition_categories",
+      "panel": "p1"
+    },
+    {
+      "page": "cdeec0fb217157f089e3",
+      "visual": "1d4051c5b3005680afd9",
+      "chart": "plan_expense_growth_vs_size",
+      "panel": "p1"
+    },
+    {
+      "page": "cdeec0fb217157f089e3",
+      "visual": "890ac67da7785b2da2fb",
+      "chart": "plan_expense_growth_vs_size",
+      "panel": "p2"
+    },
+    {
+      "page": "82a4fd52b65c587aba42",
+      "visual": "178b0456f4425c7488ae",
+      "chart": "plan_health_spending_deep_dive",
+      "panel": "p1"
+    },
+    {
+      "page": "82a4fd52b65c587aba42",
+      "visual": "4fb3a00132a05e8bb2a8",
+      "chart": "plan_health_spending_deep_dive",
+      "panel": "p2"
+    },
+    {
+      "page": "b65ab081cb5554ae98ed",
+      "visual": "656b8a2f83f45da896cc",
+      "chart": "plan_per_dollar_breakdown",
+      "panel": "p1"
+    },
+    {
+      "page": "25ef68ced2ae510faeec",
+      "visual": "2df636ffb7085ecd891f",
+      "chart": "plan_cumulative_deficit",
+      "panel": "p1"
+    },
+    {
+      "page": "25ef68ced2ae510faeec",
+      "visual": "e2cd2e00216553ae8295",
+      "chart": "plan_cumulative_deficit",
+      "panel": "p2"
+    },
+    {
+      "page": "24a5037bad0959e08014",
+      "visual": "c78cc7dcaa2456f29c38",
+      "chart": "plan_debt_trajectory",
+      "panel": "p1"
+    },
+    {
+      "page": "24a5037bad0959e08014",
+      "visual": "20529a35221c57369b4f",
+      "chart": "plan_debt_trajectory",
+      "panel": "p2"
+    },
+    {
+      "page": "befdec986b135771ac35",
+      "visual": "08e15a2c942955f69249",
+      "chart": "plan_debt_servicing_escalation",
+      "panel": "p1"
+    },
+    {
+      "page": "befdec986b135771ac35",
+      "visual": "f9c4752d182d59e68ba5",
+      "chart": "plan_debt_servicing_escalation",
+      "panel": "p2"
+    }
+  ],
+  "desktop_render_verified": false,
+  "service_published": false,
+  "external_connections": 0,
+  "snapshot": "Repository evidence reviewed 2026-10-09; project generated 2026-10-11",
+  "download": {
+    "path": "downloads/AlbertaBudget-PowerBI.zip",
+    "bytes": 492698,
+    "sha256": "b798c2dc7810519915e9aa48c8d85a51317f93a172e4e421c434523447f9c6a9"
+  }
+}

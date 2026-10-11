@@ -1,0 +1,80 @@
+/// Quality of Life Analysis/research/living_standards/childcare_income_access_2020_2025.csv
+table 'Source059'
+	isHidden
+	lineageTag: 06b148e8-fcf9-5d86-bf83-6438d27246e1
+
+	column 'period'
+		dataType: string
+		lineageTag: a7e2bc81-9729-51a9-8e87-5f51e0cb47eb
+		summarizeBy: none
+		sourceColumn: period
+
+	column 'metric'
+		dataType: string
+		lineageTag: 4fbd88a5-6418-52e7-952e-a375001f0e70
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'value'
+		dataType: string
+		lineageTag: dc0616a5-4a6c-5f32-9e95-f39aa57c458e
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: 99a105d1-2b7d-5979-8aa4-011ab0358f35
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'status'
+		dataType: string
+		lineageTag: d38d83bb-d7c2-5a00-b252-02d13f20df47
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 26397a0c-5a79-5dbe-a1dd-abadd6970491
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_url'
+		dataType: string
+		lineageTag: 8b400685-a658-5743-8884-0e3e601cd826
+		summarizeBy: none
+		sourceColumn: source_url
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: e1cf749d-1361-5d0e-8692-51dcb7f41668
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: 61186714-2587-56d2-911a-a67579037192
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'exact_source_quote'
+		dataType: string
+		lineageTag: ac4a90c0-e512-552c-a34a-7e1b6dce23aa
+		summarizeBy: none
+		sourceColumn: exact_source_quote
+
+	column 'interpretation_limit'
+		dataType: string
+		lineageTag: 430beec8-2c43-5e16-a584-f005fd408969
+		summarizeBy: none
+		sourceColumn: interpretation_limit
+
+	partition 'Source059' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2YzW7jNhDHX4UIWqAFTFsftmw3p2B7aFoUWCC9LRbCmBxZ3JVFlaTi9a2v0dfrk3SGkh13F91N0EPQjQ+R7JgcDv/z45DDN2+usiRLZJZeTa52qA205c3t3U8lf1bQlKDf9fwpGNuWezCB2i2ma3ruEd97eoMKPTSzzhnr5AHBCYe+b7ihV95LaFv6XTrsrAuSRpvzYzHtdEVN6hA6/8NsZjtsp9Bs0AWYKphpCOAxzHIoNotEr6RKq0zOcQ1yPUcli6xKMYF8jov1jAa0vVM4W2xWywIAJfBjrta5hDWkcl5hmicLtdzk65m2+7axoGePcC8v+DGnx2+18aJDV1m3g1ah2CH43qFQ0AV6exFq/idLKILZodhgII1asa/pQf9kXQV0XTPKKcigQ9AHQTbFudDiO2gaoa3qd9gGbvV7bxxqEaxQtq2M24kttuigIcNajMES2Jit2ZjGhIOo4Z5doKEdKjT31Ltydhe9PPekDd9HG9HL4xQ+NqZRGc+O1eAHozvQOCVZ7gI48hCqgI5823UNBjy5HmdzLVobyPVARk1rgmGvz2Rgqky7jaJNhGoMdaSGZAxJFZo6qIMghTp7T3QcpldvJ5HaVGbZE6hdT9MLtRdqn5vaTGb5E6hN02lxwfaC7XNjm8ts/gRs59P8Qu2F2uemlgK1eNLB9kLthdpnp3Ysx0iqkmxh61GXqjaNVuCw9B0o9OXW2X2oOdXSH4VPsXGmVLK1gdfKeJ7wr+BUTXPo2/B5rN9h+I9UF7rSyQqWMsWUqN4UG7nJVSKX87VeF0mVpvP8gepsoZdJVhWSwgByXqCWsMwLWawXWVapTZKvVg9Uf9m7JS/fJWv3ehAEtoRxDS29zABB2+/IaWErcZRWRGkFaysGban/bauaXhP7tg/SVtKr2tpmaESk7JEwpndHU4m/kAAH/nFWwc40h5pC7Ac8PFC0FceEnaE+fSeDle9Nq9FtiTFsZXSTw3NN+H0wu35Haw8UA8omhohBoKaaV+jHFdAjQSkuoLxUUMai45GgrC6gvFRQxmP+I0FZX0B5qaCMJ+tHgpImF1JeJCk/A0nhDqwBOXwipe/KYMtz8yUMg59BVCEyOozZq5sfuUQRNAH6NghLolDlEqyLh/qxuxg6/d8ZKXjSRSxGTahF1TvCgteA7hWXFp4LJqq8jrMmUr5JF0eJGKNReDEqfxf9lCfljh17joB4BS1ouBlUgK1D5BpnQINWeMTFMGdO1Lb3WFtiMVZGAT6IowrEElVd3Md4SyQgkWfvqd7huoiqu+DMpmfvBzRuaHE36YRnTQ5WfdNwnVRW1LPsKP5tKHfUqW4OTELJlnviSnPdmhXT7JyL2JDTxrERSca1qzBct50KtrGaGzOO6oOtqq+Kltt/BH4xEWNM//rjTy+2vL5bFkM86BRqCLzgiaAYEJFOxq4miL3tKdAnDQWIFveCIyTG0IghUrzsIoRDZGLdzxGV8b6AVzM5d8PixzSfD2EXeG80khtDJK4FfogJLdbz4x4zpJUh+fsBnHMT50nlk+3n0yzD+WSeLZPkrN9DPn1YHXFQQclFvf8a+ODKr+A0cBMDPWy1+SnSJMmENPnMZkN7Ce8p92Aa2DT0STnrh4uhcY1jjHnsSEDQ/sEZ6lx6QemGV+y4Z0RtJzHDYOts0zBgE5Icqgr1ONJwRxPvkPi2hDKK77uOqHNIDJp7DHa4zGnwOPLHB5QWQ0nQPhxSPs9GHtGgTpH0LyMCWhvOLF8VJZRFRgGZjQlpIv5FkYEL5ZBioye8IxEK9M3HbJCmMTnHQx/foMF40zfWGfGWjQ8enx42TmeRidCGgHCeUwJtRcfx4/Bp8u0vr2+vhbaRI9qYRNfQJFGvkiQZPaTcdgwSHU9i1DiPvP0bj69gMPogAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"period", "metric", "value", "unit", "status", "source_file", "source_url", "source_pdf_page", "source_printed_page", "exact_source_quote", "interpretation_limit"}),
+				Typed = Table.TransformColumnTypes(Source, {{"period", type text}, {"metric", type text}, {"value", type text}, {"unit", type text}, {"status", type text}, {"source_file", type text}, {"source_url", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"exact_source_quote", type text}, {"interpretation_limit", type text}}, "en-US")
+			in
+				Typed

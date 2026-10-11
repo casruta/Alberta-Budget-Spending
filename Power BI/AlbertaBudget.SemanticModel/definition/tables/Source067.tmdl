@@ -1,0 +1,86 @@
+/// Quality of Life Analysis/research/source_verification/mental_health_access_2019_2023.csv
+table 'Source067'
+	isHidden
+	lineageTag: 8755edeb-bf0f-50c3-920e-36547c684d10
+
+	column 'metric'
+		dataType: string
+		lineageTag: c4a570e1-6b34-58c1-96d3-557877570877
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 3de6219f-80cb-5016-9e39-7fe8a44484aa
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'value'
+		dataType: string
+		lineageTag: fc7fc639-d778-523a-9953-f64536580c11
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: 7840116d-dda9-5994-a358-41548de20920
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'source_file'
+		dataType: string
+		lineageTag: efef8350-2191-5ed3-b397-9f64ad892902
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: 0189e0a1-0048-56b7-b649-3d918e0cad90
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: 7bc0a260-5323-5628-9c91-475410d54c4f
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'source_quote'
+		dataType: string
+		lineageTag: 944992b0-f1a5-5ae5-b1cb-0b6d0496ee84
+		summarizeBy: none
+		sourceColumn: source_quote
+
+	column 'status'
+		dataType: string
+		lineageTag: 15624ab1-5ae8-58d9-9a7a-51557204148a
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'target'
+		dataType: string
+		lineageTag: 9b8708c9-02c9-5d1e-8579-e7ffb058bcac
+		summarizeBy: none
+		sourceColumn: target
+
+	column 'target_period'
+		dataType: string
+		lineageTag: 7ec15d46-2f72-5abf-92a7-975c488709b6
+		summarizeBy: none
+		sourceColumn: target_period
+
+	column 'caveat'
+		dataType: string
+		lineageTag: 18091be2-e1d0-5784-aa9d-1a86f1b2541e
+		summarizeBy: none
+		sourceColumn: caveat
+
+	partition 'Source067' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2WwYrbMBCGX2UI5BbZibLZEHJa2l22sJTteVmKIo3jAUUykuzUb99R1EPb7C2HUrCxZTEeaUb//x389jZ7ohATnNAlZUWLyqa2VsaQTuQdPH6GgSIlOFNqwXno+oMlbUdoemfQQMQwkEYglzCosogcdAEH8n2EdPbQUNTKwogqxNliJpernZDLy6za8qvDoLk+z771ylIawTfwQg3Cg1N2jBTrgJFX67aOvufk7wMGakirXK82/uysVybWp1YJ5RzvIgJ2PiSuI+/ysKk603CF9SYP61/F5/D3xdH7q+hq90EwRzfXqdtqN79O3M65YmmJRWOduMU99B0kDwmdOHnH+lp15LRyF1+K+CxQfiKf9Tct94A/tO0NRlZ8YOFMfaIYyR3h9fkrKGfAYmQLWuUuPlwMgIfnT19eAS0d6UBZ7Qpe/JkrUMy2NRgCt3gYoUi9ZzZU7NkA/ko+gOZW+QALpiFBQO3Zi7GavS/+DUtyKeSq2Hk/sTSxdBNLKyElz7JHE0sTSzexJIVcF5Y2E0sTSzextBbyrrA0/S9dsZS3+EOm/w6r95/7xQdhiAsAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"metric", "fiscal_year", "value", "unit", "source_file", "source_pdf_page", "source_printed_page", "source_quote", "status", "target", "target_period", "caveat"}),
+				Typed = Table.TransformColumnTypes(Source, {{"metric", type text}, {"fiscal_year", type text}, {"value", type text}, {"unit", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"source_quote", type text}, {"status", type text}, {"target", type text}, {"target_period", type text}, {"caveat", type text}}, "en-US")
+			in
+				Typed

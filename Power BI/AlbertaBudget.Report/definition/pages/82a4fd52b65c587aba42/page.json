@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "82a4fd52b65c587aba42",
+  "displayName": "38 Archive plan | health ministry spending",
+  "displayOption": "FitToPage",
+  "width": 1320,
+  "height": 900,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "c94f0325b63350278596",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'plan_health_spending_deep_dive'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "178b0456f4425c7488ae",
+      "target": "4fb3a00132a05e8bb2a8",
+      "type": "NoFilter"
+    },
+    {
+      "source": "4fb3a00132a05e8bb2a8",
+      "target": "178b0456f4425c7488ae",
+      "type": "NoFilter"
+    }
+  ]
+}

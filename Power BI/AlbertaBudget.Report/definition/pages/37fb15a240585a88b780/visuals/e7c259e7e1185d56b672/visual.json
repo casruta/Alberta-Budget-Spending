@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "e7c259e7e1185d56b672",
+  "position": {
+    "x": 24,
+    "y": 714,
+    "width": 1272,
+    "height": 150,
+    "z": 0,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Source: Education 2024–25 Annual Report Update PDF pp 5–7,18–19. Weighted/enrolment-based outcomes. 2020–21 missing (COVID); security/wildfire disruptions; changing participation; Grade 6 curriculum break.\nEvidence: hover over points for source CSV rows and transformations. Reviewed findings and PDF citations remain in the repository report.",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "12pt",
+                      "color": "#263747"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

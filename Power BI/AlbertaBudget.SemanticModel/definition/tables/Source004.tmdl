@@ -1,0 +1,50 @@
+/// 2026-2029 Fiscal Plan/top_changes.csv
+table 'Source004'
+	isHidden
+	lineageTag: 38b1c6e8-ed24-5ed8-8e72-aa55fdd27dc6
+
+	column 'Type'
+		dataType: string
+		lineageTag: 2f23e6ad-eefc-51f7-b81d-0c67059e664f
+		summarizeBy: none
+		sourceColumn: Type
+
+	column 'Item'
+		dataType: string
+		lineageTag: 60d72c9b-760e-519e-bcfe-3a0bd5733ead
+		summarizeBy: none
+		sourceColumn: Item
+
+	column '2024-25_Actual'
+		dataType: string
+		lineageTag: 47b9ce23-b42b-515c-8895-b3d30fc3b4a9
+		summarizeBy: none
+		sourceColumn: 2024-25_Actual
+
+	column '2026-27_Estimate'
+		dataType: string
+		lineageTag: a5645942-0f32-590c-a86b-fdef179dee49
+		summarizeBy: none
+		sourceColumn: 2026-27_Estimate
+
+	column 'Change'
+		dataType: string
+		lineageTag: 9156202f-2d6c-5c84-8c3d-e3de7ea6b8a1
+		summarizeBy: none
+		sourceColumn: Change
+
+	column 'Pct_Change'
+		dataType: string
+		lineageTag: 13b5c074-c7fe-55d4-b803-9c66faf1b2eb
+		summarizeBy: none
+		sourceColumn: Pct_Change
+
+	partition 'Source004' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA22RTYvbMBCG/4rwedfoy7J1bMPSLRS6dHsLOWjtSSJwpDCS3c2/rzRpaUn29FpGenjmne22+QErhAWah+azz8sJAsN4cXO+lD+iF6Yvac0wlHjsdW9ratWaZvewbZ7ezxBSffwc09lnNzMXJva64MGP5fAMhXRkr4CrHyFVpNBW1FSDkiWl0vUoeatviE/TMrrsYyDk5ujnaXQIV4boiaGVocfCkm3b3zA+peRThol986sPh6tcHH1R+9+Jy6G6CCmVqmk7UrQtJ96/ir7nIyALMTwiBPjl3mZgCCkuONaPv9f0QEKqk12tS0ira0rT2hvgT3Qh7QET22M8sS9xBQxlCZnFPdu44CZHYkYMNHAvOhK2df7hft4D+nGZ84JAs35F9AcqkeahLVqjSIpf5Tpxt8sX9CeHFyK80FS5MFb4cJ1G26thR9VxrsnMfNRcyU7Q/bJAsrC9IZn7qjcRzxFdBubDGE/AsnuvZEHaveK8Phz+NMxb2ex2vwFMC7D/zwIAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"Type", "Item", "2024-25_Actual", "2026-27_Estimate", "Change", "Pct_Change"}),
+				Typed = Table.TransformColumnTypes(Source, {{"Type", type text}, {"Item", type text}, {"2024-25_Actual", type text}, {"2026-27_Estimate", type text}, {"Change", type text}, {"Pct_Change", type text}}, "en-US")
+			in
+				Typed

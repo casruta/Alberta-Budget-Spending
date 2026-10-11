@@ -1,0 +1,98 @@
+/// Quality of Life Analysis/research/living_standards/historical_wellbeing_comparator.csv
+table 'Source063'
+	isHidden
+	lineageTag: 49b177cf-b978-535f-820e-08da73d2ede9
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 6a3e7b74-41fc-5209-8e94-2dbe89bb326b
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'geography'
+		dataType: string
+		lineageTag: 5ed9c5c5-e2d6-5f72-9d50-f91b98f87e24
+		summarizeBy: none
+		sourceColumn: geography
+
+	column 'index_value'
+		dataType: string
+		lineageTag: b94085b0-a616-59fd-8582-754f2cb0ca10
+		summarizeBy: none
+		sourceColumn: index_value
+
+	column 'index_name'
+		dataType: string
+		lineageTag: 7b34c1d0-b8f6-59df-99a0-9f2ca50a05f4
+		summarizeBy: none
+		sourceColumn: index_name
+
+	column 'unit'
+		dataType: string
+		lineageTag: a4e9246a-9b76-5205-9b5d-2d3227f0d282
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'status'
+		dataType: string
+		lineageTag: 6b38f352-a831-5273-83e1-a5c0aebbbc5a
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 57149704-7d87-5684-ae90-8dc8f45027f5
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: dcf2acde-a0fb-5097-86e7-4a02f18c3269
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: e71f34e6-39ee-5abc-a8f6-f4593299054b
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'definition_pdf_page'
+		dataType: string
+		lineageTag: 801754f6-9391-560e-9e12-1971825e3169
+		summarizeBy: none
+		sourceColumn: definition_pdf_page
+
+	column 'definition_printed_page'
+		dataType: string
+		lineageTag: 3ebee836-d1ba-5c06-bfaa-1d66f3be2f5a
+		summarizeBy: none
+		sourceColumn: definition_printed_page
+
+	column 'provider'
+		dataType: string
+		lineageTag: 199cbe20-126d-53ed-a49d-8bb139a6b4b2
+		summarizeBy: none
+		sourceColumn: provider
+
+	column 'exact_definition_quote'
+		dataType: string
+		lineageTag: af75ccb7-c8f8-59cf-bd60-fcd8e5ef35eb
+		summarizeBy: none
+		sourceColumn: exact_definition_quote
+
+	column 'limitation'
+		dataType: string
+		lineageTag: 311582c4-d730-518d-a185-d99a02320f60
+		summarizeBy: none
+		sourceColumn: limitation
+
+	partition 'Source063' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2WyW7bMBCGX2Xgs+1q8VK3p8RtgQI9BF2QQ5ADLY4sAhKpcnHqW96hp75enqQ/ZTdI3Yt6JyBQIjkczfzzYcC7u0mRZZvJdHLV7th6ga9svtoUeH/Ukn+Qqel9ZbTpVEW33Laza1Z6j22pOtZOGd2yc1SZrjdOeSYVj70lbTz15gCfR7LCM040ynljVSVaCloECWsZzbGCderDrlWuGdbw21pVCpZC64CX5d5YDyfXQe7Z0827D+5VkeWLGYYlXZ2sPg9W817WsMyLmEWer+JYlsPKGuOWtbdMNX7pG6YvPshjTPOTOiAzzIWWwkoH06/YR/Bx+RwnOzor9fT4yyE6SVuhhTxNBwkgCeER+iQF8nFImUmyVQfMams6emC1bwbHtQmWDsIqsYOSMRD+o/dD1HsX9X4DgbULXR+9T7EhWt9Mib8jawWFYxyOq2AxmSPwWNSnx5/QpkQs7THWg75tb2Y9gjAS3oL2bHth/bAF755RQSvs8ZzQUFKE5WI69rmW7LzqYj3vp8/snA4M6CwXZUInoTMGnTy7aDvrxSKxk9gZzc7LtrNcJXQSOqPQyS/bznKd2EnsjGbnZdtZpYtyQmccOsU/bed1YiexM5qdv9rOJqGT0BmFTnnZdop020nsjGcn3XYSOv+Fzv1v1n3eIlQWAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"calendar_year", "geography", "index_value", "index_name", "unit", "status", "source_file", "source_pdf_page", "source_printed_page", "definition_pdf_page", "definition_printed_page", "provider", "exact_definition_quote", "limitation"}),
+				Typed = Table.TransformColumnTypes(Source, {{"calendar_year", type text}, {"geography", type text}, {"index_value", type text}, {"index_name", type text}, {"unit", type text}, {"status", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"definition_pdf_page", type text}, {"definition_printed_page", type text}, {"provider", type text}, {"exact_definition_quote", type text}, {"limitation", type text}}, "en-US")
+			in
+				Typed

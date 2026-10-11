@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "b56e259c2a815ea7a6aa",
+  "position": {
+    "x": 24,
+    "y": 828,
+    "width": 1272,
+    "height": 150,
+    "z": 0,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.\nEvidence: hover over points for source CSV rows and transformations. Reviewed findings and PDF citations remain in the repository report.",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "12pt",
+                      "color": "#263747"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

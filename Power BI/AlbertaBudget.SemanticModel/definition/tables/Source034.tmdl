@@ -1,0 +1,74 @@
+/// Infrastructure Analysis/research/demography/population_cpi_cross_vintage_ledger.csv
+table 'Source034'
+	isHidden
+	lineageTag: 0a67d481-7811-54b9-aed8-159ef6e480a6
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 0e764979-48ed-506b-b505-b9de2fa24b94
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: e99b00de-f300-5874-9bac-476bf27c13d0
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_report_calendar_endpoint'
+		dataType: string
+		lineageTag: 8b083fb5-97f4-50bb-8316-a6f42f8b1da1
+		summarizeBy: none
+		sourceColumn: source_report_calendar_endpoint
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 32f1e0a5-1ef1-5a84-a51d-6bb8f03dfb17
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'population_july_1'
+		dataType: string
+		lineageTag: 14ca0a69-7b4b-50f7-80f8-226e9f4bec45
+		summarizeBy: none
+		sourceColumn: population_july_1
+
+	column 'annual_alberta_cpi_growth_pct'
+		dataType: string
+		lineageTag: ea705539-e6da-5331-b712-c57fa22051fd
+		summarizeBy: none
+		sourceColumn: annual_alberta_cpi_growth_pct
+
+	column 'population_precision'
+		dataType: string
+		lineageTag: 7319c1c5-b735-52c3-8f61-219aca2b8245
+		summarizeBy: none
+		sourceColumn: population_precision
+
+	column 'cpi_precision'
+		dataType: string
+		lineageTag: c6d1b272-0bdb-538b-9f17-7308cbce9a14
+		summarizeBy: none
+		sourceColumn: cpi_precision
+
+	column 'series_type'
+		dataType: string
+		lineageTag: 968fb677-060d-5ce7-9b6c-bd0931daa241
+		summarizeBy: none
+		sourceColumn: series_type
+
+	column 'status'
+		dataType: string
+		lineageTag: 2e7f8e97-e757-501d-83c9-1c10f4593894
+		summarizeBy: none
+		sourceColumn: status
+
+	partition 'Source034' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+XaS2+bQBSG4b8y8jq4c+Om7NqqUrvKPsqC2NhBIoAwbpV/3xkYkiiydGaW87HxxE5s/AiIX478+Lj7fj2e64k9/Px1+Sa5KBJRsuWx/XA87e52Qpsb+5t54aVZVJaXnHPzU8L3wixdXY31ZWLTS3+9VN3RPNR3NTvWh+a1atlQj4e6m6pzzYa+6Sbz60PV1t2xGtmbeSr78fCbncf+3/Ryz/5c2zdh/m64ttXU9J19rdOpOTTmhdrePI+N9dCPZmPVc1vfm4289uexGl6aAzPvwWxwMo/+bebtJZfBvAfz7N3TXbBVWKHKlVysYs9xqWKmFm63yr3GpUpLLfJ03avAB7Cy1LIQKxV4r9p7mhd6PYAzXGpqqUJv4QDOZmqZbYCaW6rUeqUCH8B20Yrn8X/YlInkX6hyMZafEuI9l2JOCJKKkxAkFSchSCpOQpBUnIQgqTgJQVJxEoKk4iQESXUJITbwYVPO1Pz9P3ARK1XyRIqbVMnBBi40FaaWaCpMLdFUmFqiqTC1RFNhaommwtQSTXW1JKKvJZo615Isiw182Cy1lEn8WpoXraWM/1wViZS3qQKtlkgqTi2RVJxaIqk4tURScWqJpOLUEknFqSWSilNLJNXVkoq/lijqWksc/1ydF62126tqL6OlysTcqNtYiZaGHlicOPTA4uShBxYnED2wLhH1Jg5jnEj0wOJkogcWJxQ9sDipSGNdLIp8C+fsmot6C7k4Lzpd2ziL+JzVFpt+wapFqT8X1Me3D6GxrqBE/AXlgV0KKgW4mvXAuoJKN4FdCkrl8ReUB9YVlIq/oDywS0GlafwFRWNdQfF8C+esK6j1e2sxF5QHdikoIbZQUNLe01mRrntWIWPngio+RqllnNjp+ZSc+2q+FrA3+jZaQY1Uw9Ago9UwNMiINQwNMmoNQ4OMXMPQIKPXMDTICDYMDTKKDUKjjGTD0CCj2TA0yIg2DL1caJTRXWg8/QdNgxfvREgAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"source_file", "source_pdf_page", "source_report_calendar_endpoint", "calendar_year", "population_july_1", "annual_alberta_cpi_growth_pct", "population_precision", "cpi_precision", "series_type", "status"}),
+				Typed = Table.TransformColumnTypes(Source, {{"source_file", type text}, {"source_pdf_page", type text}, {"source_report_calendar_endpoint", type text}, {"calendar_year", type text}, {"population_july_1", type text}, {"annual_alberta_cpi_growth_pct", type text}, {"population_precision", type text}, {"cpi_precision", type text}, {"series_type", type text}, {"status", type text}}, "en-US")
+			in
+				Typed

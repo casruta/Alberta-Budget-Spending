@@ -1,0 +1,158 @@
+/// Quality of Life Analysis/data/economic_outcome_context.csv
+table 'Source042'
+	isHidden
+	lineageTag: a60b5eb5-3ffe-5f3d-922e-e7f5112ffe0d
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: aa2b9193-75d3-5e66-ba62-54f5fdbad73d
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'average_weekly_earnings'
+		dataType: string
+		lineageTag: b1a01b9d-7107-5bf7-a627-7eab14dbb14f
+		summarizeBy: none
+		sourceColumn: average_weekly_earnings
+
+	column 'employment'
+		dataType: string
+		lineageTag: b466d9ce-c5ee-50c4-8749-a6ea58b87dff
+		summarizeBy: none
+		sourceColumn: employment
+
+	column 'employment_growth'
+		dataType: string
+		lineageTag: 7b5bb73c-e9c6-51df-a8ab-68e5301ce3d1
+		summarizeBy: none
+		sourceColumn: employment_growth
+
+	column 'housing_starts'
+		dataType: string
+		lineageTag: d7e57213-33f6-5714-beef-a07c4c8850c0
+		summarizeBy: none
+		sourceColumn: housing_starts
+
+	column 'primary_household_income_growth'
+		dataType: string
+		lineageTag: 9b68e166-8d8c-5875-a3c2-8aed75de8060
+		summarizeBy: none
+		sourceColumn: primary_household_income_growth
+
+	column 'unemployment_rate'
+		dataType: string
+		lineageTag: eb7f6c39-0afa-558e-aa99-41359cc546ae
+		summarizeBy: none
+		sourceColumn: unemployment_rate
+
+	column 'employment_status'
+		dataType: string
+		lineageTag: 452fa940-b3f3-5896-a2b9-33015bca2723
+		summarizeBy: none
+		sourceColumn: employment_status
+
+	column 'employment_unit'
+		dataType: string
+		lineageTag: 2e6dc907-21c3-51b8-8760-dd91383402b8
+		summarizeBy: none
+		sourceColumn: employment_unit
+
+	column 'employment_growth_status'
+		dataType: string
+		lineageTag: ca662063-ff1d-5c56-8f6c-e6c130230634
+		summarizeBy: none
+		sourceColumn: employment_growth_status
+
+	column 'employment_growth_unit'
+		dataType: string
+		lineageTag: 5f85b6a0-c5a3-5f18-8835-5e6894fde8ab
+		summarizeBy: none
+		sourceColumn: employment_growth_unit
+
+	column 'unemployment_rate_status'
+		dataType: string
+		lineageTag: 36102b3d-d025-5a4f-b9c6-8ef31f33ac1c
+		summarizeBy: none
+		sourceColumn: unemployment_rate_status
+
+	column 'unemployment_rate_unit'
+		dataType: string
+		lineageTag: 6a4b9d2a-9b16-55d6-bc7e-41a864b002f4
+		summarizeBy: none
+		sourceColumn: unemployment_rate_unit
+
+	column 'average_weekly_earnings_status'
+		dataType: string
+		lineageTag: 8f4bdf76-1d3b-5ad4-a191-46f8634ba464
+		summarizeBy: none
+		sourceColumn: average_weekly_earnings_status
+
+	column 'average_weekly_earnings_unit'
+		dataType: string
+		lineageTag: 522218f6-9fd0-5d48-8bbb-2f0573cbd9f6
+		summarizeBy: none
+		sourceColumn: average_weekly_earnings_unit
+
+	column 'primary_household_income_growth_status'
+		dataType: string
+		lineageTag: e04762a1-8dc5-5b57-bfb3-5a5abdc1feac
+		summarizeBy: none
+		sourceColumn: primary_household_income_growth_status
+
+	column 'primary_household_income_growth_unit'
+		dataType: string
+		lineageTag: 92fb9809-3b58-55ab-a38a-7a6a6db64727
+		summarizeBy: none
+		sourceColumn: primary_household_income_growth_unit
+
+	column 'housing_starts_status'
+		dataType: string
+		lineageTag: e2d1122e-f9b8-5817-8777-98c3b428055c
+		summarizeBy: none
+		sourceColumn: housing_starts_status
+
+	column 'housing_starts_unit'
+		dataType: string
+		lineageTag: 070bc42c-234c-58bd-bdf9-5b9efcb448a1
+		summarizeBy: none
+		sourceColumn: housing_starts_unit
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 01808504-a7d2-5390-94fa-f25cda6b9e7d
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: 7642dfee-7287-5be5-ac97-fadf444d6925
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'time_basis'
+		dataType: string
+		lineageTag: 55b1b03f-4462-5725-975e-a442857b6052
+		summarizeBy: none
+		sourceColumn: time_basis
+
+	column 'cpi_index_2015_100'
+		dataType: string
+		lineageTag: 1c9e3faa-3523-5860-850e-8f4e961e0e36
+		summarizeBy: none
+		sourceColumn: cpi_index_2015_100
+
+	column 'weekly_earnings_cpi_adjusted_2024_cad'
+		dataType: string
+		lineageTag: 1bd311e4-6ce6-52fa-b5af-dfce0539e5fc
+		summarizeBy: none
+		sourceColumn: weekly_earnings_cpi_adjusted_2024_cad
+
+	partition 'Source042' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2YPY/bMAyG/4qQuVElipIodCuKzt0PN/gSJWc0sQPbaXH/vhSlXG8M0MloMjD6tJXwMfnST08bMNZvPm2sRacNNwBCbRgd2LoIBNJ32rEN2rJ97edlnPpdd1JTvozTosaXOU+/uqUfB55fXsfr3A37WY0Hlc+X0/iW9+qSp3kc5jv280Qe9t20fcvdVPbt8rCo3Ws3HPMd228b+Oan7mW8Tuow8sgdO4fx3A88uR9Pp26ay63V75x//uOZv6jueJzysVuy6ofdeL7rLNfzC9+ef0T5N/vhqK5Dv8xqXrppyXte8fW6P+ZF/fj2ff4MBnDLxqs6qi/7Q/Gr+3A0VY5WBo0Rl1pE1DYRUbCA6GPcPH8SJIIgYUNFgpdIYws6lT56VxnZWiMjpOFBxfqpsPJwW5dQR7QxgUnOA+GNiihUALVAYakFCoEiMT/SR7lKnXsgsXIkQEcbfXr/yEqK2jtCI0GDE8eND6qJ5MZHTLWhCzcQDPkadTRJIvEPPtbPh9eWWCGA+8hHcTw6zh8QQyR650NmbcCKhTOh8VDiBUQHvvFS+UgPPtbPB6eEGKx1YBxUNhzHjuStM8k4ZqGxAUICfzfF4Wou2UZRnYAGmuJAXaOMxgce68eDhWOhwSASOl8DBPtaJ4wRGJJkItwIEW3C5UnLLlgbXqKHs6xUpB+kbCGxDzzWjQc/5dESBxAKEMnLIlYfLB0oMSYGI2ccuvEh8QWaCAXnQ1OjBSoXPNa0wxULCjb0AGT9gJCmQMa5SGD4S1KDc0FbFxJSlSS3ohYEH6D2ngPbCw8n8tQFBqgFlCj2IT/Wzwe7NCZTNGhiTJgIWQlGgwkfaprGB9bZVr5wNmp8lASDTFiNLFH68b8tb/O89Ofi4DLW8RXHZRgXdj1bdZBd3W65dqe1sRI0K5BSpRKS5fDxl4bn5z/a7CHvKRUAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"calendar_year", "average_weekly_earnings", "employment", "employment_growth", "housing_starts", "primary_household_income_growth", "unemployment_rate", "employment_status", "employment_unit", "employment_growth_status", "employment_growth_unit", "unemployment_rate_status", "unemployment_rate_unit", "average_weekly_earnings_status", "average_weekly_earnings_unit", "primary_household_income_growth_status", "primary_household_income_growth_unit", "housing_starts_status", "housing_starts_unit", "source_file", "source_pdf_page", "time_basis", "cpi_index_2015_100", "weekly_earnings_cpi_adjusted_2024_cad"}),
+				Typed = Table.TransformColumnTypes(Source, {{"calendar_year", type text}, {"average_weekly_earnings", type text}, {"employment", type text}, {"employment_growth", type text}, {"housing_starts", type text}, {"primary_household_income_growth", type text}, {"unemployment_rate", type text}, {"employment_status", type text}, {"employment_unit", type text}, {"employment_growth_status", type text}, {"employment_growth_unit", type text}, {"unemployment_rate_status", type text}, {"unemployment_rate_unit", type text}, {"average_weekly_earnings_status", type text}, {"average_weekly_earnings_unit", type text}, {"primary_household_income_growth_status", type text}, {"primary_household_income_growth_unit", type text}, {"housing_starts_status", type text}, {"housing_starts_unit", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"time_basis", type text}, {"cpi_index_2015_100", type text}, {"weekly_earnings_cpi_adjusted_2024_cad", type text}}, "en-US")
+			in
+				Typed

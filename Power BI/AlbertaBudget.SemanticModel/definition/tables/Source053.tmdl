@@ -1,0 +1,62 @@
+/// Quality of Life Analysis/research/health/continuing_care/continuing_care_recent_separate_metrics.csv
+table 'Source053'
+	isHidden
+	lineageTag: bf3d7bb4-5e91-5e60-8e14-2f0876cd6bcf
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: e21c1003-100a-5963-bd32-3eb3c874d3dc
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'metric'
+		dataType: string
+		lineageTag: e5e11fa3-b6e2-54f0-96cd-ac404cefa305
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'actual'
+		dataType: string
+		lineageTag: a9eb9666-6afd-567e-8844-f74c6c70bd20
+		summarizeBy: none
+		sourceColumn: actual
+
+	column 'unit'
+		dataType: string
+		lineageTag: 344253e8-d43b-5d05-b16a-36336347f90c
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'source_local_pdf'
+		dataType: string
+		lineageTag: 59ba4075-8377-5375-8077-14fd6b31cd7b
+		summarizeBy: none
+		sourceColumn: source_local_pdf
+
+	column 'physical_pdf_page_1indexed'
+		dataType: string
+		lineageTag: 207fab74-8c00-5675-9815-2caf94e63208
+		summarizeBy: none
+		sourceColumn: physical_pdf_page_1indexed
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: c811357c-8cb3-5819-a124-0a6818041e85
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	column 'scope_or_revision_note'
+		dataType: string
+		lineageTag: abd1e05f-dfe4-5f35-8144-8fe231a3f590
+		summarizeBy: none
+		sourceColumn: scope_or_revision_note
+
+	partition 'Source053' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA82UUW+DIBCA/wrxuTaCqGv6G7a97K1pDMFbJaHgOGy3fz/Y3JJFm/ZloS+EHHJ89wm322WsYEXOaLbKzkJ5rdC3vcVBeaFbylst3AHQh2W6KcI4gENrMMx6ENr3edhfxoGvh+41hKsyDN9BHndxMqUgQo4eiBQOCCoPuCWPwsm+pFsC71KPHSAZnJWASDrQ4iN88fT8QkA4rcCFpZMyEs6qA2lH4zHbr774ac7YdX5G6zvlZzkrb+Dn9+p/Ouoaf1HdJz/dhPMjkD1CG9OHAkYXESlbV/FmHZXWyprf+CV0/gd9yuzt9IuJg5NC6IgyBEMmCVsyIhBrQtx4cYBQorOICE7BZbrRqLcxzENRsYiIyZtmc5Pc/yD86R8L/uia14n9zenm/mhTFSydv6l/LfrbVKn9zegW7h8rHng6f1P/XHy/dZPa34xuwV9dlQnf75Rt0V9DU/ub0c39lQWlNIW//SfnuZMpQQkAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "metric", "actual", "unit", "source_local_pdf", "physical_pdf_page_1indexed", "source_vintage", "scope_or_revision_note"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"metric", type text}, {"actual", type text}, {"unit", type text}, {"source_local_pdf", type text}, {"physical_pdf_page_1indexed", type text}, {"source_vintage", type text}, {"scope_or_revision_note", type text}}, "en-US")
+			in
+				Typed

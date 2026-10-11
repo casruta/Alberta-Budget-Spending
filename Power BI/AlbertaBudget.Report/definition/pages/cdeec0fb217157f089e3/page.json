@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "cdeec0fb217157f089e3",
+  "displayName": "37 Archive plan | expense growth and ministry size",
+  "displayOption": "FitToWidth",
+  "width": 1320,
+  "height": 1976,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "65d5320f53af57a3b00e",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'plan_expense_growth_vs_size'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "1d4051c5b3005680afd9",
+      "target": "890ac67da7785b2da2fb",
+      "type": "NoFilter"
+    },
+    {
+      "source": "890ac67da7785b2da2fb",
+      "target": "1d4051c5b3005680afd9",
+      "type": "NoFilter"
+    }
+  ]
+}

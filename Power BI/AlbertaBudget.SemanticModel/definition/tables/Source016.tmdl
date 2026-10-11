@@ -1,0 +1,218 @@
+/// Infrastructure Analysis/data/capital_population_analysis.csv
+table 'Source016'
+	isHidden
+	lineageTag: 23bcb61b-027c-5407-975d-c16ac01311ae
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 527888b8-d0a0-5f84-8b7a-1cdbed458231
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 37824e2b-eb0d-5e8b-ae20-5395463741a2
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'capital_plan_actual_million'
+		dataType: string
+		lineageTag: 15af2516-1e8b-552f-bcaa-05604fa64694
+		summarizeBy: none
+		sourceColumn: capital_plan_actual_million
+
+	column 'total_revenue_actual_million'
+		dataType: string
+		lineageTag: a798d2ba-85f5-5235-aa8d-0ed9c405a2eb
+		summarizeBy: none
+		sourceColumn: total_revenue_actual_million
+
+	column 'total_expense_actual_million'
+		dataType: string
+		lineageTag: a046320d-f3a0-57e6-8e56-a408fab138ab
+		summarizeBy: none
+		sourceColumn: total_expense_actual_million
+
+	column 'net_capital_nonfinancial_assets_after_deferred_contributions_million'
+		dataType: string
+		lineageTag: 6a095f82-45ea-5d6e-90bb-27a84288afdc
+		summarizeBy: none
+		sourceColumn: net_capital_nonfinancial_assets_after_deferred_contributions_million
+
+	column 'population_july1_thousands'
+		dataType: string
+		lineageTag: 6834d8d7-5c76-55a4-a07c-651b60057266
+		summarizeBy: none
+		sourceColumn: population_july1_thousands
+
+	column 'alberta_cpi_annual_pct'
+		dataType: string
+		lineageTag: 4b2efdb6-6ac9-5a2f-824f-09fb91a93779
+		summarizeBy: none
+		sourceColumn: alberta_cpi_annual_pct
+
+	column 'status'
+		dataType: string
+		lineageTag: 94d5bc84-4cb6-5caf-ad7e-98ca2d5c26ca
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'source_file_capital'
+		dataType: string
+		lineageTag: dea3051f-d17a-587c-99ca-873d51e10ffc
+		summarizeBy: none
+		sourceColumn: source_file_capital
+
+	column 'fiscal_pdf_page'
+		dataType: string
+		lineageTag: 9f01b82f-d1da-542f-8690-10c92dd3f9d7
+		summarizeBy: none
+		sourceColumn: fiscal_pdf_page
+
+	column 'economic_pdf_page'
+		dataType: string
+		lineageTag: 97a6fe42-ced4-53fc-a032-0cc7426ecdbf
+		summarizeBy: none
+		sourceColumn: economic_pdf_page
+
+	column 'population_july_1'
+		dataType: string
+		lineageTag: dccdb5b8-99ba-5c0e-8261-cd957b1f5b5b
+		summarizeBy: none
+		sourceColumn: population_july_1
+
+	column 'population_precision'
+		dataType: string
+		lineageTag: 2bd21d1f-8900-58d5-b3a1-7c5aaa4aafe1
+		summarizeBy: none
+		sourceColumn: population_precision
+
+	column 'population_basis'
+		dataType: string
+		lineageTag: f3c62eb5-01e4-5009-aab9-afe22fd49684
+		summarizeBy: none
+		sourceColumn: population_basis
+
+	column 'alberta_annual_cpi_growth_pct'
+		dataType: string
+		lineageTag: ce8a1392-2d71-5705-ab8a-9386d174d62d
+		summarizeBy: none
+		sourceColumn: alberta_annual_cpi_growth_pct
+
+	column 'cpi_chained_index_2015_100'
+		dataType: string
+		lineageTag: 09442642-1360-5e55-84d6-7be489e903cb
+		summarizeBy: none
+		sourceColumn: cpi_chained_index_2015_100
+
+	column 'cpi_deflator_to_2024'
+		dataType: string
+		lineageTag: e7b4f71d-52cc-5644-9d5b-8e12828af1d1
+		summarizeBy: none
+		sourceColumn: cpi_deflator_to_2024
+
+	column 'source_file_demography'
+		dataType: string
+		lineageTag: 2057edf7-f4b3-51bd-a05f-d602f7a85831
+		summarizeBy: none
+		sourceColumn: source_file_demography
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: 320c8b4c-522d-5f28-ab3c-4c64661d57a5
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: ff1f01ce-e585-5ce4-8fcb-4e849791df27
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'source_report'
+		dataType: string
+		lineageTag: b8a518eb-9bb5-5596-9b7a-1fc689bd35f4
+		summarizeBy: none
+		sourceColumn: source_report
+
+	column 'source_table'
+		dataType: string
+		lineageTag: e6d8f838-2060-56d4-a2fd-bb5c4bba8261
+		summarizeBy: none
+		sourceColumn: source_table
+
+	column 'data_quality'
+		dataType: string
+		lineageTag: 3faabe16-f16a-56f5-8630-2aead67a1d06
+		summarizeBy: none
+		sourceColumn: data_quality
+
+	column 'cpi_index_2015_100'
+		dataType: string
+		lineageTag: 29e3959e-10cf-5c91-9761-09e33031da32
+		summarizeBy: none
+		sourceColumn: cpi_index_2015_100
+
+	column 'cpi_deflator_2024'
+		dataType: string
+		lineageTag: 071c6335-b40d-5ee8-9237-86c214164b5d
+		summarizeBy: none
+		sourceColumn: cpi_deflator_2024
+
+	column 'capital_nominal_cad'
+		dataType: string
+		lineageTag: 0e1f4544-3d7b-58cb-9d4b-afa0ac714124
+		summarizeBy: none
+		sourceColumn: capital_nominal_cad
+
+	column 'capital_nominal_per_resident_cad'
+		dataType: string
+		lineageTag: ba81e127-c76e-5d7e-b510-932e06a4297e
+		summarizeBy: none
+		sourceColumn: capital_nominal_per_resident_cad
+
+	column 'capital_cpi_adjusted_2024_cad'
+		dataType: string
+		lineageTag: 4f29ceb3-df29-5cf3-a9ae-18f805e12283
+		summarizeBy: none
+		sourceColumn: capital_cpi_adjusted_2024_cad
+
+	column 'capital_cpi_adjusted_per_resident_2024_cad'
+		dataType: string
+		lineageTag: ad418b0e-304e-50f3-8b11-6d9942c1d72c
+		summarizeBy: none
+		sourceColumn: capital_cpi_adjusted_per_resident_2024_cad
+
+	column 'nominal_yoy_pct'
+		dataType: string
+		lineageTag: 56517df8-8200-5019-987c-47abcccf01b6
+		summarizeBy: none
+		sourceColumn: nominal_yoy_pct
+
+	column 'real_per_resident_yoy_pct'
+		dataType: string
+		lineageTag: 297c6318-8b20-51ce-a243-0f462659394e
+		summarizeBy: none
+		sourceColumn: real_per_resident_yoy_pct
+
+	column 'government_period'
+		dataType: string
+		lineageTag: b7191f36-2c04-5e30-a7d8-1bba2d71dcc0
+		summarizeBy: none
+		sourceColumn: government_period
+
+	column 'source_cutoff'
+		dataType: string
+		lineageTag: 32f235c5-62b0-50d6-8b5e-ad6b45042932
+		summarizeBy: none
+		sourceColumn: source_cutoff
+
+	partition 'Source016' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA92YTY8bNwyG/8og51gVSYkUkVvzAaQFiqBFD0WQg7HrJAY2dmDPtsi/76sPO95cmnqdi43FWKvRyKL46CU5b98+4Uh5QfrkaWvhS3MuIaKRWMl7y6NSbyVl6S3KsTUoEK7Lm/l+eYfGz/e3H1bz9ObFq/1PHDktcMlT7w2fb9/XJ1K9yJgEH7R22/vN7ep2mrfTZrXcrfbzRP3OL/d3Xyaa0LP+tJxXz6aP6/283a1vlnfTbvV5u5unv9ebeflhdVwMnhxLY5VMGv07FyaHSx+Qp1frDX7m99X+/m7eT39hZYuXm1t01N/FuF9XX6aXN9vN9tP6Znq9ucWqsLb9hL2UakudB8O279+vb9aY6W5bl401PJsOFn/efr6/W87r7WZaYurnb15PH3bbf+aPz6bNdp5wq27GH/Ny3j9fbk5t/dbKkksqpH7wYmyfPgb/BU7RVUrOiamgs3BRkgLvBndmrxCQuwbNXswkWU7E6Ox/v714M82rzf0OPhjUTPNuudmv6+L7puVFlIXQk3dPG1m6IOtkaVuTHchi7xRliWa9T5V5kOX5AmR5/iFkjW9sppsWlesk61sro8dCNsiyh2QpnJqNCXDlJLmBxdExKqdAlGJsXvHswWIxEhPxikUMEjE/RTbLLHgYnQsKJUdNBQRanSTKeezZokFeW/jyyEPBjAdeOQuVg75RHmSKDfb0fPYwyYXZa0czcjAy7Y6RiL1sCFwhfs3Q7MfPqcmQugSh0+HUExSZ2AM6zErJkLMqXVSxVIhiKoHBlTU9UjjezdVjQmSLVkfC8RBDjMOvZBLmSrJIUGigiQvX8X4ei2VB3lmsSCqOy+AO56azqFyGIkZLabA4RJJDegSLLhdlsS+GYg6E+MGNAvgmEmeLdp04HmyVBzh2kxFooX2UZTj2VBoTIbJGSmo5Zk5VUo1N0ROTBrIosTEKOiF6WbLiY9JwXAijr/4PcSQn7p05cO3lZNFTg/kMHB0+6Th608E0xA8RuKOXi5j2FsGkflfyISyX83HEJBeWxtJchANlSji2PVTjEJM2qbxCHI+2xm/MlcLS07jq01MSoWA1lleB44ig2mQIAZcc0TAHxOgRWDK0NwFFLnUCxN9KXUEXUMVIrmQ4tThNQTLHCOFyTcgt6/N/Pn8AYwXtP2DkuGDqN+pKtbgO3GiEYsU6eh2SUxxYphTt8TkiJvkhOWINNYL8M+XeqYhmVug6aTwamwpON/mpydFcdHj1Yc6YghWwCvyQT0rVsRKR82XULxIyq+aGY2ENUqIkwoxFtNWpKQiAcyZoiSdtWR6FnGsqGRV5akkt5TwDRlo0na2tuuxDSaJY62gdyYPuH3QzSb+JM/YIGHGeLwljXwzhmBr0oWbx3TPI5Yu25Ob6YDwxlq1mcacmpzJc+iBEI/SSCHyJvBG36p5ZKi4eXRLQbrsGfkNJCTEcVQn6eixGCikC2iCkoFGaVFpA1YwQzw4UgSefxyEveGw6t+xQeiaInLgcOfQyUkfnUcZk6jWOPiZhxCQX5bAvhpBxF8VJlhZSsE5FPLnOfPHEVLAmcmKwHksaG359EKVRpAAvPIHBoLdlZ14Q2CF+9SUNPm0yFCMBmog6Gkmkt9d2C0rBpVbOh2s1ELEVsZsKSqCckUOWch6Psmj7VVvVpTJWbMmks2cIdqOAMfzSyCdLHroo5/OISS6si40m6Lk56sHSAxYO7FWyeDQTEbggWpYTa3XAd8BPUHgibCPopqZsTS8TQnADL3ytfQS1qgFPKG1x6+9tID0Iu15f7kitghp+EFAUKpIYkgq9Ojcq120eG95KqNRJwzrVB4cQ8lG5lENUhsmjfPbz6cMkFy6f2w7WtGa8su0OuU74vlrZXkyno63Vhw/CcIFOYatrQa1IA79vSJU8LTX9HNf2HJRWIY1JLNeimv4vc+/+BQwVR24WGQAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "calendar_year", "capital_plan_actual_million", "total_revenue_actual_million", "total_expense_actual_million", "net_capital_nonfinancial_assets_after_deferred_contributions_million", "population_july1_thousands", "alberta_cpi_annual_pct", "status", "source_file_capital", "fiscal_pdf_page", "economic_pdf_page", "population_july_1", "population_precision", "population_basis", "alberta_annual_cpi_growth_pct", "cpi_chained_index_2015_100", "cpi_deflator_to_2024", "source_file_demography", "source_pdf_page", "source_printed_page", "source_report", "source_table", "data_quality", "cpi_index_2015_100", "cpi_deflator_2024", "capital_nominal_cad", "capital_nominal_per_resident_cad", "capital_cpi_adjusted_2024_cad", "capital_cpi_adjusted_per_resident_2024_cad", "nominal_yoy_pct", "real_per_resident_yoy_pct", "government_period", "source_cutoff"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"calendar_year", type text}, {"capital_plan_actual_million", type text}, {"total_revenue_actual_million", type text}, {"total_expense_actual_million", type text}, {"net_capital_nonfinancial_assets_after_deferred_contributions_million", type text}, {"population_july1_thousands", type text}, {"alberta_cpi_annual_pct", type text}, {"status", type text}, {"source_file_capital", type text}, {"fiscal_pdf_page", type text}, {"economic_pdf_page", type text}, {"population_july_1", type text}, {"population_precision", type text}, {"population_basis", type text}, {"alberta_annual_cpi_growth_pct", type text}, {"cpi_chained_index_2015_100", type text}, {"cpi_deflator_to_2024", type text}, {"source_file_demography", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"source_report", type text}, {"source_table", type text}, {"data_quality", type text}, {"cpi_index_2015_100", type text}, {"cpi_deflator_2024", type text}, {"capital_nominal_cad", type text}, {"capital_nominal_per_resident_cad", type text}, {"capital_cpi_adjusted_2024_cad", type text}, {"capital_cpi_adjusted_per_resident_2024_cad", type text}, {"nominal_yoy_pct", type text}, {"real_per_resident_yoy_pct", type text}, {"government_period", type text}, {"source_cutoff", type text}}, "en-US")
+			in
+				Typed

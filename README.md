@@ -2,6 +2,8 @@
 
 **Prepared by:** Kacper Ruta · **Evidence reviewed:** October 9, 2026
 
+**Power BI:** [Free Windows Desktop report and setup](Power%20BI/README.md) · [Download offline project](Power%20BI/downloads/AlbertaBudget-PowerBI.zip). Includes all 42 chart topics; Desktop rendering is awaiting verification.
+
 ## Executive summary
 
 - **Resources:** From 2018–19 to 2024–25, program expense rose **30.9%** and capital spending **19.6%**. After population and consumer-price adjustments, spending per resident fell **4.3%** and **12.6%**, respectively.

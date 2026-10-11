@@ -1,0 +1,50 @@
+/// Infrastructure Analysis/research/capital/infrastructure_ministry_operating.csv
+table 'Source027'
+	isHidden
+	lineageTag: a0071f62-f759-5cc6-8153-2b256e64e3ea
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 3ff35e25-1eaa-52d9-96df-1d0c3b286b65
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'budget_million'
+		dataType: string
+		lineageTag: 2fa58fbe-ed8f-5d7f-83d3-df1582607e7a
+		summarizeBy: none
+		sourceColumn: budget_million
+
+	column 'actual_million'
+		dataType: string
+		lineageTag: 2bc2d803-cbb1-5a50-8966-9642254302b5
+		summarizeBy: none
+		sourceColumn: actual_million
+
+	column 'prior_actual_million'
+		dataType: string
+		lineageTag: 8111eef9-cb11-5216-9076-bdf26f557832
+		summarizeBy: none
+		sourceColumn: prior_actual_million
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 313a4ca1-eddf-5d22-8b77-b44694fa3cf2
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 0ae79ac2-f2ac-5a95-aece-798b988d54a9
+		summarizeBy: none
+		sourceColumn: source_file
+
+	partition 'Source027' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA3WQOw4CMQxEr7LaGqPYcZJNCUegRRQgPg0ChOD+rGejACI008y88We97sVxII79rNfMVYMzZRkFgVFit7hcnttztzrcrvfH/LY/9psZCiJxAoqaIdUa1qkgWkHqls/96fBFJuIB6YChDry1YKM/0ECcEfzQbGhhzG9geVzCohEasOVg09OEmf+LiSPBXxKOU2jIFYPfwJjEvqdil6l3FS6Y+Q1MSLxFHd7iucIFG30nvgF6EsV18lZNBXzsjnS6bmnKOdFGgdK0Kl6iMdWaMlkNDF/g5gWRLyYeQAIAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "budget_million", "actual_million", "prior_actual_million", "pdf_page", "source_file"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"budget_million", type text}, {"actual_million", type text}, {"prior_actual_million", type text}, {"pdf_page", type text}, {"source_file", type text}}, "en-US")
+			in
+				Typed

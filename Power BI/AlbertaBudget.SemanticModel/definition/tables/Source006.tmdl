@@ -1,0 +1,56 @@
+/// Data/fiscal_plan_2026_financial_position.csv
+table 'Source006'
+	isHidden
+	lineageTag: df74a0ef-2b0a-5695-a71b-f0032e15f0e8
+
+	column 'Section'
+		dataType: string
+		lineageTag: 35e515b9-aac9-5f7f-af45-5903f74258d0
+		summarizeBy: none
+		sourceColumn: Section
+
+	column 'Item'
+		dataType: string
+		lineageTag: 885cb2b0-541c-5021-b440-e9cac50014ef
+		summarizeBy: none
+		sourceColumn: Item
+
+	column 'At March 31, 2025 (Actual)'
+		dataType: string
+		lineageTag: c3fefe11-d29f-5c39-b8d3-4d1058b6c02c
+		summarizeBy: none
+		sourceColumn: At March 31, 2025 (Actual)
+
+	column 'At March 31, 2026 (Forecast)'
+		dataType: string
+		lineageTag: 47a630a6-0f29-53ca-a8ba-1ea3fadc90fb
+		summarizeBy: none
+		sourceColumn: At March 31, 2026 (Forecast)
+
+	column 'At March 31, 2027 (Estimate)'
+		dataType: string
+		lineageTag: 1ebd36e6-6d0a-5c82-9d19-20fc6320d04c
+		summarizeBy: none
+		sourceColumn: At March 31, 2027 (Estimate)
+
+	column 'At March 31, 2028 (Target)'
+		dataType: string
+		lineageTag: a5d43dc4-437b-50d5-960d-775ae385b6db
+		summarizeBy: none
+		sourceColumn: At March 31, 2028 (Target)
+
+	column 'At March 31, 2029 (Target)'
+		dataType: string
+		lineageTag: 3280d0f1-6bee-5401-ac10-08ce410e52dc
+		summarizeBy: none
+		sourceColumn: At March 31, 2029 (Target)
+
+	partition 'Source006' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA61W224bNxD9FcJPCRA5vF8eDV/SAmlrRH4L8rBa0RKB9a5C7rrN33dmKDmWq0VsoA/aEbHSmeGZM4f8+vXsJvVN36amYxelxLGcfTi76FYxjw37LeY0NpvIls1j6jeF3eWpjOxm6tfwK6mdVhiDNw6iktxLjJpLisZ7fvbtw+tS3AyA2oxp6Nn9kNkfcZ1a+MOXWGKT2y3mUY5jsMJj8AqD4oJyC+9enWrZpti3kTX9ml33m9RHeNNvnucSymkMRmJKYbXF4DSmFF7LN+TaDl2TyzbtCE8FAuKyAiF/IhjMJbkJv4K97seYdzmVyC6HvBsyEUbcK2Ih0NPQUxA9dg7zU+xjJoYfYz9F6ipbsDLlXTcV1jaFSDcOcfjR522I67gaWY5jyvEh9iP8MARD+w/Svgb3sPuD7t5Q0ueh6QsbB9YNqKZmGrcDdCbFQk32RJsw3NUYFNVlraboZDCzRW1yaqdunDJs9On1MubH1Mbyoj0ykI4UjAwErUkFxnkMTslZ6V5/n9L4g6WetcPDQ8z0Nj6JoNDfsduWhsEb2oaou9JSzOEux2kNMMAK0IMVBYWdAB6wPiMtYhqtkWeD4p/Bufv9+suhLUJwGhJBZiBEpVQEmiMJJc1g/DVuY2b3Ty+awwvpg5M0GMFiIVI4T34jjTEUlZtl7m4YYXkCNbhAjHnNA0UvLLYhKEdrMDNbm/45NavUHcRyBfJtR7Yach7+RrdAl4LS2WWzS5jrtmuw1dpzvWePZApupRHfhlq1s3I/k8f4t6qwd8+x3pPUaZal4eR8RtJKa/ILpdUJnLvYtEBoYbexL+imiEUziMUZMft8w5ZvUml/7liB0DRFS7rRmlfhiFq2AQLkqUqpRWPzz675EfOiTDuYmDGuD8V6I2m/MDuelMW9t6QtqYLhe5c+CX2FlpNKmQANi+7+Hxs4TnJxs7w81Aq9IAosKVYFTodSqOPO3a+3T4dRid39f3kQXGo6WGHCfK1MescNzbg2NPkCztr98XGc5XKAJLttU+JimGDgj14a6ptW9bSm2aJZEP5UwQdBHWM4wxEEOEIU6z2uwDJI81yfkjoN6bMTgQ2rLm3IK0v19/A8UM9h5kn0Rp8qrXrIcWEiiFC3ZEJlUdVmO6rTzbbkBYyS0lXSwSEqRDC1DcZIun0I6/HQRcA/YWe3Q0l748flSxNiH9k7bC0O+AKEoxx9CTZgnQsjlMU0CwsOLulLAJJPoR/s4iMbiIB+6BcnLM9Cb+iQ0JIG0sJpoWqzSLVwG4EensBf7rA763gfcwY9tvt07dCPOa2mQ8MWmntOUUhX13RFgz0FUaNyc+z8tHttOF3s+P7uJTiXe3upTHk1B0JXDBjvT1e3+FN3Trz5c+JR8HNDUZxTVUKew6R8+xeKxd3Z+woAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"Section", "Item", "At March 31, 2025 (Actual)", "At March 31, 2026 (Forecast)", "At March 31, 2027 (Estimate)", "At March 31, 2028 (Target)", "At March 31, 2029 (Target)"}),
+				Typed = Table.TransformColumnTypes(Source, {{"Section", type text}, {"Item", type text}, {"At March 31, 2025 (Actual)", type text}, {"At March 31, 2026 (Forecast)", type text}, {"At March 31, 2027 (Estimate)", type text}, {"At March 31, 2028 (Target)", type text}, {"At March 31, 2029 (Target)", type text}}, "en-US")
+			in
+				Typed

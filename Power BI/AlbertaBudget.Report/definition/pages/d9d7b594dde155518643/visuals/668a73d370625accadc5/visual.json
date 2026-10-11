@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "668a73d370625accadc5",
+  "position": {
+    "x": 24,
+    "y": 714,
+    "width": 1272,
+    "height": 150,
+    "z": 0,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Source: Statistics Canada 11-10-0135-01, downloaded 9 Oct 2026; Canadian Income Survey, all persons. Survey estimates/quality flags retained; Census revisions and 2021/2022 method changes; pandemic-era lows not a counterfactual.\nEvidence: hover over points for source CSV rows and transformations. Reviewed findings and PDF citations remain in the repository report.",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "12pt",
+                      "color": "#263747"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "d1a7e14f21dd58b791ab",
+  "position": {
+    "x": 24,
+    "y": 714,
+    "width": 1272,
+    "height": 150,
+    "z": 0,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Source: Mental Health and Addiction 2024–25 annual PDF pp 35–36 (printed 33–34). Up to 10-month lag. Eligibility/PHN exclusions; first visit/person/year. Prior contact measure, not recovery or all ED demand.\nEvidence: hover over points for source CSV rows and transformations. Reviewed findings and PDF citations remain in the repository report.",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "12pt",
+                      "color": "#263747"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "982922cd776156038afe",
+  "position": {
+    "x": 24,
+    "y": 728,
+    "width": 1272,
+    "height": 150,
+    "z": 0,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Source: Final Results pp 13–14; same-vintage actuals. Education combines basic and advanced education. Total residents are not students or patients; CPI is not a sector cost index; accounting changes apply.\nEvidence: hover over points for source CSV rows and transformations. Reviewed findings and PDF citations remain in the repository report.",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "12pt",
+                      "color": "#263747"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+/// Infrastructure Analysis/research/physical/health/health_project_evidence.csv
+table 'Source037'
+	isHidden
+	lineageTag: b3b7f8fb-6ecc-5f15-93b8-bedd6f6345db
+
+	column 'report_year'
+		dataType: string
+		lineageTag: dd6df45d-017b-53b7-91c6-c6e45b46b393
+		summarizeBy: none
+		sourceColumn: report_year
+
+	column 'project'
+		dataType: string
+		lineageTag: cd0b44d6-facf-54a0-a8f5-670271b1ef17
+		summarizeBy: none
+		sourceColumn: project
+
+	column 'verified_status'
+		dataType: string
+		lineageTag: 7e7e7725-743a-535e-8097-dfeb1f935d8e
+		summarizeBy: none
+		sourceColumn: verified_status
+
+	column 'physical_metric'
+		dataType: string
+		lineageTag: eb458bac-3142-5a9c-9aeb-569ddba7980d
+		summarizeBy: none
+		sourceColumn: physical_metric
+
+	column 'quantity'
+		dataType: string
+		lineageTag: 5098dd42-ec35-5213-83cf-e75256fd93e4
+		summarizeBy: none
+		sourceColumn: quantity
+
+	column 'capital_plan_funding_million_cad'
+		dataType: string
+		lineageTag: 28c20734-0702-5680-a2fd-c4d4505d0632
+		summarizeBy: none
+		sourceColumn: capital_plan_funding_million_cad
+
+	column 'local_pdf'
+		dataType: string
+		lineageTag: 5a60af88-b090-5854-b208-36f6cb141b92
+		summarizeBy: none
+		sourceColumn: local_pdf
+
+	column 'printed_page'
+		dataType: string
+		lineageTag: 35c82311-a375-5939-9fd4-d500f83431b8
+		summarizeBy: none
+		sourceColumn: printed_page
+
+	column 'interpretation_caveat'
+		dataType: string
+		lineageTag: e39883cb-566f-5aca-811a-79ac28bb12dd
+		summarizeBy: none
+		sourceColumn: interpretation_caveat
+
+	partition 'Source037' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA6VV0W7jNhD8FSLoWyOfrNiHtH5q3SINkBSBcfd0uAeaWkm8UKRKUnb9952lJNvJOXcHFEgEwVrO7szsLj99uiryIs+K+dX11Z2XtiTx5KX2msSGau2sNOIvFzod8fLUyECCQx90iFQK5drOEL/1OOmFp875KEqqtNURp38VriMvYwLCOUt7BI24zYQrVR9JKOlpCre18M61QaAioW0kG/RuDAnkd1pRABz+bpc5niMJ8Xtf1hRnXVnxjzd4bIaSlDQmnNXbefeFVAzn9a1ENxAUBvS4BmmcJVE6CsK6KHbkdXUQpUS1rhL7xhnKjiw6wJCNjGhxeCZ+Qm2i1cYAHalxOgwZAlIwsUJ8cSBnDivkSBlkWYoKWqbkyrswnZjBllQxKicuIIiP66fZ1efr5OA8K4ofd7D4Hw6OCKeDq5OPJQXl9RZgMoCGMdno1bnDex0bvFmFbMogi3plJHO5YOTYfLC/k6iHzCHZ9IKDtmLshNVL9Ued33CBn20fYrJgiw7r2xZocY/SZxOi6Iy0bOxIs2NJkFGZvkTwI6xnpUma2Lz7rSy14oAAvuwl57nNWBoga3RjFnpf80sKWKXUoa8qrVIT0U6XBI24zyyx626HXBrxDFJ7t4/N0f4iSxKtpamlP4j1oO4aQJ74d9QRfZ8KOjeu67dGq6lhUWREdrQxEgB0gZMc7Kk5jl/CraTSRsfD4Nt8kY/GoYq8uLlg3aX8SbxhrKbBmZrlOEBPR8Wd6luEpMLmy2z+fgUclGv7yfX5L8h+FOQmS+U/amBq5XyppaCWfA1NMcDcQpEB3xQHH5C7PxvrnQ6aByPoGnGygwhJgvd5ngS4XeIRt1VWO5kNJUDDS2qMZ5l+bLzr66broQKUPZD010kTt2U1QC6lxZry7Ht4TfBBPqNTsFQ3lFob3ru27S3D3/XWfosfekMmERIyOzkYWfwgjw8vzgue7bTC0qgfd0KqWtxPY5K8ytMg+KnkEJ16vhbBnW/BYfgmuousYHk3CDwkvndksZWMuF9/fLfG/9098ErakXHd94zFHKH0gBICmgsrfLIYYGlSAShYw7ASwB2WlKB/O4kxcHZcV4uh6Rcsz/KCPH+DC5oW7ZcGmBmrRtqazrsZcsQGfRBc77+mu260de75wh5/oNhsvUZOcdwjaWGDyY6+Rf71BZtolekTGz9ffofWn5MMvJni3o0wxzuSQpTYKqFJH5k53NTD9fH6dp+JR+dfMJicGEC3GIve/tPzYqo0lV+1w9RBamx6jSI2kPUPwjCdaTSOAmrHvtN8EfCOESDRSXyeL1fQYbzzUzcePxX5pUkp0qS8rdR8OWx8jvrQeKIT/FmpSKrrJuKm9LHh2/CMxTLPfz7NFdoEF0DtKYTTZbVl1HGsKu9a7CYD8z33NXOAWp//AzCXwSDgCQAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"report_year", "project", "verified_status", "physical_metric", "quantity", "capital_plan_funding_million_cad", "local_pdf", "printed_page", "interpretation_caveat"}),
+				Typed = Table.TransformColumnTypes(Source, {{"report_year", type text}, {"project", type text}, {"verified_status", type text}, {"physical_metric", type text}, {"quantity", type text}, {"capital_plan_funding_million_cad", type text}, {"local_pdf", type text}, {"printed_page", type text}, {"interpretation_caveat", type text}}, "en-US")
+			in
+				Typed

@@ -1,0 +1,56 @@
+/// Quality of Life Analysis/research/living_standards/derived_earnings_sensitivity.csv
+table 'Source061'
+	isHidden
+	lineageTag: 89674252-557b-57e6-81f8-bd9117293032
+
+	column 'baseline_calendar_year'
+		dataType: string
+		lineageTag: 823b464e-4eb9-5b63-85db-d5c00f647a66
+		summarizeBy: none
+		sourceColumn: baseline_calendar_year
+
+	column 'endpoint_calendar_year'
+		dataType: string
+		lineageTag: 3583672a-b018-536d-8df9-6b4f189872b3
+		summarizeBy: none
+		sourceColumn: endpoint_calendar_year
+
+	column 'average_weekly_earnings_nominal_growth_pct'
+		dataType: string
+		lineageTag: 0f32f3a3-4753-5847-81b7-bfa024034e73
+		summarizeBy: none
+		sourceColumn: average_weekly_earnings_nominal_growth_pct
+
+	column 'average_weekly_earnings_cpi_adjusted_growth_pct'
+		dataType: string
+		lineageTag: 8ba33162-785c-5334-bb8d-11f54220c615
+		summarizeBy: none
+		sourceColumn: average_weekly_earnings_cpi_adjusted_growth_pct
+
+	column 'unemployment_rate_change_percentage_points'
+		dataType: string
+		lineageTag: 897ec1c7-92e3-5d44-b414-10d2bd13dbcd
+		summarizeBy: none
+		sourceColumn: unemployment_rate_change_percentage_points
+
+	column 'status'
+		dataType: string
+		lineageTag: 21a295c7-a1c0-5f37-8374-f77db03385dc
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'caveat'
+		dataType: string
+		lineageTag: 419f0bc9-5e7e-5a83-81b6-cf820721c312
+		summarizeBy: none
+		sourceColumn: caveat
+
+	partition 'Source061' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA92SvY7CMAyAX8VihuL8NYkYmW67HTFEbQqR2gQlgWvf/lxY4BWwIlmy81nOp5xOG45MbbaUuKTE2oYZJXVrmBLWoBFU3JkGpbLYoqHDrVoBbCx+xIr3PoeH76H4WEINj1AXGHKaIKd77KmRhiF0wY1U+CsHiKnCNd2Lv6axh5GAeNmV6mLvcg+BkJmmHq8uXqgDfrqNaZl8rDCFeU9kLkCXoXOjXxk4/v7ALad5ec2efB9c3Luh+lzdTBO7NHlImYh7oTVuaQzdAn4YfFc35+3Th3nzoZpWWym5QqMZGtSrD9FoZELyVhsU3Fjx9KG+RoB9EyAbpAdKjdqi0NqqlwDBlDQtR8Usl8zKpwG0H9F+w5c4/wPOT/pnJAMAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"baseline_calendar_year", "endpoint_calendar_year", "average_weekly_earnings_nominal_growth_pct", "average_weekly_earnings_cpi_adjusted_growth_pct", "unemployment_rate_change_percentage_points", "status", "caveat"}),
+				Typed = Table.TransformColumnTypes(Source, {{"baseline_calendar_year", type text}, {"endpoint_calendar_year", type text}, {"average_weekly_earnings_nominal_growth_pct", type text}, {"average_weekly_earnings_cpi_adjusted_growth_pct", type text}, {"unemployment_rate_change_percentage_points", type text}, {"status", type text}, {"caveat", type text}}, "en-US")
+			in
+				Typed

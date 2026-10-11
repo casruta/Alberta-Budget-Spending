@@ -1,0 +1,8 @@
+{
+  "schema_repository": "https://github.com/microsoft/json-schemas",
+  "commit": "0346d0e844495d7786c09d7c4bebe0d3b191f411",
+  "pbip_schema_repository": "https://github.com/microsoft/powerbi-desktop-samples",
+  "pbip_commit": "8e99b1233173025a9ddcb5d8e5edfc119f2dfbb1",
+  "schema_files": 12,
+  "normalization": "LF line endings; trailing whitespace removed. Schema JSON values unchanged."
+}

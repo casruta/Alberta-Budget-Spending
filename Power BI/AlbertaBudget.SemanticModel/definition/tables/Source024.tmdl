@@ -1,0 +1,98 @@
+/// Infrastructure Analysis/research/capital/budget_execution_original_vintage.csv
+table 'Source024'
+	isHidden
+	lineageTag: 294ece2d-45f5-57d6-99f3-9c121a9fb01b
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 3dbeb9d7-03f0-5f40-be26-883bd6da237f
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'budget_million'
+		dataType: string
+		lineageTag: ddf6378f-3e96-5af7-9127-cd2c12eaa793
+		summarizeBy: none
+		sourceColumn: budget_million
+
+	column 'contemporary_actual_million'
+		dataType: string
+		lineageTag: 2ddd7222-1ada-5c60-a0a0-33c3a65d2784
+		summarizeBy: none
+		sourceColumn: contemporary_actual_million
+
+	column 'budget_execution_pct'
+		dataType: string
+		lineageTag: 639efc2b-fffe-564c-9e96-6fbb63a7cc74
+		summarizeBy: none
+		sourceColumn: budget_execution_pct
+
+	column 'actual_minus_budget_million'
+		dataType: string
+		lineageTag: a23077e2-3cc2-5fa2-9c44-2cd525979c2d
+		summarizeBy: none
+		sourceColumn: actual_minus_budget_million
+
+	column 'source_reported_budget_difference_million'
+		dataType: string
+		lineageTag: 9addbae5-86ce-5a1c-a8fe-0da32f541bcb
+		summarizeBy: none
+		sourceColumn: source_reported_budget_difference_million
+
+	column 'budget_difference_rounding_residual_million'
+		dataType: string
+		lineageTag: fc8a6419-e4b7-5529-b44c-d7bd2b950619
+		summarizeBy: none
+		sourceColumn: budget_difference_rounding_residual_million
+
+	column 'latest_2024_25_vintage_actual_million'
+		dataType: string
+		lineageTag: 8f8f65ce-7666-5222-bd92-c4a87ca0fdab
+		summarizeBy: none
+		sourceColumn: latest_2024_25_vintage_actual_million
+
+	column 'latest_minus_contemporary_actual_million'
+		dataType: string
+		lineageTag: f0ceb9f9-b786-5d0f-971d-ac8c967143b7
+		summarizeBy: none
+		sourceColumn: latest_minus_contemporary_actual_million
+
+	column 'contemporary_grants_actual_million'
+		dataType: string
+		lineageTag: 16fb45aa-897d-55f7-890c-4197c1d29fec
+		summarizeBy: none
+		sourceColumn: contemporary_grants_actual_million
+
+	column 'contemporary_investment_actual_million'
+		dataType: string
+		lineageTag: d38de58d-1aea-5a68-b0f2-ecf64cf944a9
+		summarizeBy: none
+		sourceColumn: contemporary_investment_actual_million
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 72c34de0-ff24-5b7d-9127-e7c6aa034f7e
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 183a804f-ae57-544f-b09c-b107a24520f9
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: 196986e5-e4a9-522d-99a8-2ec7a4160fde
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	partition 'Source024' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA3WUy24bMQxFf8XwOpqSFEWKyxZF10W3gRcp8tgUSZA6/1+SkutJZ7rR9Yw5ukd86Pb2SICtoBxvjtqlukhr3aXXhaFSRzSovVX2dwUrtJXCDF/iB+SKhujCwury5f3+6eF8+P712+9PaeSLHD4/P7/f/Tr8eHh9eTsvr/eP8V18fGE53SSXFIxNOndMIw0u1aUJCvQKYKBGyeOMK4UZvuIilORi3OGS4NLDeHsBogGUEBNICwaCocbpDTJt1hcSBTJT0kYwEtXsKpDBhAnScmVIDjazLc5/SNJ9knQ/ahySOewEe3q0xc+PfvLamqgFayHhq2RioGkyFKQ6a9bCgon6FiacPvLUgZMIE8c8gbE1QWTEzcOs2+LNgUqMVa1mXxRhukrmo3GbODZoxGKT2mWHJox2aZJg0BAUyoYxSaie+5nv3oGbqQIiGw+Mv+sldN0zXqXsGWsbkjTZIxnukwQLxTl9iLJMMp8WQf+zNyNPFWgenmcnD4UZvqZp2duMuG2ZNNqlSYJJQ4XirY5h9iKFKC/m9SHvJEOp2TPYDVaaZZJaZ5lGH2OrkjiwLVM4AdVdoISYQLVQNgrkbSI+0XkNLQoQ946nB1gGkc6LR68Xj4d/GPCZHvt3wM8/H8vTy10ZhkC8y5Usk4sLhUunnE7PTcR0XXy+m2fPGciHLHmgyUphhq+5LLPNFXbKxsHTdnmS4XT6Azsk8auiBQAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "budget_million", "contemporary_actual_million", "budget_execution_pct", "actual_minus_budget_million", "source_reported_budget_difference_million", "budget_difference_rounding_residual_million", "latest_2024_25_vintage_actual_million", "latest_minus_contemporary_actual_million", "contemporary_grants_actual_million", "contemporary_investment_actual_million", "source_file", "pdf_page", "source_vintage"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"budget_million", type text}, {"contemporary_actual_million", type text}, {"budget_execution_pct", type text}, {"actual_minus_budget_million", type text}, {"source_reported_budget_difference_million", type text}, {"budget_difference_rounding_residual_million", type text}, {"latest_2024_25_vintage_actual_million", type text}, {"latest_minus_contemporary_actual_million", type text}, {"contemporary_grants_actual_million", type text}, {"contemporary_investment_actual_million", type text}, {"source_file", type text}, {"pdf_page", type text}, {"source_vintage", type text}}, "en-US")
+			in
+				Typed

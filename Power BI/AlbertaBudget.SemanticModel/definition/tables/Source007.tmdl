@@ -1,0 +1,62 @@
+/// Data/fiscal_plan_2026_fiscal_summary.csv
+table 'Source007'
+	isHidden
+	lineageTag: 62ca16d1-b357-5708-831d-8ddbdac62d18
+
+	column 'Section'
+		dataType: string
+		lineageTag: c0b8dd5b-c344-5157-9c4b-cfc1742daa39
+		summarizeBy: none
+		sourceColumn: Section
+
+	column 'Item'
+		dataType: string
+		lineageTag: 5233920c-df37-57ba-a511-8949e91fe36d
+		summarizeBy: none
+		sourceColumn: Item
+
+	column '2024-25 Actual'
+		dataType: string
+		lineageTag: e6a93170-02d0-56a4-8009-8d32a23f2e9e
+		summarizeBy: none
+		sourceColumn: 2024-25 Actual
+
+	column '2025-26 Budget'
+		dataType: string
+		lineageTag: d0863e26-b1ae-56f3-818c-76e86862f07a
+		summarizeBy: none
+		sourceColumn: 2025-26 Budget
+
+	column '2025-26 Forecast'
+		dataType: string
+		lineageTag: 31288475-3832-5513-833e-32019d6dacbf
+		summarizeBy: none
+		sourceColumn: 2025-26 Forecast
+
+	column '2026-27 Estimate'
+		dataType: string
+		lineageTag: 899158d2-f634-5981-90d2-358d06a306c8
+		summarizeBy: none
+		sourceColumn: 2026-27 Estimate
+
+	column '2027-28 Target'
+		dataType: string
+		lineageTag: c62b8e55-3328-5faf-bfb4-61f59d7ed5c7
+		summarizeBy: none
+		sourceColumn: 2027-28 Target
+
+	column '2028-29 Target'
+		dataType: string
+		lineageTag: 05c97d30-7996-511c-bfac-7c3531604652
+		summarizeBy: none
+		sourceColumn: 2028-29 Target
+
+	partition 'Source007' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA6VVS0/cMBD+K9ZKlUBlqR/j17Gvc1HpDXEwWe82UjZJ7YRCf309kwRKAHHoYT32yPnmm5lvvFdXm+/xNrZj3JxtfnRDaFh6ODsJxhdrQSiHVksv6aw1R+u8ALwntHCb67Orzde7PrYZv/3WxxSGuj2w+OAzkkuNFpQQaC0XBnG48oQvlSFc4Fq9hcfesepnaA8EfG7Lqmh15wihaZXnjtY12OfQ15jqIYV2yHjFK0xEgcb8lALCM3Y6OaArcg3z8dilof5TaHUt+8DqthRu6NI9q7o2j8d+9jddzqzsdnXuuxwaDAgAmDl4r9A4xcloOnnAgJpzvQr4I9z14T6mbR77vsSOO7aLNwPLMd3WFRan6vKUEChMQSpwk0Fg6aiNSlusPoiS5VP8y9js38a21k7NRJIWBaIN4hqNsLa09CnqRbFYiT51tzXuEGQLHCltlUVFbIU3k9OREeSEZxX/UueQh5hYaHcsHmM6xLa6ZyHnOg+hrfCO8ArbhuyE5mbeTr+naPOO3cR9lyJ2DQWGiJPogcSv1WQ9SENi9xLxHYBHls5AOa/09YjEThC7KqzZ2Iam6apQSns6MwLOF3Jy2v5rVs2n6XycpgeCfkVQzQTNTNAtBD+FZq7R5Zj6ZsxFnCe7uC/tHU7pS+rpVksaz9IGmoqtV5Z6ZbUjv/Ec3gZ8uaxLDLGKYecYeo4BS4xlVi9KqP8d3VewcHDzcCzDiy1RnCQtHAKV5nMSuyfNG3rvNBb6BbypQ9Xs7CenlTR7zihPhmC9p4fVe3r3HDaQ6tml1P0uxSKpF9kM7GZxlXf511h8u1kvtowxvaX0pAqjOFIrMy0wnFBlDJ5hTgSHV16Rk4X5e7avczWnQMLQkqI4qSkLL7lDqQnunEEWQipPfwlCWSj/EdfXfwHZmx6ZWQYAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"Section", "Item", "2024-25 Actual", "2025-26 Budget", "2025-26 Forecast", "2026-27 Estimate", "2027-28 Target", "2028-29 Target"}),
+				Typed = Table.TransformColumnTypes(Source, {{"Section", type text}, {"Item", type text}, {"2024-25 Actual", type text}, {"2025-26 Budget", type text}, {"2025-26 Forecast", type text}, {"2026-27 Estimate", type text}, {"2027-28 Target", type text}, {"2028-29 Target", type text}}, "en-US")
+			in
+				Typed

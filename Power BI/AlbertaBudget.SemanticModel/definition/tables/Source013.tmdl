@@ -1,0 +1,56 @@
+/// Data/ministry_expenses_wide.csv
+table 'Source013'
+	isHidden
+	lineageTag: 9a44a4cc-609d-50dc-b451-320d433b33be
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: a545781e-ed76-5c76-9591-056c0f30dc17
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'Advanced Education'
+		dataType: string
+		lineageTag: b6377ce0-f812-5843-8b80-7f06aa39abc6
+		summarizeBy: none
+		sourceColumn: Advanced Education
+
+	column 'Education (K-12)'
+		dataType: string
+		lineageTag: a2bb7729-708d-568d-8464-35edba342f47
+		summarizeBy: none
+		sourceColumn: Education (K-12)
+
+	column 'Health'
+		dataType: string
+		lineageTag: b359a5ab-20d7-5ba8-a897-31ff57efe72e
+		summarizeBy: none
+		sourceColumn: Health
+
+	column 'Other'
+		dataType: string
+		lineageTag: 8da46b71-5216-53e4-bf47-077340856249
+		summarizeBy: none
+		sourceColumn: Other
+
+	column 'Social Services'
+		dataType: string
+		lineageTag: f6218824-8afd-5510-be96-01ecd00d5101
+		summarizeBy: none
+		sourceColumn: Social Services
+
+	column 'total_operating'
+		dataType: string
+		lineageTag: 71f535ff-9e2d-5acc-9f79-1a7bd74caea7
+		summarizeBy: none
+		sourceColumn: total_operating
+
+	partition 'Source013' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA0WSyXFDMQxDe/HZmiHBVbV40n8bEfEj58TR8gAS0ufzgqguxev9QrWcErvqFPWSPDVhs3SvOMVcT/15k8NSG66DF7X2cNHps0wfwHePtmUgL2dL5waSQJrocAUf+4L0cMCIWmX45XxpkNtTMiTIdY1aaZPLZp+9vS4XS0cr1MeoIqZr7QDI+XThjXF3O/uXy6Uzehhzqdrjoxt7gI54RKniqaGXq6XTSoRPqU1l3ZXkBFPOGePJ+ud6KY9sj2QDTFdcyGXwsOJp1x2X24sO4Xy4VmO60jW7WxhaQviMu8T+OMiCcgRjEMUbUKtpW6XcaMh3DCm5wUAXhw48wbRPEkAbBxWLqSnGgGDfToHFmU50Y3zujxMs+NYqwtzK+K3OON8vA1vw5zPOUTdbRJg+YDPTPPsDtvp3Rl/g+EmrDX4SHGWC2soJJB51GcefX7DuqmYWAwAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "Advanced Education", "Education (K-12)", "Health", "Other", "Social Services", "total_operating"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"Advanced Education", type text}, {"Education (K-12)", type text}, {"Health", type text}, {"Other", type text}, {"Social Services", type text}, {"total_operating", type text}}, "en-US")
+			in
+				Typed

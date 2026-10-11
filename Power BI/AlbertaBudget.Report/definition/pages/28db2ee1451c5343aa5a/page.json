@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "28db2ee1451c5343aa5a",
+  "displayName": "22 Archive history | operating-expense composition",
+  "displayOption": "FitToPage",
+  "width": 1320,
+  "height": 900,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "4ec70f3853b35a968285",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'history_expense_composition'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "168307a86ee759b3ad60",
+      "target": "fcadf6a8ba9455f29871",
+      "type": "NoFilter"
+    },
+    {
+      "source": "fcadf6a8ba9455f29871",
+      "target": "168307a86ee759b3ad60",
+      "type": "NoFilter"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+/// 2026-2029 Fiscal Plan/revenue_vs_expense_summary.csv
+table 'Source003'
+	isHidden
+	lineageTag: b24cfd5d-6689-58c2-9681-0e3296a52b21
+
+	column 'Fiscal_Year'
+		dataType: string
+		lineageTag: cc9488dd-70ac-5b11-b084-0ee7441ff848
+		summarizeBy: none
+		sourceColumn: Fiscal_Year
+
+	column 'Total_Revenue'
+		dataType: string
+		lineageTag: 8af79583-aa6d-50d2-83bf-d1b383b80bfa
+		summarizeBy: none
+		sourceColumn: Total_Revenue
+
+	column 'Total_Expense'
+		dataType: string
+		lineageTag: baf3419d-634b-5bf4-b1f5-21fa54803b28
+		summarizeBy: none
+		sourceColumn: Total_Expense
+
+	column 'Surplus_Deficit'
+		dataType: string
+		lineageTag: 0a903ec4-7281-508d-8928-923c12d53110
+		summarizeBy: none
+		sourceColumn: Surplus_Deficit
+
+	column 'Revenue_Change_Pct'
+		dataType: string
+		lineageTag: f425a4c4-d8a3-5826-a5b6-8b294bd5b906
+		summarizeBy: none
+		sourceColumn: Revenue_Change_Pct
+
+	column 'Expense_Change_Pct'
+		dataType: string
+		lineageTag: c1003b6b-7cb5-5c38-95bd-2e34027cb53c
+		summarizeBy: none
+		sourceColumn: Expense_Change_Pct
+
+	partition 'Source003' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA0WOUQ4EIQhD7+L3YKSCwlkmc/9rjGV3s4mxoemD3nfDgAm8XS1gK49uU6PGxDjC91wVdMFiwJGgptUsptOo0Tftrj9gCcox91EbEwQl5y7VTtsP9gW2IAhEKjfGsmQ12R5aSRab/wMhqKrqSi7CPgdWDqvkPD862vO8w7o+vOwAAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"Fiscal_Year", "Total_Revenue", "Total_Expense", "Surplus_Deficit", "Revenue_Change_Pct", "Expense_Change_Pct"}),
+				Typed = Table.TransformColumnTypes(Source, {{"Fiscal_Year", type text}, {"Total_Revenue", type text}, {"Total_Expense", type text}, {"Surplus_Deficit", type text}, {"Revenue_Change_Pct", type text}, {"Expense_Change_Pct", type text}}, "en-US")
+			in
+				Typed

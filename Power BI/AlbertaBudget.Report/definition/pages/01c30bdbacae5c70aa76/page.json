@@ -1,0 +1,100 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "01c30bdbacae5c70aa76",
+  "displayName": "27 Archive history | Alberta fiscal history, 2000–01 to 2024–25",
+  "displayOption": "FitToWidth",
+  "width": 1320,
+  "height": 1458,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "1b87eba1dcc851dba698",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'history_alberta_fiscal_summary_infographic'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "077f4a468ac25924bcb8",
+      "target": "6f0802bc5b0455428759",
+      "type": "NoFilter"
+    },
+    {
+      "source": "077f4a468ac25924bcb8",
+      "target": "806d79b5ff785625a621",
+      "type": "NoFilter"
+    },
+    {
+      "source": "6f0802bc5b0455428759",
+      "target": "077f4a468ac25924bcb8",
+      "type": "NoFilter"
+    },
+    {
+      "source": "6f0802bc5b0455428759",
+      "target": "806d79b5ff785625a621",
+      "type": "NoFilter"
+    },
+    {
+      "source": "806d79b5ff785625a621",
+      "target": "077f4a468ac25924bcb8",
+      "type": "NoFilter"
+    },
+    {
+      "source": "806d79b5ff785625a621",
+      "target": "6f0802bc5b0455428759",
+      "type": "NoFilter"
+    }
+  ]
+}

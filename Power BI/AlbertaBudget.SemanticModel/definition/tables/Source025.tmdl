@@ -1,0 +1,86 @@
+/// Infrastructure Analysis/research/capital/capital_composition_original_vintages.csv
+table 'Source025'
+	isHidden
+	lineageTag: 5c793584-71a5-557a-8711-22ad1ff8fe03
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 1769adaf-75a5-5ec5-b9e4-7476b890c9b0
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'observation_fiscal_year'
+		dataType: string
+		lineageTag: 5ffb04ce-fe11-55d5-90c4-8d7dd97c2627
+		summarizeBy: none
+		sourceColumn: observation_fiscal_year
+
+	column 'column_status'
+		dataType: string
+		lineageTag: 555811d2-173c-5000-98da-3281a48ac767
+		summarizeBy: none
+		sourceColumn: column_status
+
+	column 'total_capital_plan_million'
+		dataType: string
+		lineageTag: 27bdafaa-e718-5005-baed-7c407f580497
+		summarizeBy: none
+		sourceColumn: total_capital_plan_million
+
+	column 'capital_grants_million'
+		dataType: string
+		lineageTag: 8feb1cb0-d791-5478-bf72-d1e510c03cc6
+		summarizeBy: none
+		sourceColumn: capital_grants_million
+
+	column 'capital_investment_million'
+		dataType: string
+		lineageTag: bb165541-4635-58b7-bcbe-e23e5b8602b7
+		summarizeBy: none
+		sourceColumn: capital_investment_million
+
+	column 'component_rounding_residual_million'
+		dataType: string
+		lineageTag: a39f36c3-8e5b-5d70-a2f3-c5386a7961b4
+		summarizeBy: none
+		sourceColumn: component_rounding_residual_million
+
+	column 'grant_share_pct'
+		dataType: string
+		lineageTag: 3393a5c8-f321-5cb3-89ca-9ff3fd22fc00
+		summarizeBy: none
+		sourceColumn: grant_share_pct
+
+	column 'investment_share_pct'
+		dataType: string
+		lineageTag: 4076641d-b1ae-5c91-b2c6-4ccbf21f39b8
+		summarizeBy: none
+		sourceColumn: investment_share_pct
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 9fb94842-bcf7-563b-9437-cf1f1167e2c6
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 7c198a27-6038-52ca-a563-b6c22d64f26e
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: cfe07419-9ada-5f37-bf74-2c18c7d80f90
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	partition 'Source025' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA62Xy44bNxBFf2XgtdVhvYvLBEHWQbaGEYzjBwwEtjEZ/38uqym1rAcwsLRRE+wWeVD3VrH45s0rbmQ78levj0bvvr//9OEZg0gXPKiH4WGZiUcb39pCFC7dIsK7tPFZ6JLJ4k2ZWVpg6rda6eHP3//475daHz/+8OuXL98f/33468O3r0/Py7f3H8ce7Qjh7evLYI//POOPGLhZFhgRHuoae7C+kPSeFI1CUoQHWFvSW6Pknuzkfkcy3dGIzbenz1+f/t74KAcYa+0lUd+MdaQv2V3NM4HZxcZ7bws1MRUiYDZXvRnQdxTr7BwdNE1d0bjLCnrQNJYm3ps3NhbO8a/gpbu0Lj00PIjPwXyAxcM6uyfio72vER2JGYOByUtMpb2YwksawV0e2YbdxsexkGaD55j6cNs9iKacpyLe22QvBYsd5To7RwfxOlUmikSrhGwHX/kS0lihHDwUzuUrWdiRu5AObmOJC766glMbX8M5RKi3ipu2CqTC0BNHdTFTYkOUmE3Ga7NF1TIUQYpQ5xthpnxnot3XTC9Ayh31dXaODnIhk7VgeEwjvw9yCXINmThiFBltvHZHrpHRiNH4x4X4jPV/5JGjja/hHFelVoa2sTaq9D71hRZLC28GZUZVGtSei5KydIWEoyrdzDO1O1GsNy6p1oehAB6ZKCQCZ0lv5m7TROzMOHRaVxH7SaiOVFxn52jTjNta2rOsTQVPq2ZO7ILCaenw0qoZijsM7mxIPc9znLH+RZza+BrOITpmFXjyXidJ+kGztqCSO9zsmorDozTri9EoSCRGphY380z1TrOs1dJ7J9FWh3iBOKhSAEbie1+zDCIma6IpCGTBz0Fx25VDttGmWffC5ZCq1HmU9I4qqdYDtbrSDzSiAIffUKnz3EC1+iWYddtrMFtssqRiVMUycT/EBv0RIRAmyQjFrNHopBIRU6dAzCRu5dlrd6IYyrGVj6o8Th/taDUSzivtnorSjPbNVyOFOQq3MhFSsv8kFu14rZj70daHEFVthDoDT6htYTIL8CY8vb71cXQwTg8CE/XzMl2rX4Spba/BbJr5+saqkZ1JXzDwbh/WReIL+raigcfbsHiIO2rl7ThTvNMku7eRXkTFO56zc7TdBqxqDGudZvZj0muzBgt1bThdZ56Fde0NylqnfsFB2KCxXCSqva8RbaZeW2UyWWt1O+plmTSUBDEhXa8nvEQaj9pNGPS8A9CU8FS4O7vphViyY11n52jLtVZaoQbXEUupeyAbyiFQ0QQ6aTVFOoRDoLg7BD07Q57ffdx9+vq4W/dBz3kRrBCugW2RkjrtmWakemwNkmQDxfydDZJTB+385TuCTUlPiyZkKn+xnfmrBaPRTtzwcNfTeVfCAdQZdpSk9JvxdFf7bqNNUK58Eq0Ddhys+56JFoiN7jc7Kjl5JYblgvyLhMK4sqdcaOXGDrj3XUSqza8hHWIVXO5Bd6TV67bDXaAthqKA66OjmaPqa60vipqAayY6JxwBeQegKeZpLt7TYS/Bevs/vG//AFURAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "observation_fiscal_year", "column_status", "total_capital_plan_million", "capital_grants_million", "capital_investment_million", "component_rounding_residual_million", "grant_share_pct", "investment_share_pct", "source_file", "pdf_page", "source_vintage"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"observation_fiscal_year", type text}, {"column_status", type text}, {"total_capital_plan_million", type text}, {"capital_grants_million", type text}, {"capital_investment_million", type text}, {"component_rounding_residual_million", type text}, {"grant_share_pct", type text}, {"investment_share_pct", type text}, {"source_file", type text}, {"pdf_page", type text}, {"source_vintage", type text}}, "en-US")
+			in
+				Typed

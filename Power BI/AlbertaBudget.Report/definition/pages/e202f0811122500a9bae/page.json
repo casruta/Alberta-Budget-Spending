@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "e202f0811122500a9bae",
+  "displayName": "05 Education | Five-year high-school completion",
+  "displayOption": "FitToPage",
+  "width": 1320,
+  "height": 900,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "f1854016f8345291a4c3",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'qol_05_completion'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "556cd8c544395ac581eb",
+      "target": "6cd531dd792d5a29bb1a",
+      "type": "NoFilter"
+    },
+    {
+      "source": "6cd531dd792d5a29bb1a",
+      "target": "556cd8c544395ac581eb",
+      "type": "NoFilter"
+    }
+  ]
+}

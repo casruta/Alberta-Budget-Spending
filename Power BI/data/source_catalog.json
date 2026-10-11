@@ -1,0 +1,623 @@
+[
+  {
+    "SourceId": "S001",
+    "Path": "2026-2029 Fiscal Plan/expense_comparison.csv",
+    "Rows": 26,
+    "Columns": 10,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source001",
+    "SHA256": "0567f948038d603e7dc398588a06f51467a9335f05bf007b09fe2eb35939847b"
+  },
+  {
+    "SourceId": "S002",
+    "Path": "2026-2029 Fiscal Plan/revenue_comparison.csv",
+    "Rows": 16,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source002",
+    "SHA256": "e92b22f40fb68b8b258e2738f24bbb04c906f38f42a9a0266e001307a41973a7"
+  },
+  {
+    "SourceId": "S003",
+    "Path": "2026-2029 Fiscal Plan/revenue_vs_expense_summary.csv",
+    "Rows": 5,
+    "Columns": 6,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source003",
+    "SHA256": "cfc4c93649dee2b9df78cca7a02fe389d818e0758e064e88b7e5675c56cc9fa2"
+  },
+  {
+    "SourceId": "S004",
+    "Path": "2026-2029 Fiscal Plan/top_changes.csv",
+    "Rows": 10,
+    "Columns": 6,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source004",
+    "SHA256": "2d466408130b766d3c177e2f42da1de44d6c260aea97ad66ad1e821e51a4ff1f"
+  },
+  {
+    "SourceId": "S005",
+    "Path": "Data/alberta_surplus_deficit.csv",
+    "Rows": 25,
+    "Columns": 17,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source005",
+    "SHA256": "f9b5d9b7e874f0d2d9ad0df14dcc77f425cd96973562546ea34b57c2d3a11aad"
+  },
+  {
+    "SourceId": "S006",
+    "Path": "Data/fiscal_plan_2026_financial_position.csv",
+    "Rows": 33,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source006",
+    "SHA256": "f138e5595a9e2047bd0600f1689ce7af9966ce3013a6dbe948442e08b3817ab4"
+  },
+  {
+    "SourceId": "S007",
+    "Path": "Data/fiscal_plan_2026_fiscal_summary.csv",
+    "Rows": 19,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source007",
+    "SHA256": "6cb48bcb52f8b4899b540c0a42199393d5f0ffd63251c170356b6d1da0f08d5f"
+  },
+  {
+    "SourceId": "S008",
+    "Path": "Data/fiscal_plan_2026_long.csv",
+    "Rows": 396,
+    "Columns": 5,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source008",
+    "SHA256": "baa20bb6634d2e996e2c5fdc90da237344c25dae97d2505a571ae6071e007e20"
+  },
+  {
+    "SourceId": "S009",
+    "Path": "Data/fiscal_plan_2026_ministry_expenses.csv",
+    "Rows": 27,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source009",
+    "SHA256": "1603ecdf87e38950a51e932800212ac998f23e9d87665dce8509fa9b1e9ed11c"
+  },
+  {
+    "SourceId": "S010",
+    "Path": "Data/fiscal_plan_2026_revenue.csv",
+    "Rows": 21,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source010",
+    "SHA256": "1afac2546ce162edd1d73b6fb034ff7b31bdac727b05a161be1bd29c5f2a51e3"
+  },
+  {
+    "SourceId": "S011",
+    "Path": "Data/ministry_expenses.csv",
+    "Rows": 70,
+    "Columns": 5,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source011",
+    "SHA256": "6bd2ba96d5574ec8266970fc9a42ba51d51c843a5bac3943334b59ac3e126cdd"
+  },
+  {
+    "SourceId": "S012",
+    "Path": "Data/ministry_expenses_detail.csv",
+    "Rows": 340,
+    "Columns": 5,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source012",
+    "SHA256": "3ce7562db2cf8e082381d93508e5aff9ac4addf109f3dc37e67e3f643cd28872"
+  },
+  {
+    "SourceId": "S013",
+    "Path": "Data/ministry_expenses_wide.csv",
+    "Rows": 14,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source013",
+    "SHA256": "13237d8f17df4a283b00e4844839ca4cbbc10c8d27fecc5a6893ea3cd905f2b9"
+  },
+  {
+    "SourceId": "S014",
+    "Path": "Infrastructure Analysis/data/baseline_comparisons.csv",
+    "Rows": 5,
+    "Columns": 13,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source014",
+    "SHA256": "88878ae9bcb8aa334f799b8bfecbe40c8acb0e8cdaa7febb5478a83d88acbb23"
+  },
+  {
+    "SourceId": "S015",
+    "Path": "Infrastructure Analysis/data/budget_execution_analysis.csv",
+    "Rows": 10,
+    "Columns": 14,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source015",
+    "SHA256": "9128ca76f677a52cbb2d2c30d00daee29efd133bb8f2582fc8f48aa9d5ffdf7f"
+  },
+  {
+    "SourceId": "S016",
+    "Path": "Infrastructure Analysis/data/capital_population_analysis.csv",
+    "Rows": 10,
+    "Columns": 34,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source016",
+    "SHA256": "7b3266694eac9d03c80a1dbf8d43dfc4d1801422e974819ff6ec58c4f73a800d"
+  },
+  {
+    "SourceId": "S017",
+    "Path": "Infrastructure Analysis/data/hypothetical_price_scenarios.csv",
+    "Rows": 351,
+    "Columns": 3,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source017",
+    "SHA256": "440ace5d00cdda4ca716c5b81207966499cd7b7724b1342905be4eb7dd73e1b8"
+  },
+  {
+    "SourceId": "S018",
+    "Path": "Infrastructure Analysis/data/selected_project_stages.csv",
+    "Rows": 10,
+    "Columns": 28,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source018",
+    "SHA256": "754ddb17d6ba1c5723be65a9388836bd44aaa60bbbce3489522db552bf0f3082"
+  },
+  {
+    "SourceId": "S019",
+    "Path": "Infrastructure Analysis/data/tenure_summary.csv",
+    "Rows": 4,
+    "Columns": 9,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source019",
+    "SHA256": "933873456d60f308be7fe6cc36ce72a4bab4e48cf9a56524f79e09359afe23db"
+  },
+  {
+    "SourceId": "S020",
+    "Path": "Infrastructure Analysis/research/capital/2024_25_envelope_audit.csv",
+    "Rows": 14,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source020",
+    "SHA256": "bca1e24c0b05805fc9365caae1ff0689eb9b150f2c2215f58253bf2cc9ffb772"
+  },
+  {
+    "SourceId": "S021",
+    "Path": "Infrastructure Analysis/research/capital/actual_recent/recent_envelopes_all_vintages.csv",
+    "Rows": 84,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source021",
+    "SHA256": "4dfffc38a090e94788f25affb2161828e51725645b783953bcfe90b905a0a5bf"
+  },
+  {
+    "SourceId": "S022",
+    "Path": "Infrastructure Analysis/research/capital/actual_recent/recent_envelopes_latest_comparative.csv",
+    "Rows": 58,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source022",
+    "SHA256": "ae120d81ee4a74e6a44799c78b7c506eae404ada85654c343d1cc966bcb1345f"
+  },
+  {
+    "SourceId": "S023",
+    "Path": "Infrastructure Analysis/research/capital/adjacent_vintage_revision_ledger.csv",
+    "Rows": 9,
+    "Columns": 13,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source023",
+    "SHA256": "58c348c098388f44c7549db0b5252de1b8e1def188282c99f8b1eb6474f7c6a0"
+  },
+  {
+    "SourceId": "S024",
+    "Path": "Infrastructure Analysis/research/capital/budget_execution_original_vintage.csv",
+    "Rows": 10,
+    "Columns": 14,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source024",
+    "SHA256": "3790435a3bb47fc892828fb0e5d5ef9a74a8f9d9495143cfda2edb174bee2bf8"
+  },
+  {
+    "SourceId": "S025",
+    "Path": "Infrastructure Analysis/research/capital/capital_composition_original_vintages.csv",
+    "Rows": 30,
+    "Columns": 12,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source025",
+    "SHA256": "4c94a560366c4554cd5b019997c1dcbad65834f01a87f5d16a9fd2ef819f7a39"
+  },
+  {
+    "SourceId": "S026",
+    "Path": "Infrastructure Analysis/research/capital/early_ucp_paired_ministry_comparisons.csv",
+    "Rows": 38,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source026",
+    "SHA256": "a30e273fa73b93497c05a53a830328c374d22b26c00873cb7cad75f33bf7c16f"
+  },
+  {
+    "SourceId": "S027",
+    "Path": "Infrastructure Analysis/research/capital/infrastructure_ministry_operating.csv",
+    "Rows": 10,
+    "Columns": 6,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source027",
+    "SHA256": "a8657e74eaf187b8c669604939b9d6ee843ac3d2ee8bff845f3b5cd83eac03e4"
+  },
+  {
+    "SourceId": "S028",
+    "Path": "Infrastructure Analysis/research/capital/latest_vintage_actual_series.csv",
+    "Rows": 12,
+    "Columns": 12,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source028",
+    "SHA256": "8d3fed447253b5e0a4791155e9912b8582a486a5572efa6d1e64844642a3c493"
+  },
+  {
+    "SourceId": "S029",
+    "Path": "Infrastructure Analysis/research/capital/ministry_capital_contemporaneous_2015_2021_DRAFT_DO_NOT_USE.csv",
+    "Rows": 153,
+    "Columns": 8,
+    "Role": "Quarantined unverified draft; excluded from model",
+    "ModelTable": null,
+    "SHA256": "15930331509b1f25d0c911d85a0f35c384482a72b6c477be77195fe67ef479b8"
+  },
+  {
+    "SourceId": "S030",
+    "Path": "Infrastructure Analysis/research/capital/ministry_capital_verified_2019_2021.csv",
+    "Rows": 57,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source030",
+    "SHA256": "149266bafdd7b351a55576c7e41fb95c1198d9a36df4a9b76347649840db211b"
+  },
+  {
+    "SourceId": "S031",
+    "Path": "Infrastructure Analysis/research/demography/cross_vintage_revision_summary.csv",
+    "Rows": 10,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source031",
+    "SHA256": "ceba516344329bb6f2ff77c9875ab0c131c53bbcd55f0773db8cf7b5f2fe4ad3"
+  },
+  {
+    "SourceId": "S032",
+    "Path": "Infrastructure Analysis/research/demography/demography_cpi_2015_2024.csv",
+    "Rows": 10,
+    "Columns": 14,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source032",
+    "SHA256": "f543824b3709cde925ac11df33312a1ced86553c50ba48a82eb001ce3b9dddb5"
+  },
+  {
+    "SourceId": "S033",
+    "Path": "Infrastructure Analysis/research/demography/existing_notebook_input_audit.csv",
+    "Rows": 10,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source033",
+    "SHA256": "63a922887da5189c7b3cb8b5fa15f3653d67bd89880b687818d953c7e4e10f8a"
+  },
+  {
+    "SourceId": "S034",
+    "Path": "Infrastructure Analysis/research/demography/population_cpi_cross_vintage_ledger.csv",
+    "Rows": 78,
+    "Columns": 10,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source034",
+    "SHA256": "c20a8e8e0cae18a3da56ad8124a1830da32d265f147e8ecb85edaf31e0e51f21"
+  },
+  {
+    "SourceId": "S035",
+    "Path": "Infrastructure Analysis/research/physical/gaploop/additional_indicators.csv",
+    "Rows": 19,
+    "Columns": 12,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source035",
+    "SHA256": "01c6c564fc441937f8d7ed790d410b434768456dab6791aa378328a0f305d3ed"
+  },
+  {
+    "SourceId": "S036",
+    "Path": "Infrastructure Analysis/research/physical/gaploop/project_timeline_audited.csv",
+    "Rows": 17,
+    "Columns": 26,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source036",
+    "SHA256": "68a1e02e657b853509363b0fc9d070cbbabeebb052f8157415e7f84a41031584"
+  },
+  {
+    "SourceId": "S037",
+    "Path": "Infrastructure Analysis/research/physical/health/health_project_evidence.csv",
+    "Rows": 8,
+    "Columns": 9,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source037",
+    "SHA256": "8dcb845c50865ec22dc6003eb95767b992bfa6d40903243d4c5942b0963339c3"
+  },
+  {
+    "SourceId": "S038",
+    "Path": "Infrastructure Analysis/research/physical/physical_metrics_evidence.csv",
+    "Rows": 25,
+    "Columns": 10,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source038",
+    "SHA256": "0a773767c66fa0efe0982368dccffedfccead032d6cefcd9210057b1ac27c90c"
+  },
+  {
+    "SourceId": "S039",
+    "Path": "Infrastructure Analysis/research/physical/round2/explicit_capacity_observations.csv",
+    "Rows": 5,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source039",
+    "SHA256": "9c1ad4858adbfd0662f2ddf57eb74bb7585ace65388aef8a03203e80f1d16094"
+  },
+  {
+    "SourceId": "S040",
+    "Path": "Infrastructure Analysis/research/physical/round2/project_timeline.csv",
+    "Rows": 17,
+    "Columns": 18,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source040",
+    "SHA256": "7fcc5b3db901b7e5e315f0076c00786e64abc0b852a27403cb72ac1103199b47"
+  },
+  {
+    "SourceId": "S041",
+    "Path": "Infrastructure Analysis/research/source_verification/corpus_inventory.csv",
+    "Rows": 14,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source041",
+    "SHA256": "a8bdc515c9e82a8071bf24098f022fb7ef370eb559740b4cb8529d02c0a8edbc"
+  },
+  {
+    "SourceId": "S042",
+    "Path": "Quality of Life Analysis/data/economic_outcome_context.csv",
+    "Rows": 10,
+    "Columns": 24,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source042",
+    "SHA256": "594e181d866a6f2e77e1a77251ee4418dfd288eb8d0a3e8312a75b90e8402bbe"
+  },
+  {
+    "SourceId": "S043",
+    "Path": "Quality of Life Analysis/data/functional_expense_baseline_comparisons.csv",
+    "Rows": 28,
+    "Columns": 6,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source043",
+    "SHA256": "22ef90ed3282b21b8ace03fa807679590f927979f0c8c1915eabee04033d70d0"
+  },
+  {
+    "SourceId": "S044",
+    "Path": "Quality of Life Analysis/data/functional_expense_intensity.csv",
+    "Rows": 70,
+    "Columns": 13,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source044",
+    "SHA256": "763209f9cae7b9aaf4d57f17b7f98d68ba90c26f9a13e885572c2326a71b06ea"
+  },
+  {
+    "SourceId": "S045",
+    "Path": "Quality of Life Analysis/research/budget/expense_accounting_components_2024_budget_actual.csv",
+    "Rows": 9,
+    "Columns": 10,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source045",
+    "SHA256": "14fec1e0a41bef3f5f8f38434176d03474efc1b577334a6fc2dec7e81673d6b5"
+  },
+  {
+    "SourceId": "S046",
+    "Path": "Quality of Life Analysis/research/budget/functional_baseline_sensitivity_independent.csv",
+    "Rows": 21,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source046",
+    "SHA256": "3a647b030c0d2626de7a1b0571b49a00a6881b7e80edcece34df8de52eaba33a"
+  },
+  {
+    "SourceId": "S047",
+    "Path": "Quality of Life Analysis/research/budget/functional_cross_vintage_2022_independent.csv",
+    "Rows": 3,
+    "Columns": 13,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source047",
+    "SHA256": "25d5fa11bc8d1f0117349914ca6fb44005384d247c5b6f4272d4e5757dec7756"
+  },
+  {
+    "SourceId": "S048",
+    "Path": "Quality of Life Analysis/research/budget/latest_vintage_functional_expenses_2015_2024.csv",
+    "Rows": 10,
+    "Columns": 22,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source048",
+    "SHA256": "d570b3ae476ae2e961a60dea5d94f68dce747722f7eebffbea47d1967fa8bfd5"
+  },
+  {
+    "SourceId": "S049",
+    "Path": "Quality of Life Analysis/research/budget/ministry_operating_expense_2024_budget_actual.csv",
+    "Rows": 26,
+    "Columns": 10,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source049",
+    "SHA256": "d3b936cc3e64c756669d12de8c3bc623c59d84146230c0eb3f29a56e70cbef29"
+  },
+  {
+    "SourceId": "S050",
+    "Path": "Quality of Life Analysis/research/education_safety/current_education_observations.csv",
+    "Rows": 30,
+    "Columns": 9,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source050",
+    "SHA256": "494d0eee9f2a501eadc76e293487ac5682eca1a05645a3ff7e6cbefbbd37f510"
+  },
+  {
+    "SourceId": "S051",
+    "Path": "Quality of Life Analysis/research/education_safety/education_safety_archived_observations.csv",
+    "Rows": 27,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source051",
+    "SHA256": "320546c0dc255edc79205ec1cf2cc50507cb93479a27ad6d071b7a1feec40b2e"
+  },
+  {
+    "SourceId": "S052",
+    "Path": "Quality of Life Analysis/research/health/continuing_care/continuing_care_access.csv",
+    "Rows": 19,
+    "Columns": 9,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source052",
+    "SHA256": "a92756a68d412faca54e69c0c4d00cf073e4f04e870df5492411de0b5628f33e"
+  },
+  {
+    "SourceId": "S053",
+    "Path": "Quality of Life Analysis/research/health/continuing_care/continuing_care_recent_separate_metrics.csv",
+    "Rows": 14,
+    "Columns": 8,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source053",
+    "SHA256": "4dc8a1a21ccc7962a3df81de67061287cfdfed0f7dda69b39c3644e44e518758"
+  },
+  {
+    "SourceId": "S054",
+    "Path": "Quality of Life Analysis/research/health/extracted/contextual_health_evidence.csv",
+    "Rows": 13,
+    "Columns": 9,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source054",
+    "SHA256": "75dde5e007365ec4d44f964541de48ed6a80f8488d88f0dce1adeef7a5b385ab"
+  },
+  {
+    "SourceId": "S055",
+    "Path": "Quality of Life Analysis/research/health/extracted/health_outcomes.csv",
+    "Rows": 108,
+    "Columns": 17,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source055",
+    "SHA256": "52712a77c53a814d59aa35d7dedc86a3efe2b67dcc80c5faec315e17de9d85b8"
+  },
+  {
+    "SourceId": "S056",
+    "Path": "Quality of Life Analysis/research/health/life_tables/13100837_MetaData.csv",
+    "Rows": 180,
+    "Columns": 10,
+    "Role": "StatCan documentation; not a rectangular fact table",
+    "ModelTable": null,
+    "SHA256": "c5c6a9f6bacfce6c2284d781cc81ac6243c3898314cbcf20fbc6c62313a9d457"
+  },
+  {
+    "SourceId": "S057",
+    "Path": "Quality of Life Analysis/research/health/life_tables/life_expectancy_age0_bothsexes.csv",
+    "Rows": 180,
+    "Columns": 17,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source057",
+    "SHA256": "751bdaf041a27a8511b73a1480d253baf3c4a6856b09d2f70aa364e09b170041"
+  },
+  {
+    "SourceId": "S058",
+    "Path": "Quality of Life Analysis/research/living_standards/11100135_MetaData.csv",
+    "Rows": 131,
+    "Columns": 10,
+    "Role": "StatCan documentation; not a rectangular fact table",
+    "ModelTable": null,
+    "SHA256": "4e4db17c7b08c749d73a656c477d720df52c389a9d3cc163e22ac0624dda148b"
+  },
+  {
+    "SourceId": "S059",
+    "Path": "Quality of Life Analysis/research/living_standards/childcare_income_access_2020_2025.csv",
+    "Rows": 14,
+    "Columns": 11,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source059",
+    "SHA256": "2a06d86deb384510ea3e530dedd4aa376cb5abce7ee396f06837987111e6f9e6"
+  },
+  {
+    "SourceId": "S060",
+    "Path": "Quality of Life Analysis/research/living_standards/current_social_outcomes_2021_2024.csv",
+    "Rows": 14,
+    "Columns": 11,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source060",
+    "SHA256": "690162e7a2e78fe80d6bef328f662d527f80e516250748fc4e7106ed2fc05b62"
+  },
+  {
+    "SourceId": "S061",
+    "Path": "Quality of Life Analysis/research/living_standards/derived_earnings_sensitivity.csv",
+    "Rows": 3,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source061",
+    "SHA256": "d84ff55837953163de01d042f0ea088d674d448b0d46c2ea259235ee34ef2759"
+  },
+  {
+    "SourceId": "S062",
+    "Path": "Quality of Life Analysis/research/living_standards/economic_indicators_source_ledger.csv",
+    "Rows": 144,
+    "Columns": 16,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source062",
+    "SHA256": "d6f9d8e4928410947cb563a8fc7af7bdec91e287327f1c4e78c477015ef8b834"
+  },
+  {
+    "SourceId": "S063",
+    "Path": "Quality of Life Analysis/research/living_standards/historical_wellbeing_comparator.csv",
+    "Rows": 10,
+    "Columns": 14,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source063",
+    "SHA256": "7a1efa1abfdd1098149eb9f28e48461b123ec7e49765bb1ab83da1d5101f7334"
+  },
+  {
+    "SourceId": "S064",
+    "Path": "Quality of Life Analysis/research/living_standards/mbm_poverty_all_persons_2015_2024.csv",
+    "Rows": 28,
+    "Columns": 14,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source064",
+    "SHA256": "7d0db2e2def761af9d92b66ed65ba8de3428252f6a5419af6404a1d1d1f3a63d"
+  },
+  {
+    "SourceId": "S065",
+    "Path": "Quality of Life Analysis/research/living_standards/mbm_poverty_all_persons_exact_source_rows.csv",
+    "Rows": 28,
+    "Columns": 17,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source065",
+    "SHA256": "d4addc5ce57a0cfdd07c80bdcd491b778af4076b88622a7f7050479933fed9d3"
+  },
+  {
+    "SourceId": "S066",
+    "Path": "Quality of Life Analysis/research/source_verification/current_pdf_inventory.csv",
+    "Rows": 12,
+    "Columns": 7,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source066",
+    "SHA256": "5e86bcc82f2840e106d2f7f8c5cae38591f7eecb6a9f4f8f5797cf7603fb29ad"
+  },
+  {
+    "SourceId": "S067",
+    "Path": "Quality of Life Analysis/research/source_verification/mental_health_access_2019_2023.csv",
+    "Rows": 5,
+    "Columns": 12,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source067",
+    "SHA256": "1d2c36fa199243f1da2fec9d4aa50a5899e466689725af1efadcf8a32885aa2e"
+  },
+  {
+    "SourceId": "S068",
+    "Path": "Quality of Life Analysis/research/source_verification/safety_outcomes_2019_2023.csv",
+    "Rows": 30,
+    "Columns": 12,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source068",
+    "SHA256": "a96744fa5f42b17647fb43ec4b9813536612d4acd56c13aeb740bcb1c8240d30"
+  },
+  {
+    "SourceId": "S069",
+    "Path": "Quality of Life Analysis/review/current_website_functional_all80_comparison.csv",
+    "Rows": 80,
+    "Columns": 11,
+    "Role": "Original evidence table; kept separate from chart facts",
+    "ModelTable": "Source069",
+    "SHA256": "b47cedc53ba3b1b063c1d7948f4cda5c1bdf4fa26b037694168fbf9bcf7984ca"
+  }
+]

@@ -1,0 +1,92 @@
+/// Infrastructure Analysis/data/baseline_comparisons.csv
+table 'Source014'
+	isHidden
+	lineageTag: d0f81d85-8871-5a59-9b59-5501c4c0633d
+
+	column 'baseline'
+		dataType: string
+		lineageTag: 4a2117e3-da13-5c01-b648-96d2e89a747b
+		summarizeBy: none
+		sourceColumn: baseline
+
+	column 'endpoint'
+		dataType: string
+		lineageTag: af0c53af-7d0d-5452-a419-c521aefcd3a6
+		summarizeBy: none
+		sourceColumn: endpoint
+
+	column 'nominal_capital_growth_pct'
+		dataType: string
+		lineageTag: c9fa9f7e-93f4-5c5f-91d5-d16085f95dbb
+		summarizeBy: none
+		sourceColumn: nominal_capital_growth_pct
+
+	column 'population_growth_pct'
+		dataType: string
+		lineageTag: f689d10e-833c-5048-8320-723de4c8c7b3
+		summarizeBy: none
+		sourceColumn: population_growth_pct
+
+	column 'cpi_growth_pct'
+		dataType: string
+		lineageTag: 59cb30a5-6e82-5431-842f-29f48c23605f
+		summarizeBy: none
+		sourceColumn: cpi_growth_pct
+
+	column 'nominal_per_resident_growth_pct'
+		dataType: string
+		lineageTag: ebc5f970-7eec-54be-95ec-840e065d27a1
+		summarizeBy: none
+		sourceColumn: nominal_per_resident_growth_pct
+
+	column 'cpi_adjusted_per_resident_growth_pct'
+		dataType: string
+		lineageTag: c322a14d-76f8-585c-abda-b7d49cc0eaee
+		summarizeBy: none
+		sourceColumn: cpi_adjusted_per_resident_growth_pct
+
+	column 'endpoint_constant_intensity_benchmark_cad'
+		dataType: string
+		lineageTag: dd304f7c-9f3a-535a-a26e-2e71e91d9cd3
+		summarizeBy: none
+		sourceColumn: endpoint_constant_intensity_benchmark_cad
+
+	column 'endpoint_difference_from_benchmark_cad'
+		dataType: string
+		lineageTag: b366edb8-8190-5179-8e5d-06fff7b6cf18
+		summarizeBy: none
+		sourceColumn: endpoint_difference_from_benchmark_cad
+
+	column 'benchmark_interpretation'
+		dataType: string
+		lineageTag: 30dd2670-d772-5664-b92b-f476e8a2c095
+		summarizeBy: none
+		sourceColumn: benchmark_interpretation
+
+	column 'rounding_sensitivity_real_per_resident_growth_low_pct'
+		dataType: string
+		lineageTag: 17effea1-23fe-52b1-8f63-861b34455bb6
+		summarizeBy: none
+		sourceColumn: rounding_sensitivity_real_per_resident_growth_low_pct
+
+	column 'rounding_sensitivity_real_per_resident_growth_high_pct'
+		dataType: string
+		lineageTag: 534b43e9-ba88-5d31-a899-10fa4d7a6820
+		summarizeBy: none
+		sourceColumn: rounding_sensitivity_real_per_resident_growth_high_pct
+
+	column 'rounding_sensitivity_interpretation'
+		dataType: string
+		lineageTag: aa1ff9bd-19bd-54c6-8582-c82968953084
+		summarizeBy: none
+		sourceColumn: rounding_sensitivity_interpretation
+
+	partition 'Source014' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA9VWy47bOBD8FWHOI4L9YHcTe1og+xVBDootTwR45Ikkz27+fosaB1nvFzg6GFKZpFhdXUV9/vzEmUpP9vSMO9aeC+4oJ9XCxT3nQqE75imyM0elYsambYYlKWQ5SmiQ1dIG9pZYK5kb11rU3BvIBdPJhISzlZJdgFY3jMukGeswcf0YSfF/8M9l2r69jtt06A6Xed2GeeuneRvnddp+AHp9G5Zpvcx/dPNl64bu+xUjptM0HrtpPi3Dui3Xw3Zdxm4ex+Nzd5rWw3DutmF5GTc8XufjNL90L8Nbd1m6dVzep8PYrd8uy3Yazue078sSFZEoHk6sEXLjpRpZmdW0qrayfBq3cXmd5mltG/77sqxbfxjWsVsueNF4xNbfrlv3tT2tz/uWweo0HccZb228lvfhvKbur38O5+txXLtlfJ/WCcx/bh3rncf5OCzdcJ5e5tdxBu35+FGdxhWD+7elsbhi0WUbsOyP9PTleVc8eqr3itdUAsJkDc9SQbGBksASqJYilUuOfU4idEYT0ZlQEWAl5SyZRDOKk51aYYixYs3FigVVNW4Dg8NIPSSSq9xag7LKHUgPojgohBc2D7gBfR52Q8HVA3RDWIJ+D8lrz/lOcsnJmCmY1LL77l1wYyO3yMFmYrSDAXmbnyVYuJbWOdScXxocBsU8dudTkt3xnIuwIwXaUBcULyvlnBxNxPGhOd9h+4seQvOE7DFVDrBvfucPlNDDzeXVBLTyb6E5c7+77pfmHDAlwbjhiv6FOZspk3hFe7tAzKLSpiDDa7H689otiT4wzQRtoTm7cLMDoWDIdIvWR4KGapKbRhUnREFC2tteLS/4F0nAUFyk2mPoje2riSPxkN9o2D2RAKLZcfLhtKMI2tk/vtrSs96HuqZqwcju228DFcZVYQY/iIVTvk1JUf970e0jAMxRBcGx70V3LyfISSIqXgKHQisMgqHVzQqnHEQNQpij+UQ9VdTvQQ5wSxWbrqUlmNTIZeeDjxl1nHEwgxL7gwv95V+sVz+OsQkAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"baseline", "endpoint", "nominal_capital_growth_pct", "population_growth_pct", "cpi_growth_pct", "nominal_per_resident_growth_pct", "cpi_adjusted_per_resident_growth_pct", "endpoint_constant_intensity_benchmark_cad", "endpoint_difference_from_benchmark_cad", "benchmark_interpretation", "rounding_sensitivity_real_per_resident_growth_low_pct", "rounding_sensitivity_real_per_resident_growth_high_pct", "rounding_sensitivity_interpretation"}),
+				Typed = Table.TransformColumnTypes(Source, {{"baseline", type text}, {"endpoint", type text}, {"nominal_capital_growth_pct", type text}, {"population_growth_pct", type text}, {"cpi_growth_pct", type text}, {"nominal_per_resident_growth_pct", type text}, {"cpi_adjusted_per_resident_growth_pct", type text}, {"endpoint_constant_intensity_benchmark_cad", type text}, {"endpoint_difference_from_benchmark_cad", type text}, {"benchmark_interpretation", type text}, {"rounding_sensitivity_real_per_resident_growth_low_pct", type text}, {"rounding_sensitivity_real_per_resident_growth_high_pct", type text}, {"rounding_sensitivity_interpretation", type text}}, "en-US")
+			in
+				Typed

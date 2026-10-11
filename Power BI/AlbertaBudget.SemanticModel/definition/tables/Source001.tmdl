@@ -1,0 +1,74 @@
+/// 2026-2029 Fiscal Plan/expense_comparison.csv
+table 'Source001'
+	isHidden
+	lineageTag: c90702d7-c67c-533a-9dac-f9b0404ad82a
+
+	column 'Ministry'
+		dataType: string
+		lineageTag: 970b9e55-4769-535d-9c32-311f3bcf7ee5
+		summarizeBy: none
+		sourceColumn: Ministry
+
+	column '2024-25_Actual'
+		dataType: string
+		lineageTag: e2f4dd12-7607-5c68-ae21-675f2d465c82
+		summarizeBy: none
+		sourceColumn: 2024-25_Actual
+
+	column '2025-26_Budget'
+		dataType: string
+		lineageTag: 0e47ff33-cb0f-566c-b708-be877da29dd0
+		summarizeBy: none
+		sourceColumn: 2025-26_Budget
+
+	column '2025-26_Forecast'
+		dataType: string
+		lineageTag: 51e0941b-b57a-56ca-a3e3-5c45dea85f30
+		summarizeBy: none
+		sourceColumn: 2025-26_Forecast
+
+	column '2026-27_Estimate'
+		dataType: string
+		lineageTag: 1a662703-ee24-536d-90e2-06e903ac6804
+		summarizeBy: none
+		sourceColumn: 2026-27_Estimate
+
+	column '2027-28_Target'
+		dataType: string
+		lineageTag: 11976198-4da5-5c9f-9e81-3b151db5100b
+		summarizeBy: none
+		sourceColumn: 2027-28_Target
+
+	column '2028-29_Target'
+		dataType: string
+		lineageTag: bfc0dc53-cdaa-5293-bcb3-e3a0604f538d
+		summarizeBy: none
+		sourceColumn: 2028-29_Target
+
+	column 'Change_vs_2024'
+		dataType: string
+		lineageTag: 3e182bd2-bfe3-5690-bf4a-8a8a5428d317
+		summarizeBy: none
+		sourceColumn: Change_vs_2024
+
+	column 'Pct_Change_vs_2024'
+		dataType: string
+		lineageTag: 91b1888c-966a-5f34-b28c-cd7761bb18b4
+		summarizeBy: none
+		sourceColumn: Pct_Change_vs_2024
+
+	column 'Share_2026'
+		dataType: string
+		lineageTag: b082cb26-5c5c-534f-906d-a9afe54711e5
+		summarizeBy: none
+		sourceColumn: Share_2026
+
+	partition 'Source001' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA21WTU/kOBD9Ky3OEPnb8ZFFjIbRIKEZVnsYzSEkprE2HSMnaS3/fl2v0jSs9uKyO0lV+dWrV/3r18X1cOymPg6722HtuyXl6eLywithyBgpyTiPk9ctmaDItKIlYzUeNbSGpr34fVldPj/nMnRPaUzL266bht2fC+1TnOtbUmtaHX0tDVar/7MqgW1DRjSKve5L6tdxWUuEz7tS0v6UsAzIJrSUh/TIPjhyFYSjVdJ6JYWyZK1s6CxPrssyX+5uPjj/uXTLOu/y8+6vfIgUQeHySjmsSDUE2kv8rj351QFRHOAQjWbv85zmpSL8PR3TtGf/uU/duPsZyzH1DItQrSIrVQAo0hqgUIMhmnKthfWtR3QrYZoNK4tgNy9pHEqcEOVLd0jj26coVsKJDTBOSa4Fn8JH4+GXIKrXayS8v3ME7hGr70rEi0YiLaUtW+PhWxvtuOouwFrDFZY4+sazERxgimXPnLlPdd+NyNoITkapDSkiYOAiAyyhJeqKYl9p1yD2KevpmEqeah0XeH4oeYk9VeS6xI4CGEBtHV3cGloNmGRa8mOCxjsItHHSsed/Yr8u6Rh3N3md+jRSXpwWXkbWgj907yvYrXTTwhPn+CWXOC+Fr/7Qlb+ZEy2BZASgkuCHQckM+MzteeWAwZWTjYZHZsLXPL+mpZIMfFvLPvX18DV24/LyiRLSBKClJFdOCwGYdathjRN4bkVgqhuJSzTca1u4u2lI+zjl2jU/4giSzHjbnpvH4vbIdls9Zcz8NhuyenP3XLoKyNpTT9YHLtDjgNsH4YEx9kgycBeCcjoAh1Nzf8tPtblv+zzlw9vl7rF0wyYgh0Pal5OCaGfOuDoBpIG3VPBJJbCsVk34APO3dV4qku8ZeuTm0Zwe1/P4jNeWW5l7duP8feXluTKU2fUwpP6kbJ6Z40F32Xpm0NZE4IcSoJvWrAvgldoYer9OqU+v1X9V5S4VVFyxguiWNZgJqlvHVYYxARAHiDve3sT9oaRDd+JpiUdKHh3wf8xyhpnL1K3ty02kHGu91pJLL5znfqHHLWuz2+B5WJ/G1O9+ds9xmya3hyoSceo/K5sxrDNW8ClsnOWhwgyGRGEsGGZvLSXF2PzsrsenWJYOUX5UfXjsXiNt1vdqQBAkQxW4FLxyPQxojjy29mY6P8b+Zcpj3rTtbpry8cS8NrBMSDYCn0vBwwtTjd0CqyobuFFNH37zWtJ84B5/zWVhyT2PWb3NDOwdiyiJBcaVhbifBmztjGkmH2eF566p6N/kOm2HDPooK7c+hg5YNKAKLA4ttEJphz7isgeE0RuBHklz18qgP3JXBp5TaaL/ILgkRqvaZqvwfMLQqjQX/Ard7wqaxyKkKkPJ9fe4T/PIdKxTNx6exjcmAwjFeoVs+QYQDYkews9WnDXo97/Oh7BcHAkAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"Ministry", "2024-25_Actual", "2025-26_Budget", "2025-26_Forecast", "2026-27_Estimate", "2027-28_Target", "2028-29_Target", "Change_vs_2024", "Pct_Change_vs_2024", "Share_2026"}),
+				Typed = Table.TransformColumnTypes(Source, {{"Ministry", type text}, {"2024-25_Actual", type text}, {"2025-26_Budget", type text}, {"2025-26_Forecast", type text}, {"2026-27_Estimate", type text}, {"2027-28_Target", type text}, {"2028-29_Target", type text}, {"Change_vs_2024", type text}, {"Pct_Change_vs_2024", type text}, {"Share_2026", type text}}, "en-US")
+			in
+				Typed

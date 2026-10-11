@@ -1,0 +1,92 @@
+/// Infrastructure Analysis/research/capital/adjacent_vintage_revision_ledger.csv
+table 'Source023'
+	isHidden
+	lineageTag: fbb53aa0-320e-56f5-983e-a0162f5de7ba
+
+	column 'fiscal_year_revised'
+		dataType: string
+		lineageTag: e78a2380-b729-56dd-82d7-bae7cbc552f7
+		summarizeBy: none
+		sourceColumn: fiscal_year_revised
+
+	column 'next_source_vintage'
+		dataType: string
+		lineageTag: bf644cfb-b36f-5609-b196-97d9bf9394db
+		summarizeBy: none
+		sourceColumn: next_source_vintage
+
+	column 'original_total_million'
+		dataType: string
+		lineageTag: e1becce7-e0e5-5921-b870-911bce53e57b
+		summarizeBy: none
+		sourceColumn: original_total_million
+
+	column 'next_comparative_total_million'
+		dataType: string
+		lineageTag: 961f4328-0216-5fef-98f2-7e591ba3bf23
+		summarizeBy: none
+		sourceColumn: next_comparative_total_million
+
+	column 'total_revision_million'
+		dataType: string
+		lineageTag: dda643fd-0491-548a-a364-b5cb87f296e4
+		summarizeBy: none
+		sourceColumn: total_revision_million
+
+	column 'original_grants_million'
+		dataType: string
+		lineageTag: 604c4d50-a497-5428-9033-c32807b0b326
+		summarizeBy: none
+		sourceColumn: original_grants_million
+
+	column 'next_grants_million'
+		dataType: string
+		lineageTag: e1b14524-3234-5b8b-a272-4bc5f1e59643
+		summarizeBy: none
+		sourceColumn: next_grants_million
+
+	column 'grant_revision_million'
+		dataType: string
+		lineageTag: 764dc318-0575-5f83-aabb-ff1b9b0bc2dd
+		summarizeBy: none
+		sourceColumn: grant_revision_million
+
+	column 'original_investment_million'
+		dataType: string
+		lineageTag: 7eed93fb-b099-5fca-adf6-386f483dfdb8
+		summarizeBy: none
+		sourceColumn: original_investment_million
+
+	column 'next_investment_million'
+		dataType: string
+		lineageTag: cef9e350-a41f-50bf-b48b-abe134cbd378
+		summarizeBy: none
+		sourceColumn: next_investment_million
+
+	column 'investment_revision_million'
+		dataType: string
+		lineageTag: b2d6dc3e-2838-56c1-b4f3-1362170f8d2c
+		summarizeBy: none
+		sourceColumn: investment_revision_million
+
+	column 'source_file'
+		dataType: string
+		lineageTag: ec314fdf-1bc6-541e-b07c-a86af83f7e71
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 2032ab70-9623-506a-9d2e-11f0856a6cfd
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	partition 'Source023' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA3WTMU/DQAyF/0rVuQbbd3ZyK0LM7FEHUGlHkCj/n7N95UKTDMmzLOd955dkmvaMJEC6P1ilQEOtVGTsgvWiQtTFOlnz0MU6Tz+ny8d19/r88v3oXvU27KL78HU62/O8Px6mGclGgAI2zMT8mJS6ODP7Q01WmJu4BqnVCFRqVdB3LshmLuaKYR6dbFcpNiqIHsESZ17/iekGbJhalZqDLUajC4pRgDh5nsJdfEVmO2gmlD52hzXHDWyDMTJCbCaaXXL42aFIi7p41JFMGnUmy2jdbx16Q9WKgG0RHR3QxA9U0+0S77JIlxWgeW0AG6ZWDB6QanBDHCiYujiQfPkmK8DqhZw2kA1kE8CeqOaQlDxE/z0kebDC8terb3Lsco+9vp/h8vkG4YucN/ANahPg5pr8o2wSv0tsTLONy9BlZeNsSFkgj7+uImmbFwQAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year_revised", "next_source_vintage", "original_total_million", "next_comparative_total_million", "total_revision_million", "original_grants_million", "next_grants_million", "grant_revision_million", "original_investment_million", "next_investment_million", "investment_revision_million", "source_file", "pdf_page"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year_revised", type text}, {"next_source_vintage", type text}, {"original_total_million", type text}, {"next_comparative_total_million", type text}, {"total_revision_million", type text}, {"original_grants_million", type text}, {"next_grants_million", type text}, {"grant_revision_million", type text}, {"original_investment_million", type text}, {"next_investment_million", type text}, {"investment_revision_million", type text}, {"source_file", type text}, {"pdf_page", type text}}, "en-US")
+			in
+				Typed

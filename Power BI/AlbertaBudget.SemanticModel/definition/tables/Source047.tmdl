@@ -1,0 +1,92 @@
+/// Quality of Life Analysis/research/budget/functional_cross_vintage_2022_independent.csv
+table 'Source047'
+	isHidden
+	lineageTag: 1e19d72b-e561-555e-813d-8a5ffd5cf781
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: b02098ff-6886-5688-8d7c-3c9915de08e6
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	column 'observation_fiscal_year'
+		dataType: string
+		lineageTag: 2d4e3def-5444-529b-aa3a-829e053d2d6d
+		summarizeBy: none
+		sourceColumn: observation_fiscal_year
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 43c96c6d-ee8e-5ed3-8480-b532570685f0
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 6b6c462f-32cf-52ac-ab9c-f2855ab55c9f
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'health_expense_million'
+		dataType: string
+		lineageTag: 7ba0c08c-d843-5859-8295-8b712f71f519
+		summarizeBy: none
+		sourceColumn: health_expense_million
+
+	column 'basic_advanced_education_expense_million'
+		dataType: string
+		lineageTag: 2cb5d414-d702-5d93-8088-8083f9104577
+		summarizeBy: none
+		sourceColumn: basic_advanced_education_expense_million
+
+	column 'social_services_expense_million'
+		dataType: string
+		lineageTag: a0356e0d-799f-515b-aa6e-cb700138a52f
+		summarizeBy: none
+		sourceColumn: social_services_expense_million
+
+	column 'other_program_expense_million'
+		dataType: string
+		lineageTag: 7f7a87b5-823a-5e04-a012-6a7f104d1846
+		summarizeBy: none
+		sourceColumn: other_program_expense_million
+
+	column 'total_program_expense_million'
+		dataType: string
+		lineageTag: 50288dae-e3b1-5d4e-980e-6fc882ab5e8e
+		summarizeBy: none
+		sourceColumn: total_program_expense_million
+
+	column 'debt_servicing_expense_million'
+		dataType: string
+		lineageTag: 5256600d-5c68-5885-852a-701dee953d5b
+		summarizeBy: none
+		sourceColumn: debt_servicing_expense_million
+
+	column 'pension_provisions_recovery_million'
+		dataType: string
+		lineageTag: b37f5590-832c-5afd-8eb5-34009bc9cee6
+		summarizeBy: none
+		sourceColumn: pension_provisions_recovery_million
+
+	column 'total_expense_million'
+		dataType: string
+		lineageTag: 0e70ce7a-7284-59c0-ab12-12e065b65422
+		summarizeBy: none
+		sourceColumn: total_expense_million
+
+	column 'program_sum_minus_reported_total_million'
+		dataType: string
+		lineageTag: f9be1176-2a04-52b4-a5a1-9d5ed8f1d697
+		summarizeBy: none
+		sourceColumn: program_sum_minus_reported_total_million
+
+	partition 'Source047' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA5XPMQ7DIAwF0KtUzKEyH2NgzTUihlZpMrZDev9ikiFNpEqdzPdHevIwGBBg4U13ehH8pX+P82O5vsaprl3rAifREACqMwJoXWStxUl0+i0h12GhQZijJjKla6K34C9xuU92ft7s2hH4IPNPWWSVM5/lQNjLbBGOt7KK4T8xb+J2a9rfmjWJKeUDEUJPT18BAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"source_vintage", "observation_fiscal_year", "source_file", "pdf_page", "health_expense_million", "basic_advanced_education_expense_million", "social_services_expense_million", "other_program_expense_million", "total_program_expense_million", "debt_servicing_expense_million", "pension_provisions_recovery_million", "total_expense_million", "program_sum_minus_reported_total_million"}),
+				Typed = Table.TransformColumnTypes(Source, {{"source_vintage", type text}, {"observation_fiscal_year", type text}, {"source_file", type text}, {"pdf_page", type text}, {"health_expense_million", type text}, {"basic_advanced_education_expense_million", type text}, {"social_services_expense_million", type text}, {"other_program_expense_million", type text}, {"total_program_expense_million", type text}, {"debt_servicing_expense_million", type text}, {"pension_provisions_recovery_million", type text}, {"total_expense_million", type text}, {"program_sum_minus_reported_total_million", type text}}, "en-US")
+			in
+				Typed

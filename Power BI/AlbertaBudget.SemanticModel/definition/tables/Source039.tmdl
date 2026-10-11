@@ -1,0 +1,62 @@
+/// Infrastructure Analysis/research/physical/round2/explicit_capacity_observations.csv
+table 'Source039'
+	isHidden
+	lineageTag: 3d04bfbc-ce5a-512b-a492-a4188799cc5a
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 637f6cfe-3a9e-5021-ba68-27c2d82d6c73
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'capacity_measure'
+		dataType: string
+		lineageTag: 4e77b501-4737-53af-9358-286c7744545c
+		summarizeBy: none
+		sourceColumn: capacity_measure
+
+	column 'value'
+		dataType: string
+		lineageTag: c21820b2-01fd-52b5-a1e7-29829c1bc23f
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: 3270b2fb-1151-58a8-94e6-0c4a1b15ab98
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'interpretation'
+		dataType: string
+		lineageTag: 282e1a63-8fae-52fd-9c95-8e9cd59303ac
+		summarizeBy: none
+		sourceColumn: interpretation
+
+	column 'source_pdf'
+		dataType: string
+		lineageTag: 63dbe367-60f8-56b4-a93c-5d503b139214
+		summarizeBy: none
+		sourceColumn: source_pdf
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: b2ab097e-b78e-5313-a70b-ed6b6d7cf942
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'source_extract'
+		dataType: string
+		lineageTag: a5af2d0d-37a5-54b9-9e97-21074e88a42b
+		summarizeBy: none
+		sourceColumn: source_extract
+
+	partition 'Source039' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "capacity_measure", "value", "unit", "interpretation", "source_pdf", "pdf_page", "source_extract"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"capacity_measure", type text}, {"value", type text}, {"unit", type text}, {"interpretation", type text}, {"source_pdf", type text}, {"pdf_page", type text}, {"source_extract", type text}}, "en-US")
+			in
+				Typed

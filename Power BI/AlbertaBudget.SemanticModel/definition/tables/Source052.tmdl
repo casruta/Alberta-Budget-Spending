@@ -1,0 +1,68 @@
+/// Quality of Life Analysis/research/health/continuing_care/continuing_care_access.csv
+table 'Source052'
+	isHidden
+	lineageTag: 49bc84db-3cc6-563f-9c45-9aeb6f2c9392
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 51611c2c-486c-531e-aced-7c5cffdfd1bc
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'metric'
+		dataType: string
+		lineageTag: f244d243-5e02-54f1-b001-bbacb5bf936e
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'actual'
+		dataType: string
+		lineageTag: 9b076a68-4d00-574f-8dd0-4b6fb1d189a8
+		summarizeBy: none
+		sourceColumn: actual
+
+	column 'unit'
+		dataType: string
+		lineageTag: dfb27705-3346-5cdf-9fd7-b963c03850d7
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'same_year_target'
+		dataType: string
+		lineageTag: aeb516fb-ea85-581e-9f6c-1a1dd20c2513
+		summarizeBy: none
+		sourceColumn: same_year_target
+
+	column 'source_local_pdf'
+		dataType: string
+		lineageTag: 1b925e3f-c779-52c0-95fb-1da631e97a4b
+		summarizeBy: none
+		sourceColumn: source_local_pdf
+
+	column 'physical_pdf_page_1indexed'
+		dataType: string
+		lineageTag: b6e7a6e5-a19c-5dad-8d62-50619091db5e
+		summarizeBy: none
+		sourceColumn: physical_pdf_page_1indexed
+
+	column 'denominator_or_population'
+		dataType: string
+		lineageTag: 236523e2-6cb4-5072-ae16-db736207bd88
+		summarizeBy: none
+		sourceColumn: denominator_or_population
+
+	column 'comparability_note'
+		dataType: string
+		lineageTag: 58d7323d-0781-5fda-bec4-c0d77468ce88
+		summarizeBy: none
+		sourceColumn: comparability_note
+
+	partition 'Source052' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+WXUW+bMBDHv8opz4VhCCRRntpMU18mVetjVUWucYI1YyPbtOXb7wxOVtJNtI9JpcRywNzd73/Ed354mKUJIRFJZ1czWtbCWqGV3b4IVwm1zZJtSTuL94o5Dg03jCuHM/zgc3mEQwHXSrVUwi/eaOPiptzhXZLkODIpcL0Fb9k5XkLZGqH2YPqlfoYmhS5x6a2wThvB0NAQUQ7PVLbcws7oGiR13IDe7QQTuIRV1Lg1KO2AaeV4jfao6cBRs+fOxnCnpWCdX6f2aIPudpz5tXVDDX0SUrgunj1e9fhpRLIp/MXl4mcRmU/hry4Xf47OpvCTy8XPI1J8Dn+RXJQARUQWEwLkxUiAIh0EKLwAC7hpS/R6IE+XZ0O+iMhyijwdk+cD+Tvo9GygQ617ocJJjGJLWev41rZPw6TSthGOSlwyP2z6FqXBWbYI9MTnPT2RIOmltJbjpwSq8Ns0Rj/jj2ACvE8vA3XwkxpWZQQfudNCuUioyImaA8rCfntUOGYFSq50LRRFxdYeqm4VAuHlncCJXzEAo6enLpQzQNcMQwma/A/+aK0nSNIR7ypJzp03VPaPJDvPxsnOA3zq4bMTeHKO8G+TvUjICHd5/rihjflArnMyftGzw4ueefj5vytalp+hBm9TXixPUn4x1MuIrKbq2HJUx/qfFafSVVFvAIfVgbn4XC0LAcBtbw6eEZzu+RpaNURZDj3mcihjoc6toeau0qWWet/dff+RFcBfmWxLLF9Y5zrujp5DKAE2TaKUTPVrJM5OG1bLrI1on+JogEDmdO6HPID3R7x34E6D6xp+/e2mL75CtUjPqOFQ6RqjPRXmqMv95v5+cJH/FcWbsmjr6oi7gf6fybwmb96JYwAhoDVUx57B8Gfh0VEo/tpg6RfuoA6WqsmTbB4XX1Qd3NwnD7rzmHxRdXAfnDwHp3H+xdRZg1C+k5bccb//osO+KS+po7hF+0Z9gw/gTr3xoUvq9z2sBJ1X9CCtD3VK2iweHzOLor9w8fIablvpUFouhbdhunU42fQKPD7+AdlAw9ikEwAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "metric", "actual", "unit", "same_year_target", "source_local_pdf", "physical_pdf_page_1indexed", "denominator_or_population", "comparability_note"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"metric", type text}, {"actual", type text}, {"unit", type text}, {"same_year_target", type text}, {"source_local_pdf", type text}, {"physical_pdf_page_1indexed", type text}, {"denominator_or_population", type text}, {"comparability_note", type text}}, "en-US")
+			in
+				Typed

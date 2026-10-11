@@ -1,0 +1,68 @@
+/// Quality of Life Analysis/research/education_safety/current_education_observations.csv
+table 'Source050'
+	isHidden
+	lineageTag: cff15e65-5f2a-50c0-ae68-0d032d68d681
+
+	column 'metric'
+		dataType: string
+		lineageTag: ad736901-3450-593c-9f6b-02acf2e20a6a
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'observation_period'
+		dataType: string
+		lineageTag: a85c3ed8-ae70-5a2d-b05a-7f816ee596aa
+		summarizeBy: none
+		sourceColumn: observation_period
+
+	column 'value'
+		dataType: string
+		lineageTag: b81b3fcc-76ab-5d5e-bc2c-5cc84a6161ac
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: 0123e2d9-2cd9-52aa-842a-44f756089249
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'record_kind'
+		dataType: string
+		lineageTag: 014e9507-b53b-52a3-b479-14a68ede1ad9
+		summarizeBy: none
+		sourceColumn: record_kind
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 456026a2-eaa2-5e21-8f37-aa63b0121af5
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: e887f102-32da-5395-ad1a-438903adaacd
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'status'
+		dataType: string
+		lineageTag: 83ac0cfc-f07b-50db-95d7-89a342ee0e4d
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'definition_scope'
+		dataType: string
+		lineageTag: b115bd5f-2870-5be2-b05b-2e510878f220
+		summarizeBy: none
+		sourceColumn: definition_scope
+
+	partition 'Source050' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2YTY+bMBBA/4rFeaHBYCDaUy+VemjVQ2+rleWa4UNybMuYrfrvOyjQbLJKutu9NDgX24pi8DzsNzAPD1HTPwH/BcLxrm87PsjOGMWl2VkFvjc6uovoJt3GdIOjqkgodhacBO1x5GAY1TSAepSx0HoUKnZgjfM4g+ZTwxJbN9NlGDamaXrZC0Vq81MrI2qoiRk93g/Ift499t6ZwYL0uDby5xb7pX2QpsN/kR2IYXRwT7TxpDVP4PQO10SafpB4eZyu6163xDjSggaHv1ljRyWmoIibuujx7pXx001M0yn+MkmDjD+N6fTgqyopgoyfxjTbxx/m889imoe8/5f4q6Q6it8L18JVx//p65fP/E1JoHjPIciz64awZAKEsAkXwpwOyjTJwoUw54Rim+ThQpjFiBDK4CHgcWD/nB3+TwitwzVs+beP37kSuh1FC1w4P3AhJVgvfijggxe6Fq4+UsOFUyFPUYy2Fh5eECnWAWTWxAVXBgbkoIziBiTax8QuO3QtQHbCd4BNL/9uEJadfc0MCsfsD5av3h+vwjHbg9HbYXnmDpauHsfbZFrSk++zw7tYkPuDndhjfTiO94fFFpdqxcsaJn23SMtrR7GUM/Oz5fxgUCyVvey2K2ZXVGz1u+K5Oi+YIjtb4wsExOKJLNmGDWKxRB46iIMj1qfLx98KoUTsDx8AAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"metric", "observation_period", "value", "unit", "record_kind", "source_file", "source_pdf_page", "status", "definition_scope"}),
+				Typed = Table.TransformColumnTypes(Source, {{"metric", type text}, {"observation_period", type text}, {"value", type text}, {"unit", type text}, {"record_kind", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"status", type text}, {"definition_scope", type text}}, "en-US")
+			in
+				Typed

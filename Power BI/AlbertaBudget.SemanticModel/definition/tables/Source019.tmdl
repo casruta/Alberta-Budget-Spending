@@ -1,0 +1,68 @@
+/// Infrastructure Analysis/data/tenure_summary.csv
+table 'Source019'
+	isHidden
+	lineageTag: bec28724-4389-56dd-b345-187436730a24
+
+	column 'period'
+		dataType: string
+		lineageTag: 5799aa3e-2672-5c41-981b-f18093f972fa
+		summarizeBy: none
+		sourceColumn: period
+
+	column 'fiscal_years'
+		dataType: string
+		lineageTag: d5b65bb7-3250-5798-8f7b-1267a83a8606
+		summarizeBy: none
+		sourceColumn: fiscal_years
+
+	column 'nominal_capital_total_cad'
+		dataType: string
+		lineageTag: bf8a17d0-fe58-531b-89cf-58cd2a43d1e3
+		summarizeBy: none
+		sourceColumn: nominal_capital_total_cad
+
+	column 'nominal_capital_annual_mean_cad'
+		dataType: string
+		lineageTag: 05b9665a-9d08-530e-84ea-442ca20d6216
+		summarizeBy: none
+		sourceColumn: nominal_capital_annual_mean_cad
+
+	column 'cpi_adjusted_capital_annual_mean_2024_cad'
+		dataType: string
+		lineageTag: 2ba0ce1e-d7d0-5e21-9f7f-434e8a681f12
+		summarizeBy: none
+		sourceColumn: cpi_adjusted_capital_annual_mean_2024_cad
+
+	column 'population_weighted_nominal_per_resident_annual_cad'
+		dataType: string
+		lineageTag: 7eb15de1-8b60-5e0a-b623-9664f0c8bc6c
+		summarizeBy: none
+		sourceColumn: population_weighted_nominal_per_resident_annual_cad
+
+	column 'population_weighted_cpi_adjusted_per_resident_annual_2024_cad'
+		dataType: string
+		lineageTag: 64667451-d895-5863-85e4-41e7250be89a
+		summarizeBy: none
+		sourceColumn: population_weighted_cpi_adjusted_per_resident_annual_2024_cad
+
+	column 'median_cpi_adjusted_per_resident_annual_2024_cad'
+		dataType: string
+		lineageTag: 6c795d82-b9bb-5f47-8eee-830fd3ff8e08
+		summarizeBy: none
+		sourceColumn: median_cpi_adjusted_per_resident_annual_2024_cad
+
+	column 'interpretation'
+		dataType: string
+		lineageTag: 5495aa47-8819-5062-bd5c-df31b4e0624e
+		summarizeBy: none
+		sourceColumn: interpretation
+
+	partition 'Source019' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA62SQW7jMAxFryJkHQsiKYrkfm5RdBG4amE0tTOxPZjevpQ6mDZdh7AN84OW9P73w8MBE/AAJWxL8FcdwA7HQ/YbFSGnXjF5L4mJv1oVMKOimqMqKLoERSBaTvL/asukUlzUlJAyEgu3SRONoBmN2ceYi4u/6jpep8s2/alhq/N+rWFc3i6n67Qu8zHsc/29n87hUq/T8rQew7xsYTzta9OW8zS+h/r8XMft8HjsWDZg+sTCPGDbtu1CimTfsAoJQWkV+7OduVhhsZIFIxXS1I+cE0SRjKzc2KGLTBgBUYn9SyXKfdLcBkEwFNb8OXlvuB+Zhfp3PO9P0/zSFBlAw3qZXmsD7n6D0Q20SfkBLX5cAbdNYjL0VTofaCxC6iGZsOUO7XlHlcyMmJnItO/AFiW5M+6nr35/ZMQB6TbPf2hSbtHwe8sC4AmVFKlV/0+pQMxZKbsp0jLtollkcxeci0oqPUpSio5kmkTdgEx35Xr8ANej0KWAAwAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"period", "fiscal_years", "nominal_capital_total_cad", "nominal_capital_annual_mean_cad", "cpi_adjusted_capital_annual_mean_2024_cad", "population_weighted_nominal_per_resident_annual_cad", "population_weighted_cpi_adjusted_per_resident_annual_2024_cad", "median_cpi_adjusted_per_resident_annual_2024_cad", "interpretation"}),
+				Typed = Table.TransformColumnTypes(Source, {{"period", type text}, {"fiscal_years", type text}, {"nominal_capital_total_cad", type text}, {"nominal_capital_annual_mean_cad", type text}, {"cpi_adjusted_capital_annual_mean_2024_cad", type text}, {"population_weighted_nominal_per_resident_annual_cad", type text}, {"population_weighted_cpi_adjusted_per_resident_annual_2024_cad", type text}, {"median_cpi_adjusted_per_resident_annual_2024_cad", type text}, {"interpretation", type text}}, "en-US")
+			in
+				Typed

@@ -1,0 +1,44 @@
+/// Data/ministry_expenses.csv
+table 'Source011'
+	isHidden
+	lineageTag: 89615427-4ff1-5b9b-a455-7fac94be82d8
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: ce2503da-99a4-55f2-bddb-48ae42be43b3
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'ministry_normalized'
+		dataType: string
+		lineageTag: 11765578-4f53-5a10-956e-261fb9c3300c
+		summarizeBy: none
+		sourceColumn: ministry_normalized
+
+	column 'operating_expense_millions'
+		dataType: string
+		lineageTag: 3a3bfc4f-b74e-5da7-a4aa-1ab87425fa44
+		summarizeBy: none
+		sourceColumn: operating_expense_millions
+
+	column 'raw_ministries'
+		dataType: string
+		lineageTag: 596745c9-eef8-5262-a18e-2bb378a1c7e8
+		summarizeBy: none
+		sourceColumn: raw_ministries
+
+	column 'source'
+		dataType: string
+		lineageTag: 902e2a63-e1a3-50f0-a78a-1c70e7cfa742
+		summarizeBy: none
+		sourceColumn: source
+
+	partition 'Source011' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "ministry_normalized", "operating_expense_millions", "raw_ministries", "source"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"ministry_normalized", type text}, {"operating_expense_millions", type text}, {"raw_ministries", type text}, {"source", type text}}, "en-US")
+			in
+				Typed

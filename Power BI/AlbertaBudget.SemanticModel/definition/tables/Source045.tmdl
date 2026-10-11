@@ -1,0 +1,74 @@
+/// Quality of Life Analysis/research/budget/expense_accounting_components_2024_budget_actual.csv
+table 'Source045'
+	isHidden
+	lineageTag: 9f563dfd-df22-52f4-ad4e-02d7f9a81a84
+
+	column 'source_reporting_fiscal_year'
+		dataType: string
+		lineageTag: 465d5a87-3b9e-5292-80d1-475bfdf46bf5
+		summarizeBy: none
+		sourceColumn: source_reporting_fiscal_year
+
+	column 'category'
+		dataType: string
+		lineageTag: e1705fb3-6ef3-5110-bf57-ba78a12b267e
+		summarizeBy: none
+		sourceColumn: category
+
+	column 'budget_2024_25_million'
+		dataType: string
+		lineageTag: 12fa7f60-af9d-5f63-b42b-136082697b0c
+		summarizeBy: none
+		sourceColumn: budget_2024_25_million
+
+	column 'actual_2024_25_million'
+		dataType: string
+		lineageTag: 33269416-2699-58d0-8d08-bfba57eb0db1
+		summarizeBy: none
+		sourceColumn: actual_2024_25_million
+
+	column 'actual_2023_24_million'
+		dataType: string
+		lineageTag: 2111ad1d-c953-5019-96a0-c12475c6d245
+		summarizeBy: none
+		sourceColumn: actual_2023_24_million
+
+	column 'source_reported_budget_change_million'
+		dataType: string
+		lineageTag: 5099f0be-94a0-57da-9b73-c8bf20735a10
+		summarizeBy: none
+		sourceColumn: source_reported_budget_change_million
+
+	column 'source_reported_prior_change_million'
+		dataType: string
+		lineageTag: 4a82447d-ea6d-5e53-bca9-826c2a409bce
+		summarizeBy: none
+		sourceColumn: source_reported_prior_change_million
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 97a7315d-cfaa-5280-96c4-b9ade81ebb4b
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 9a44b030-858a-5461-9e14-1e44ed65ecf2
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'scope'
+		dataType: string
+		lineageTag: 2277bc43-ed23-5453-9b3e-2a1d98e97b2f
+		summarizeBy: none
+		sourceColumn: scope
+
+	partition 'Source045' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA9VVy27rIBD9FZR1ScGAbdRdX9tm0V3VBcE0QkoAAY6avy8wdnXvF1zfBdLxADNzfGaGj49dRzqOO7G7270FE1W27oTMdzAumWLrCe34nlRUDoqGxEi5bIhKQhtg49A38DhPJ5PR4fk13YPncguBdR+mr3q2rBcIgI43pLT2s2th8y2YB+R8XhOo+1+z09l694CSn6M2OCgbzYSOEEn7S1DRJu92n3d/snlSwWZ1RqeoXE41Lu8h604yoNRRwhrAggG1kdGN0Xi2SaVsIlJuQuZi4sk4XcKlZFNWTleRQArWgRSrTL8WTIlkG1VHXXzMe3SPrLsal328lTsuzZdQjYVlcTLZFHwqh8++fFcpuehBQc451B1nUi5kKQA+bE1Jc8womXi1uvrWPuWEMCp6lrY7V8FGAWToMCz9NXZgwQOwwf8Lq1Xfw1m5SkQwqEDK2cKRLXMFS6BE6dZq9FAclGsoGu2vJt5qsmwpPMzX0cGGpcvYUoCbGyFPvjmtc6MOPUJIS3Bd+C/LdtJ+97WAXn6fooGVdmh5Dnx9gAbCBeggeygj1kvx7///5w9jwnURWQcAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"source_reporting_fiscal_year", "category", "budget_2024_25_million", "actual_2024_25_million", "actual_2023_24_million", "source_reported_budget_change_million", "source_reported_prior_change_million", "source_file", "pdf_page", "scope"}),
+				Typed = Table.TransformColumnTypes(Source, {{"source_reporting_fiscal_year", type text}, {"category", type text}, {"budget_2024_25_million", type text}, {"actual_2024_25_million", type text}, {"actual_2023_24_million", type text}, {"source_reported_budget_change_million", type text}, {"source_reported_prior_change_million", type text}, {"source_file", type text}, {"pdf_page", type text}, {"scope", type text}}, "en-US")
+			in
+				Typed

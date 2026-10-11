@@ -1,0 +1,116 @@
+/// Data/alberta_surplus_deficit.csv
+table 'Source005'
+	isHidden
+	lineageTag: 5b22a882-8b99-5c50-9f53-342cd0947da2
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 67fd64d0-5dec-51eb-a19d-a25e69b9373b
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'total_revenue_millions'
+		dataType: string
+		lineageTag: f50d6784-5eb7-5253-a89f-211fce43715b
+		summarizeBy: none
+		sourceColumn: total_revenue_millions
+
+	column 'personal_income_tax_millions'
+		dataType: string
+		lineageTag: 08e1c8c1-bf9e-5163-88c0-29abff2824e4
+		summarizeBy: none
+		sourceColumn: personal_income_tax_millions
+
+	column 'corporate_income_tax_millions'
+		dataType: string
+		lineageTag: 29fe112e-95c1-5de4-be85-d75960a8fe83
+		summarizeBy: none
+		sourceColumn: corporate_income_tax_millions
+
+	column 'other_tax_revenue_millions'
+		dataType: string
+		lineageTag: bdad152a-695d-5da1-bcc4-1ee870f4b64f
+		summarizeBy: none
+		sourceColumn: other_tax_revenue_millions
+
+	column 'resource_revenue_millions'
+		dataType: string
+		lineageTag: 4d68af4a-4f08-568c-a12a-1896dda60449
+		summarizeBy: none
+		sourceColumn: resource_revenue_millions
+
+	column 'investment_income_millions'
+		dataType: string
+		lineageTag: ac1a9271-7d6e-5e47-9a34-ca9e30e27b40
+		summarizeBy: none
+		sourceColumn: investment_income_millions
+
+	column 'federal_transfers_millions'
+		dataType: string
+		lineageTag: abb9a376-5c51-5ef2-ac42-82b098501a48
+		summarizeBy: none
+		sourceColumn: federal_transfers_millions
+
+	column 'other_revenue_millions'
+		dataType: string
+		lineageTag: 94c39a94-7dc6-577e-b585-42eac948c7d2
+		summarizeBy: none
+		sourceColumn: other_revenue_millions
+
+	column 'total_expense_millions'
+		dataType: string
+		lineageTag: bf03d9e7-6d53-5c4f-abbd-a2e6498235a8
+		summarizeBy: none
+		sourceColumn: total_expense_millions
+
+	column 'program_expense_millions'
+		dataType: string
+		lineageTag: 6de7eeb7-53b3-5840-aeb1-1f5e53962b85
+		summarizeBy: none
+		sourceColumn: program_expense_millions
+
+	column 'debt_servicing_millions'
+		dataType: string
+		lineageTag: 1c3ed1af-03b7-5c81-80ec-51aa9ee88c8b
+		summarizeBy: none
+		sourceColumn: debt_servicing_millions
+
+	column 'pension_provisions_millions'
+		dataType: string
+		lineageTag: b01ae50f-72cc-5e64-ae2e-84edde5933c9
+		summarizeBy: none
+		sourceColumn: pension_provisions_millions
+
+	column 'surplus_deficit_millions'
+		dataType: string
+		lineageTag: 775070d6-73c8-511c-b515-1fb371aa3671
+		summarizeBy: none
+		sourceColumn: surplus_deficit_millions
+
+	column 'fiscal_status'
+		dataType: string
+		lineageTag: 8fc48a20-4eb1-5eb4-83a9-8e42b45df497
+		summarizeBy: none
+		sourceColumn: fiscal_status
+
+	column 'reporting_basis'
+		dataType: string
+		lineageTag: 2620003f-ba44-5a1f-8c8f-677a5f69f08c
+		summarizeBy: none
+		sourceColumn: reporting_basis
+
+	column 'source_document'
+		dataType: string
+		lineageTag: e8681821-e0ea-5ba6-9196-c8b4dfab3b33
+		summarizeBy: none
+		sourceColumn: source_document
+
+	partition 'Source005' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA7VXTWsdRxD8K0KnBDxh+mt65poEk2PAuRkfFEs2DxTZWPL/T0/VGpObA2/hoX1vd7RT3V1dXfP27a323luX21e3GqFZV1tu+2dXXML2Tekxx75a7LsyZV9MU/FrBR7myn1ds9ff+ozI/eY3X798fvz6XN9eX57f3z3e/Pl494QtRFr90Ztfv95/fHj55fP9h5uf/rg8v3z6ctnr/rr7+/Hh59t3r4BTWt+7qSzdu7hMAFRdwDn2r6GIIefEo+Eb5QBK7dMD1w5UmU6U0ucVUWrrhDXG3tWnOV8ClOkbeortDDUfBAYkbooy9GBAvSPVjpQibrPrwbTWgSvm3AnzgYLKWHs36wKYA3tXnpHNb2lXViEDcMVRbUVO8dzG9WB666jZMp2A6ciNsbAy9sOV7uSkgpPItFviH12QRbUJuAYK1ScEz68EM1pH3iIcRR+ZQC3JLkFu3Rx3zXcoZgtLg1QdayGdI9l9WFOfGXFFco7WgWh2IMuBWtogeh9706rv6CQBerwjFl8osK7oDE0XaRDfcEq/Hs5sHTmaRcj9crLLxwpkmfmUrs4SgwwdKQsBGcyYVzNDc6kczV75vmI+Z+sLkmm6kc0EbNdQood0ykKSmkxA8sh9Scqsd4V2WnKV4g1Hr7dlG+zvDx8u7y8v9e23T0/Pnx4v93cvD/c3ry9Pd0/vLwXqzUvd+Ofh6eWZIcwm68cCWA1lsxVonpwsdgaSSLUqFUAqwzeYMFA8fWLJWszzMv+eZz/kDfJxHnrpTdDUk3MnB9JVNQe0qRvFdChHNdReEh6ME/UqLYO0eTdl3GhJ2zVt1QZ6Lnxpwv0MvJ4cYTWuiGktsGdAT1UG6Y22mz0ocgH+eQkiosOvgfArNX4ufG0QiGI7Sr8G5ldxZzAow5BNTmdEGB3cmTW60QiDLeBslABrFBOoGcM/Eb41crX60Olw4HTCjy7tG81isxbnEQ3TPiemUEkiSlMjHjN0wEYlZKhx0Pxf+OolPho/FoA3KEYFAEkrPUR2I5FBj7WBzMVpI6hV3YNhK9N3mJPBCCieiXHQHNZARP47IU8IIRqMhusQkr20HX1JupDzmpMcAs1SEOVyZfX6AOsm5TMhBG1QgIb76VUYDeT1sqGYSj3ZxYnJFTQsxWbM3bEo/WiKNIhPHBM2auyyOOiOFmiO0uecfnYQ2diRqUh87Ql3VJo+YeOpkvT1JkqxhWko8wzSRBheUUWCkakqoQSBrLTJ08SpQezWB8zgqUQmffWEeRgTglQGjQ4SdZn0OOUkYNpj6OSiYCloeuq9pFOKnB3EashbnQyUTahgvQtsVyQsZCUVJmxitK2OeFPRJjENPVDMowNWg/uwYyqUYzu7J7Q3jgITHh5F0dbWqbA6gz1Bx+t2yC+jAGFGp/6X/K74Pr6bQr/aPqecHkUZQSVxcC1Lhkx6HkTnSXhIdppSKhgnnRi9RCkQClez0Y5owSjDycXW6RKr2ji6vkl/HTtgNmRQtmjrQ/2IkayzQYs90PIVBYRrVN7lO/FY5fIZEKhTo7CGdij6Q4qkRkPHQGZ3UCvLG/EwG7iUucN8FkkMyFqMko3jXGsCDWhG10dWnhpFrUXu1TEciju0qILbQ4Qn6jWPoYygajbyWJYQ3HTCzqoVT5c8XThWF1f7eVG8+xf1aduxMRIAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "total_revenue_millions", "personal_income_tax_millions", "corporate_income_tax_millions", "other_tax_revenue_millions", "resource_revenue_millions", "investment_income_millions", "federal_transfers_millions", "other_revenue_millions", "total_expense_millions", "program_expense_millions", "debt_servicing_millions", "pension_provisions_millions", "surplus_deficit_millions", "fiscal_status", "reporting_basis", "source_document"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"total_revenue_millions", type text}, {"personal_income_tax_millions", type text}, {"corporate_income_tax_millions", type text}, {"other_tax_revenue_millions", type text}, {"resource_revenue_millions", type text}, {"investment_income_millions", type text}, {"federal_transfers_millions", type text}, {"other_revenue_millions", type text}, {"total_expense_millions", type text}, {"program_expense_millions", type text}, {"debt_servicing_millions", type text}, {"pension_provisions_millions", type text}, {"surplus_deficit_millions", type text}, {"fiscal_status", type text}, {"reporting_basis", type text}, {"source_document", type text}}, "en-US")
+			in
+				Typed

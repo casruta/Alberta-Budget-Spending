@@ -1,0 +1,86 @@
+/// Quality of Life Analysis/research/source_verification/safety_outcomes_2019_2023.csv
+table 'Source068'
+	isHidden
+	lineageTag: 9f9ca66e-2544-5f7d-a316-6df3ba9eea3b
+
+	column 'metric'
+		dataType: string
+		lineageTag: e9fb72c7-0d65-50d4-8866-03093f88a2af
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'geography'
+		dataType: string
+		lineageTag: a2651460-4d7d-55f1-a3ed-7092169b9564
+		summarizeBy: none
+		sourceColumn: geography
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: e51687cc-7d56-567a-a584-7926a8ac0364
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'value'
+		dataType: string
+		lineageTag: 85620ff4-03fb-5398-b4ca-42603d8d5fda
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: c2e7a8b1-4076-5e86-ac06-a5dce8aad809
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 1a88d396-d868-5a8f-8c3d-2077f380631a
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: 302ae928-20a9-599a-a9b5-a4f3917fee77
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: 7141277e-8fd5-5621-9fba-67612e488990
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'source_quote'
+		dataType: string
+		lineageTag: 90ada08c-4355-5d92-b86b-20107ba61948
+		summarizeBy: none
+		sourceColumn: source_quote
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: 17d80dcd-976c-5ad4-a5d2-a60046c92400
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	column 'status'
+		dataType: string
+		lineageTag: de6c79e8-596c-5e88-b9c9-e2ef3512bd5e
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'caveat'
+		dataType: string
+		lineageTag: a4729b4d-2c2f-5eb9-8e84-ce174cbf6d04
+		summarizeBy: none
+		sourceColumn: caveat
+
+	partition 'Source068' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2aXWvbMBSG/8oh104jKZIdk6vSu7GLrbDdlDJUW1kFrm0kJyP79TuyskVeaSmMjSU5vnDyxvo6rx/M0XHu7mY72zWmHb5Uzj6ZWTa7bh6MGzR+E4yX+MFlLvCj7xpbmbkzfecGU4NtK1tjRw+9ccAZyxhj4IyPv2KPj1vd2GEP3Qbe242B61Y3e2/9AhsZ7arHhe+2rjJfdsbZja30YLt2UXff2qbTtV/03vi5blsc5jDtXDAhw0ld9fUmLHEVTvlx2fA5hgM3IRy41YOB3w+eYUSJUCq5pHiZqpynquSjLWENCuLKIK5sDbXG2fVO20Y/NAbebZs9hKbY45dnuhqwyxoerR86hxGH7n7boInO7Kw3Nba+0RhArd18jybFYVGj32G45RrijTjMa9uvYD203QC6aWBnq8E+2e+jlWtwW6ebxdY96BYcWuHhUe8MeNPrIAHvVPdkW42L8Vez++x1GgQbaVCKaCAamAjRczU+IoiGi6dBjDTknGggGnDykYaSaLhUGm7DCPAslxRCLv9/JuLi33SIDCM6CslZckkWqVLLMlWKmIgZpUDTiAliIs0rBdpETBATaXYp0BhigphIc0wRrSAmLpGJT2Pf5/VKcQr7jrj4Nx08w4gSIfPk0pKLVKmJKgUxEauWaBoxQUxMapdoEzFBTEwqmGgMMUFMTOqY0Qpi4hKY6F2Ht3PYv/w6XK1KeTpl7Q+HeF6pa6sMIzoKlmwyZKbKMmnIkrK2zAp12TiMmaVip1CpIhz+AQ4hqZToEOFAOBzyScVO6Y044fAXcQippCyUIBwuFYcX3okXUp5XDbvIMKKfIs9Wx4I2KsnzRBWrVOXFkqCIaWW+OrM/ShAUfwZFeETk6BNBQVBMUswcnSEoCIpJoplHLwiKi4TihRfjSkl1VoVslWFExz1FXshkh8HLIlH5SiVqKUuCIiaaEl0jKAiKaRUTfSIoCIpJoinRGYKCoJhWNKMXBMXZQ3H/AxpAK94sPgAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"metric", "geography", "calendar_year", "value", "unit", "source_file", "source_pdf_page", "source_printed_page", "source_quote", "source_vintage", "status", "caveat"}),
+				Typed = Table.TransformColumnTypes(Source, {{"metric", type text}, {"geography", type text}, {"calendar_year", type text}, {"value", type text}, {"unit", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"source_quote", type text}, {"source_vintage", type text}, {"status", type text}, {"caveat", type text}}, "en-US")
+			in
+				Typed

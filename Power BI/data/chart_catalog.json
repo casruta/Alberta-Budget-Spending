@@ -1,0 +1,958 @@
+[
+  {
+    "id": "qol_01_spending_intensity",
+    "title": "Spending growth and purchasing power",
+    "original_figure": "Quality of Life Analysis/figures/01_spending_intensity.png",
+    "note": "Source:2024–25 Final Results PDF pp 13–14. Accounting breaks; July population and calendar CPI proxies. Input intensity, not service volume or quality; functions are not operating-only.",
+    "section": "Spending",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Nominal expense, index 2018–19 = 100",
+        "unit": "Index, 2018–19 = 100",
+        "visual_type": "lineChart",
+        "minimum": 75,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Adjusted expense per resident, index 2018–19 = 100",
+        "unit": "Index, 2018–19 = 100",
+        "visual_type": "lineChart",
+        "minimum": 75,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "qol_02_allocation_change",
+    "title": "Resource intensity by function, 2018–19 to 2024–25",
+    "original_figure": "Quality of Life Analysis/figures/02_allocation_change.png",
+    "note": "Source: Final Results pp 13–14; same-vintage actuals. Education combines basic and advanced education. Total residents are not students or patients; CPI is not a sector cost index; accounting changes apply.",
+    "section": "Spending",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "CPI-adjusted expense per resident",
+        "unit": "Percent change",
+        "visual_type": "clusteredBarChart",
+        "minimum": -19,
+        "maximum": 9
+      }
+    ]
+  },
+  {
+    "id": "qol_03_pay_and_unemployment",
+    "title": "Earnings and unemployment",
+    "original_figure": "Quality of Life Analysis/figures/03_pay_and_unemployment.png",
+    "note": "Source: Final Results PDF p 13, calendar-year rows. Earnings depend on employment mix/hours. Not median after-tax household income, poverty or household-specific affordability; no causal attribution.",
+    "section": "Living standards",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Weekly earnings",
+        "unit": "CAD per week",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Unemployment",
+        "unit": "Percent of labour force",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 13
+      }
+    ]
+  },
+  {
+    "id": "qol_04_safety",
+    "title": "Police-reported crime, 2019–2023",
+    "original_figure": "Quality of Life Analysis/figures/04_safety.png",
+    "note": "Source: PSES 2024–25 annual report PDF p 28 (printed 26), method p 44. Data end 2023; revised. Police-reported incidents, not all victimization or perceived safety. Independent y scales; no causal attribution.",
+    "section": "Safety",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Violent crime",
+        "unit": "Incidents per 100,000",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Property crime",
+        "unit": "Incidents per 100,000",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "qol_05_completion",
+    "title": "Five-year high-school completion",
+    "original_figure": "Quality of Life Analysis/figures/05_completion.png",
+    "note": "Source: Education 2024–25 annual PDF pp 25,43; method pp 89–90. One-year reporting lag. COVID exam/mark changes affect cohorts; overall includes FNMI and is not a non-FNMI comparison.",
+    "section": "Education",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Reported results by school/cohort year",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 100
+      },
+      {
+        "id": "p2",
+        "title": "Latest results and matched targets",
+        "unit": "Percent",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": 100
+      }
+    ]
+  },
+  {
+    "id": "qol_06_grade9",
+    "title": "Grade 9 acceptable-standard results",
+    "original_figure": "Quality of Life Analysis/figures/06_grade9.png",
+    "note": "Source: Education 2024–25 Annual Report Update PDF pp 5–7,18–19. Weighted/enrolment-based outcomes. 2020–21 missing (COVID); security/wildfire disruptions; changing participation; Grade 6 curriculum break.",
+    "section": "Education",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Reported results by school/cohort year",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 100
+      },
+      {
+        "id": "p2",
+        "title": "Latest results and matched targets",
+        "unit": "Percent",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": 100
+      }
+    ]
+  },
+  {
+    "id": "qol_07_mental_health",
+    "title": "Mental-health and addiction service contact",
+    "original_figure": "Quality of Life Analysis/figures/07_mental_health.png",
+    "note": "Source: Mental Health and Addiction 2024–25 annual PDF pp 35–36 (printed 33–34). Up to 10-month lag. Eligibility/PHN exclusions; first visit/person/year. Prior contact measure, not recovery or all ED demand.",
+    "section": "Health",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Eligible first ED visits without prior public-service contact",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 25
+      },
+      {
+        "id": "p2",
+        "title": "Latest result and matched target",
+        "unit": "Percent",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": 25
+      }
+    ]
+  },
+  {
+    "id": "qol_08_emergency_and_imaging",
+    "title": "Emergency and imaging access",
+    "original_figure": "Quality of Life Analysis/figures/08_emergency_and_imaging.png",
+    "note": "Source: Health 2024–25 annual PDF pp 23,30. ED 2021–22/2022–23 revised; excludes left without being seen. ED is neither average nor province-wide; MRI/CT denominators and clinical priorities differ; source-method issue retained.",
+    "section": "Health",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "ED initial physician assessment, 90th percentile",
+        "unit": "Hours",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 8
+      },
+      {
+        "id": "p2",
+        "title": "Scans within clinical priority targets",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 100
+      }
+    ]
+  },
+  {
+    "id": "qol_09_surgery_and_ems",
+    "title": "Completed surgery and ambulance response",
+    "original_figure": "Quality of Life Analysis/figures/09_surgery_and_ems.png",
+    "note": "Source: Health 2024–25 annual PDF pp 24,26. Surgery excludes emergency procedures; completed-case denominator. EMS urgent Delta/Echo calls; higher-acuity Echo priority; regions differ. Pandemic baseline; no causal attribution.",
+    "section": "Health",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Completed procedures within benchmarks",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 100
+      },
+      {
+        "id": "p2",
+        "title": "Urgent ambulance response, 90th percentile",
+        "unit": "Minutes",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 75
+      }
+    ]
+  },
+  {
+    "id": "qol_10_housing_support",
+    "title": "Affordable housing and rent-support access",
+    "original_figure": "Quality of Life Analysis/figures/10_housing_support.png",
+    "note": "Source: SCSS 2024–25 annual PDF p 38 (printed 36), method p 67. Combined access/output measure. 2024–25 breakdown 388 units +410 additional subsidy households; includes regenerated units; not net housing stock.",
+    "section": "Housing",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Combined units and additional supported households",
+        "unit": "Units + households",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": 2700
+      }
+    ]
+  },
+  {
+    "id": "qol_11_poverty",
+    "title": "Poverty: separate Market Basket Measure bases",
+    "original_figure": "Quality of Life Analysis/figures/11_poverty.png",
+    "note": "Source: Statistics Canada 11-10-0135-01, downloaded 9 Oct 2026; Canadian Income Survey, all persons. Survey estimates/quality flags retained; Census revisions and 2021/2022 method changes; pandemic-era lows not a counterfactual.",
+    "section": "Living standards",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Market basket measure, 2018 base",
+        "unit": "Percent of survey-covered persons",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 16
+      },
+      {
+        "id": "p2",
+        "title": "Market basket measure, 2023 base",
+        "unit": "Percent of survey-covered persons",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": 16
+      }
+    ]
+  },
+  {
+    "id": "qol_12_life_expectancy",
+    "title": "Period life expectancy at birth",
+    "original_figure": "Quality of Life Analysis/figures/12_life_expectancy.png",
+    "note": "Source: Statistics Canada 13-10-0837-01, single-year life table, age 0/both sexes; downloaded 9 Oct 2026. Source 95% bounds exclude revision uncertainty; calendar 2023 and 2024 preliminary; period, not cohort/healthy life expectancy. Native lines show the estimate and lower/upper source 95% bounds; not filled confidence bands.",
+    "section": "Health",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Alberta: estimate and source 95% bounds",
+        "unit": "Years",
+        "visual_type": "lineChart",
+        "minimum": 79,
+        "maximum": 83
+      },
+      {
+        "id": "p2",
+        "title": "Canada: estimate and source 95% bounds",
+        "unit": "Years",
+        "visual_type": "lineChart",
+        "minimum": 79,
+        "maximum": 83
+      }
+    ]
+  },
+  {
+    "id": "infra_01_actual_capital_spending",
+    "title": "Actual Capital Plan spending",
+    "original_figure": "Infrastructure Analysis/plots/01_actual_capital_spending.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Actual capital spending",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "infra_02_spending_per_resident",
+    "title": "Capital spending per resident",
+    "original_figure": "Infrastructure Analysis/plots/02_spending_per_resident.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Nominal and CPI-adjusted spending",
+        "unit": "CAD per resident",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "infra_03_growth_benchmarks",
+    "title": "Capital, population and price-growth benchmark",
+    "original_figure": "Infrastructure Analysis/plots/03_growth_benchmarks.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Growth indices, 2018–19 = 100",
+        "unit": "Index, 2018–19 = 100",
+        "visual_type": "lineChart",
+        "minimum": 75,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "infra_04_baseline_sensitivity",
+    "title": "Capital spending under different baselines",
+    "original_figure": "Infrastructure Analysis/plots/04_baseline_sensitivity.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Change to 2024–25",
+        "unit": "Percent change",
+        "visual_type": "clusteredBarChart",
+        "minimum": -30,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "infra_05_latest_sector_changes",
+    "title": "Latest capital-envelope changes",
+    "original_figure": "Infrastructure Analysis/plots/05_latest_sector_changes.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "2023–24 to 2024–25, same classification",
+        "unit": "CAD millions",
+        "visual_type": "clusteredBarChart",
+        "minimum": -120,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "infra_06_tenure_sensitivity",
+    "title": "Government-period spending intensity",
+    "original_figure": "Infrastructure Analysis/plots/06_tenure_sensitivity.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity. Unequal windows and inherited projects; descriptive, not causal.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Population-weighted annual adjusted spending",
+        "unit": "2024 CAD per resident",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "infra_07_selected_project_stages",
+    "title": "Selected project stages: recorded years",
+    "original_figure": "Infrastructure Analysis/plots/07_selected_project_stages.png",
+    "note": "Year of earlier documented work and first recovered report listing completed status. Not opening dates, continuous construction or net capacity.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Fiscal-start year first recorded",
+        "unit": "Fiscal-start year",
+        "visual_type": "clusteredBarChart",
+        "minimum": 2014,
+        "maximum": 2025
+      }
+    ]
+  },
+  {
+    "id": "infra_08_hypothetical_price_sensitivity",
+    "title": "Hypothetical construction-price sensitivity",
+    "original_figure": "Infrastructure Analysis/plots/08_hypothetical_price_sensitivity.png",
+    "note": "Hypothetical price-growth assumptions, not observed construction inflation. Spending inputs are actual; no construction-volume verdict.",
+    "section": "Infrastructure",
+    "classification": "Hypothetical scenario",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Adjusted per-resident change versus assumed price growth",
+        "unit": "Percent change",
+        "visual_type": "lineChart",
+        "minimum": -30,
+        "maximum": 10
+      }
+    ]
+  },
+  {
+    "id": "infra_09_reported_budget_execution",
+    "title": "Capital Plan budget and financial execution",
+    "original_figure": "Infrastructure Analysis/plots/09_reported_budget_execution.png",
+    "note": "2024–25 Final Results, PDF pp13–17. July population/calendar CPI proxies; accounting changes. Spending is not net service capacity. Contemporary paired columns can be restated; execution is not cancellation or procurement efficiency.",
+    "section": "Infrastructure",
+    "classification": "Reviewed",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Contemporary paired budget and actual",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Actual as a share of paired budget",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "history_expense_composition",
+    "title": "Archive: operating-expense composition",
+    "original_figure": "2011-2025 Expense Analysis/plots/expense_composition.png",
+    "note": "Archive: original ministry mapping and notebook population/CPI inputs, not the reviewed functional series. Latest-year estimate/actual classification is unresolved in the old narrative.",
+    "section": "Archive expenses",
+    "classification": "Original archive",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Ministry operating expense",
+        "unit": "CAD billions",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Share of original operating expense",
+        "unit": "Percent",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": 100
+      }
+    ]
+  },
+  {
+    "id": "history_expense_percapita",
+    "title": "Archive: operating expense per resident",
+    "original_figure": "2011-2025 Expense Analysis/plots/expense_percapita.png",
+    "note": "Archive: original ministry mapping and notebook population/CPI inputs, not the reviewed functional series. Latest-year estimate/actual classification is unresolved in the old narrative.",
+    "section": "Archive expenses",
+    "classification": "Original archive",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Original notebook population denominator",
+        "unit": "CAD per resident",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Selected original years, per-resident expense",
+        "unit": "CAD per resident",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "history_expense_real_spending",
+    "title": "Archive: nominal and adjusted operating expense",
+    "original_figure": "2011-2025 Expense Analysis/plots/expense_real_spending.png",
+    "note": "Archive: original ministry mapping and notebook population/CPI inputs, not the reviewed functional series. Latest-year estimate/actual classification is unresolved in the old narrative.",
+    "section": "Archive expenses",
+    "classification": "Original archive",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Total expense, original notebook deflator",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "CPI-adjusted total operating expense per resident",
+        "unit": "2024 CAD per resident",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "history_expense_health_deep_dive",
+    "title": "Archive: health operating expense",
+    "original_figure": "2011-2025 Expense Analysis/plots/expense_health_deep_dive.png",
+    "note": "Archive: original ministry mapping and notebook population/CPI inputs, not the reviewed functional series. Latest-year estimate/actual classification is unresolved in the old narrative.",
+    "section": "Archive expenses",
+    "classification": "Original archive",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Health expense",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Health share of operating expense",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p3",
+        "title": "Original health expense per resident",
+        "unit": "CAD per resident",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "history_expense_growth_indexed",
+    "title": "Archive: indexed ministry expense",
+    "original_figure": "2011-2025 Expense Analysis/plots/expense_growth_indexed.png",
+    "note": "Archive: original ministry mapping and notebook population/CPI inputs, not the reviewed functional series. Latest-year estimate/actual classification is unresolved in the old narrative.",
+    "section": "Archive expenses",
+    "classification": "Original archive",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Nominal growth, 2011–12 = 100",
+        "unit": "Index, 2011–12 = 100",
+        "visual_type": "lineChart",
+        "minimum": 75,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "history_alberta_fiscal_summary_infographic",
+    "title": "Archive: Alberta fiscal history, 2000–01 to 2024–25",
+    "original_figure": "2011-2025 Expense Analysis/plots/alberta_fiscal_summary_infographic.png",
+    "note": "Archive fiscal history. Fiscal Plan basis through 2007–08; consolidated financial statements thereafter. Source vintages and accounting definitions differ.",
+    "section": "Archive expenses",
+    "classification": "Original archive",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Revenue and expense",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Surplus / deficit",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": null,
+        "maximum": null
+      },
+      {
+        "id": "p3",
+        "title": "Resource revenue",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": null,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_scissors_effect",
+    "title": "Archive Fiscal Plan: revenue and expense paths",
+    "original_figure": "2026-2029 Fiscal Plan/plots/scissors_effect.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Revenue and total expense",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_revenue_vs_expense_gap",
+    "title": "Archive Fiscal Plan: revenue–expense gap",
+    "original_figure": "2026-2029 Fiscal Plan/plots/revenue_vs_expense_gap.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Revenue and total expense",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Reported fiscal balance",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": null,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_fiscal_balance_waterfall",
+    "title": "Archive Fiscal Plan: balance reconciliation",
+    "original_figure": "2026-2029 Fiscal Plan/plots/fiscal_balance_waterfall.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited. Reported balances can differ from revenue minus expense by CAD 1M; rounding residuals are retained. Native bars separate revenue changes, negative expense changes and reported balances; totals are not added as increments.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Revenue and expense contributions versus prior year",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": null,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Reported balances, separate from increments",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": null,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_revenue_composition",
+    "title": "Archive Fiscal Plan: revenue composition",
+    "original_figure": "2026-2029 Fiscal Plan/plots/revenue_composition.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited. Category sums exceed reported total revenue by CAD 1M in 2027–28 and 2028–29; source values are retained.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Category totals; no subtotal double counting",
+        "unit": "CAD billions",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_revenue_resource_risk",
+    "title": "Archive Fiscal Plan: resource-revenue trajectory",
+    "original_figure": "2026-2029 Fiscal Plan/plots/revenue_resource_risk.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited. Reported totals differ from rounded component sums by CAD 1M in 2025–26 and 2028–29; source values are retained.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Resource revenue items",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_revenue_dependency_comparison",
+    "title": "Archive Fiscal Plan: revenue dependencies",
+    "original_figure": "2026-2029 Fiscal Plan/plots/revenue_dependency_comparison.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "2024–25 actual and 2026–27 estimate",
+        "unit": "CAD billions",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_expense_ministry_ranking",
+    "title": "Archive Fiscal Plan: ministry spending",
+    "original_figure": "2026-2029 Fiscal Plan/plots/expense_ministry_ranking.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Actual and estimate by ministry",
+        "unit": "CAD billions",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_expense_changes_tornado",
+    "title": "Archive Fiscal Plan: ministry expense changes",
+    "original_figure": "2026-2029 Fiscal Plan/plots/expense_changes_tornado.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "2026–27 estimate minus 2024–25 actual",
+        "unit": "CAD millions",
+        "visual_type": "clusteredBarChart",
+        "minimum": null,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_expense_composition_categories",
+    "title": "Archive Fiscal Plan: expense by policy category",
+    "original_figure": "2026-2029 Fiscal Plan/plots/expense_composition_categories.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Share of selected ministry expense",
+        "unit": "Percent",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": 100
+      }
+    ]
+  },
+  {
+    "id": "plan_expense_growth_vs_size",
+    "title": "Archive Fiscal Plan: expense growth and ministry size",
+    "original_figure": "2026-2029 Fiscal Plan/plots/expense_growth_vs_size.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "2026–27 estimate versus 2024–25 actual",
+        "unit": "Percent change",
+        "visual_type": "clusteredBarChart",
+        "minimum": null,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "2026–27 ministry size",
+        "unit": "CAD billions",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_health_spending_deep_dive",
+    "title": "Archive Fiscal Plan: health ministry spending",
+    "original_figure": "2026-2029 Fiscal Plan/plots/health_spending_deep_dive.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Three ministry expense rows",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Combined health share of program expense",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_per_dollar_breakdown",
+    "title": "Archive Fiscal Plan: expense per revenue dollar",
+    "original_figure": "2026-2029 Fiscal Plan/plots/per_dollar_breakdown.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited. Values are cents per total revenue dollar, not shares summing to 100.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "2026–27 estimate",
+        "unit": "Cents per revenue dollar",
+        "visual_type": "clusteredBarChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_cumulative_deficit",
+    "title": "Archive Fiscal Plan: deficits and borrowing",
+    "original_figure": "2026-2029 Fiscal Plan/plots/cumulative_deficit.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Annual amounts",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Cumulative amounts from 2025–26",
+        "unit": "CAD billions",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_debt_trajectory",
+    "title": "Archive Fiscal Plan: debt and net assets",
+    "original_figure": "2026-2029 Fiscal Plan/plots/debt_trajectory.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited. Components differ from reported debt totals by CAD 1M in March 2026 and 2027; source values are retained. All amounts are consistently expressed in CAD billions, correcting the old graphic’s axis wording.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Taxpayer-supported debt components",
+        "unit": "CAD billions",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Net assets",
+        "unit": "CAD billions",
+        "visual_type": "clusteredColumnChart",
+        "minimum": null,
+        "maximum": null
+      }
+    ]
+  },
+  {
+    "id": "plan_debt_servicing_escalation",
+    "title": "Archive Fiscal Plan: debt-servicing costs",
+    "original_figure": "2026-2029 Fiscal Plan/plots/debt_servicing_escalation.png",
+    "note": "Original Fiscal Plan inputs: 2024–25 actual; 2025–26 forecast; 2026–27 estimate; 2027–29 targets. Projections are not realized results; original policy comparisons were not re-audited.",
+    "section": "Archive Fiscal Plan",
+    "classification": "Original projections",
+    "panels": [
+      {
+        "id": "p1",
+        "title": "Taxpayer and self-supported servicing",
+        "unit": "CAD billions",
+        "visual_type": "columnChart",
+        "minimum": 0,
+        "maximum": null
+      },
+      {
+        "id": "p2",
+        "title": "Debt servicing share of total revenue",
+        "unit": "Percent",
+        "visual_type": "lineChart",
+        "minimum": 0,
+        "maximum": null
+      }
+    ]
+  }
+]

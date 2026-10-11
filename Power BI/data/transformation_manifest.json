@@ -1,0 +1,58 @@
+{
+  "source_sha256": {
+    "Quality of Life Analysis/data/functional_expense_intensity.csv": "763209f9cae7b9aaf4d57f17b7f98d68ba90c26f9a13e885572c2326a71b06ea",
+    "Quality of Life Analysis/data/functional_expense_baseline_comparisons.csv": "22ef90ed3282b21b8ace03fa807679590f927979f0c8c1915eabee04033d70d0",
+    "Quality of Life Analysis/data/economic_outcome_context.csv": "594e181d866a6f2e77e1a77251ee4418dfd288eb8d0a3e8312a75b90e8402bbe",
+    "Quality of Life Analysis/research/source_verification/safety_outcomes_2019_2023.csv": "a96744fa5f42b17647fb43ec4b9813536612d4acd56c13aeb740bcb1c8240d30",
+    "Quality of Life Analysis/research/education_safety/current_education_observations.csv": "494d0eee9f2a501eadc76e293487ac5682eca1a05645a3ff7e6cbefbbd37f510",
+    "Quality of Life Analysis/research/source_verification/mental_health_access_2019_2023.csv": "1d2c36fa199243f1da2fec9d4aa50a5899e466689725af1efadcf8a32885aa2e",
+    "Quality of Life Analysis/research/health/extracted/health_outcomes.csv": "52712a77c53a814d59aa35d7dedc86a3efe2b67dcc80c5faec315e17de9d85b8",
+    "Quality of Life Analysis/research/living_standards/current_social_outcomes_2021_2024.csv": "690162e7a2e78fe80d6bef328f662d527f80e516250748fc4e7106ed2fc05b62",
+    "Quality of Life Analysis/research/living_standards/mbm_poverty_all_persons_2015_2024.csv": "7d0db2e2def761af9d92b66ed65ba8de3428252f6a5419af6404a1d1d1f3a63d",
+    "Quality of Life Analysis/research/health/life_tables/life_expectancy_age0_bothsexes.csv": "751bdaf041a27a8511b73a1480d253baf3c4a6856b09d2f70aa364e09b170041",
+    "Infrastructure Analysis/data/capital_population_analysis.csv": "7b3266694eac9d03c80a1dbf8d43dfc4d1801422e974819ff6ec58c4f73a800d",
+    "Infrastructure Analysis/data/baseline_comparisons.csv": "88878ae9bcb8aa334f799b8bfecbe40c8acb0e8cdaa7febb5478a83d88acbb23",
+    "Infrastructure Analysis/research/capital/2024_25_envelope_audit.csv": "bca1e24c0b05805fc9365caae1ff0689eb9b150f2c2215f58253bf2cc9ffb772",
+    "Infrastructure Analysis/data/tenure_summary.csv": "933873456d60f308be7fe6cc36ce72a4bab4e48cf9a56524f79e09359afe23db",
+    "Infrastructure Analysis/data/selected_project_stages.csv": "754ddb17d6ba1c5723be65a9388836bd44aaa60bbbce3489522db552bf0f3082",
+    "Infrastructure Analysis/data/hypothetical_price_scenarios.csv": "440ace5d00cdda4ca716c5b81207966499cd7b7724b1342905be4eb7dd73e1b8",
+    "Infrastructure Analysis/data/budget_execution_analysis.csv": "9128ca76f677a52cbb2d2c30d00daee29efd133bb8f2582fc8f48aa9d5ffdf7f",
+    "2011-2025 Expense Analysis/Alberta_Expense_Analysis.ipynb": "438002ad905bd7e1841cf0eb9ec2b6a3a7e5da41ba9662f89f08187957ceb6a6",
+    "Data/ministry_expenses.csv": "6bd2ba96d5574ec8266970fc9a42ba51d51c843a5bac3943334b59ac3e126cdd",
+    "Data/ministry_expenses_wide.csv": "13237d8f17df4a283b00e4844839ca4cbbc10c8d27fecc5a6893ea3cd905f2b9",
+    "Data/alberta_surplus_deficit.csv": "f9b5d9b7e874f0d2d9ad0df14dcc77f425cd96973562546ea34b57c2d3a11aad",
+    "Data/fiscal_plan_2026_fiscal_summary.csv": "6cb48bcb52f8b4899b540c0a42199393d5f0ffd63251c170356b6d1da0f08d5f",
+    "Data/fiscal_plan_2026_ministry_expenses.csv": "1603ecdf87e38950a51e932800212ac998f23e9d87665dce8509fa9b1e9ed11c",
+    "Data/fiscal_plan_2026_revenue.csv": "1afac2546ce162edd1d73b6fb034ff7b31bdac727b05a161be1bd29c5f2a51e3",
+    "Data/fiscal_plan_2026_financial_position.csv": "f138e5595a9e2047bd0600f1689ce7af9966ce3013a6dbe948442e08b3817ab4",
+    "2026-2029 Fiscal Plan/revenue_comparison.csv": "e92b22f40fb68b8b258e2738f24bbb04c906f38f42a9a0266e001307a41973a7",
+    "2026-2029 Fiscal Plan/expense_comparison.csv": "0567f948038d603e7dc398588a06f51467a9335f05bf007b09fe2eb35939847b",
+    "2026-2029 Fiscal Plan/revenue_vs_expense_summary.csv": "cfc4c93649dee2b9df78cca7a02fe389d818e0758e064e88b7e5675c56cc9fa2"
+  },
+  "charts": 42,
+  "chart_rows": 1639,
+  "source_csv_files": 69,
+  "imported_evidence_tables": 66,
+  "excluded": [
+    {
+      "Path": "Infrastructure Analysis/research/capital/ministry_capital_contemporaneous_2015_2021_DRAFT_DO_NOT_USE.csv",
+      "Role": "Quarantined unverified draft; excluded from model"
+    },
+    {
+      "Path": "Quality of Life Analysis/research/health/life_tables/13100837_MetaData.csv",
+      "Role": "StatCan documentation; not a rectangular fact table"
+    },
+    {
+      "Path": "Quality of Life Analysis/research/living_standards/11100135_MetaData.csv",
+      "Role": "StatCan documentation; not a rectangular fact table"
+    }
+  ],
+  "fact_grain": [
+    "ChartId",
+    "Panel",
+    "Period",
+    "Series"
+  ],
+  "missing_policy": "Missing inputs produce no point; never fill missing rates with zero.",
+  "status": "Transformed source-backed snapshot; native Power BI rendering not yet tested."
+}

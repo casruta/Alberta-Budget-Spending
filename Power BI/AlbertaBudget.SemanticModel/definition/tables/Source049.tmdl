@@ -1,0 +1,74 @@
+/// Quality of Life Analysis/research/budget/ministry_operating_expense_2024_budget_actual.csv
+table 'Source049'
+	isHidden
+	lineageTag: 48d0e415-ab9a-5b3d-b3ee-ea6842cbc0b6
+
+	column 'source_reporting_fiscal_year'
+		dataType: string
+		lineageTag: f9456a07-89b1-58fd-ad16-33fe571d8eb6
+		summarizeBy: none
+		sourceColumn: source_reporting_fiscal_year
+
+	column 'ministry'
+		dataType: string
+		lineageTag: cb7fa771-c911-56d2-87e8-0847e8857273
+		summarizeBy: none
+		sourceColumn: ministry
+
+	column 'budget_2024_25_million'
+		dataType: string
+		lineageTag: acefe74c-2982-564f-bda9-1e765cb11d14
+		summarizeBy: none
+		sourceColumn: budget_2024_25_million
+
+	column 'actual_2024_25_million'
+		dataType: string
+		lineageTag: 3fa3f3c0-e011-5afd-aae8-32ccda6fe32b
+		summarizeBy: none
+		sourceColumn: actual_2024_25_million
+
+	column 'actual_2023_24_million'
+		dataType: string
+		lineageTag: 5c9c7a3d-9105-5988-ab6c-613946607405
+		summarizeBy: none
+		sourceColumn: actual_2023_24_million
+
+	column 'source_reported_budget_change_million'
+		dataType: string
+		lineageTag: 7e9aef61-46c8-5fab-ba2f-297fd26363e0
+		summarizeBy: none
+		sourceColumn: source_reported_budget_change_million
+
+	column 'source_reported_prior_change_million'
+		dataType: string
+		lineageTag: 95edd486-fcd5-596b-a9e5-6a8443943309
+		summarizeBy: none
+		sourceColumn: source_reported_prior_change_million
+
+	column 'source_file'
+		dataType: string
+		lineageTag: d808dcb4-94f4-586c-80c7-59a36b6c5c45
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 8b9b9b26-36b2-50e2-97e9-a6f0cfe48345
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'scope'
+		dataType: string
+		lineageTag: 0b584e1c-d1cd-58ad-aa0a-c6ec65dcd311
+		summarizeBy: none
+		sourceColumn: scope
+
+	partition 'Source049' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA8WY224bIRCGXwXlOk4XFvagXjlpoiZq1KhO1YsoF3gXO6i7YLGsFb99gZlNkxcIFzZoD9bH8M/Mj5+ezljB+IqJs/OzdX+UplM9ue7nTnptTbhYlYW4KOKkKhqYsLJMk7LAsYYnLud+rzx5+HYzfYFfLZggcPXi0O/CI3X4/DwoF37d7Il6PSgzKbI9kVEbPXl3+kqM9cRbLweym00XKcIUnzx7Pv8AvNtZ18utHrQ/EWl68tvHuVZTuNvwREUZ0FHappHTNNSZkPdOd/PgZ6cS8K1zer/EuqmLRNVggGsO46qs0tgWmaCdn87J1TvsjZd+nojdkT92VJGdCogo5QBJSwbsFNibPOhXL3ronTKJ+kaOejiRjXJH3SWNUN4CGBUUZVKhqimsZ9VkIn+fhC0TEM2WIU7T1DBBaXCaSRvXRrk9JN+9DnM5pNzDXaeMQTQbBtnICwhr2ba5eI/aWRNE6xP0g7NedT5UvbVTMrILyhCVYnlDJVAKF3BJn4/+qrrZ66MiVzY8q4dUnhMLJh8HTaywXOTBvLFOxZcgvNL9jUEtBQYThcwaTDdoKZmq8XclB/8ScXiFsWOiqlrc5pqjiguGRa3Ntfe346j3LtUDyLVQjLGRyEFPY9z8RbaYYCAFuJiH2fR6r4wNjeKXGhJ7lALDUsUYSoEujTpno7g1OyfDW3MXm1zKJSDhKE5eYUNjoNlMnufObkMvvu6ssSOk2KOTfQSmDYc9p41A3QqsC/DNctXcu3kKYo2MVbMkPBBWWA5WEE1sEp8OeB+6QbgJ5SAFdd33usPuSwVfTEKLJkdgHcAbdS7u2ehOH8L9YIWldim9Sowlw4KGtStvU3iYt4PuyEbuFFr16zEYB2W6j36MLRpmYpng+QOrhsgU6o0y2rpog+04hrDjKja20+Gdd0sQixUTAmuwKBnKZtkSNBIZFpEwyXrYKudlWsGvYH0e5UHFyfwm+QYbXr0IHtsJeuNMRfpRdS/GDhYN560x9rh45BoRazyN1gwFhAY5k8V4tLML/RnEcrDOJx0s7hg7H13OSu8b4eejOmmmiPjfZkCfCYl7ZcNBtbcOFI66btB8VrCMEgZW5MIP/n0OvvPSStfDgU+b+I9GgmoqzL23ulhiY1+CX2SqjT/UXk/RHwVnv54mNW6HU8o5VAnny8kUQT+erD+D9/kfy2T/lSkSAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"source_reporting_fiscal_year", "ministry", "budget_2024_25_million", "actual_2024_25_million", "actual_2023_24_million", "source_reported_budget_change_million", "source_reported_prior_change_million", "source_file", "pdf_page", "scope"}),
+				Typed = Table.TransformColumnTypes(Source, {{"source_reporting_fiscal_year", type text}, {"ministry", type text}, {"budget_2024_25_million", type text}, {"actual_2024_25_million", type text}, {"actual_2023_24_million", type text}, {"source_reported_budget_change_million", type text}, {"source_reported_prior_change_million", type text}, {"source_file", type text}, {"pdf_page", type text}, {"scope", type text}}, "en-US")
+			in
+				Typed

@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "f04521f5a18056a69681",
+  "displayName": "08 Health | Emergency and imaging access",
+  "displayOption": "FitToPage",
+  "width": 1320,
+  "height": 900,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "0c83c5b0eb1a5cd3a5a7",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'qol_08_emergency_and_imaging'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "bb0c8f1617035ab09fb2",
+      "target": "dddd64566e9e5497b888",
+      "type": "NoFilter"
+    },
+    {
+      "source": "dddd64566e9e5497b888",
+      "target": "bb0c8f1617035ab09fb2",
+      "type": "NoFilter"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+/// Infrastructure Analysis/research/demography/existing_notebook_input_audit.csv
+table 'Source033'
+	isHidden
+	lineageTag: ac5faebd-2bcc-5288-9b33-28a137880640
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 3edb8b98-5f4b-56c7-aa33-406579d03f08
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'notebook_population'
+		dataType: string
+		lineageTag: c7fbf117-3a8a-5d63-a044-55026b1ae164
+		summarizeBy: none
+		sourceColumn: notebook_population
+
+	column 'official_local_population_rounded'
+		dataType: string
+		lineageTag: 50b83bb1-7149-599e-a2a4-fdd7ff96e6fa
+		summarizeBy: none
+		sourceColumn: official_local_population_rounded
+
+	column 'population_difference'
+		dataType: string
+		lineageTag: e700efa7-e604-55c6-bc25-1edf72fdbc59
+		summarizeBy: none
+		sourceColumn: population_difference
+
+	column 'notebook_cpi'
+		dataType: string
+		lineageTag: 23d25483-d106-5c77-8fd1-f83e9b93efdb
+		summarizeBy: none
+		sourceColumn: notebook_cpi
+
+	column 'notebook_implied_cpi_growth_pct'
+		dataType: string
+		lineageTag: df3fc77a-9b1f-528c-b26d-fd7f005be8ab
+		summarizeBy: none
+		sourceColumn: notebook_implied_cpi_growth_pct
+
+	column 'official_local_cpi_growth_pct'
+		dataType: string
+		lineageTag: 4fab4ec3-bebe-5f9f-a168-0c0605192b8c
+		summarizeBy: none
+		sourceColumn: official_local_cpi_growth_pct
+
+	column 'cpi_growth_difference_pp'
+		dataType: string
+		lineageTag: 74936850-fd67-5f6a-86fc-e50a8f9e0b46
+		summarizeBy: none
+		sourceColumn: cpi_growth_difference_pp
+
+	partition 'Source033' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA02SS44DMQhE75J1bLn4GDhLlPtfYzC4o+mFXSDxGsp8Pi9a0IH9er8EuiB2VX6pOgb5rGjC1Qwt81xzdeL7LtIe6PpQoUc1qWNQTK9yWZv0H4grvhwb8KphY6yrmtMxmCZXddBeUmo3p+LL8YGo6iDV3YqbM0SqjHWeO3HC0Ch5EiNn0+3ymy0GVSesymZX3Z4qBtvPJWRlSW/UhnOa3Chag87QIssk9KprU8Vgn12/CB7+8+l0ZY5FDwqDqADZPDeU6ZlwRz0hz3PnaRzuJam8sk5cFA06loqCrFEK3DXoRP5inkn3PC24lpRCSScuigedtGzP9ditHq86AfWp1QqIYltJ7glhtpgflozaE4kVi8si92hWDloZ7Daach3PS5WMhjksPB/x+wcfEij+7AIAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "notebook_population", "official_local_population_rounded", "population_difference", "notebook_cpi", "notebook_implied_cpi_growth_pct", "official_local_cpi_growth_pct", "cpi_growth_difference_pp"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"notebook_population", type text}, {"official_local_population_rounded", type text}, {"population_difference", type text}, {"notebook_cpi", type text}, {"notebook_implied_cpi_growth_pct", type text}, {"official_local_cpi_growth_pct", type text}, {"cpi_growth_difference_pp", type text}}, "en-US")
+			in
+				Typed

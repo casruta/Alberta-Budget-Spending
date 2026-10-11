@@ -1,0 +1,62 @@
+/// Infrastructure Analysis/research/demography/cross_vintage_revision_summary.csv
+table 'Source031'
+	isHidden
+	lineageTag: 2ad368dd-1284-50d0-a30a-9dd805467969
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 55ea36d3-c49a-5ee8-a0c3-37ed629385e6
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'report_vintages'
+		dataType: string
+		lineageTag: e3dac725-5af6-5c67-a635-655f8adbc0bb
+		summarizeBy: none
+		sourceColumn: report_vintages
+
+	column 'population_min'
+		dataType: string
+		lineageTag: ab9d45be-f60e-58f6-9ce2-294da3ed8006
+		summarizeBy: none
+		sourceColumn: population_min
+
+	column 'population_max'
+		dataType: string
+		lineageTag: 51f1c40c-4faf-5571-b201-71e098fdc6c2
+		summarizeBy: none
+		sourceColumn: population_max
+
+	column 'population_range_persons'
+		dataType: string
+		lineageTag: 20c9b25f-128a-5a9c-ade9-ea10d539ea2d
+		summarizeBy: none
+		sourceColumn: population_range_persons
+
+	column 'latest_population'
+		dataType: string
+		lineageTag: 27b1d0fd-cbb5-52c3-b092-c85cf5e27517
+		summarizeBy: none
+		sourceColumn: latest_population
+
+	column 'cpi_growth_min'
+		dataType: string
+		lineageTag: 59ac6d12-6a0e-59c1-9603-8438ac633010
+		summarizeBy: none
+		sourceColumn: cpi_growth_min
+
+	column 'cpi_growth_max'
+		dataType: string
+		lineageTag: bc5235d7-9990-540e-ac17-c68365bd792c
+		summarizeBy: none
+		sourceColumn: cpi_growth_max
+
+	partition 'Source031' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA3VRSQrEMAz7S88lxEu2twz9/zemTiXDFOZQYVuSsdLP59Aq7TiPcX8u7rXWXbX6VP09kCLA69zunu7VKF6wSQ7aH/egW21ArLwiB6SkdCDcM93LILZKMbMkp8WBsK8IuE2Np9vAzcLkyUmZwMeuMYy3u+/lqa4KMRcm946u0fqWmFLM6JITclYUCPtuQ9KEz9wcSXNhcn1n75ldwxorvE+e2vMvVU7IWTEg7LFtB5hzQZzVb6dlAa/rCxm7laFwAgAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"calendar_year", "report_vintages", "population_min", "population_max", "population_range_persons", "latest_population", "cpi_growth_min", "cpi_growth_max"}),
+				Typed = Table.TransformColumnTypes(Source, {{"calendar_year", type text}, {"report_vintages", type text}, {"population_min", type text}, {"population_max", type text}, {"population_range_persons", type text}, {"latest_population", type text}, {"cpi_growth_min", type text}, {"cpi_growth_max", type text}}, "en-US")
+			in
+				Typed

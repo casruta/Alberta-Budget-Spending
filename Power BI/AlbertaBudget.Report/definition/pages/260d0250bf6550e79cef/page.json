@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "260d0250bf6550e79cef",
+  "displayName": "04 Safety | Police-reported crime, 2019–2023",
+  "displayOption": "FitToPage",
+  "width": 1320,
+  "height": 900,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "cacca376cdb658718b6a",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'qol_04_safety'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "ba4348f3c836548a8b52",
+      "target": "78d8a069826d5b799d05",
+      "type": "NoFilter"
+    },
+    {
+      "source": "78d8a069826d5b799d05",
+      "target": "ba4348f3c836548a8b52",
+      "type": "NoFilter"
+    }
+  ]
+}

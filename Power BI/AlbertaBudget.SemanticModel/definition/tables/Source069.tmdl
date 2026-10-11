@@ -1,0 +1,80 @@
+/// Quality of Life Analysis/review/current_website_functional_all80_comparison.csv
+table 'Source069'
+	isHidden
+	lineageTag: 96ad2faa-b5b9-5b5f-a9c7-30af8fa3f0e1
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: c5777a0b-9125-55bd-982f-474d30007f05
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'metric'
+		dataType: string
+		lineageTag: 921dd4d5-34b1-58a2-8351-0a858c2702e1
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'archived_pdf_value_million'
+		dataType: string
+		lineageTag: eb8aa0e8-5c1d-595b-a21f-cedb49aae614
+		summarizeBy: none
+		sourceColumn: archived_pdf_value_million
+
+	column 'current_website_pdf_value_million'
+		dataType: string
+		lineageTag: f0088ce6-fc43-5456-ae7c-1af55e898cf2
+		summarizeBy: none
+		sourceColumn: current_website_pdf_value_million
+
+	column 'primary_ledger_value_million'
+		dataType: string
+		lineageTag: b0b243bc-2bd0-58e5-ba0f-ba6ca31cd08a
+		summarizeBy: none
+		sourceColumn: primary_ledger_value_million
+
+	column 'website_minus_archived_million'
+		dataType: string
+		lineageTag: bc499a71-2ca7-5239-9a9e-babf65e53b14
+		summarizeBy: none
+		sourceColumn: website_minus_archived_million
+
+	column 'ledger_minus_archived_million'
+		dataType: string
+		lineageTag: 218b023d-af4f-5cea-bc6b-0ff3f95db200
+		summarizeBy: none
+		sourceColumn: ledger_minus_archived_million
+
+	column 'match'
+		dataType: string
+		lineageTag: c92c7e21-4d63-5f4a-a846-d38c4a465eec
+		summarizeBy: none
+		sourceColumn: match
+
+	column 'archived_pdf_page'
+		dataType: string
+		lineageTag: 502fb008-678f-5b38-81c4-317d705155bc
+		summarizeBy: none
+		sourceColumn: archived_pdf_page
+
+	column 'website_physical_pdf_page'
+		dataType: string
+		lineageTag: 3f34c279-a01b-5c85-82f7-8fa0898e4f90
+		summarizeBy: none
+		sourceColumn: website_physical_pdf_page
+
+	column 'website_printed_page'
+		dataType: string
+		lineageTag: b7818f24-e3d3-50b8-8c7d-ff403dc270b1
+		summarizeBy: none
+		sourceColumn: website_printed_page
+
+	partition 'Source069' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA52Z3W7iMBBG34XrZmWP/99j76oKUYhaJAoVULT79htMtc2MAuMvF+UgUc1RHJ0khufnBRkbOhsXT4v3frU7vy/7P5/9/tQvP7a73fawHz4Y/sUGyV9meFf/6rvfx69+gPX/X2jx8jQe/7o6bdfL1eay2q/7zbLffK1X50EwIbQuJicJC0+H9Xa1W57642W77k8THp8CccCSw/m9Py4/j4e34+pj6lCMS0EStpwP5+FI7lt8LvXMMMKWTf96/l6u7f5tQpNSHL/Cguu86xkfDuSyvb47LY/9+nDpj39Hli46wzFzvSbWqZhoJdunx86mx6HEnCTh8Ugo3lojCQv1UIItmQOWqKFQNEkStmihhGEqScIWNRRrbOaAHY2tBO84Zi7ZxFI5k5Jk+/TU1WO/34olVyTh8VArPllJWNjQSijEAUvUVpzNRRK2qK14X6wkbNFb8WQ4YEdrK8VxzFyyqXPu6ueM7dNzZ8vjVgpZSXg81Er2WRIWNrSSY+KAJWorNscoCVv0VsLtfjImbNFbKbdL1w9gR2MrthiOmUs2sVSRspNsn166ep243wp5kyXh8VAr32djTFiotxLJOA5Yoj+D5XptZIQtaivR160QI2xRWyFygQN2NLbinOeYuWRT10dXN1uMzdPJdPV2cb8VV7KXhMdj+xXnJWFhw32l1EvQCLBEfwbLIUvCFrWVlEuQhC16Kz5HDtjR2Apl4pi5ZBPXR2NKkWyfbjuih60EW/dYjPB4qBVnsiQsbGnltlH5ASxRW4kxZ0nYorUSadgHScIWvZXoLQfsaL2vxMAxc8kmlsr7+iULY/t06sg9buX7QjImPB5pJdBt9zgmLNRbSVSXdQRYot9XUiySsEVtxca6p2eELXormTIH7Gi9r9jx68z1mgylfuXJ2D7ddeQfhpK8T5LweCSU6EKRhIV6KNnUp+4RYIkayvAwHCRhixpKivXJmxG2qKG4YdfIATtabyqJOGYu2cTF0fjgJNun+47Cw1ZKiEYSHo+0kmxJkrCwoRUfiQOW6A9g9vZLxJiwRWslWeeSJGzRW6H6G+cIsKOxFV+/ahlh5pJNLJW/lc7YMv3lH2jww/ezHwAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "metric", "archived_pdf_value_million", "current_website_pdf_value_million", "primary_ledger_value_million", "website_minus_archived_million", "ledger_minus_archived_million", "match", "archived_pdf_page", "website_physical_pdf_page", "website_printed_page"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"metric", type text}, {"archived_pdf_value_million", type text}, {"current_website_pdf_value_million", type text}, {"primary_ledger_value_million", type text}, {"website_minus_archived_million", type text}, {"ledger_minus_archived_million", type text}, {"match", type text}, {"archived_pdf_page", type text}, {"website_physical_pdf_page", type text}, {"website_printed_page", type text}}, "en-US")
+			in
+				Typed

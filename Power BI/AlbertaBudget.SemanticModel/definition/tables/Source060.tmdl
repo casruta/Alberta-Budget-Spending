@@ -1,0 +1,80 @@
+/// Quality of Life Analysis/research/living_standards/current_social_outcomes_2021_2024.csv
+table 'Source060'
+	isHidden
+	lineageTag: b511e51a-195f-5466-9886-6954374e48c3
+
+	column 'period'
+		dataType: string
+		lineageTag: b2470be5-3ab2-518e-8742-63b748a07ddf
+		summarizeBy: none
+		sourceColumn: period
+
+	column 'metric'
+		dataType: string
+		lineageTag: c40c6bbf-db28-5b4e-b747-c3eaaa3c0760
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'value'
+		dataType: string
+		lineageTag: b98ccd7b-a1eb-5d52-a787-c68dc0cf708d
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: 590ab06b-e07a-5d0c-bae1-f3de4ed6e23b
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'status'
+		dataType: string
+		lineageTag: d05ca3eb-cf10-5179-9fa4-bcfe7c8b4119
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 48794447-0fca-55d1-91a6-968ae2d880c3
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_url'
+		dataType: string
+		lineageTag: 25f5ee05-01e1-50c8-ade2-bea8c673f872
+		summarizeBy: none
+		sourceColumn: source_url
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: 1cd58667-d545-55b0-89ea-cd2160f04493
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: 8fec0c29-a3b0-537a-95c9-a5e115f35fd0
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'exact_source_quote'
+		dataType: string
+		lineageTag: 15d989ab-845e-5802-a960-0c2214e146df
+		summarizeBy: none
+		sourceColumn: exact_source_quote
+
+	column 'interpretation_limit'
+		dataType: string
+		lineageTag: ef3e0b45-5d84-58e8-8ee8-65fbe2cf3763
+		summarizeBy: none
+		sourceColumn: interpretation_limit
+
+	partition 'Source060' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2X32/bNhDH/5VDnlogim1J/tU8FW0eOmBD0RToQ1EIJ+oUEaFJjaSS+L/fkZJsBxmGbSmwZtWLZNPk6fj9fo46f/16ls7TRZKmZ+dnmu4LrGtjKywVFY3pnNQ3RaeldwXqqsCqkl4ajaqwpD3fXFc6WUlyvDxN84xvO/lAFcRF0KrOwXEVuK5tjfX8ewhOjVFVWGlpGEXhO542g9ZKY5M9oQVLrlOeZznhXIJa84ykX5Fw7nm4LC/aquYpjfetezObmZb0BaqSrMcLgbMKPTryswxX5XJebRKxqNMkpy0m25xEskrrBc0xy2m5nfEDTWcFzZblZr1CpATDJRfbLMEtLpK8pkU2X4p1mW1nlbnXymA1+xvpZZtwWfHlcyMd7AhdZwn62Q6MBt8Q6G7HiYOpgQ2BoyEwGDJoy4bECb0TcHAixthJLZ23e2jQQd3pisU19kR/Dgpve4G0A6k5FI/eS9/wZ4RaOsFBgwEXnO6v0dOKlLwju5+hEOQO+Z+DNp7Xe2ibvZNh3Zip80bchge3pu0UBgpAGEvJMCGJT7Xo6ZLHdy3auNHecscbxTuUKo6VxCnTAOsl51LzFkPAkL1QXRWW3ZCmEK2K0RT5kcSLs2/nEfU0SbPvgHqWLifUJ9R/aNSzJM2/B+rzdEJ9Qv2HRp39WD4f9fV2M5E+kf4SSB/R5mml1FQVw14Kj/aGAm2L5Xz+72g+hPg/ATtIB5/HzfUfeu9N6cjenRDy9BWq9kXZSeWHw6S0hLchE/51lS+OjvRS/5Rnwm9BJYgqHVT42JVKuoZlOCgGXA+kuAJM1F4YXXNlUaxdGHk+nC1ce1LXfJyE+ozlyHvZmTtUTxqdk8P9yHNxgDye+PGroh1/DDWyWi0eLZwO+NHMt0dNjkqcyON59KaBTywkXB80DVp90MLGL7y0tebG4u4Ygg3utL8cnB+PuMcvhsfH7fgbVvR7h2L/J+/8v6jNbLOZavO/rM3BpX9em/liPpXmCy3N4Bx3OzuyxburD9eFUDJkUBBHNXu22zeWqNgZ7RtuzGvPE8MbWIrYh8dDuSWWkXfAbWQfinfI72heDcNUGML+RBDk23BZjw04axS0Qc1ijEUpsPV879toNjnECWa94skQFH19ImlwZ5QR7hvD49xrQ+9TAGXsqKNh0BsG0bCRkQCA0RSChifWRilzHwZj7NHVN3D10JqY4DvWxnHT/Ysp4aNCEYE8hy/G3rrGtOfxj8F76bCUSvo9c6xiR3x1TOq6Z93Bq/efrq5fhw7/mhQJf4Qj6Xc1QNNTzWrcca8tGZCTHYZ+O4AtsHMndUF1zQEvgR5ic+44gn5CoN+3dDzrFs/EfjVhP2H/8rBPn4f9ejlhP2H/8rDPnnnabybsJ+xfHvb5M7FfT9hP2L8k7L/9AdTbI6kkIwAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"period", "metric", "value", "unit", "status", "source_file", "source_url", "source_pdf_page", "source_printed_page", "exact_source_quote", "interpretation_limit"}),
+				Typed = Table.TransformColumnTypes(Source, {{"period", type text}, {"metric", type text}, {"value", type text}, {"unit", type text}, {"status", type text}, {"source_file", type text}, {"source_url", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"exact_source_quote", type text}, {"interpretation_limit", type text}}, "en-US")
+			in
+				Typed

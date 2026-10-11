@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "1d507e8370f1578ea02c",
+  "position": {
+    "x": 24,
+    "y": 714,
+    "width": 1272,
+    "height": 150,
+    "z": 0,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Source: Statistics Canada 13-10-0837-01, single-year life table, age 0/both sexes; downloaded 9 Oct 2026. Source 95% bounds exclude revision uncertainty; calendar 2023 and 2024 preliminary; period, not cohort/healthy life expectancy. Native lines show the estimate and lower/upper source 95% bounds; not filled confidence bands.\nEvidence: hover over points for source CSV rows and transformations. Reviewed findings and PDF citations remain in the repository report.",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "12pt",
+                      "color": "#263747"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

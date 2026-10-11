@@ -1,0 +1,56 @@
+/// Infrastructure Analysis/research/capital/2024_25_envelope_audit.csv
+table 'Source020'
+	isHidden
+	lineageTag: 2bfcd672-e3cf-5cfe-9401-0df45acff5f1
+
+	column 'envelope'
+		dataType: string
+		lineageTag: 0744ab44-3195-5e9d-b28c-5345dbf74c5e
+		summarizeBy: none
+		sourceColumn: envelope
+
+	column 'budget_million'
+		dataType: string
+		lineageTag: 0bd2ac9e-2975-5c2c-91f2-d37a5f6ecfd0
+		summarizeBy: none
+		sourceColumn: budget_million
+
+	column 'actual_million'
+		dataType: string
+		lineageTag: bfbbd36a-5513-52a2-8b8b-039675287860
+		summarizeBy: none
+		sourceColumn: actual_million
+
+	column 'prior_actual_million'
+		dataType: string
+		lineageTag: 50b791db-f07b-517b-91df-269f29cd6a9e
+		summarizeBy: none
+		sourceColumn: prior_actual_million
+
+	column 'budget_change_reported_million'
+		dataType: string
+		lineageTag: 0f0a8471-37dd-597e-9b1d-d277662672d9
+		summarizeBy: none
+		sourceColumn: budget_change_reported_million
+
+	column 'prior_change_reported_million'
+		dataType: string
+		lineageTag: 9d25d1e6-8700-5e76-97c6-8c310b7629ab
+		summarizeBy: none
+		sourceColumn: prior_change_reported_million
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: caffa02f-f3e5-54cc-b6fb-5903387bc1d9
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	partition 'Source020' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA4WTQY/bIBCF/wrKOZaMARMfu9ndppW22q7b02oPrD1JUQlEgFPl35eZJI3VHnoZfGA+3nszfn1dfNhFO0wuTxGW7Ispp3HsBVKY4gBpyYwf2d2UrIeU2D0cwYXDHnxeLBdSyFIFX5XacF1qxXlbDl5zrHrxtiwPxFww/SGUk2gvMEQw2QaPlyQ1NA1WhW1VI6l2N8TaHGwusp6M9Rm88QNcSB5+GUcATU8KqemokacRLdWN82j21p2KmDDYguunw03VJqDJHV7uqJkU1YJcNTUeYubqafJ2sIdC+eS30aQcpwEzvEIxEqFQQFO3ZEWtCNKsUKFczew9x5BhyOzrZJzNJ7YB4/IPtjYR8BLv8G7bUdjkqVK1+pP8FTK9Ozuw3myhINDRwx7iDvxw+ksiaiJDRSBSaIocP6tuporCLYmwh3EaaFz/mKWYMCdFdlpKveLiHJqYsYIZzzHfRTvuIGFPh0EoSf2cZq5QRDMz1f+0ziW2DZF9Du+J0qABc+xa0TvUM9Pd57Jde2c9au8hHm3Zlntw9gjxhNFrfECQVUE5Vhq/Kd8L41vAdbuu3bMznlVsHcp4P4aC8ZcfQGuBOlpJMKXa1XlbKIBuvi799/WGpTLk4iSB21ZbS2s8MuuPkPIFqFp0pyVKObO5Jr/Nf7Q9Ts6dikKfgrOjyTBiPg3p0o1EPa2oaQF5TWvZyet83n4DkGMYoQYEAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"envelope", "budget_million", "actual_million", "prior_actual_million", "budget_change_reported_million", "prior_change_reported_million", "pdf_page"}),
+				Typed = Table.TransformColumnTypes(Source, {{"envelope", type text}, {"budget_million", type text}, {"actual_million", type text}, {"prior_actual_million", type text}, {"budget_change_reported_million", type text}, {"prior_change_reported_million", type text}, {"pdf_page", type text}}, "en-US")
+			in
+				Typed

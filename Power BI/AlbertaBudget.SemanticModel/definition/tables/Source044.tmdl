@@ -1,0 +1,92 @@
+/// Quality of Life Analysis/data/functional_expense_intensity.csv
+table 'Source044'
+	isHidden
+	lineageTag: 02ed2c63-3a6c-5ca5-94fe-e1bce50c2d65
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 1569758d-0873-5f08-a651-0a7035a130ca
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: aa02d2d8-ea0c-59bb-9a33-353c0bf4350f
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'function'
+		dataType: string
+		lineageTag: 6ba848a8-643b-55a0-82e5-41d8cee78da4
+		summarizeBy: none
+		sourceColumn: function
+
+	column 'nominal_million'
+		dataType: string
+		lineageTag: ebc66d41-136c-5623-81db-acd38dea0179
+		summarizeBy: none
+		sourceColumn: nominal_million
+
+	column 'population_july_1'
+		dataType: string
+		lineageTag: 0a846a68-f591-51d1-aad2-31be3127f728
+		summarizeBy: none
+		sourceColumn: population_july_1
+
+	column 'cpi_index_2015_100'
+		dataType: string
+		lineageTag: 9bd708fb-32bc-51b2-a5cc-53b20bca55e4
+		summarizeBy: none
+		sourceColumn: cpi_index_2015_100
+
+	column 'nominal_per_resident'
+		dataType: string
+		lineageTag: f6eea511-bb34-5c79-a680-894557443504
+		summarizeBy: none
+		sourceColumn: nominal_per_resident
+
+	column 'cpi_adjusted_per_resident_2024_cad'
+		dataType: string
+		lineageTag: 4fbe43ac-44c3-52b6-85ea-ff73fdad1f3d
+		summarizeBy: none
+		sourceColumn: cpi_adjusted_per_resident_2024_cad
+
+	column 'expense_pdf_page'
+		dataType: string
+		lineageTag: 4c253070-3ac5-5b7f-ac3b-456d3543a83e
+		summarizeBy: none
+		sourceColumn: expense_pdf_page
+
+	column 'economic_pdf_page'
+		dataType: string
+		lineageTag: a521fc1a-7a2f-5850-8273-dd01dae018ea
+		summarizeBy: none
+		sourceColumn: economic_pdf_page
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 1b2e418d-7ddf-5adf-b88a-e0d3706670f6
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'status'
+		dataType: string
+		lineageTag: d9406413-2ed9-5677-abff-60172dd39266
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'caution'
+		dataType: string
+		lineageTag: e4e31d3a-41ea-5c7b-955e-bd6f48fc68b2
+		summarizeBy: none
+		sourceColumn: caution
+
+	partition 'Source044' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"calendar_year", "fiscal_year", "function", "nominal_million", "population_july_1", "cpi_index_2015_100", "nominal_per_resident", "cpi_adjusted_per_resident_2024_cad", "expense_pdf_page", "economic_pdf_page", "source_file", "status", "caution"}),
+				Typed = Table.TransformColumnTypes(Source, {{"calendar_year", type text}, {"fiscal_year", type text}, {"function", type text}, {"nominal_million", type text}, {"population_july_1", type text}, {"cpi_index_2015_100", type text}, {"nominal_per_resident", type text}, {"cpi_adjusted_per_resident_2024_cad", type text}, {"expense_pdf_page", type text}, {"economic_pdf_page", type text}, {"source_file", type text}, {"status", type text}, {"caution", type text}}, "en-US")
+			in
+				Typed

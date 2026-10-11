@@ -1,0 +1,9 @@
+{
+  "schema_validated_files": 249,
+  "native_chart_bindings": 71,
+  "verified_embedded_tables": 68,
+  "portable_zip_bytes": 492698,
+  "native_tmdl_parser": "Microsoft.AnalysisServices.Tabular.TmdlSerializer.DeserializeDatabaseFromFolder",
+  "desktop_open_and_render": "Not run: Windows Power BI Desktop unavailable in this Linux environment",
+  "service_publication": "Not performed: no authenticated Power BI workspace"
+}

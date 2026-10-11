@@ -1,0 +1,116 @@
+/// Quality of Life Analysis/research/living_standards/mbm_poverty_all_persons_exact_source_rows.csv
+table 'Source065'
+	isHidden
+	lineageTag: cb866c89-0660-58f2-91f8-c64120c5eb7d
+
+	column 'REF_DATE'
+		dataType: string
+		lineageTag: 48469558-0011-50a7-8294-c6b567d2d8da
+		summarizeBy: none
+		sourceColumn: REF_DATE
+
+	column 'GEO'
+		dataType: string
+		lineageTag: 35908d0f-e956-5adc-ada7-3692ab3e3f74
+		summarizeBy: none
+		sourceColumn: GEO
+
+	column 'DGUID'
+		dataType: string
+		lineageTag: d65eeccd-ddc3-517d-894b-f873a4f1802a
+		summarizeBy: none
+		sourceColumn: DGUID
+
+	column 'Persons in low income'
+		dataType: string
+		lineageTag: aae051f4-b771-5f09-a4b8-293809505e58
+		summarizeBy: none
+		sourceColumn: Persons in low income
+
+	column 'Low income lines'
+		dataType: string
+		lineageTag: 5b8dbf96-08e2-5569-ac53-15177d88c6c6
+		summarizeBy: none
+		sourceColumn: Low income lines
+
+	column 'Statistics'
+		dataType: string
+		lineageTag: 35eef024-b603-5614-a54e-af3c1d58b702
+		summarizeBy: none
+		sourceColumn: Statistics
+
+	column 'UOM'
+		dataType: string
+		lineageTag: ea53ab34-1e6d-5aaf-9eec-83c81cdff4c2
+		summarizeBy: none
+		sourceColumn: UOM
+
+	column 'UOM_ID'
+		dataType: string
+		lineageTag: 0415370d-1a9f-5208-b8ce-0c082d6a97ae
+		summarizeBy: none
+		sourceColumn: UOM_ID
+
+	column 'SCALAR_FACTOR'
+		dataType: string
+		lineageTag: 6745d2a3-60a3-5b19-a7da-ede1bd0fe5ed
+		summarizeBy: none
+		sourceColumn: SCALAR_FACTOR
+
+	column 'SCALAR_ID'
+		dataType: string
+		lineageTag: dfec37f9-bfde-58c9-868d-2144bf510610
+		summarizeBy: none
+		sourceColumn: SCALAR_ID
+
+	column 'VECTOR'
+		dataType: string
+		lineageTag: 9c36f992-c181-5b4a-8be2-35e277c87d3c
+		summarizeBy: none
+		sourceColumn: VECTOR
+
+	column 'COORDINATE'
+		dataType: string
+		lineageTag: 4b76ee28-1e29-572e-9827-9cb1d9fb0a0d
+		summarizeBy: none
+		sourceColumn: COORDINATE
+
+	column 'VALUE'
+		dataType: string
+		lineageTag: 6289514a-c72b-5a20-b828-0043f6ee16d5
+		summarizeBy: none
+		sourceColumn: VALUE
+
+	column 'STATUS'
+		dataType: string
+		lineageTag: 8b8b889f-0d03-581f-9297-2b624b7d72a5
+		summarizeBy: none
+		sourceColumn: STATUS
+
+	column 'SYMBOL'
+		dataType: string
+		lineageTag: 4f2407e0-44a3-57f0-be8a-36069cb1bc01
+		summarizeBy: none
+		sourceColumn: SYMBOL
+
+	column 'TERMINATED'
+		dataType: string
+		lineageTag: 04e70001-2562-5d43-b040-0dd6c468aab5
+		summarizeBy: none
+		sourceColumn: TERMINATED
+
+	column 'DECIMALS'
+		dataType: string
+		lineageTag: 8b9fb16f-dfcb-5d4c-93b3-35cdbf8e2aa8
+		summarizeBy: none
+		sourceColumn: DECIMALS
+
+	partition 'Source065' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA9XYUW+CMBAH8K9CeDbN3RVb+ojudcnejQ/VdcsyhQVw+/ornWZmHm/CcolQICj+bK//xs0mJ8Blvsirwy60vY9HBIQVAFBRpuuH7CO0XVN38ezRt++hz3a+G5pj8N2pDYssfkY5XAzxlqfQ7kPd+9eQNS+Xt2ZvdXZovmKzb45Xdw2P0y7uT/VbPzwA4vaJBAa11mjjGZJCZRTFQ6eKuH+I288L8+0iAYwQAILC2KxvBVaIoFRLHlCKGkMMwInpAc0WAYEQgFHA9gCh8BogkjMNDVdWtwItRwCsIGXZ2tf++RoAiEjFvxoI3fDV8JdQpGG04tNMBoGU4wlWDAEToeIDTQqB+F5wYggwUgsp1EQQzJgApQisMryABA0jzRZzyjUphIIn3GF5R/qeAOvI6Pir0CWa7eTLu1kAZaqDaZZ3swDGZ1MtR8BH2rlcBQhwZIF6n0SbwAClg/NUZM95ABMm2hyCMv3bMlWizSGIhWAmTLRZCJh6oeJrWQoB/hK2321Hdwg7FQAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"REF_DATE", "GEO", "DGUID", "Persons in low income", "Low income lines", "Statistics", "UOM", "UOM_ID", "SCALAR_FACTOR", "SCALAR_ID", "VECTOR", "COORDINATE", "VALUE", "STATUS", "SYMBOL", "TERMINATED", "DECIMALS"}),
+				Typed = Table.TransformColumnTypes(Source, {{"REF_DATE", type text}, {"GEO", type text}, {"DGUID", type text}, {"Persons in low income", type text}, {"Low income lines", type text}, {"Statistics", type text}, {"UOM", type text}, {"UOM_ID", type text}, {"SCALAR_FACTOR", type text}, {"SCALAR_ID", type text}, {"VECTOR", type text}, {"COORDINATE", type text}, {"VALUE", type text}, {"STATUS", type text}, {"SYMBOL", type text}, {"TERMINATED", type text}, {"DECIMALS", type text}}, "en-US")
+			in
+				Typed

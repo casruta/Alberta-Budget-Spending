@@ -1,0 +1,62 @@
+/// Infrastructure Analysis/research/capital/early_ucp_paired_ministry_comparisons.csv
+table 'Source026'
+	isHidden
+	lineageTag: 1651a5bf-8e5b-5793-8f89-314670ed2b3b
+
+	column 'comparison'
+		dataType: string
+		lineageTag: 11f10243-5bc2-5c48-8553-bd7bbd51916a
+		summarizeBy: none
+		sourceColumn: comparison
+
+	column 'ministry'
+		dataType: string
+		lineageTag: 9e558f37-8c93-5787-9533-9ec7978d8955
+		summarizeBy: none
+		sourceColumn: ministry
+
+	column 'prior_actual_million'
+		dataType: string
+		lineageTag: fcdfa13e-b5b5-5e39-9d2f-95f4f5713a2d
+		summarizeBy: none
+		sourceColumn: prior_actual_million
+
+	column 'current_actual_million'
+		dataType: string
+		lineageTag: 3be29666-c170-57f2-9aa7-323f7c3711da
+		summarizeBy: none
+		sourceColumn: current_actual_million
+
+	column 'change_million'
+		dataType: string
+		lineageTag: 03f9570a-ec8e-585e-bc44-d087f6f60c5e
+		summarizeBy: none
+		sourceColumn: change_million
+
+	column 'source_file'
+		dataType: string
+		lineageTag: a577e67a-f5c8-52ff-b611-5abee94f9706
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: b57339ba-1b27-54ed-81f1-a64d5cbca1ce
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'scope'
+		dataType: string
+		lineageTag: 755f5d09-400a-5c6b-a2f1-5153a79feb1c
+		summarizeBy: none
+		sourceColumn: scope
+
+	partition 'Source026' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA8WYXWvbMBSG/4rIdTwsx5/sqt26tWWFsRZ2UUpRbCUVs6Ugy4H8+51zZIeua1Z2USsQYxx9PJyPV69zf79IYl5GvHp05hFuqyiJF8vFWbMXupYNu2iGWjhlNDzMqxSuWYbXiKc4bpzBzodmK92HXbOBhzyDy04oC/M7pVXv7CGycmesgyfCOavWA675kWnj2O7p0KtatKwWO1Erd1g8LE9hba2qh9YNVjKhG/bFWImrw0+rAnFKRKvmB/tkum7QMISwbk2tYNqttHtVyx5x4IvjoiQAmw/Ykt3AzRg+0aq+W3pYJ9zQM7NhP00nMc8lRpHSG6Xl/LwXtdGmUzX7LPeyNTuAckt2Z0Xjk35nBgv0MBJTznHKKgDl88YoMEx5TCErQoRMS7vFLuAl7lGsqEN5EoJkr6zRmDNK1ndhf2ED8AJhcupPHqfzg11K0bonuKmSjMqmXNF+AbJ1pRu1ldpA1/2QLRURhoh6jTKXZiGgNlbAckONYoH756ijnKIFah8gZddDD3olR0ltFYw2ln2VUOyiRZ3C0wjpArT/N7EGGSK0q65TWztpAVVVIKW/gSOoVjsYe7bZwAY9iTmlkSeUwFWAyrqVWhnbU6wuoeiV3pIgxKRXCRVZCCo6nNlZu5bWCZKEiuSB6r2YnwhOON3jOlMp8SKjEy7LfEHFeQgoKfrBHti5Ebbxpktp9Ia4ra8pjFqADpRb1aN67iGJfS+7dXsYnRaFi783Eq7skZI4Svgp1+z9clqSay68aaYJL6jKd6M6bZqTo9MbW3BWsLdMc/zsOzfa/3pmCmIaiPaPcquwFwuvq+UqAMzkRcmF+tfEvAjB8boTJQ/KV4QVoOiPPnRyoPCZOnFmlBM+dNLzPATRCxPK6XThOUkonx/o2qz7JfNvpF6mrrQ2++MJHY9xitIAbG/Y42zanQdQgZP+mE//hATI5mv+GJwxxajwihAHkIQTBnmU8GJM5exQL/1xiYWeeysaAOhve5zRf368KlCt0jQJwfQPd+yli15QA4j7CXs8R/s9/AaVU+djVhYAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"comparison", "ministry", "prior_actual_million", "current_actual_million", "change_million", "source_file", "pdf_page", "scope"}),
+				Typed = Table.TransformColumnTypes(Source, {{"comparison", type text}, {"ministry", type text}, {"prior_actual_million", type text}, {"current_actual_million", type text}, {"change_million", type text}, {"source_file", type text}, {"pdf_page", type text}, {"scope", type text}}, "en-US")
+			in
+				Typed

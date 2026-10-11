@@ -1,0 +1,98 @@
+/// Quality of Life Analysis/research/living_standards/mbm_poverty_all_persons_2015_2024.csv
+table 'Source064'
+	isHidden
+	lineageTag: 0c8f9f93-dbef-5765-bce2-51e788bf3ef6
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 00a847cb-5d13-5b5d-81cf-a9ceaed82713
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'geography'
+		dataType: string
+		lineageTag: a19fccb4-e1c9-5d8a-a8e1-89f516da0300
+		summarizeBy: none
+		sourceColumn: geography
+
+	column 'mbm_base'
+		dataType: string
+		lineageTag: 36663aad-7b8a-52cc-b74c-a8de363874d9
+		summarizeBy: none
+		sourceColumn: mbm_base
+
+	column 'persons'
+		dataType: string
+		lineageTag: 63bc3660-dbdc-501f-be7c-adbe58981aef
+		summarizeBy: none
+		sourceColumn: persons
+
+	column 'poverty_rate_pct'
+		dataType: string
+		lineageTag: 904a15e3-03fe-533c-a520-83e13431a27c
+		summarizeBy: none
+		sourceColumn: poverty_rate_pct
+
+	column 'quality_flag'
+		dataType: string
+		lineageTag: 5e849fa3-b6e8-5a8d-9486-3d506f1a8ec4
+		summarizeBy: none
+		sourceColumn: quality_flag
+
+	column 'quality_definition'
+		dataType: string
+		lineageTag: e3a76e1c-884f-5b88-86cc-143297636e1c
+		summarizeBy: none
+		sourceColumn: quality_definition
+
+	column 'vector'
+		dataType: string
+		lineageTag: 1cef7191-52ff-5512-b482-f0141742bcca
+		summarizeBy: none
+		sourceColumn: vector
+
+	column 'coordinate'
+		dataType: string
+		lineageTag: 01e8c821-823f-5c8a-94c5-183a280cd4ac
+		summarizeBy: none
+		sourceColumn: coordinate
+
+	column 'source_table'
+		dataType: string
+		lineageTag: 11d40b21-6a83-5d8c-936b-2792751222e2
+		summarizeBy: none
+		sourceColumn: source_table
+
+	column 'source_url'
+		dataType: string
+		lineageTag: d68a9f1c-c157-5a78-9f0f-bd120a2de2db
+		summarizeBy: none
+		sourceColumn: source_url
+
+	column 'source_status'
+		dataType: string
+		lineageTag: 6219f13b-5b2f-5e3e-aa93-62c8d51b0805
+		summarizeBy: none
+		sourceColumn: source_status
+
+	column 'income_survey'
+		dataType: string
+		lineageTag: d0ac11c6-b5d0-54f7-88b1-eabc7f8d2493
+		summarizeBy: none
+		sourceColumn: income_survey
+
+	column 'comparability'
+		dataType: string
+		lineageTag: 548f3046-1ee1-5848-acc8-70eeec7e6b83
+		summarizeBy: none
+		sourceColumn: comparability
+
+	partition 'Source064' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+3YT2/aMBQA8K9iIe1GHdsJIZRTy6Zpmnqa1EvVgwleiBbsKDYwdtp32DfcJ9lz1PYGdBgsDu8Qk//45afE7/npaSAYHw2Gg7tmrjonYe1Bdj+UI3Np/c9KSbvu1JDAeYXfqfqTG9KqzhptYWtCM2g/+v1lqVon5426JbPH4u/vPzz/APs3XLCcp2nKx7DFBeU0p8Kv8hvObhhPR9DA9tK51t4myXa75SNGrZOulJpWJS1lonni5k1S2k3COWf9VUpX9Ffd+ktr60xXl7Ih0OGN2hFlXb2STk1JA611ZGG2ujFyoRZkU2snKx/LTGq5qKUmX3RpVop86y+GA1+VasnD/UMftCVWtbLzd/MPAiITTKRvf2FJpza1hRs7Awf4TGm7tlN4em5pFqYx1Y6US6krZf3hBBoxJdqQUq4t9Fg619XztauNJqYjtq50/R1i0aUivuuD52EvlYdJcUb9U57B8tmYhUfKIJQCjc5oNA4zKugIiS5MVJzjg4dElySahL5FKY5JUaQEC5PKKcOX6cJEHIekaycSwZmdB7iH5VF1O1K9QAmIJ0OoM0KlwVAMoWJkEKPXDp/mlPUfvaNOgk/8eRyZAkraACZBJ8gUqaoNYOI90x0sn36WqmmUdp6J+XCQ6byVbRCTwLcpUnUbwMRwbIpW2p7OlKNStOr2dKUxzVEpUoEb9MlLMYGIVN4GMWXIdD2TrtCz/590HU9EnkJw4nX+YYxEl5t03UdU9OMSEl3BpOs+onfk4QgVc9L1AJRAqBhQWSAUPzo7jlARS9t9TuP3MbFiwl7SPFS6XGm7P4XgqHQ1pe2BwSk/UjMhU7zS9sDQxJEpUgoRxMSQ6aJMz/8AxuIhHzYuAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"calendar_year", "geography", "mbm_base", "persons", "poverty_rate_pct", "quality_flag", "quality_definition", "vector", "coordinate", "source_table", "source_url", "source_status", "income_survey", "comparability"}),
+				Typed = Table.TransformColumnTypes(Source, {{"calendar_year", type text}, {"geography", type text}, {"mbm_base", type text}, {"persons", type text}, {"poverty_rate_pct", type text}, {"quality_flag", type text}, {"quality_definition", type text}, {"vector", type text}, {"coordinate", type text}, {"source_table", type text}, {"source_url", type text}, {"source_status", type text}, {"income_survey", type text}, {"comparability", type text}}, "en-US")
+			in
+				Typed

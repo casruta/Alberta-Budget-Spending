@@ -1,0 +1,56 @@
+/// Infrastructure Analysis/research/source_verification/corpus_inventory.csv
+table 'Source041'
+	isHidden
+	lineageTag: 9a38103e-9af6-5826-925e-40c8d6c76565
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 34f12c9e-4157-5b82-9342-5030d54c1203
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'pdf_pages'
+		dataType: string
+		lineageTag: dd517b2b-f56e-523f-a589-a43d88c4f476
+		summarizeBy: none
+		sourceColumn: pdf_pages
+
+	column 'pdf_title_metadata'
+		dataType: string
+		lineageTag: 1c6ac73a-7292-5308-a957-20b6c1c82b97
+		summarizeBy: none
+		sourceColumn: pdf_title_metadata
+
+	column 'pdf_author_metadata'
+		dataType: string
+		lineageTag: f1259355-ecd4-5762-b7f3-c021a792079e
+		summarizeBy: none
+		sourceColumn: pdf_author_metadata
+
+	column 'source_form'
+		dataType: string
+		lineageTag: 383cf004-b8fc-59c3-8d71-55e90ce28932
+		summarizeBy: none
+		sourceColumn: source_form
+
+	column 'sha256'
+		dataType: string
+		lineageTag: 619c541c-fd72-5ff7-a721-6be0fc86017e
+		summarizeBy: none
+		sourceColumn: sha256
+
+	column 'coverage_limit'
+		dataType: string
+		lineageTag: dafda667-cf88-5dc2-a2d1-e0b7405afd5f
+		summarizeBy: none
+		sourceColumn: coverage_limit
+
+	partition 'Source041' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA9WXb2scNxDGv4rw62yiGY3+0VdOSwp9FUoplJAXI2lkH727Nbt7hnz7zp7r0thOzw4h9OBY2JU0u/d7Rs+MPny4eHtoV7KY9z+9m9+gBRj0gubu6eub1i9eXUCyev15vJVpv5P9YsZuLrdFpoXN5X5/4K35VW7GaTHHALp8MD+Ou5utLGJ+H7eHneh6/b07bLeGjyuG6W7F7f2wlwBADcQmoYQpYmXJkQQ499ZaheItxtgouFqTp9SDBITEusRB1BDv+UpMHQ/75U0fp51po9mPi5F54bLdzNeGyyz7Kuv372SZNnU2m70Zl2uZzM1B51ReNuN+/sFM0mVa585mGc1cr6UdtnozHpZ508Qs15vZ9M1W7l+y4z/Xp7IzfMubrb5QjIaV1xcfXz2CjCtk9wCyewFkHHT510DmGl2K0ph7QnKgby0pOy6xIWHARFi6S5RRJSAQlSQE8N5xsMm5c4LsVsj0Obt71pSez9oNGuURa33yy2EvxtlX6yQ6zT40Kb0q+kisievB+SzF+kyWs3fBU/Q5p0BUA6JP3ntpIVfXJdQS+JzY08reP83eheezp0GjnGLvT7NvrGldLPnK5HxIlAL0wIk8qXdwzS5EV7sv7Kttq9+I9TZ367Ijce2c2PuVfXiaPb4g7/2gUb7IHvORfTjNXv0lav7WCgnYVnAlF+gOu7U2F4QWS8MWYlLbUcenUqKNkdWOuoXa5ZzYh5V9fGDsHp4PPQy6/HPE8TRiyTXVoNxyYltIxKqJl9Ccsl6LJCeHSQuscMLiUGKvNZfWQ9T8x35W1vKILj2fbhwg/UM3Hel+cUOcQF591UR1GFtSL08hEqJUztkTcRRstjEhCEtrkHz2qJnPpUEXdfR4VpU0DZAfUF/3/f3IH8LTIPt2D3ow7zb7I/f5sF3mB8DzfwC/LGWS2w0v0vRr90fsdzE+3b/jTgedm4U1edXLa68ogTnkJjFodwPFJUhaWwm6pcqgbaOIy8Vz8CVDK1pkz6pfzGornwuA9k6A48hD3I8FuTxcHWbdAnGVAO23kgBSadqoRKBKGAlqidiKkAfu1APpDsgeMDesqLdZ/clBwNV1aqv+jCRAOyA8kICOEtyNnJbgXx0LwjcSgCD7GEj3IRcq0nB1Fi2jzTpKCbXsFgjSOljKDghAC60D3TS5l1hdOicB9GCKTwtwHDkhwDcCXnA1EQTLkkIXjJCia3pG4haxA4kmv/OSbbABLUXI6jtc9BARUqR8VsDXQyq6p5H/PfZ9oDMKN6pNnQWC7a0zZue5aDoX57qrKQjlHiRV7e0p2Rp8z3pXvBbps+pucD04oX8auo75r0WuM3+bhOfD9Mm8HXlq2te0YzD9Jy/VA9i3tdK2HLTf0UNUSp4ruep9QMqld3Rr7W0p+ma7S1qAM5H6UKwp9rPRYyl9uBr5mOvrhZ7WRcfouQVgjfI9NCralLYozlLvNtbeStEmSMu1zXryEu9ctcKgp9vUnU26vcRps2Sh9agFO/x/Nfr4F/4y7xK0FAAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"source_file", "pdf_pages", "pdf_title_metadata", "pdf_author_metadata", "source_form", "sha256", "coverage_limit"}),
+				Typed = Table.TransformColumnTypes(Source, {{"source_file", type text}, {"pdf_pages", type text}, {"pdf_title_metadata", type text}, {"pdf_author_metadata", type text}, {"source_form", type text}, {"sha256", type text}, {"coverage_limit", type text}}, "en-US")
+			in
+				Typed

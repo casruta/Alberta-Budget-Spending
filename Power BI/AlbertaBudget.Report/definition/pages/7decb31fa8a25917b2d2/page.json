@@ -1,0 +1,100 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "7decb31fa8a25917b2d2",
+  "displayName": "25 Archive history | health operating expense",
+  "displayOption": "FitToWidth",
+  "width": 1320,
+  "height": 1458,
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "de7a5cb50b255563a254",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "ChartData"
+              }
+            },
+            "Property": "ChartId"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "c",
+              "Entity": "ChartData",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "c"
+                          }
+                        },
+                        "Property": "ChartId"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'history_expense_health_deep_dive'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User",
+        "isLockedInViewMode": true,
+        "isHiddenInViewMode": true
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "6535d0ac54625be08a0f",
+      "target": "7d6753c4d94959b7ba74",
+      "type": "NoFilter"
+    },
+    {
+      "source": "6535d0ac54625be08a0f",
+      "target": "b9a2c7468c4f5170ba15",
+      "type": "NoFilter"
+    },
+    {
+      "source": "7d6753c4d94959b7ba74",
+      "target": "6535d0ac54625be08a0f",
+      "type": "NoFilter"
+    },
+    {
+      "source": "7d6753c4d94959b7ba74",
+      "target": "b9a2c7468c4f5170ba15",
+      "type": "NoFilter"
+    },
+    {
+      "source": "b9a2c7468c4f5170ba15",
+      "target": "6535d0ac54625be08a0f",
+      "type": "NoFilter"
+    },
+    {
+      "source": "b9a2c7468c4f5170ba15",
+      "target": "7d6753c4d94959b7ba74",
+      "type": "NoFilter"
+    }
+  ]
+}

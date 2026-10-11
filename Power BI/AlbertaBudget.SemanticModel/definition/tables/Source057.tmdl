@@ -1,0 +1,116 @@
+/// Quality of Life Analysis/research/health/life_tables/life_expectancy_age0_bothsexes.csv
+table 'Source057'
+	isHidden
+	lineageTag: 00a74a04-d17b-51c6-abb0-822a2759785f
+
+	column 'REF_DATE'
+		dataType: string
+		lineageTag: f0b7ea1c-b01c-573a-8d13-77c5abee5d10
+		summarizeBy: none
+		sourceColumn: REF_DATE
+
+	column 'GEO'
+		dataType: string
+		lineageTag: f9b3f95b-cde5-5afb-a554-c0917bb4c8a8
+		summarizeBy: none
+		sourceColumn: GEO
+
+	column 'DGUID'
+		dataType: string
+		lineageTag: 850be2f1-2646-54ed-853b-c7f07cc10483
+		summarizeBy: none
+		sourceColumn: DGUID
+
+	column 'Age group'
+		dataType: string
+		lineageTag: ca1d5054-1cc9-522b-a254-fc3123075a09
+		summarizeBy: none
+		sourceColumn: Age group
+
+	column 'Sex'
+		dataType: string
+		lineageTag: 8bf3fcc5-77f3-5cbb-8ccf-8265269846ad
+		summarizeBy: none
+		sourceColumn: Sex
+
+	column 'Element'
+		dataType: string
+		lineageTag: df938f92-a11a-5434-b6cd-b61025a188ba
+		summarizeBy: none
+		sourceColumn: Element
+
+	column 'UOM'
+		dataType: string
+		lineageTag: 4c6dba52-bf72-565f-9438-8c91777584f8
+		summarizeBy: none
+		sourceColumn: UOM
+
+	column 'UOM_ID'
+		dataType: string
+		lineageTag: 866660c1-0d6f-540f-a54b-8c30054ae01d
+		summarizeBy: none
+		sourceColumn: UOM_ID
+
+	column 'SCALAR_FACTOR'
+		dataType: string
+		lineageTag: 510de9d5-3604-55c2-84b1-49471ae83ac7
+		summarizeBy: none
+		sourceColumn: SCALAR_FACTOR
+
+	column 'SCALAR_ID'
+		dataType: string
+		lineageTag: 653fcdfc-187e-504c-a618-d16de1d88b60
+		summarizeBy: none
+		sourceColumn: SCALAR_ID
+
+	column 'VECTOR'
+		dataType: string
+		lineageTag: 457dbcae-dc8e-52e3-8f9a-2c89458dd9f7
+		summarizeBy: none
+		sourceColumn: VECTOR
+
+	column 'COORDINATE'
+		dataType: string
+		lineageTag: d34005d4-fe38-549d-8c0d-9723ec301c7e
+		summarizeBy: none
+		sourceColumn: COORDINATE
+
+	column 'VALUE'
+		dataType: string
+		lineageTag: 3e6e2f55-7442-554b-b7e3-7fc476be84e9
+		summarizeBy: none
+		sourceColumn: VALUE
+
+	column 'STATUS'
+		dataType: string
+		lineageTag: 5ab53cf0-5f97-55f7-bf44-a8393732e010
+		summarizeBy: none
+		sourceColumn: STATUS
+
+	column 'SYMBOL'
+		dataType: string
+		lineageTag: d20ba050-9e5e-5426-9ae4-3bbdf17a84e6
+		summarizeBy: none
+		sourceColumn: SYMBOL
+
+	column 'TERMINATED'
+		dataType: string
+		lineageTag: 0e78110f-1d26-5914-b602-21508d822b83
+		summarizeBy: none
+		sourceColumn: TERMINATED
+
+	column 'DECIMALS'
+		dataType: string
+		lineageTag: cbdaa89b-2ae5-54b4-b577-96ed46facd0c
+		summarizeBy: none
+		sourceColumn: DECIMALS
+
+	partition 'Source057' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA9Xc227TQBSF4VexckWlypo957ks3AIvUPXCFPcgtSlKU5S+PTZFBcEYoWjhvQYQuKhKf4YvwyTb4vx8IyWbzenm3bAdPg/ThTVWzsz0TUSsn37DdM/jsHucrt4+7G+6x/Ewzh+8v70au/HwZbzcD9vL5+7N7fblE0+6Yd8N12N36N6Mh5PpUz8+3X8ad/NjWzf9/LS93c+PMH/Zr+Kmr+S9T3n6SPr5+3yVQm/S9OvrD7u5OD0+9sOwu576Hq66cbd72M0X+5uxu/v9z3Dfj/0c/c/V5bV6vjK9iYvRZ3fTw+1/rbY+r7O+Mfswr075ub6+z7DU/7K6c3N4bX5Z3e9/xX8mC6VfX3Cx2n6Fzm/oXUGlrufXVZMtpd9kcbHafi2h3ySo1PX81kk4Qr9x6fzgWvTr6PzG3gdUqrZfT+nXRVystl9P6DcKKlXbb+D0G3Cx2n4Dod8QUKnr+a0/5SKl32Bwsdp+I6NfQaVq77+J0m8Gxmr7TXR+Uy8Zlaq9/2ZKv8XgYrX9Zka/DpWq7bcQ+l3cH0qLfguh34Xzb2nObzGUfuvn39Li/K0YQr/JoVK1/Qql35hwsdp+hdBvEVTqen7rW5ql9Luwvi3O3wrf/C33IqhUbb+O0m/KuFhtv47QrymoVG2/nnP/DbhYbb+e0O9fMDTml3H+lpcokM/fwmI0m18PS9X2Gyn9OsHFavuNjH49KnU1v1I/8iRKvwvvn6UW/SZCv9mgUtfzW39JlCn91u//LblFv3zzt9Ibi0rV9lso/RaPi9X2Wxj9OlSqql871RH6Lb1NuFhVvz+i2fw6WKq2X6H0W7u/79hYbb9C6Dc4VKq2X0vpN3pcrLZfy+g3oVK1/TpKv7X7f4+N1fbrCP3W3n84LnU9v/WnHOH8LU+xBher7Zdu/javr6BStf0GSr/W4mK1/QZCv8aiUrX9Rkq/MeBitf1GQr8+olK1/aaW/KYW/SZGvxaVqu03U/rNDher7TcT+nUOlbqe3/o/GYTztyxLb5aUFv0WQr8polKV/Yqh9OsdLlbZr9DN3xb3BzHt+RVKvyHjYrX9CqFfG1Gp2n4tpd8EjNX2awn91s+/Qj1/q6+uo/SbPS5W269j3H8tKlXbr+f0m3Cx2n494/7rUanafgOl32Jxsdp+A6FfD0vV9ss4f7ML801pcf4mkdBvMKhUbb+J8/yQcbHafhPj+SGjUrX95pbOvy3O3yQznh88KlXbb6E8Pyy8Pm5x/iaF0G+JqNT1/FafctY0NL+wLc7frCGcH2ePSlXefy3p/M3gYrX9CqFf61Gp2vsv5/xNHC5W268l9Fv7z2yOS9X2yzl/ixkXq+3XMd5/JqhUbb+e8vVb/WYNSz5/W15huvd/HSpVz+/FN6wDbm/BewAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"REF_DATE", "GEO", "DGUID", "Age group", "Sex", "Element", "UOM", "UOM_ID", "SCALAR_FACTOR", "SCALAR_ID", "VECTOR", "COORDINATE", "VALUE", "STATUS", "SYMBOL", "TERMINATED", "DECIMALS"}),
+				Typed = Table.TransformColumnTypes(Source, {{"REF_DATE", type text}, {"GEO", type text}, {"DGUID", type text}, {"Age group", type text}, {"Sex", type text}, {"Element", type text}, {"UOM", type text}, {"UOM_ID", type text}, {"SCALAR_FACTOR", type text}, {"SCALAR_ID", type text}, {"VECTOR", type text}, {"COORDINATE", type text}, {"VALUE", type text}, {"STATUS", type text}, {"SYMBOL", type text}, {"TERMINATED", type text}, {"DECIMALS", type text}}, "en-US")
+			in
+				Typed

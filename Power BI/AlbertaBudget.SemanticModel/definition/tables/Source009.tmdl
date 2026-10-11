@@ -1,0 +1,56 @@
+/// Data/fiscal_plan_2026_ministry_expenses.csv
+table 'Source009'
+	isHidden
+	lineageTag: 294b9578-7b47-5486-a748-14895210a84d
+
+	column 'Ministry'
+		dataType: string
+		lineageTag: a542f87f-cd3a-5632-b5fb-fcc5cc1713d8
+		summarizeBy: none
+		sourceColumn: Ministry
+
+	column '2024-25 Actual'
+		dataType: string
+		lineageTag: e974cce6-9b81-5271-898f-27039a280a3d
+		summarizeBy: none
+		sourceColumn: 2024-25 Actual
+
+	column '2025-26 Budget'
+		dataType: string
+		lineageTag: c6f6385e-e39f-5098-ab2a-87ac1b3986f2
+		summarizeBy: none
+		sourceColumn: 2025-26 Budget
+
+	column '2025-26 Forecast'
+		dataType: string
+		lineageTag: 27480711-8e11-5cae-aff0-244aefb703f1
+		summarizeBy: none
+		sourceColumn: 2025-26 Forecast
+
+	column '2026-27 Estimate'
+		dataType: string
+		lineageTag: c706bf08-7695-5cc4-a6c1-04e504a3b6cd
+		summarizeBy: none
+		sourceColumn: 2026-27 Estimate
+
+	column '2027-28 Target'
+		dataType: string
+		lineageTag: ef88b5d3-1bd0-5cae-a0cb-ee30af3d2110
+		summarizeBy: none
+		sourceColumn: 2027-28 Target
+
+	column '2028-29 Target'
+		dataType: string
+		lineageTag: 6069420d-01a6-5f84-a995-51001371a411
+		summarizeBy: none
+		sourceColumn: 2028-29 Target
+
+	partition 'Source009' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA21VTW/bOBD9K0LOOfBL/DhmgxRN0QBBk8Ueih5oiXaIlUmDkozm35d8I8cbYC8zpC0+zryZefz58+ZuPPs0hLF7GNfBLzGnm9sbI5hqTnHenDbYGWmbc6I5y6y9+XVbAfb7XEa/i1Nc3jufxu7vpa1jmOtnXMpmdTvCFWwvP1lgHEoc1mlZSwDCYynxcAmGO9vOOduC4AaROd2OO6ab5ZpAyjLfdvf/gXlZ/LLOXd53/+RjaFgCKQihYRGCc23N8bs0hDTPcV4qJ9/jOaYDYeUh+ql7CeUcB0qNCSua58IhMd4r1nwFBrLQtoc3lnDv3+I0lpAA+MUf4/T+CbDn+L53cFpwoo527sM1qI9qAQvAgy8BYShucK3sySsDIKmkpopoB98rYv8hhXKg0j3FuvYTolGMUXZiS7ZV3RH7yJdJvp0/x5JTZXgByHPJSxgaf3cl+IalQEyvWwq9alahmsq2yJTb4vgdhnWJ59Dd5zUNcWoX0n24DuGg/JzpzbZzX3IJ81Iog2df/qXq2JalYsiVo1IKjCquYSn4r3k+xaVWFkVeyyEOdfM1+Gl5+1QcrhxoFJxolYyBGGklvNIM//fM0WA8pjEeQsq1A3+ECcWa0WT9tRF7NCLo3KyR2+F98TWpdWjdXP/QrqXvkIFjBqxgjdsdpzu/5V2dgYchp3x8v+1eix+3iToe46FcRkpqdSVCM1ADgnizso4EwNZ5qdl/XG5wrek5iQHWdrPt+6faAFfu2q134xiHyxgbKppBC3FrkDpTEg7FEsxRRZ/WFId4qmBVXXwsKICwxLslLaFGkFYT6XDK0aA9l3j0l4Yo4dwCQ2P9X121ohahHqntrhRNL0mUlFzShXoDX3dTHLoXvw+b4D0c6wCFNHyeZqVo3HpGO7d1B+ke9QonyO1YdzftQlk8QH/U+Xn1p9AW6weJGBhOSTtikCzRqAD3Goa3lKe8DfVjSvl8Kb11NEacHIOqcEZyCp29gOS1xPlIc3HKZSENuWq63MQNa01SQSeLT3M7cRUo6sjK2n2u0j5mVFT0fGt/jh06WTiIqbCYJiG13jCrkqy1pH9lX0YS0JjaywX1hpSLTcuZoR3UtPYUo08ore/hEOeJuqHqfDjupneqD+SV3hgEQsHhYeDWbZy0Bj+VXEfp2IXfp5DmFoBpoop300AcjNbIwliHubJMQzxsfcsqR7/+APWyr2J4BwAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"Ministry", "2024-25 Actual", "2025-26 Budget", "2025-26 Forecast", "2026-27 Estimate", "2027-28 Target", "2028-29 Target"}),
+				Typed = Table.TransformColumnTypes(Source, {{"Ministry", type text}, {"2024-25 Actual", type text}, {"2025-26 Budget", type text}, {"2025-26 Forecast", type text}, {"2026-27 Estimate", type text}, {"2027-28 Target", type text}, {"2028-29 Target", type text}}, "en-US")
+			in
+				Typed

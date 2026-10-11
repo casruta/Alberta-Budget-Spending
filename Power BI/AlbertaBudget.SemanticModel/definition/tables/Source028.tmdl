@@ -1,0 +1,86 @@
+/// Infrastructure Analysis/research/capital/latest_vintage_actual_series.csv
+table 'Source028'
+	isHidden
+	lineageTag: d7f16b5c-da7f-5fce-ad6f-7e0805695b45
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 09a635fe-8911-5e6f-8204-97278683c147
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 81e41db5-4858-5699-a99d-ab8810dc3ba5
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'capital_plan_actual_million'
+		dataType: string
+		lineageTag: 21bf3ba9-758d-5c1b-9b47-89d324443704
+		summarizeBy: none
+		sourceColumn: capital_plan_actual_million
+
+	column 'total_revenue_actual_million'
+		dataType: string
+		lineageTag: 96953b50-0211-5797-99ce-1fc186713a62
+		summarizeBy: none
+		sourceColumn: total_revenue_actual_million
+
+	column 'total_expense_actual_million'
+		dataType: string
+		lineageTag: 60427533-e962-5e90-8582-f2110af41294
+		summarizeBy: none
+		sourceColumn: total_expense_actual_million
+
+	column 'net_capital_nonfinancial_assets_after_deferred_contributions_million'
+		dataType: string
+		lineageTag: 35549b48-55ae-57f6-9b4b-d3094c6a06fc
+		summarizeBy: none
+		sourceColumn: net_capital_nonfinancial_assets_after_deferred_contributions_million
+
+	column 'population_july1_thousands'
+		dataType: string
+		lineageTag: 5828603a-2dd7-56af-95e2-8267d0ef0037
+		summarizeBy: none
+		sourceColumn: population_july1_thousands
+
+	column 'alberta_cpi_annual_pct'
+		dataType: string
+		lineageTag: b7997fb5-1169-5934-9f32-7dcbbea8c2b6
+		summarizeBy: none
+		sourceColumn: alberta_cpi_annual_pct
+
+	column 'status'
+		dataType: string
+		lineageTag: 8cb302c0-d5d8-5144-b0aa-7dca8bd842af
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 55e18ef8-56b3-59d1-927d-3644e36e5bef
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'fiscal_pdf_page'
+		dataType: string
+		lineageTag: 29c469bd-b504-5676-9b70-4404fd020bd7
+		summarizeBy: none
+		sourceColumn: fiscal_pdf_page
+
+	column 'economic_pdf_page'
+		dataType: string
+		lineageTag: 64ba862d-e09e-5375-836b-f37d107b7675
+		summarizeBy: none
+		sourceColumn: economic_pdf_page
+
+	partition 'Source028' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA62UO27eMBCEr2K4NpV9P9rAcJ3ecGHESZoUAWLfPxR3+R8gciMNRFLf7O5Iz8/3BMgD5f5hqXlTdzhgCklhaeVspSA4l+L0Enich1+/v3+8/p7i68fbrx/vd98en/5+ISAZ86J39fT48/bzPHEemKyXh4WXgVr487lh4MZvFWyNJ0zfRmqRDruG14FW+NOFqUajDLONgLURMeJSqNDV4zW8DfTC28L7xlMWShm8azYjanzq5+B9YBT+dJFAXalTE1QZY/cBtc2xN/5i82NgFv50YaBdaapXpWoU3Qdw6Tju1tDV6OXcUvhcpUrXN/tcKA32ip6i7u+CdTc/LuEJBuHCLxcW2Sln7P4aQFYIVaCNyFSfMnvCQVT480W3cFnwVjeWqu/eCNciH3QNT4O48LQGzTVU14wbPqNTkNQhVKyE2sXZEw+qv95yYQw1XRfnQjmIdvRctb8LC+3q+Rp+bqm/3nLhJIUKEss2gtKzj9jNj8hOfv4v/uUfs40dGvUFAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "calendar_year", "capital_plan_actual_million", "total_revenue_actual_million", "total_expense_actual_million", "net_capital_nonfinancial_assets_after_deferred_contributions_million", "population_july1_thousands", "alberta_cpi_annual_pct", "status", "source_file", "fiscal_pdf_page", "economic_pdf_page"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"calendar_year", type text}, {"capital_plan_actual_million", type text}, {"total_revenue_actual_million", type text}, {"total_expense_actual_million", type text}, {"net_capital_nonfinancial_assets_after_deferred_contributions_million", type text}, {"population_july1_thousands", type text}, {"alberta_cpi_annual_pct", type text}, {"status", type text}, {"source_file", type text}, {"fiscal_pdf_page", type text}, {"economic_pdf_page", type text}}, "en-US")
+			in
+				Typed

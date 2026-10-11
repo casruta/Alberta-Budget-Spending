@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Evidence",
+  "dataColors": [
+    "#176B87",
+    "#AC4949",
+    "#558353",
+    "#B98223",
+    "#775D99",
+    "#537B87",
+    "#8B6558",
+    "#596574"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#263747",
+  "tableAccent": "#176B87",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 18
+    }
+  }
+}

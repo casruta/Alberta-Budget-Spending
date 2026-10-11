@@ -1,0 +1,56 @@
+/// Quality of Life Analysis/research/source_verification/current_pdf_inventory.csv
+table 'Source066'
+	isHidden
+	lineageTag: 65b5fdfd-489d-5be1-b5b5-f2e1922848d8
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 512ff9c1-bdb1-5d9f-ac10-7c0108148305
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'title'
+		dataType: string
+		lineageTag: 7817a9df-18ac-52ad-b696-2bbc76aecfbe
+		summarizeBy: none
+		sourceColumn: title
+
+	column 'author'
+		dataType: string
+		lineageTag: 01b6269c-6922-540d-99aa-326ae3fc6744
+		summarizeBy: none
+		sourceColumn: author
+
+	column 'pages'
+		dataType: string
+		lineageTag: 1f3233eb-f1ce-5b6b-8612-28419c7da0c5
+		summarizeBy: none
+		sourceColumn: pages
+
+	column 'sha256'
+		dataType: string
+		lineageTag: db646ef4-a141-5f7e-bc65-d5f221765781
+		summarizeBy: none
+		sourceColumn: sha256
+
+	column 'official_url'
+		dataType: string
+		lineageTag: 6b335735-ff4a-5c90-b192-016ee0615fc0
+		summarizeBy: none
+		sourceColumn: official_url
+
+	column 'source_kind'
+		dataType: string
+		lineageTag: 9838b573-fae1-5c20-b9f5-12604639b6de
+		summarizeBy: none
+		sourceColumn: source_kind
+
+	partition 'Source066' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"source_file", "title", "author", "pages", "sha256", "official_url", "source_kind"}),
+				Typed = Table.TransformColumnTypes(Source, {{"source_file", type text}, {"title", type text}, {"author", type text}, {"pages", type text}, {"sha256", type text}, {"official_url", type text}, {"source_kind", type text}}, "en-US")
+			in
+				Typed

@@ -1,0 +1,68 @@
+/// Quality of Life Analysis/research/health/extracted/contextual_health_evidence.csv
+table 'Source054'
+	isHidden
+	lineageTag: 121781f1-0209-5f49-88b0-37a075590a66
+
+	column 'metric'
+		dataType: string
+		lineageTag: 4f923aca-5df9-540d-8093-63f63045bda4
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'value'
+		dataType: string
+		lineageTag: 690e02ce-2d68-5ff5-92da-1921b4a5f1e2
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: e35a17c5-1c46-55eb-b9be-00bf6ca804ea
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'period'
+		dataType: string
+		lineageTag: 519e48e8-63a8-53e6-9ee5-10b2d1fc3208
+		summarizeBy: none
+		sourceColumn: period
+
+	column 'source_report'
+		dataType: string
+		lineageTag: 01328120-3e63-5128-aaa9-d6edcfad1da7
+		summarizeBy: none
+		sourceColumn: source_report
+
+	column 'physical_pdf_page'
+		dataType: string
+		lineageTag: 34f07242-fe7d-5b2e-ab9d-01e61b60a48e
+		summarizeBy: none
+		sourceColumn: physical_pdf_page
+
+	column 'definition'
+		dataType: string
+		lineageTag: 18525907-4a54-536c-a50c-cfc1738eac3b
+		summarizeBy: none
+		sourceColumn: definition
+
+	column 'limitation'
+		dataType: string
+		lineageTag: 3b4244d6-66ba-524e-8ffc-bb9052c035b9
+		summarizeBy: none
+		sourceColumn: limitation
+
+	column 'source_quote'
+		dataType: string
+		lineageTag: 903877bd-0882-591a-adf0-ebb55640889e
+		summarizeBy: none
+		sourceColumn: source_quote
+
+	partition 'Source054' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"metric", "value", "unit", "period", "source_report", "physical_pdf_page", "definition", "limitation", "source_quote"}),
+				Typed = Table.TransformColumnTypes(Source, {{"metric", type text}, {"value", type text}, {"unit", type text}, {"period", type text}, {"source_report", type text}, {"physical_pdf_page", type text}, {"definition", type text}, {"limitation", type text}, {"source_quote", type text}}, "en-US")
+			in
+				Typed

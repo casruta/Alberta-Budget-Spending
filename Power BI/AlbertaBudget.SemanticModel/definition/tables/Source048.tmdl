@@ -1,0 +1,146 @@
+/// Quality of Life Analysis/research/budget/latest_vintage_functional_expenses_2015_2024.csv
+table 'Source048'
+	isHidden
+	lineageTag: 5c924d0a-98ec-5b13-96c3-2d62a3394f5b
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 18ab194e-a7c9-524b-8321-92f0e755c03f
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 67380281-bd68-598d-a493-d8f6be63db4c
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'health_expense_million'
+		dataType: string
+		lineageTag: b078a96c-c934-5c46-b135-eaaee07de09a
+		summarizeBy: none
+		sourceColumn: health_expense_million
+
+	column 'basic_advanced_education_expense_million'
+		dataType: string
+		lineageTag: 32191b44-d88f-5ac8-be7a-4647f4d939b1
+		summarizeBy: none
+		sourceColumn: basic_advanced_education_expense_million
+
+	column 'social_services_expense_million'
+		dataType: string
+		lineageTag: 591d8fe2-807f-5ac2-a0e4-706700c1c509
+		summarizeBy: none
+		sourceColumn: social_services_expense_million
+
+	column 'other_program_expense_million'
+		dataType: string
+		lineageTag: 7916d5be-579b-549e-aeb8-9d2b8912413a
+		summarizeBy: none
+		sourceColumn: other_program_expense_million
+
+	column 'total_program_expense_million'
+		dataType: string
+		lineageTag: 1a031248-42ca-51aa-916e-c9949b35603e
+		summarizeBy: none
+		sourceColumn: total_program_expense_million
+
+	column 'debt_servicing_expense_million'
+		dataType: string
+		lineageTag: 8c835680-dd64-598f-92c2-d1ffaeebcb9a
+		summarizeBy: none
+		sourceColumn: debt_servicing_expense_million
+
+	column 'pension_provisions_recovery_million'
+		dataType: string
+		lineageTag: 0814431f-8f07-5864-9ace-de51b67d2a56
+		summarizeBy: none
+		sourceColumn: pension_provisions_recovery_million
+
+	column 'total_expense_million'
+		dataType: string
+		lineageTag: 5b7fe7ec-2567-51c5-8aae-bd611b2a3415
+		summarizeBy: none
+		sourceColumn: total_expense_million
+
+	column 'population_july_1_thousands'
+		dataType: string
+		lineageTag: 2e4ec979-2bde-5869-8fde-3a530df7e562
+		summarizeBy: none
+		sourceColumn: population_july_1_thousands
+
+	column 'alberta_calendar_annual_cpi_growth_pct'
+		dataType: string
+		lineageTag: e9aaab0f-b04d-5e05-bbf1-22dfdfab9eeb
+		summarizeBy: none
+		sourceColumn: alberta_calendar_annual_cpi_growth_pct
+
+	column 'program_component_rounding_residual_million'
+		dataType: string
+		lineageTag: 0b5aa8a1-690e-5527-ad01-a98b886b1612
+		summarizeBy: none
+		sourceColumn: program_component_rounding_residual_million
+
+	column 'total_component_rounding_residual_million'
+		dataType: string
+		lineageTag: c2c6988a-f8bb-5409-aa65-b96435952d2f
+		summarizeBy: none
+		sourceColumn: total_component_rounding_residual_million
+
+	column 'program_reconciliation_status'
+		dataType: string
+		lineageTag: 16c97b52-0bd1-5998-aeb6-0e1ff2d35751
+		summarizeBy: none
+		sourceColumn: program_reconciliation_status
+
+	column 'total_reconciliation_status'
+		dataType: string
+		lineageTag: 2c7a0185-ab4c-5725-a396-761f82a30393
+		summarizeBy: none
+		sourceColumn: total_reconciliation_status
+
+	column 'status'
+		dataType: string
+		lineageTag: 0a1ee6fe-298c-592f-ba85-2ec50af76331
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: 05489833-2814-5a8a-a48e-ac471c6f7151
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	column 'source_file'
+		dataType: string
+		lineageTag: d9d8cbfd-c8c4-57cb-93ca-04cd293c10a1
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'expense_pdf_page'
+		dataType: string
+		lineageTag: dbb72240-8d5e-526e-8fef-4b4df4b2e678
+		summarizeBy: none
+		sourceColumn: expense_pdf_page
+
+	column 'economic_pdf_page'
+		dataType: string
+		lineageTag: 46dd0c5f-e637-50e4-a8e9-4d34cdc85817
+		summarizeBy: none
+		sourceColumn: economic_pdf_page
+
+	column 'measure_scope'
+		dataType: string
+		lineageTag: 4a6306b0-9c89-5606-87cf-fa87be61bb0f
+		summarizeBy: none
+		sourceColumn: measure_scope
+
+	partition 'Source048' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+2XwW7bMAyGX8XoufJEiqIk9LYNPQ+7Fj14sZoZSO0gdrbl7aeK1LbjzvMulkAxEf3pxy/66ekOLXgDfHdfZzKA722ZgePg6oyCRwlZF2SRYtK0ELiOhp2VpWQZZAZeQtBDecpcnt+n7es0d8tlnObhcuumecvHfOkuy3UuoePfpQyH7TqcatVIBn33WFJP3ee8Xk/bWuLvr+Mxb92nj4/rO8mxJUui/Xl8eauN6ruWx4dlXpfTNA5bHrv845znNXdfbt3LdT5s0zI/dPOydcs5X4at7G+W+XTrhnms4cNwnray9zR/y+v2muft7vm+8mUDQcAKZo5BoBCAwPCQooSQrSz6MmvMQRaNJzkO72wICjj5/4CDgSiAK2dAlxQwBRGi90lhOoiy6IkSaBpaBZwUsHfKnNDpYfW8X8DRQBLAlTMkbOQiCScfWTlBZFbAvik46TGUv1HBM0a1FlTm2NN+AaeyqQCunJGs+gE1dIzWqUXEplImNWNEJxPjHOl5OLVlcr5ZRNwtYLQGQUqsvFyK1Dy4EUugruGiV1GHqPaKFPWSwyiaZmuT5BPZsHsPRjCIUmLl7EHvqjKqln1qHswco4q6+LEAZlKLcCzI+RdXIic/dD3uFzAadFJi5eybIsGjXl8BsV1ygUWbDKyXXNGtdhHq3YWvNh3kQUPVgg3/AXhdrpdDLuUtr8Pp9lDe55DzuP7G+Q+SdgZJSqzAQ+kiVLfOC9Zo1W+h+KzKNbAariumrVIOch7BktfbjqNXKbv9SvmtMC3xbUie9SshlE5BABM3rwDtxAI4bcUc6peHIb0TAzXmFLW9wz7tEfDzTxtVbNXTDQAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "calendar_year", "health_expense_million", "basic_advanced_education_expense_million", "social_services_expense_million", "other_program_expense_million", "total_program_expense_million", "debt_servicing_expense_million", "pension_provisions_recovery_million", "total_expense_million", "population_july_1_thousands", "alberta_calendar_annual_cpi_growth_pct", "program_component_rounding_residual_million", "total_component_rounding_residual_million", "program_reconciliation_status", "total_reconciliation_status", "status", "source_vintage", "source_file", "expense_pdf_page", "economic_pdf_page", "measure_scope"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"calendar_year", type text}, {"health_expense_million", type text}, {"basic_advanced_education_expense_million", type text}, {"social_services_expense_million", type text}, {"other_program_expense_million", type text}, {"total_program_expense_million", type text}, {"debt_servicing_expense_million", type text}, {"pension_provisions_recovery_million", type text}, {"total_expense_million", type text}, {"population_july_1_thousands", type text}, {"alberta_calendar_annual_cpi_growth_pct", type text}, {"program_component_rounding_residual_million", type text}, {"total_component_rounding_residual_million", type text}, {"program_reconciliation_status", type text}, {"total_reconciliation_status", type text}, {"status", type text}, {"source_vintage", type text}, {"source_file", type text}, {"expense_pdf_page", type text}, {"economic_pdf_page", type text}, {"measure_scope", type text}}, "en-US")
+			in
+				Typed

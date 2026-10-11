@@ -1,0 +1,13 @@
+{
+  "tool": "Microsoft.AnalysisServices.Tabular.TmdlSerializer.DeserializeDatabaseFromFolder",
+  "nuget_package": "Microsoft.AnalysisServices 19.113.2",
+  "compatibility_level": 1601,
+  "model_tables": 68,
+  "hidden_evidence_tables": 66,
+  "relationships": 0,
+  "external_data_sources": 0,
+  "source_column_bindings_verified": true,
+  "native_tmdl_parse_passed": true,
+  "definition_sha256": "855c28d9e0bc7d4dbaddfe48426a3059ca172f3c0d48144aae6118fcceac7278",
+  "limits": "Parses native TMDL and checks model metadata; does not evaluate M/DAX or render Power BI Desktop visuals."
+}

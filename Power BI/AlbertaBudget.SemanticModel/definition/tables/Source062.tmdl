@@ -1,0 +1,110 @@
+/// Quality of Life Analysis/research/living_standards/economic_indicators_source_ledger.csv
+table 'Source062'
+	isHidden
+	lineageTag: 5f81fb19-8ce8-52a5-9488-8b81582a912f
+
+	column 'panel'
+		dataType: string
+		lineageTag: 5bc9a9df-aba3-57ab-93d9-3a2d3eab9c6d
+		summarizeBy: none
+		sourceColumn: panel
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: 978940e5-152f-5ab9-aa92-723651118cd5
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'metric'
+		dataType: string
+		lineageTag: 303be85c-c6e5-5fb9-a9fe-e3203ac81ca8
+		summarizeBy: none
+		sourceColumn: metric
+
+	column 'value'
+		dataType: string
+		lineageTag: eec45958-d214-5b23-a592-226c5d7baf84
+		summarizeBy: none
+		sourceColumn: value
+
+	column 'unit'
+		dataType: string
+		lineageTag: 6b2d4cc3-d99f-5f64-995f-0e16eac18038
+		summarizeBy: none
+		sourceColumn: unit
+
+	column 'status'
+		dataType: string
+		lineageTag: 4a1b5160-452b-5918-98c7-88972af0420b
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'geography'
+		dataType: string
+		lineageTag: fdfd57a1-9d00-5a62-9b85-55c0757b701a
+		summarizeBy: none
+		sourceColumn: geography
+
+	column 'time_basis'
+		dataType: string
+		lineageTag: a5720cf6-c288-569c-8ec7-663ad67f43b8
+		summarizeBy: none
+		sourceColumn: time_basis
+
+	column 'source_file'
+		dataType: string
+		lineageTag: e1ca91b8-123d-5c9e-9fc9-da30d4e64bbb
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: 36741a8e-add7-5db4-b566-f3f37af8c026
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: b9d941d6-ddc6-56a0-9c6d-cabeb29deb91
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'source_report'
+		dataType: string
+		lineageTag: 4d4e1cd1-5d4f-50ed-a9d9-db0f7ecddcd2
+		summarizeBy: none
+		sourceColumn: source_report
+
+	column 'exact_source_row'
+		dataType: string
+		lineageTag: 5fe1e26d-2145-54b4-a733-39d7a2aaf443
+		summarizeBy: none
+		sourceColumn: exact_source_row
+
+	column 'source_definition'
+		dataType: string
+		lineageTag: 9a2c5526-ca74-5cb8-bd08-db5807abe7d0
+		summarizeBy: none
+		sourceColumn: source_definition
+
+	column 'footnote'
+		dataType: string
+		lineageTag: c2c1a589-4c28-5c6a-bfa3-78c433d7325c
+		summarizeBy: none
+		sourceColumn: footnote
+
+	column 'interpretation_limit'
+		dataType: string
+		lineageTag: 3d9df659-e485-5f0e-be9e-2bbee5495697
+		summarizeBy: none
+		sourceColumn: interpretation_limit
+
+	partition 'Source062' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"panel", "calendar_year", "metric", "value", "unit", "status", "geography", "time_basis", "source_file", "source_pdf_page", "source_printed_page", "source_report", "exact_source_row", "source_definition", "footnote", "interpretation_limit"}),
+				Typed = Table.TransformColumnTypes(Source, {{"panel", type text}, {"calendar_year", type text}, {"metric", type text}, {"value", type text}, {"unit", type text}, {"status", type text}, {"geography", type text}, {"time_basis", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"source_report", type text}, {"exact_source_row", type text}, {"source_definition", type text}, {"footnote", type text}, {"interpretation_limit", type text}}, "en-US")
+			in
+				Typed

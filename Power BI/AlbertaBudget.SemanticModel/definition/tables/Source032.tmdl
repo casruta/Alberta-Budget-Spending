@@ -1,0 +1,98 @@
+/// Infrastructure Analysis/research/demography/demography_cpi_2015_2024.csv
+table 'Source032'
+	isHidden
+	lineageTag: 7bec4e3b-d37d-5761-985e-32205235b9c8
+
+	column 'calendar_year'
+		dataType: string
+		lineageTag: f41584ce-2d38-5adf-88fe-1c8d8c1cfabe
+		summarizeBy: none
+		sourceColumn: calendar_year
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: 19cf0c8f-32a7-5ccc-9b9b-1cd7bc826345
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'population_july_1'
+		dataType: string
+		lineageTag: 56dd8233-a748-5701-ab7f-967baa79a78a
+		summarizeBy: none
+		sourceColumn: population_july_1
+
+	column 'population_precision'
+		dataType: string
+		lineageTag: cdee9b29-b22a-5098-b9af-3f0e4ae9ff3f
+		summarizeBy: none
+		sourceColumn: population_precision
+
+	column 'population_basis'
+		dataType: string
+		lineageTag: 250a2872-f569-5ddd-a4c2-55bf8a183841
+		summarizeBy: none
+		sourceColumn: population_basis
+
+	column 'alberta_annual_cpi_growth_pct'
+		dataType: string
+		lineageTag: e5580d2f-1de5-517b-ac7a-f89d3e4c70c6
+		summarizeBy: none
+		sourceColumn: alberta_annual_cpi_growth_pct
+
+	column 'cpi_chained_index_2015_100'
+		dataType: string
+		lineageTag: b9f77769-2893-5de3-b9bf-d2db3fcabe19
+		summarizeBy: none
+		sourceColumn: cpi_chained_index_2015_100
+
+	column 'cpi_deflator_to_2024'
+		dataType: string
+		lineageTag: 56ab623b-d76c-540d-90bb-a8f36befdcc9
+		summarizeBy: none
+		sourceColumn: cpi_deflator_to_2024
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 589ea4fd-7fc5-5cc9-b6bd-39edabcc9e41
+		summarizeBy: none
+		sourceColumn: source_file
+
+	column 'source_pdf_page'
+		dataType: string
+		lineageTag: c868de58-0332-5e23-8216-acf7a45c90dd
+		summarizeBy: none
+		sourceColumn: source_pdf_page
+
+	column 'source_printed_page'
+		dataType: string
+		lineageTag: 7fc2cae4-a6f9-5310-abe5-457034c4d765
+		summarizeBy: none
+		sourceColumn: source_printed_page
+
+	column 'source_report'
+		dataType: string
+		lineageTag: 5fb87ec1-d280-5679-9855-2103dd04fb62
+		summarizeBy: none
+		sourceColumn: source_report
+
+	column 'source_table'
+		dataType: string
+		lineageTag: 47c02aa6-6e69-579b-9562-e28060b3b715
+		summarizeBy: none
+		sourceColumn: source_table
+
+	column 'data_quality'
+		dataType: string
+		lineageTag: 7a7b96a3-5ed2-5502-9835-bf951cd41515
+		summarizeBy: none
+		sourceColumn: data_quality
+
+	partition 'Source032' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA92Wz27cIBDGXwXlHFNmMDBob00TKe0lak9VlIO19m4sObCycau8fQfY9Amci33g7wi++Ql/8Px8gwrMzW2pGrDcasEo/rg1xzX0Qy9SFGHo5mFJAurM93V6FyB4ZHzr0nAQr+OS4jweu0nMwyXOSfwZQ+rOAweDhFwqJVXpodUGrPLc+br25yGJp28PyxdU2DZcGFFH5aU/5Xj9UdQAIx7GwNv8HJZ1Sov4zcqa+9DzQN6X434M7+L+GEN8G4/iMfSsirUtglPUOZe8DofF02k8jrzSFLNs1nAQHxlf4mWdujTGIDpe+u7pUZzn+De9HkSISfBUhvErdWm568L/XF9uC09bedoGXOHpzafwvNYSW+8sWb1bnq7ydA1Q5onabczTFp4oHThbkWqlyJW09omUKlJqwBekXm+KFGVbkBoJhIQlGaaqAI1TbrdUfaXqOZtMVZutf3wqVJ1UzgJorGZAir2mHNxdUi0sc9Vg9ru2Ve5T7JQkGs1W3Zo6aNkNHMFusUIVCw1iwapxU6xaluMJwK5KKl9QFatWniya3WLFKhYbzLJbA7ApVludFUiSJaW1K5YglUVvdmuseBWrm7JPa8lsfFYLEuQXgFfWka9McbdP1LL6VWwGSuQ3vv8LQrSyPPXJXE/pDnm+/AO6bNu8RA0AAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"calendar_year", "fiscal_year", "population_july_1", "population_precision", "population_basis", "alberta_annual_cpi_growth_pct", "cpi_chained_index_2015_100", "cpi_deflator_to_2024", "source_file", "source_pdf_page", "source_printed_page", "source_report", "source_table", "data_quality"}),
+				Typed = Table.TransformColumnTypes(Source, {{"calendar_year", type text}, {"fiscal_year", type text}, {"population_july_1", type text}, {"population_precision", type text}, {"population_basis", type text}, {"alberta_annual_cpi_growth_pct", type text}, {"cpi_chained_index_2015_100", type text}, {"cpi_deflator_to_2024", type text}, {"source_file", type text}, {"source_pdf_page", type text}, {"source_printed_page", type text}, {"source_report", type text}, {"source_table", type text}, {"data_quality", type text}}, "en-US")
+			in
+				Typed

@@ -1,0 +1,182 @@
+/// Infrastructure Analysis/data/selected_project_stages.csv
+table 'Source018'
+	isHidden
+	lineageTag: c0ed97b9-f3af-53f1-b2ec-3f2fececca46
+
+	column 'project'
+		dataType: string
+		lineageTag: 83cddf69-b986-50f0-b7a9-8c967fc97251
+		summarizeBy: none
+		sourceColumn: project
+
+	column 'sector'
+		dataType: string
+		lineageTag: 24fd7630-540a-511c-bae9-211e97e8b6e0
+		summarizeBy: none
+		sourceColumn: sector
+
+	column 'first_observed_earlier_stage_year'
+		dataType: string
+		lineageTag: dd19b1fb-baf2-523e-95f2-cd7882cec831
+		summarizeBy: none
+		sourceColumn: first_observed_earlier_stage_year
+
+	column 'first_observed_stage'
+		dataType: string
+		lineageTag: c717966f-73a3-5c87-a6bf-2b51f8e070de
+		summarizeBy: none
+		sourceColumn: first_observed_stage
+
+	column 'operational_year_if_verified'
+		dataType: string
+		lineageTag: 3e0d2a43-1fb0-526c-a0f1-6e44cd9d79db
+		summarizeBy: none
+		sourceColumn: operational_year_if_verified
+
+	column 'net_new_measure_if_known'
+		dataType: string
+		lineageTag: 2b29c17b-081b-520d-a824-64e621ab7a70
+		summarizeBy: none
+		sourceColumn: net_new_measure_if_known
+
+	column 'reported_capacity_measure'
+		dataType: string
+		lineageTag: 2a262438-7a7c-578e-b310-cc96b515f077
+		summarizeBy: none
+		sourceColumn: reported_capacity_measure
+
+	column 'reported_capacity_value'
+		dataType: string
+		lineageTag: b581d8c1-24e5-517e-880a-d8019435d308
+		summarizeBy: none
+		sourceColumn: reported_capacity_value
+
+	column 'reported_capacity_unit'
+		dataType: string
+		lineageTag: 6150f557-37fa-5bb6-9c36-966e5ca6b48e
+		summarizeBy: none
+		sourceColumn: reported_capacity_unit
+
+	column 'status_as_of'
+		dataType: string
+		lineageTag: 6de7080d-702d-5bd9-9feb-c7193595ac7a
+		summarizeBy: none
+		sourceColumn: status_as_of
+
+	column 'earlier_source_pdf'
+		dataType: string
+		lineageTag: b272bb21-7bb4-58c0-b5b2-bf3ca0c7bb8f
+		summarizeBy: none
+		sourceColumn: earlier_source_pdf
+
+	column 'earlier_pdf_page'
+		dataType: string
+		lineageTag: 82c885ff-e815-5f3b-8b70-5bb3882475c2
+		summarizeBy: none
+		sourceColumn: earlier_pdf_page
+
+	column 'earlier_extract'
+		dataType: string
+		lineageTag: 155dc488-54ab-5956-9e27-a01601c2669f
+		summarizeBy: none
+		sourceColumn: earlier_extract
+
+	column 'status_source_pdf'
+		dataType: string
+		lineageTag: a2432b2b-20f3-57ee-9e43-e3dca150bbf8
+		summarizeBy: none
+		sourceColumn: status_source_pdf
+
+	column 'status_pdf_page'
+		dataType: string
+		lineageTag: 6bb3d395-be8a-5b36-bc3c-c5277698f12b
+		summarizeBy: none
+		sourceColumn: status_pdf_page
+
+	column 'status_extract'
+		dataType: string
+		lineageTag: fd990433-d139-5f8d-b3ea-642e33d07879
+		summarizeBy: none
+		sourceColumn: status_extract
+
+	column 'interpretation_notes'
+		dataType: string
+		lineageTag: 7ffe2dfd-3382-5acf-b6d2-bddd144e7920
+		summarizeBy: none
+		sourceColumn: interpretation_notes
+
+	column 'prior_ledger_claimed_completion_fy'
+		dataType: string
+		lineageTag: ea74747e-9c93-5a14-ade2-0d12376d515e
+		summarizeBy: none
+		sourceColumn: prior_ledger_claimed_completion_fy
+
+	column 'first_reported_completed_status_fy'
+		dataType: string
+		lineageTag: 3f0d7f09-195b-53f3-bfcb-d1ca95dd155d
+		summarizeBy: none
+		sourceColumn: first_reported_completed_status_fy
+
+	column 'explicit_construction_completion_fy'
+		dataType: string
+		lineageTag: 9e8c22bc-8f1c-5dae-8042-e0968a0db05c
+		summarizeBy: none
+		sourceColumn: explicit_construction_completion_fy
+
+	column 'explicit_calendar_completion_date'
+		dataType: string
+		lineageTag: a5d8b771-54d3-5c56-bd2e-9cf7dca07860
+		summarizeBy: none
+		sourceColumn: explicit_calendar_completion_date
+
+	column 'completion_year_semantics'
+		dataType: string
+		lineageTag: 686cc77a-f569-5087-a0c3-d2105e8dd37c
+		summarizeBy: none
+		sourceColumn: completion_year_semantics
+
+	column 'prior_ledger_project_name'
+		dataType: string
+		lineageTag: 7cd728de-65b5-52d3-b719-5b564f30e184
+		summarizeBy: none
+		sourceColumn: prior_ledger_project_name
+
+	column 'date_verification_source_pdf'
+		dataType: string
+		lineageTag: aa9a620b-42e6-5489-aa9f-39a9cc94572f
+		summarizeBy: none
+		sourceColumn: date_verification_source_pdf
+
+	column 'date_verification_pdf_page'
+		dataType: string
+		lineageTag: b319dda6-10b7-599b-bea6-ddbac84d320d
+		summarizeBy: none
+		sourceColumn: date_verification_pdf_page
+
+	column 'date_verification_extract'
+		dataType: string
+		lineageTag: ddee0793-0c93-509c-aeee-0cc9faf179d1
+		summarizeBy: none
+		sourceColumn: date_verification_extract
+
+	column 'earlier_year'
+		dataType: string
+		lineageTag: 24d4e5f0-fd0d-52c8-97ce-f4320fdc4b4b
+		summarizeBy: none
+		sourceColumn: earlier_year
+
+	column 'reported_status_year'
+		dataType: string
+		lineageTag: 297967ec-9a24-576c-ad4a-252f235c91be
+		summarizeBy: none
+		sourceColumn: reported_status_year
+
+	partition 'Source018' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA+1dW2/bSJb+K4WGd+AAkqKLb0mebMdO3OMkhu10sDMeDEpkSWKbIjUkZUf91K/7PMAC87bYh/0j+0/6l+x3Tl1YpCjbcpz0YDZspy1LZF1Onct3LlX6859/OAqnaVKkidhPikmaLMRblYRyIV5n0Y0SWZSMRZbK8IfWD/Qrx+9+t7fd7u3g1TwJVSaCNMmLbB4UEVrJg4kK57EKxUjGMW7d0U/sdLp44f/gzd12d9Ae9F6iieksVgWe+hAU6VBl5sGDeThWhTh7fZw/527pfYw0mctYnKtZmhWdWTjCnb0X3MFv//lf+BFCbPQ6O2IYxTENapRmopgoMYnGk1vMLVHFbZpdt0SUBPE8xBxfCu86TtNigkdz8U6FUYCuDlVSZKolpvJnNJWpUN2oOJ1N8XZ+lfBDv/3jf/AjNgY7u2Lq9Wvp+9uv/8jrNK5e6UhMlIyLiQi4uxzDE+dygefDlriUIIuQSYgW8zQxvfIqtXyqp5mlJo0ALdA6CF6BWn+bMpgXSgQyU89a3DLR6HASJWl6DeqO0QDm/jbNZ1Eh447p8kuuQ5AiSuYYJ9FfYIBmxiMZRHFULMQsS39WQUFzXyLsiwphabB5Oi8mtyovRK40/6WjJxjmmwzUUOIsk1EWgbxvwTflX8wUUaLEW1m0wCxZYbo8lPFYZgteaSc4LXE7iYKJiHIhhxiu2O3+m+N3f0neBe/mWSYXLccyvCam0Y44i2WSoNUaWfqDKlneGh7fGaDnCKTtD3YF9Qv28q/ALEXuiGl6wu8kAKtpnrcLYle/v9UV11GcTjH6LBfFbZQkKuzcR1FPLl/0KuMFZw7EKE7TEHIVpDcKI8C864vfrc4yStB9MJHJGBMgMkFiMWbLPS3b7zQqorEkzugsq5MdUie7Qr9r9Ei/R1rE9Nrb23ukLN/BLJWFhiS3qqJcqkLIrtGGjeLrX6dxuginEfSwylbwzxOIhSHLJxLdkn3QzzL31Jav1x1UCHmPpJintbzsVeRln3vOZFCIW5mLPBqD/USRLmkao7GJBDMjOY7THYEO4yghBW86RDdQ6YESw3kUk1ngu0cR1GDL0zVkdoijqkuA0WaySJ+U1BvbVbY3VKeRkdpuiZnMWLJpnOPUTcTRvbRFIJGlopZaOz1ItHnKk2s0WSoSMYS9VCohvZjnMZGU/lUuNC/DEIza7Yo4paZVNuVB8r2hIlsZSTQV5iSKF+k8A6FzuchLlieDHKoZBAo3ixQvaJBJWgiQXQ7jKJ+QrjmSWRxBKsakLRJqGM+NMDZGIXNSWtFMYWmJX2DeSZjGcgYdM6NVRL/thZIZFlbFGFqUg6bjOTUObmRQQd2mw1xlN6w7xChLpwKdRXgkFDD+6DKU4EcDbtq93RWvPDwjEgmxLyDlr8SFmhVqaj84GzimxnJhrmmi8Ox7e79Qn2cx1EgRL2oU85p/hWYsDtjte4/IOFMyXICcGc8GNp0NQwkTKqPpkHSSTtNjy+czoogKX4FSo5EicSXpmcQLN9ac1giAJY1vsD4Y+cNB5QNU8m6foR0L2cn+wcnpyeXJ0YX4+P710bk4+3hwenIozs5Pftq/PBJn++eX74/OL96enF18gfhdHL49ev3x9Ej0elfJlUUilxPCBOlNRCpiAu2jyAqxpgb7D7YFc5VdytKwhorUVIsVCR5tafXSEm5FtAmbSrJqfAvJX1baeqIVEM6Y8abQqJs1UxrH6S1RczaHdASwfxE4VrFaSCDHk2iWv6wvQltckCqDGOUwSe+xuBPxifRaaXb1m3RDqSvPqZ9z1tM02gta+IW4hKGL0WT5RMtrXt/Jf3IP1ki4tjoPI21/XdI20BOykaaxIZ/plprYj8H4hRQX5vP9GD0nWu4wpAD6hFXMGYalRK9lXvS5D/164IBHh2aCd8qRahcDWtDZGM9bAgNEaWjWEbMdAvuIQVfP1mMPd5+etRMgzTjlI/6U9TOmVweY9SQ7ywSXcZ5WqS5Fr0b3e8iugZgdtenZGKejG5mg03SKrj6BRTPxB/wGXrnlPy6hogom87H2BCIoFQMHNAExwvtpZ/rsaXJcJVAg0LpTpd27JYJWLDXM519l1tv9K2jU6/216JH6+UIzbuyAeJPuV71WSMzh8YXVLGA9aBq8BycvBo/pdy+Z0AXkK7dUdAvR4Hmzqc0NPfKXTwBC7lKQzuG012vSO4eSXcWn7Fu3a+etnUjn3jq4DS/Z88XXdUmpaXB29ToysnCSeOiSR1O5DuAn22W8Q9Et9fsunSdY20T8FKlb8UZBXYM7qBVrjJl78EbpBPR7+lnvne4jpnxmrIPt9QuagIHxpawuQ/1vJ0PEkqXcCC1PfjTAipKWMdFvmrUvY9bIpLkqoxLFRBZa0jSoEj6qapTA1cRhBfN1xXSlPD29nC4LaoOcfomgrhbVBkldllMSVGl5pYaIfvv170Z4V1z7QaDynAU599//UYIfIeZwe7ZrktndNUjqxgpzd9fOegWwWtG5u/G0cBargr5o+Bp/rdbX/v1vsnQ+M6FONczsDHZrE3ixNIEXlQks6ThL3DsA1fJ1cHB25h7xBuxpwe6eJvY8UaQNuh795/GC33L81IDY7rRiPEKPsA2ccSdp+UOKCoA5E2UslD82M3g/lNOrE7bXs+Nn4/FgzrBWo6KNH7MG/VO/DZ/x4VHEHtHtGvTLO+bjOcZM79lJLK9BfxXb3il1ogxG1wXvncyAmdy4fFoOlt9x3NHMtw+xcY+g6v7BobtzBWcbOlqqbi1z9tYdnD14oH3WU28A4Kuvo7PDD+fmPv/yuLhfW/6tZY4oB38f1K+KpcpuIihcKPTgXrnkJW3gHG3hxCElFU6j5NpjnYXHwUtoqzLHnZJzHiqTK+XS/ifuRgV9jQr8u3e7T2Wj33z46ej8/buj95fiw7HYPz04Or/c1zMHRQGy9t+//7h/Ks6Pzj6cX14lJttnIlo//KX15x9MWHBnUEYRy7Ag7G8lxN2YNeSExKi/1b2e2vyBSwpSkDBT9m1gsSyLwjSjp7a6HAayb4nr6cokIpb4sQnE76mff8HUj2lxo79bzedkaiKHpIKkyR2KvZ3KHOsT8MLx8NwCmQ1T+jXjoDONJQc4lWMlxmAjjKWMgbAY6LjURr86oSH4eay8EFLl2ugNuu52inTQikGVDzVnD7G8G73ujr3lKvFT4FsuBY7hTucJmHcGxjcx3ZerF40y5bYnUuTt3raOGd3ILCImydnbCeeQ1fQJ3IhqZCdLxxnwNnpMi3K4Ik/FSGYUraqxyNaLkqLv3CwvYIXgYOsVXsCYgCHYVq+RCfyeEfo2GSHTX8V4EM8aY73TeaiK2X1xr4pxglZXp1vdtRTNly1qOeb+3qOUysZgr3+PNuu1ajq7VCq7/TuUCmup3qDndEqTFtvurqHFvD4MEGgZ5bFC9Kt6bPexemyVAgHXgXuhONwkKG31Pi00LAHjchTcxJ5ewZDSuybmYyyfmcjvn2Ms4c79GUMn6XqiUWIefoXFAU7BD/UZ+jVE6iYKSQe2KBE7VZmKFzHmQ9Ojsa0LCB+keg3U+658vyvf78r3/4fyrTuaZ0pC9M+hzNz8rKBU3crddm+PtIXx+HOqH8FNz221p/cUflJ4bzm4EVQ0rcZpION48UrIMaY/5vy5zoxGaC5RlG27TtJb8oarT0oSrRzaEepWa3jzCfmTrMLcn5S8WXZUdRrPzyGECvotoj+WVWVdSw50yauRoJ2qbyNrVYxiuJhBXRD/GJbyRIwrTTGe1wrD2bSqRqe430hV/LKUKDH6pbWOgtmHTZvbWtP66tAQvCXvNAnrVq86x8M4mtJyncIsm9AlucpODuqeZP9xniRLXLWql7UuCY81387HHGzdpRiM+O6UjnB9jrs1CzPPikk6zxUaStQtWT527WtTvF8JrL6YCW+1yj+UyTQlS3aYBhPwD169jsJ8OM8WLV8rDDq9x2oFG+Kg2Ir+7TiPaPNpAizF066biF5rZ2vvXj/vqQxDr7e2LSs9TGstygJzsbHXLXU2EGCWjiKdPy/79LT6g4zRkorod9v9Xl1L4H+6SqS/1x5SdMwUtV/MszG/WFLZZ6X6u7DrueHVwpbk+vW/xXt1q6NkOtbtp/10HImoc5LMQBiCtFSu1BFPd7Uh/beArccym+Zi8zVXpogPSbx4thYr0FQOfWsIiyurlmJN1ko4Pm3QYM1ACOIg/sCnJD0QpEXhdLYhqW+l1xxEs0q9gwY8CJUl4hRrWuRPMIT1BBBDOE9z9DtRM8Dp0OettTr+o0zwX34N3jiC1zKGJ7G484FpCj2YRL/ItefoEhYmcPqAOV5Ew0UcS/HHKAxj9XtQWafeTlUxMSz5pWO4Q3f0nWLTXnalzhcdjqJsSk6nKTx1pb/s/34T/5o1Z+WV/jmOsrwoEVsbpqaY55WGI9LnN5GiIjQ9NMpbzOY5EGVQUKLBc6apx+fH/85FzR4R4Kb7Jc7o+G74W9lFZYbNqLkG+pZ28bjqxc2fU5hfMaM/e8/5V1+M5gydn6FFvTGnkri59Qv/w9p2Lj2IvsW4pkFHuFdmVTyA6+Pex6Rqvm8m+p5R+p5R+pfMKC0D2167328AtptU1kB7EMRRzC4n8Zw2ZM/Wld3XQEiHaXqtnAKhQAgs5b6A5wXdGGOe2tKLcuukmFjNuv61aaSEh8ryJdEmC0zAO5M6T2Tqi44t/dj/2xyukoN1m2Su07xYk1hWL+wNtsQBxxXE5mXKtviZphlWFrSJTF051lyGYWRiHB4ceMxsLvGoWniQkC17pZTfejaeR+ZBFFsbwrGCY23yXi6Pivr6BFUykcAKjmAXM2AjRTV0N4qp5lqj6JmcgqQkrv3eszUDz4ZqwtDR0hWj8ai9dtxTsuBBzGVZTaGrWHNFm/cIXrzokjm1u6qM1hCRoZ0BLTYI9spABkE5gDJRoKzzSerDGP9M0X4E3JMm45TdvmOSIRfNj3jfEEfYnBCRg2pZ5asjPw2GekLOZmhRhf7eSzMfnRchY5KF9Ew+IkCoW1chP993j1lwCOeTdZuBTkpTllBKlN9O0ljZ6dp9an6KxUOFuvlyITy4Svqw8up3hqv34k7miVz02GD1axB220yFIWwjdGhGpHZnZ4tWPgZg1psBaYi82I0YdVDGYT1330OqZjOVdUJgd9nKFZTy62+tB1W7umoJyqWz7dQL71yd8R5HrRiDchdYqIr0szsBwO7KJwN0uH+xTxWRtL9pPwQX5XQX33Is0fQCYDLhqu63NRyMJbcwEErpJLHorAWl1zAoDu7e8CYi6ntp+ywPphHfQa3QDe4AhaukeoICrNsUnKYNf3MTt3jOriY3dgnhPZDXdEe1L9rZS85mqK4wPBtfooCz3hVVGhz7mbHepn89Db9JSoACC46pdg9EmCrFusSYFQPFc4bNkFlz2IKx17IyJHoM8h6H7SAmLW7uKlztIz1qhqWHO6IljPShD5YyDF2vkhdbX7f4b5uL/3aqxX/LEKzfJuFpAGGUrXqwQSc5A0pWSU5W2aeeXR3fIP7vfwRgdHEKjQIVnys5F5sHGUBaDtt79HkGQ4V1KEOOLyEKfNxFv04zIjh7eBTbMitq+NAtftnvsWQX4FRiuENi1QJqGzrhEXEo4SsQYivSK/SbZUurGg8Smi5LGOUMMkuG4fgyi/PQK0qYKp2HAZG3KdTJxQy6vHDIx6YEGPV40tV7sec2nmJppvQxpYTaZUqIhdLb+P94KPtjKkk+sqxckxL5P/8RDknKmztJhwVUQJCGekOsETVG2RXUzwFjXpuTJJzDIFDo6k+UJlwBfB1BrE5lgmj78dnGIEg/NKdgzuAMUoRXL+omGc7i2Z0zBth9xyHRpn7XDM+twr7L0PcUOjefpJkqGcB4KxSdsjZhqLCsBHRevKrYYDioKxR3h2q5nTwYI8sCa/CgQ2oGjphbvlEcEFpuUHn1OwOrVWioAT71/QJtaHWXWtWV8hcyv5ZFMFG3MqkEFivpdBv+rICjqCwOeASkelCaSm/yb1TpcLloFjRDqxXBKhW1SP1CGbCsLxXDPNAZN9uFtDQTmWUc/aJEmM3H1Flo99nWmrfeGQh+8Jg0EbV3aVfqAR6iN3W3Nbrck21iliQIWQRfjEeMgd/ofRaRPqzF1DeozldMMmQqSW/MdmuLHF0WzGVk1hzAHTmGnUENg7xWVI41tRh5BFNmQpeK9owUFPlas/s7EUe/ei8EOKYEbz4jJMslGaXNVI+cP7OAZRaTWmyQbjsE6rol2DrG1jLBHksvKPrwS6uMA5O/THzGJ/pG5e7LWA6rh6R11kCTjjTgaLeAHLFgSX/stTxgR7u188QVIbRaTkuhSRgb+voQJJhnmePFOcd3H3s1aHK3LGsuK1dTCpgcihfLG4+tLLW2ePucdaFu0ng+VRreaDfrizSIvySFrkD0J7eufqpFIXQIrVPDq4Ntrlq6gSdX8EkQfFhE52o90n1MiO45udcg2N241uwCvEo8xQVrk01lsOCEKHDzvFDXU6G1BLQG8JVqB3RGAMfW40gfCKY+673p/0/B0KOwjQ9Uuj5Ssovm0muCg3Ma6lAkVwsHpQTJaWQhedZYe7hUjNxwQIcbhu6k0vkoU6o9itNbf8dbr9tr3PHW37JoS4+PW3gY8LqnhHBrb/dBx7SRD+XVrogVx625VPHSwWu2am1FKbdJbg5WJDd1j+boNq/SW+fLXGOTJzy40lFo+4sKwL/XaH6v0fyqNZo1iS+GozbYkKFWm33shhSqZar1wgkb/b6XIa4Xz0XejhOaN3TZlyYwzyQ8muC6KRZn8usUMIfskTIVrExhK0cj3ClhXtlru3ecJLe9brftuYVVEWUi+QUOGWc6Vi4k5bMokkKmEOJrahLgPlDufO1qVaz+m3mS+GUgYjbPZmmu2pRWK+qEo/MkuGuXvixoFz0kMErWTZC7dIIlVBnkc3HtNZvEaplQLJ3JNc9yVqWudIPQybretM2mdLyUpoa3mRpRBcaStYEBmgO5/G3OcXln8kUQp7lJkZKHRwawAz4GSjO71Okd3hRFt7cp6+dg5isRpgxn8vnUntzndibQIUE5+TYcMcUbXx/O2TMzDWS5sDRgypikpIE9ZNMAM3Uq0mYebYJyxNWhxFVmUsMFQLSKRx0bCOIEWfnqnyR6VkI8b4F58s3FdAMGiO8ijC+i1C+spJPZMqfZ5KrWEpUGIFZqS9khJ6IypPdOMZ2qPPeHZEI6UicWnQvGjgs+3oFh1+lF/dZz4pYaRHwcLtSw8JIOBMzJUcV6QNpvOJUP5qMn+Tx1c1w5IQr8vWC3EMqJDVyhIyWmpJDQiE52XCX6MX4qSm5Ubg47dtV6cXStU39ecerKY8lbvja+SpZzhPTxfQtZXZ6ySu1CUT4hF1q3Fsbt14cmmrZp7bkYgGaYKVYMmEyIhaMKItAV6yqThUGFhL/o/GjWNOFVQpUxI0hVyKeSmaxnChLcKFsRBKVY8KcxBVSoHSId5a5kwdD8drIgmlu4Tc9runLdoyu3INBQR6wmXRpklF+oRQZPQW+T9r2VGSWdnarGHIR2TqnIbV45ilfvKtMjMWxArXi8QrOGdgrnQePJ3A8BLU3hiNIxuUqmgEo+PYaqPMiWTorkm9Y7oUDOYP+M9TOAYqfL2NoOpqGQvpowKsu9KmkYU3hnt+SR2eFI5fpBuuWYxixT/vayIM3XQJ0P2yxgjnNaMdOvW8TuNkpcLxr6fuBRjBzcrEMzipZvEtj66nMgcHsK2Ux+SSnL/Qu0lbcn4Cq5M3HX6/RdRSYfuTeNCuJxyVDYiBVJ0ksu0tFiDu4dT2bzwuYMLG+32KCySgCT2yInw1UdYcJAJNU5xcGho2JWf0EW+XVbMh5slxE2tkoODzFS1CEC1vqBOdFK5jVD7nrne2T+rfYB/LMhmEdikJWYRifThjK5Fh9Go/YFLcgU7E/zSCOCD1w//ZwP69LP77V7Lxo22MKPfjFtTAdur4k+qIOqku+5sqlKffQbuHbJ5fnJmSmHZmVc39Hdv7ckvPoE14CsiFIQelFWC8OdTMDRpuS62g3oiOfHfi1HGaPgBwbLOw4q/vRWWQruTsWmDomHNYOdVA65X9bitaXNy6WllW2K1lilIvNcFawxSibSh53W92DuVKetj3TjCPWi1VSgv3NPqMQf/y2VDEOEyZ0NucRd5fOY5IProvOJWwfjbbaoaM2eK1fWVtUulRB6qhxpgba9vSHVtJ2W3HIfQ6l22e2OLXDgEBoPlmRigXFMIekbgxW1zTbK0hKf5FDmgdT7XuGXNR2ASF1bxWeTtjcynisDI72QktZM702mVR/ZdxmpdrQclDiE+FzrgkHKtPwE1z2KXcRriZ0olv6WvweJj+/zTu4rN3Y+JhHHxcBu086oPAUwStye4DKL/Ld5lPE3DDALOO1TOaSg6x1SwIVey1vZWk07kMvNxq0yrNYgJ68xhACWMc0yfd6+CS26HHvu4rVuv+/O1qAyJtrnAM6vFh/ZuJ0XyzuE1KlJqykAQ5ZLO1HtppP+l5OsW4Sft+9MslKamr81xmQudazEV0x7vQeX6xOcOYop80GbKY4xoQAuE6icX6vFzzK49oJ2rmNNS2vY6GskWAIffVXro8pq8wREjnU0rnNnBX7IYT1jEFt8PkSh1s+Xyxl0zGe2KzFnOL0wJccf3CYqr+LwXRRMJLy8d8GhpG/bWLh459r9W+BLeYM0AEDmk8YPyW1btGrJ9FV1bdYBfgvO5TrrYxnTMNtrj8YWLmpTbB1DyvXo1ER1K3RVP4kzXSZpBvgHgsxXyU8RbaA9UBLm5GdyQo8+z8hAr2DTo3iY3prcYLXG1uQU/O1zNutVCza7IiHtm61TUocrTG8TY5QDz8sA9LVpozKZbrZpPhObVVKsKnsta6S26/rWxC814cs9bMZmEcY8rq0JBzVnqY46aOtqXYRXpWRY57vyrQ+EclVG1ffauRcSCDkpOnYLV7WYngsxDNT2P9KzoRtaywDZgGnejfGNnALo0e3Kq9/ZKbgfxPv4f88MnfE/q4Ib/zsHnCtxcvhRHOLfm5Nq9U41pGn9ImPHv9wBuCfe09tlV2AfOAky/mPnqKM3QTD7l5XkK2rQaAeSQxv5PJiQuNUNxsnlM9wac0FqGYUktRTDHxBFNFXeifW1PQPeboo7Ltr2HERscSmfr7wdH0kKF68sUid7QTXI+kOCP7qEqhzA6iW8Ywi3Mq4CotxrkXPIaEv86Tb9BQ49jMXDjjJ4CCDYH8N/BY6fE7gCTp1nvEtGS4P2jryRFBRUuoU+Ks+oMtnfKGluvzwJpuog2drA8u4DMmJ0kP/rkrnppDxClPSEt8i2ust8o5Yu0kinZpNCQ6lmqGjLpo4ubvS9A0mXV4LcnI3e9lbDJlyPEGOAdR5gosapScNonmAc3IwOdSjx5d2Lom/CUA2BtftGdKbANeRg4Z+vxplUA8PZL3z1ZNGvXE+88RAy8YUnYLRpn3NZigCFOQUAjxdO0E21ooXlUZZZw1h13L1QcbtyCo4ePNc4lEH1pqtkUO2d8TFHpePqdFVbHwpkavAo9JAv7W1dA+M/KNld9w5bGiSXniLw1Q3vhLnW1cJ5MQ8XurI0X7+yRjmIZopkTuj7qliBH1I64iMw0dqNbsJwPTPnG1CYLCjbEpuH9Fm93BBGURxYNHiVuC9xoDKvszReAAdNsGa//fr3q+SMl/koGdM+zcw6f3eWc78hJUTHayhCHlj3zTcnz0zFUsd8P43wKmkvjirfjLA2ASrW2sUN6Nsxk3Gs/PzEnYh1p1tWdJww33DlMPPOqRyuPSwCuK7knMAFL5H+fZX4OrheZPHFNucTpavtkZqu6pyWeEiZG0jHSY1KbUslPWraxpxg/hnXmA0ZYEYWzb6iaASXYs7SWH6Trcr/nDj0cWCysnPEYdO//B83A9rRjXwAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"project", "sector", "first_observed_earlier_stage_year", "first_observed_stage", "operational_year_if_verified", "net_new_measure_if_known", "reported_capacity_measure", "reported_capacity_value", "reported_capacity_unit", "status_as_of", "earlier_source_pdf", "earlier_pdf_page", "earlier_extract", "status_source_pdf", "status_pdf_page", "status_extract", "interpretation_notes", "prior_ledger_claimed_completion_fy", "first_reported_completed_status_fy", "explicit_construction_completion_fy", "explicit_calendar_completion_date", "completion_year_semantics", "prior_ledger_project_name", "date_verification_source_pdf", "date_verification_pdf_page", "date_verification_extract", "earlier_year", "reported_status_year"}),
+				Typed = Table.TransformColumnTypes(Source, {{"project", type text}, {"sector", type text}, {"first_observed_earlier_stage_year", type text}, {"first_observed_stage", type text}, {"operational_year_if_verified", type text}, {"net_new_measure_if_known", type text}, {"reported_capacity_measure", type text}, {"reported_capacity_value", type text}, {"reported_capacity_unit", type text}, {"status_as_of", type text}, {"earlier_source_pdf", type text}, {"earlier_pdf_page", type text}, {"earlier_extract", type text}, {"status_source_pdf", type text}, {"status_pdf_page", type text}, {"status_extract", type text}, {"interpretation_notes", type text}, {"prior_ledger_claimed_completion_fy", type text}, {"first_reported_completed_status_fy", type text}, {"explicit_construction_completion_fy", type text}, {"explicit_calendar_completion_date", type text}, {"completion_year_semantics", type text}, {"prior_ledger_project_name", type text}, {"date_verification_source_pdf", type text}, {"date_verification_pdf_page", type text}, {"date_verification_extract", type text}, {"earlier_year", type text}, {"reported_status_year", type text}}, "en-US")
+			in
+				Typed

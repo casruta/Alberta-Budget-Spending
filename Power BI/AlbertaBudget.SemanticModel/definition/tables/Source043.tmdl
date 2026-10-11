@@ -1,0 +1,50 @@
+/// Quality of Life Analysis/data/functional_expense_baseline_comparisons.csv
+table 'Source043'
+	isHidden
+	lineageTag: 82abca13-8147-5d27-9b84-812b7748e2a4
+
+	column 'baseline_calendar_year'
+		dataType: string
+		lineageTag: 51b74b88-9197-582e-8b98-6be63605f99c
+		summarizeBy: none
+		sourceColumn: baseline_calendar_year
+
+	column 'endpoint_calendar_year'
+		dataType: string
+		lineageTag: 356f8d8a-ae76-5130-951b-fc1aea60f01c
+		summarizeBy: none
+		sourceColumn: endpoint_calendar_year
+
+	column 'function'
+		dataType: string
+		lineageTag: 0261eb2c-3968-52ba-a1e0-34d17a3af665
+		summarizeBy: none
+		sourceColumn: function
+
+	column 'nominal_growth_pct'
+		dataType: string
+		lineageTag: 15022ed7-ae07-5739-81e1-8bddc5c0990a
+		summarizeBy: none
+		sourceColumn: nominal_growth_pct
+
+	column 'nominal_per_resident_growth_pct'
+		dataType: string
+		lineageTag: c2ae7231-dcc0-584a-9fbc-0a144a188271
+		summarizeBy: none
+		sourceColumn: nominal_per_resident_growth_pct
+
+	column 'cpi_adjusted_per_resident_growth_pct'
+		dataType: string
+		lineageTag: 657b5e28-667f-53fe-9024-749078b5fe8c
+		summarizeBy: none
+		sourceColumn: cpi_adjusted_per_resident_growth_pct
+
+	partition 'Source043' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA42WS28cNxCE/4rgs02w3+Q1yCG3HJKb4cNGWtgCHMmQFCM/Px9n5Ae8IzgXrXZ2WGxWV1Xz7dtX2iVeveZDnY/fzqePTx/4x7PNiN5Hzjkr9ne8lcvU0dX6lDmKh2+kadnMKaNGiJrkq3evf8T95fR4e311uru5Ot18Pt1dn2+uzjf/XJ+ebu/v1lvRqsxVe2nOsS/NVqk9BkWIzNRts2jRjYoqpw8XP9rsj/vr29PHq8fzw+fb6/MjT2o0kG32eP7Ls5AmERwoDaievhBktjTpNrKLidQB+u9PH84PV58e7t8/nP5e4BHNwlVyZDnVT56ZtFESPgxuOodYlDZLHlrw1Ry64gD9z/snSv8O3aMNW12AXVZN6OVlazXdIkJcAwBb5GijMfShzxiZpeMA/9fzX0/PzNzevd8qpa7uNK5EzLtu7ZCWNUtUp5m6LL4EEo0Kasw+Ld38xfLP/3463z2en0m2BNYhulsuIB1NJ9BLLgP2N/AW8DIzF2fl/Wvp40Cb5m14jdSqOYfmYkRG805ns/N9RKjt2nSd3UN6TAt21APcn2gTyQ3tJrrpo1WXPtzGoli3Z0uUZlXDk/6YDj2q/lKU7g0fOSIOldl1Yz5bcrRNo5BcfVPqOgXmwAn4wUcewF+o0pZuzMtqdirFobu8taDDh4If6GrV3zkU58EJqrK8LAcbXAjTehtjVDmWGmm2mQoxwUCicK21UywzvEFhnDSC0xIqaUcHuBBmWhMJQfnpPnD9oswWZfh/YGd2mM9ngv7UVEesPV4s/psssWe5YX/RrOo9bW900juTERPra18Ab6xhaRqE7ks63f8CP4+UKW1KsRaB0FfWbcYhs0YQDbaMP8bOOU4iGciHNKUX39Jg/n9pYgQixTk5GRxz204hW4nhoBDMMGWTKMTxYsH95A8HP9jtUqKWq0ycRggkXl1Yilel0icepu+6LdU2OQMhHeu3klkH+BcaJfaJ2SjTSBJ4yx4R0nQAPtFPFmG26qc1RNGKEl1SpvGX8BcKxUxMo57LTIL0toaKUv6EoTGrB77aBZqejJmOBZJBdNSLC4EixhVDywDdNrvu4UaVwiCDNNKoVkKMFmN5WhDdIGjzxeq/SVQLbgjESI7Qc3cXlnBYnrQVpfPbXryITy84dHI5v1C/ReCPCq0lZ1+zVrCU1uoo2uiezNghwNSUtaIT0nSEVpIia9p/rfp73J8INBo5H6iCiYoztTZgJC+UCicoV7z22YVYt8DqzAHAj3a7FCjJ+zwByZVp2+ztbbubLBV5uPfdxzgTV6r0iWVoQY2DDS4USk5gey48E/lzGfK9VsSySkQxWNjHrlACg6giCdcAzjiAv1BorKEVVFTJINi9KvRdKDUywWIm7xcf0pyplktCIsMO0C8Eyn0A8G70dt1yNJ9vCcKcgmpNeFPb7j2IaNKK3K4OXGHCXiz/u+HeFgdcZ4Kg45IiG/kkHQbDcFNtme+ZfG6HnIbXgrvGuli9+w+wESAQfQoAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"baseline_calendar_year", "endpoint_calendar_year", "function", "nominal_growth_pct", "nominal_per_resident_growth_pct", "cpi_adjusted_per_resident_growth_pct"}),
+				Typed = Table.TransformColumnTypes(Source, {{"baseline_calendar_year", type text}, {"endpoint_calendar_year", type text}, {"function", type text}, {"nominal_growth_pct", type text}, {"nominal_per_resident_growth_pct", type text}, {"cpi_adjusted_per_resident_growth_pct", type text}}, "en-US")
+			in
+				Typed

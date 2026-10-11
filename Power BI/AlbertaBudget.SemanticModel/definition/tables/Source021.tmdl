@@ -1,0 +1,62 @@
+/// Infrastructure Analysis/research/capital/actual_recent/recent_envelopes_all_vintages.csv
+table 'Source021'
+	isHidden
+	lineageTag: 6c7f8ec8-cd82-5268-ac1a-6f50f0787d52
+
+	column 'fiscal_year'
+		dataType: string
+		lineageTag: eaeec72c-c5ba-5cf3-877f-d929c92c08eb
+		summarizeBy: none
+		sourceColumn: fiscal_year
+
+	column 'source_vintage'
+		dataType: string
+		lineageTag: 6893b089-41eb-505a-8102-a8f94da8aaf7
+		summarizeBy: none
+		sourceColumn: source_vintage
+
+	column 'envelope'
+		dataType: string
+		lineageTag: 7f2e7d3d-2c06-506c-86ea-a234dbab21b6
+		summarizeBy: none
+		sourceColumn: envelope
+
+	column 'actual_cad_millions'
+		dataType: string
+		lineageTag: 7913be14-734a-54c7-be2f-307b89441222
+		summarizeBy: none
+		sourceColumn: actual_cad_millions
+
+	column 'budget_cad_millions'
+		dataType: string
+		lineageTag: 34a60a3b-3b26-5c8c-b99a-6401ee291eda
+		summarizeBy: none
+		sourceColumn: budget_cad_millions
+
+	column 'status'
+		dataType: string
+		lineageTag: 109496e6-fe0a-5bc6-a5ad-bc5bc5339a6a
+		summarizeBy: none
+		sourceColumn: status
+
+	column 'pdf_page'
+		dataType: string
+		lineageTag: 47ca80a2-f575-5a2a-b451-bcb6bffbc0ee
+		summarizeBy: none
+		sourceColumn: pdf_page
+
+	column 'source_file'
+		dataType: string
+		lineageTag: 1e004704-b06d-51f3-ad00-ae62f734b434
+		summarizeBy: none
+		sourceColumn: source_file
+
+	partition 'Source021' = m
+		mode: import
+		source =
+			let
+				Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAACA72Z3W7bOBCFX0XItV2I/9Jlm7abFuiiG7dXRVEwMu0lqkgGRWXht19y5O4GtSVR6aRAoAiGzMPDGc7ws758uaI5pWvKrlaP7l7una362vfOZLrZZn/qcKvr7NZ0be8q04VnCCvjVdFwrXrnTOO/6cr3uoaP/xsvpyx71W/3xr84bHdXX1cgSdaULpeUMlzD38HZ1i1QOzN4rQ/Wh9E/aNt40+imGlRvTWP+GcYkSsR/VCAZTJEUOZK/t/re1sdVtmkrGzQ3/eHQOt+B4E3bd7bZh6dEdFhKHH9pkoVAcvihb2xlD0HpXbNzuvOuryB5TsKwnhxCWOQljsUETUpkgeTwo2u9qXz2VxjA+mN2Y3Tt/86utTMxdjkJV1UwHGszYqXCMtXf1bbKNnpngkrMjTf3xu1NUx1/WtT4NRXXknGkHbhMG1QxLMMGD9mfvdn2lfa2bc4SCOIZvSrOcbwmilKCZbLV22Gvv3I2PB3LtRQMUhRp912UKLASc/Pd1nWX7VqXvW/v4thlDAiBbYYw+/Px0Urh5v9Ce2sqZyDcUP/iFAhWSo3JcLQQ+DDofW2bmLcb4x5saJGvTW0fjDvGJ+HEwcscyc+cHMc6bXxqY+P/cQD4WOsmW2fXbWgcf7RBrLkPTgZnMSWkokhFPVFXlCVaKn6+vsk6U+/WOwtHnG1mmwfT+ZOUghAWBGtTzchJqp4zhG/7uj6GBW26trZb7c02rqaEDacE488YxYvSUtInNi22pnx45HSXchynMCxT48H0d7v1vtXrYdyc8smlXiA9wMeI0RTVc8OhtoXD61gpFQRGl8hWp0UJRTaZwCAsH5oGYbhWU/BnCu+e5DeNSQiUXcIoruMFDIbpOQWMBEyVFBTZcjqUYTqeZhdWxPNCMVGNn2R1js5ybJNL4IWBW8YUsufl8Ia5BGlMI6GASYbclZZQHKrpC9QjoOWWBXI3Gmc4TEMXQAgwUeCaGeE5VCczAMGAHUWJ3EnnMQnbaCpHCPjtSzGV4zpO5aeiRE/WWZ4Zig1yc0nDqGcP8WXIYNDbijwXvyHKI4jFfjHQfE3FIH66ewQdq3PiWA1VMZ7ZTNeFzfZg6vZwCgYjMev5NO7xOBMxGYlfn8kAZOP4NzqJ8+WYBhM6MIJEcpyAXhimUugHfswiVBEca8nAheEvDTjghR0pKY7BVMJiSB5TXsHksoQ2KJDyM4moihzJ4TRYyJIDRJUljrcZdlISy9UidGDwZZojeVyOThiWE4kBXo8oirQflzASislLeAKvzoZ3hhiWLkkQrCidc8LptQlBmv4I76DMfQ5AoEpwAHEMJ7O8I5CMJR74JQeDSjGk3bMMdFBCOHfSh5cJQmIlYxLPPFsIL57mFeVxQxQUq6ctZplFfr/+C0YRmBI0JQAA", BinaryEncoding.Base64), Compression.GZip)),
+				Source = Table.FromRows(Rows, {"fiscal_year", "source_vintage", "envelope", "actual_cad_millions", "budget_cad_millions", "status", "pdf_page", "source_file"}),
+				Typed = Table.TransformColumnTypes(Source, {{"fiscal_year", type text}, {"source_vintage", type text}, {"envelope", type text}, {"actual_cad_millions", type text}, {"budget_cad_millions", type text}, {"status", type text}, {"pdf_page", type text}, {"source_file", type text}}, "en-US")
+			in
+				Typed
