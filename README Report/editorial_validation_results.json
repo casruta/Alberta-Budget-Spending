@@ -1,0 +1,30 @@
+{
+  "status": "passed within editorial and retained-evidence scope",
+  "writing_target": "Grade 12 English; human editorial review, not formal reading-grade certification",
+  "section_editors": 12,
+  "final_independent_reviewers": 2,
+  "fresh_contexts": true,
+  "source_snapshot": "2026-10-09",
+  "checked_date_utc": "2026-10-11",
+  "original_readme_sha256": "7e08f2ca02705c982712e741b37258af79953e4cc0c429363e599aea0a6e350b",
+  "rewritten_readme_sha256": "e9a15d870affa2ebef6ba55f865f6081140d6d616ea1ee5abec3b323795410bc",
+  "original_metrics": {
+    "all_text_words_excluding_image_alt": 1927,
+    "visible_reading_words": 1160,
+    "visible_images": 7
+  },
+  "rewritten_metrics": {
+    "all_text_words_excluding_image_alt": 3285,
+    "visible_reading_words": 1976,
+    "visible_images": 7
+  },
+  "missing_original_numeric_tokens": [],
+  "analytical_figures": 42,
+  "image_targets_and_order_preserved": true,
+  "financial_table_rows_preserved": true,
+  "limitations": [
+    "Native GitHub stylesheet fidelity unverified; local Chromium preview used.",
+    "Windows Power BI Desktop rendering untested.",
+    "Historical archive policy assumptions not fully audited."
+  ]
+}
